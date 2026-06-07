@@ -1,0 +1,9 @@
+Key,english,tchinese
+IZYBeltAmmoCheck_01,Ammo Check,彈藥檢查
+IZYBeltAmmoCheck_02,Ammo Check,彈藥檢查
+IZYGlovesEffect,Gloves Effect,手套效果
+RefreshHand,Refresh Hand,刷新手部
+WearingArmorBlackLeather,Wearing Black Leather Armor,穿著黑色皮革護甲
+WearingArmorBrownLeather,Wearing Brown Leather Armor,穿著棕色皮革護甲
+WearingArmorDarkLeather,Wearing Dark Leather Armor,穿著深色皮革護甲
+WearingLower,Wearing Lower Body Armor,穿著下半身護甲

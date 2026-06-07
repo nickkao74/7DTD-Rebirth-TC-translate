@@ -1,0 +1,79 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorTWDLightArmor,items,Item,,,"The Walking Dead Light Armors [e38d23](MS)"
+armorTWDMediumArmor,items,Item,,,"The Walking Dead Medium Armors [e38d23](MS)"
+
+
+armorUnisexDarylTWDHelmet,items,Clothes,,,"Daryl Ears Necklace [e38d23](MS)"
+armorUnisexDarylTWDOutfit,items,Clothes,,,"Daryl Outfit [e38d23](MS)"
+armorUnisexDarylTWDGloves,items,Clothes,,,"Daryl Bracelet [e38d23](MS)"
+armorUnisexDarylTWDBoots,items,Clothes,,,"Daryl Shoes [e38d23](MS)"
+
+armorUnisexDarylTWDHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou did not get all these ears by being slow.\n\n[e38d23]Ears Necklace Bonus:[-] Faster Reload with Crossbows.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use."
+armorUnisexDarylTWDOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese muddy dirty clothes will help you remain unnoticed\n\n[e38d23]Outfit Bonus:[-] Improved Stealth.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use."
+armorUnisexDarylTWDGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWho needs a gun when you have your crossbow?\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus with Crossbows.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use."
+armorUnisexDarylTWDBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are silent like a snake.\n\n[e38d23]Shoes Bonus:[-] Noise reduction.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use."
+
+
+armorUnisexMichonneTWDHelmet,items,Clothes,,,"Michonne Hair & Headband [e38d23](MS)"
+armorUnisexMichonneTWDHelmet_Headband,items,Clothes,,,"Michonne Only Headband [e38d23](MS)"
+armorUnisexMichonneTWDOutfit,items,Clothes,,,"Michonne Outfit [e38d23](MS)"
+armorUnisexMichonneTWDGloves,items,Clothes,,,"Michonne Gloves [e38d23](MS)"
+armorUnisexMichonneTWDBoots,items,Clothes,,,"Michonne Boots [e38d23](MS)"
+
+armorUnisexMichonneTWDHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can chopity chop any zombie in record time.\n\n[e38d23]Pistols Bonus:[-] Faster Attack Speed with Blades.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades."
+armorUnisexMichonneTWDOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour light clothes help you move fast and dodge any attack.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades."
+armorUnisexMichonneTWDGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are lethal with any kind of blade, and can often finish your target in one hit.\n\n[e38d23]Elbow Pad Bonus:[-] Increase DMG and % for Instant Kill with Blades.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades."
+armorUnisexMichonneTWDBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for running!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades."
+
+
+armorUnisexRickTWDHelmet,items,Clothes,,,"Rick Hat [e38d23](MS)"
+armorUnisexRickTWDOutfit,items,Clothes,,,"Rick Outfit [e38d23](MS)"
+armorUnisexRickTWDGloves,items,Clothes,,,"Rick Watch & Ring [e38d23](MS)"
+armorUnisexRickTWDBoots,items,Clothes,,,"Rick Shoes [e38d23](MS)"
+
+armorUnisexRickTWDHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou are the fastest Gunslinger North of Pecos.\n\n[e38d23]Flashlight Bonus:[-] Faster Reload with Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+armorUnisexRickTWDOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nSurviving in the Apocalypse is rough, and what does not kill you makes you stronger.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+armorUnisexRickTWDGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou have no equal in a gunfight.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus with Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+armorUnisexRickTWDBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from all those zombies has also made you fast enough to outrun the zombies. Or at least to outrun the other guys...\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+
+
+armorUnisexNeganTWDHelmet,items,Clothes,,,"Negan Scarf [e38d23](MS)"
+armorUnisexNeganTWDOutfit,items,Clothes,,,"Negan Outfit [e38d23](MS)"
+armorUnisexNeganTWDGloves,items,Clothes,,,"Negan Glove [e38d23](MS)"
+armorUnisexNeganTWDBoots,items,Clothes,,,"Negan Boots [e38d23](MS)"
+
+armorUnisexNeganTWDHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou always get the best prices. Or else.\n\n[e38d23]Necklace Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+armorUnisexNeganTWDOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou have recovered from very bad injuries before, and you can do it again.\n\n[e38d23]Outfit Bonus:[-] Faster injury recovery.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+armorUnisexNeganTWDGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLucille is thirsty.\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus and Faster Attacks with Clubs.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+armorUnisexNeganTWDBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can beat zombies (or people) with a bat all day long, bonking heads never gets old.\n\n[e38d23]Cap Bonus:[-] Less Stamina Use with Clubs.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+
+
+
+statDarylReload,ui_display,Item stat,,,"Crossbow Reload Speed"
+statDarylDMG,ui_display,Item stat,,,"Crossbow DMG"
+statMichonneSpeed,ui_display,Item stat,,,"Blades Attack Speed"
+statMichonneDamage,ui_display,Item stat,,,"Blades DMG"
+statMichonneRipper,ui_display,Item stat,,,"% Instant Kill"
+statRickReload,ui_display,Item stat,,,"Handguns Reload Speed"
+statRickDamage,ui_display,Item stat,,,"Handguns DMG"
+statNeganDamage,ui_display,Item stat,,,"Clubs DMG"
+statNeganSpeed,ui_display,Item stat,,,"Clubs Attack Speed"
+statNeganStaminaLoss,ui_display,Item stat,,,"Clubs Stamina Use"
+
+
+buffUnisexDarylTWDSetBonusName,buffs,Buff,,,"Daryl Full Set Bonus"
+buffUnisexDarylTWDSetBonusDesc,buffs,Buff,,,"You look cool, ride a motorcycle, and the public loves you. What else could you ask for?\n\nWell, maybe these nice armor bonus.\n\nIncreases Armor Rating by [e38d23]{cvar(.armorUnisexDarylTWDFSBDisplay01:0)}[-] and Reduces Fuel Use by [e38d23]{cvar(.armorUnisexDarylTWDFSBDisplay02:0)}%[-]."
+buffUnisexDarylTWDSetBonusTooltip,buffs,Buff,,,"Daryl Full Set Bonus"
+
+buffUnisexMichonneTWDSetBonusName,buffs,Buff,,,"Michonne Full Set Bonus"
+buffUnisexMichonneTWDSetBonusDesc,buffs,Buff,,,"No, sorry, the armor did not came with a built-in-Katana, but enjoy this bonus with any blade anyway\n\nReduces Degradation of Blades by [e38d23]{cvar(.armorUnisexMichonneTWDFSBDisplay01:0)}%[-] and Stamina Use by [e38d23]{cvar(.armorUnisexMichonneTWDFSBDisplay02:0)}%[-]."
+buffUnisexMichonneTWDSetBonusTooltip,buffs,Buff,,,"Michonne Full Set Bonus"
+
+buffUnisexRickTWDSetBonusName,buffs,Buff,,,"Rick Full Set Bonus"
+buffUnisexRickTWDSetBonusDesc,buffs,Buff,,,"Your training as sheriff gave you a special talent to find other peoples stashes. All the good stuff.\n\nLoot Stage increased by [e38d23]{cvar(.armorUnisexRickTWDFSBDisplay01:0)}[-] and find [e38d23]{cvar(.armorUnisexRickTWDFSBDisplay02:0)}%[-] more Dukes in Loot."
+buffUnisexRickTWDSetBonusTooltip,buffs,Buff,,,"Rick Full Set Bonus"
+
+buffUnisexNeganTWDSetBonusName,buffs,Buff,,,"Negan Full Set Bonus"
+buffUnisexNeganTWDSetBonusDesc,buffs,Buff,,,"You are too Badass to get critically injured.\n\nReduce % to get a critical injury by [e38d23]{cvar(.armorUnisexNeganTWDFSBDisplay:0)}%[-]"
+buffUnisexNeganTWDSetBonusTooltip,buffs,Buff,,,"Negan Full Set Bonus"

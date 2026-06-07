@@ -1,0 +1,100 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorVanillaReVampLightArmor,items,Item,,,"Vanilla ReVamp Light Armors [e38d23](MS)"
+armorVanillaReVampMediumArmor,items,Item,,,"Vanilla ReVamp Medium Armors [e38d23](MS)"
+armorVanillaReVampHeavyArmor,items,Item,,,"Vanilla ReVamp Heavy Armors [e38d23](MS)"
+
+armorTheHitmanHelmet,items,Clothes,,,"The Hitman Glasses [e38d23](MS)"
+armorTheHitmanOutfit,items,Clothes,,,"The Hitman Suit [e38d23](MS)"
+armorTheHitmanGloves,items,Clothes,,,"The Hitman Gloves [e38d23](MS)"
+armorTheHitmanBoots,items,Clothes,,,"The Hitman Shoes [e38d23](MS)"
+
+armorTheHitmanHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThey better give you a good price. Or else.\n\n[e38d23]Glasses Bonus:[-] Better prices when Buying or Selling.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers."
+armorTheHitmanOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\n'Silicon carbide discs. Ceramic matrices. Cutting-edge body armour.\nWe just sew it between the fabric and the lining. Zero penetration.'\n\n[e38d23]Suit Bonus:[-] Increases resistance to critical injuries.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers."
+armorTheHitmanGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nA true wheelman wears fancy gloves.\n\n[e38d23]Gloves Bonus:[-] Vehicles use less fuel.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers."
+armorTheHitmanBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese hand made Oxford shoes make you look cool and help you run faster.\n\n[e38d23]Shoes Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers."
+
+armorTheMotorgangHelmet,items,Clothes,,,"The Motorgang Glasses [e38d23](MS)"
+armorTheMotorgangOutfit,items,Clothes,,,"The Motorgang Outfit [e38d23](MS)"
+armorTheMotorgangGloves,items,Clothes,,,"The Motorgang Wristbands [e38d23](MS)"
+armorTheMotorgangBoots,items,Clothes,,,"The Motorgang Boots [e38d23](MS)"
+
+armorTheMotorgangHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nGuns are for weaklings, you like it close and personal, and you are really good at it\n\n[e38d23]Glasses Bonus:[-] Increase melee attack speed.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use."
+armorTheMotorgangOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLook and feel like a badass, nobody can stop you now!\n\n[e38d23]Outfit Bonus:[-] Increased Max Health.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use."
+armorTheMotorgangGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to beat up people, and how to look cool doing it.\n\n[e38d23]Wristbands Bonus:[-] Increases melee weapon damage.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use."
+armorTheMotorgangBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nKicking Ass is Fun!\nYou could do it all day\n\n[e38d23]Boots Bonus:[-] Use less stamina with melee weapons.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use."
+
+armorTheTactiCoolHelmet,items,Clothes,,,"The TactiCool Cap [e38d23](MS)"
+armorTheTactiCoolOutfit,items,Clothes,,,"The TactiCool Outfit [e38d23](MS)"
+armorTheTactiCoolGloves,items,Clothes,,,"The TactiCool Gloves [e38d23](MS)"
+armorTheTactiCoolBoots,items,Clothes,,,"The TactiCool Boots [e38d23](MS)"
+
+armorTheTactiCoolHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nAll those old movies from the 80s teached you that there is no need to Aim when you can shoot fast and reload even faster\n\n[e38d23]Cap Bonus:[-] Much Faster Reload Speed.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster."
+armorTheTactiCoolOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nWith so many pockets you will never run out of space for all the good stuff you find around.\nYou would not want to leave that half-eaten sham sandwitch behind, would you?\n\n[e38d23]Outfit Bonus:[-] Greatly Increased carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster."
+armorTheTactiCoolGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nAll those years of training playing darts and Beer Pong finally payed off.\nYour hability shooting guns and playing Flip Cup is legendary.\n\n[e38d23]Extra Gun Bonus:[-]  Increases DMG with all ranged weapons.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster."
+armorTheTactiCoolBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThese overpriced boots makes you look Cool and Run Faster\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster."
+
+armorTheGeekHelmet_White,items,Clothes,,,"The Geek Helmet [e38d23](MS)"
+armorTheGeekOutfit_White,items,Clothes,,,"The Geek Outfit [e38d23](MS)"
+armorTheGeekGloves_White,items,Clothes,,,"The Geek Gloves [e38d23](MS)"
+armorTheGeekBoots_White,items,Clothes,,,"The Geek Converse [e38d23](MS)"
+
+armorTheGeekHelmet_Yellow,items,Clothes,,,"The Geek Helmet Variant [e38d23](MS)"
+armorTheGeekOutfit_Yellow,items,Clothes,,,"The Geek Outfit Variant [e38d23](MS)"
+armorTheGeekGloves_Yellow,items,Clothes,,,"The Geek Gloves Variant [e38d23](MS)"
+armorTheGeekBoots_Yellow,items,Clothes,,,"The Geek Converse Variant [e38d23](MS)"
+
+armorTheGeekHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou are always the smartest guy in the room: You know all the Magic Combos and secret areas in you favorite MMORPG.\n\n[e38d23]Helmet Bonus:[-] Increased EXP Gain.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation"
+armorTheGeekOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nAll your years playing videogames and MinMaxing your stats teached you how to focus and pay attention to the small details\n\n[e38d23]Outfit Bonus:[-] Adds a chance to gain two crafting skill points when reading magazines.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation"
+armorTheGeekGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou are the best discovering weak points and winning strategies against Bosses in your favorite games\n\n[e38d23]Gloves Bonus:[-] Increase DMG Intelect based weapons.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation"
+armorTheGeekBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYour endless Stamina is legendary.\nYou could play D&D all day long.\n\n[e38d23]Boots Bonus:[-] Increase Max Stamina.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation"
+
+statTactiCoolReloadSpeed,ui_display,Item stat,,,"Gun Reload Speed"
+statMotorgangAttackSpeed,ui_display,Item stat,,,"Melee Atack Speed"
+
+buffTheHitmanSetBonusName,buffs,Buff,,,"The Hitman Full Set Bonus"
+buffTheHitmanSetBonusDesc,buffs,Buff,,,"Your Gun-Fu is very strong!.\n\nDamage with any Pistol or Revolver is increased by [e38d23]{cvar(.armorTheHitmanFSBDisplay:0)}%[-]."
+buffTheHitmanSetBonusTooltip,buffs,Buff,,,"The Hitman Full Set Bonus"
+
+buffTheMotorgangSetBonusName,buffs,Buff,,,"The Motorgang Full Set Bonus"
+buffTheMotorgangSetBonusDesc,buffs,Buff,,,"You know how to look intimidating and you know how to squish any vehicle for best performance.\n\nArmor rating is increased by [e38d23]{cvar(.armorTheMotorgangFSBDisplay:0)}[-].\nVehicles use [e38d23]{cvar(.armorTheMotorgangFSBDisplay02:0)}% less fuel.[-]"
+buffTheMotorgangSetBonusTooltip,buffs,Buff,,,"The Motorgang Full Set Bonus"
+
+buffTheTactiCoolSetBonusName,buffs,Buff,,,"The TactiCool Full Set Bonus"
+buffTheTactiCoolSetBonusDesc,buffs,Buff,,,"You are too Tactical and too Cool to stay down for long.\n\nRecovery items work [e38d23]{cvar(.armorTheTactiCoolFSBDisplay:0)}%[-] faster."
+buffTheTactiCoolSetBonusTooltip,buffs,Buff,,,"The TactiCool Full Set Bonus"
+
+buffTheGeekSetBonusName,buffs,Buff,,,"The Geek Full Set Bonus"
+buffTheGeekSetBonusDesc,buffs,Buff,,,"Understanding the mechanics of tools and weapons allows the Geek to operate them properly so they last longer.\n\nTools and Weapons degrade [e38d23]{cvar(.armorTheGeekFSBDisplay:0)}%[-] slower."
+buffTheGeekSetBonusTooltip,buffs,Buff,,,"The Geek Full Set Bonus"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

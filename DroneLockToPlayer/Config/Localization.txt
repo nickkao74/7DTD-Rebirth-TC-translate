@@ -1,0 +1,6 @@
+Key,English,Spanish,German,Japanese,schinese,Russian
+
+xuiRadialDroneLockToPlayerName,"Drone Lock To Player","Gancho de dron al jugador","Drohnensperre für Spieler","ドローンをプレイヤーにロック","无人机玩家锁定","Привязка дрона к игроку"
+
+xuiRadialDroneAccessName,"Drone Access","Acceso con drones","Drohnenzugriff","ドローンアクセス","无人机控制权限","Доступ к дронам"
+

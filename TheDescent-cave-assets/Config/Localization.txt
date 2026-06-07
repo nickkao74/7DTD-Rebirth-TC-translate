@@ -1,0 +1,42 @@
+Key,english,tchinese
+roadFlare,Road Flare,道路信號彈
+roadFlareDesc,A throwable flare that illuminates dark cave areas.,可投擲的照明彈，用於照亮黑暗的洞穴區域。
+resourceHumanSkull,Human Skull,人類頭骨
+resourceHumanSkullDesc,A human skull found in underground caves.,在地下洞穴中發現的人類頭骨。
+stalactite01,Stalactite,鐘乳石
+stalactite02,Stalactite,鐘乳石
+stalactite03,Stalactite,鐘乳石
+stalactite04,Stalactite,鐘乳石
+stalactite05,Stalactite,鐘乳石
+stalactite06,Stalactite,鐘乳石
+stalactite07,Stalactite,鐘乳石
+stalactite08,Stalactite,鐘乳石
+stalagmite01,Stalagmite,石筍
+stalagmite02,Stalagmite,石筍
+stalagmite03,Stalagmite,石筍
+stalagmite04,Stalagmite,石筍
+stalagmite05,Stalagmite,石筍
+stalagmite06,Stalagmite,石筍
+stalagmite07,Stalagmite,石筍
+stalagmite08,Stalagmite,石筍
+stalagmite09,Stalagmite,石筍
+humanBones01,Human Bones,人骨
+humanBones02,Human Bones,人骨
+humanBones03,Human Bones,人骨
+humanBones04,Human Bones,人骨
+humanBones05,Human Bones,人骨
+humanSkeleton01,Human Skeleton,人類骨架
+humanSkeleton02,Human Skeleton,人類骨架
+humanSkeleton03,Human Skeleton,人類骨架
+humanSkeleton04,Human Skeleton,人類骨架
+humanSkeleton05,Human Skeleton,人類骨架
+humanSkeleton06,Human Skeleton,人類骨架
+humanSkeleton07,Human Skeleton,人類骨架
+humanSkeleton08,Human Skeleton,人類骨架
+humanSkeleton09,Human Skeleton,人類骨架
+humanSkeleton10,Human Skeleton,人類骨架
+humanSkeleton11,Human Skeleton,人類骨架
+humanSkull01,Human Skull,人類頭骨
+humanSkull02,Human Skull,人類頭骨
+humanSkull03,Human Skull,人類頭骨
+humanSkullPile01,Pile of Human Skulls,人類頭骨堆

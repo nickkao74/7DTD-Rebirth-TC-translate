@@ -1,0 +1,80 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorTactiGirlsLightArmor,items,Item,,,"TactiGirls Light Armors [e38d23](MS)"
+armorTactiGirlsMediumArmor,items,Item,,,"TactiGirls Medium Armors [e38d23](MS)"
+
+
+armorFemaleCoyoteHelmet,items,Clothes,,,"Coyote Bandana [e38d23](MS)"
+armorFemaleCoyoteOutfit,items,Clothes,,,"Coyote Outfit [e38d23](MS)"
+armorFemaleCoyoteGloves,items,Clothes,,,"Coyote Gloves [e38d23](MS)"
+armorFemaleCoyoteBoots,items,Clothes,,,"Coyote Boots [e38d23](MS)"
+
+armorFemaleCoyoteHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are the best at removing unnecessary body parts with a Shotgun, and you can do it from very far away.\n\n[e38d23]Bandana Bonus:[-] Increase Range and Handling with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns."
+armorFemaleCoyoteOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou always go for 'close & personal' and know how to take a beating. 'Shotgun to the Face' for the Win!.\n\n[e38d23]Outfit Bonus:[-] Increase Max Health.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns."
+armorFemaleCoyoteGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIt does not matter if they hit you if you hit them harder.\n\n[e38d23]Gloves Bonus:[-] Increase DMG with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns."
+armorFemaleCoyoteBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWho needs a big magazine when you can Reload this fast?.\n\n[e38d23]Boots Bonus:[-] Faster Reload with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns."
+
+
+armorFemaleAnnikaHelmet,items,Clothes,,,"Little Kitty Headset [e38d23](MS)"
+armorFemaleAnnikaOutfit,items,Clothes,,,"Little Kitty Outfit [e38d23](MS)"
+armorFemaleAnnikaGloves,items,Clothes,,,"Little Kitty Bangles [e38d23](MS)"
+armorFemaleAnnikaBoots,items,Clothes,,,"Little Kitty Boots [e38d23](MS)"
+
+armorFemaleAnnikaHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nNobody can say NO to a cute little Kitty.\n\n[e38d23]Headset Bonus:[-] Much better buying & Selling price.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus."
+armorFemaleAnnikaOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nHeavy Armor looks just...bad. Your nice happy clothes will protect you equally good.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus."
+armorFemaleAnnikaGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMelee is for peasants and will get you dirty. PEW-PEW for the win!.\n\n[e38d23]Bangles Bonus:[-] DMG Bonus with Ranged Weapons.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus."
+armorFemaleAnnikaBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can run away from Home Chores or Zombies equally fast. They will never catch you!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus."
+
+
+armorFemaleJennerHelmet_V1,items,Clothes,,,"Boom Girl Beanie - Green Set [e38d23](MS)"
+armorFemaleJennerOutfit_V1,items,Clothes,,,"Boom Girl Outfit - Green Set [e38d23](MS)"
+armorFemaleJennerGloves_V1,items,Clothes,,,"Boom Girl Gloves - Green Set [e38d23](MS)"
+armorFemaleJennerBoots_V1,items,Clothes,,,"Boom Girl Boots - Green Set [e38d23](MS)"
+
+armorFemaleJennerHelmet_V2,items,Clothes,,,"Boom Girl Beanie - Orange Set [e38d23](MS)"
+armorFemaleJennerOutfit_V2,items,Clothes,,,"Boom Girl Outfit - Orange Set [e38d23](MS)"
+armorFemaleJennerGloves_V2,items,Clothes,,,"Boom Girl Gloves - Orange Set [e38d23](MS)"
+armorFemaleJennerBoots_V2,items,Clothes,,,"Boom Girl Boots - Orange Set [e38d23](MS)"
+
+armorFemaleJennerHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThere are no second chances when playing with BOOMs, so you have to be smart and learn fast.\n\n[e38d23]Beannie Bonus:[-] Gain More XP.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration."
+armorFemaleJennerOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nEating your greens and keeping yourself in good shape might help you survive if things go BOOM.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration."
+armorFemaleJennerGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to make living things go BOOM in the best and most destructive way. Exploding chickens never gets old. Mayhem!.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus to Entities with any kind of Explosive.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration."
+armorFemaleJennerBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know everything about landmines and could never detonate one by accident. Only on purpose.\n\n[e38d23]Boots Bonus:[-] Stepping on landmines will never detonate them.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration."
+
+
+armorFemaleAngieHelmet,items,Clothes,,,"Hit Girl Cap [e38d23](MS)"
+armorFemaleAngieOutfit,items,Clothes,,,"Hit Girl Outfit [e38d23](MS)"
+armorFemaleAngieGloves,items,Clothes,,,"Hit Girl Gloves [e38d23](MS)"
+armorFemaleAngieBoots,items,Clothes,,,"Hit Girl Boots [e38d23](MS)"
+
+armorFemaleAngieHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou were an expert in finding the best offers and discounts in the local shop.Those skills can still be useful in the Apocalypse.\n\n[e38d23]Cap Bonus:[-] Loot Stage Bonus.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects."
+armorFemaleAngieOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou like Rifles, and you love Headshots. Headshots with Rifles means double the fun. Win - Win!\n\n[e38d23]Outfit Bonus:[-] Extra XP from Headshot Kills with any Rifle.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects."
+armorFemaleAngieGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou are like a surgeon with a rifle. Amputations, dismemberment, all the good stuff, you can never have enough.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus & Reload Speed with Rifles.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects."
+armorFemaleAngieBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Stamina is legendary among your peers, You could stay in line for hours just to grab the best Black Friday discounts.\n\n[e38d23]Cap Bonus:[-] Max Stamina Bonus.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects."
+
+
+statCoyoteRange,ui_display,Item stat,,,"Shotgun Range & Handling"
+statCoyoteDamage,ui_display,Item stat,,,"Shotgun Entity Damage"
+statCoyoteReload,ui_display,Item stat,,,"Shotgun Reload Speed"
+statJennerDMG,ui_display,Item stat,,,"Explosives Entity DMG"
+statJennerMines,ui_display,Item stat,,,"Land Mine Immunity"
+statAngieLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot"
+statAngieXP,ui_display,Item stat,,,"Extra XP Headshot Rifle Kills"
+statAngieDMG,ui_display,Item stat,,,"Rifle DMG and Reload Speed"
+
+
+buffFemaleCoyoteSetBonusName,buffs,Buff,,,"Coyote Full Set Bonus"
+buffFemaleCoyoteSetBonusDesc,buffs,Buff,,,"Your only need to know one thing: Where they are.\nEvery kill makes you stronger.\n\nKills with Shotguns grants you [e38d23]{cvar(.armorFemaleCoyoteFSBDisplay:0)}%[-] extra XP and regenerates [e38d23]{cvar(.armorFemaleCoyoteFSBDisplay02:0)}[-] HP."
+buffFemaleCoyoteSetBonusTooltip,buffs,Buff,,,"Coyote Full Set Bonus"
+
+buffFemaleAnnikaSetBonusName,buffs,Buff,,,"Little Kitty Full Set Bonus"
+buffFemaleAnnikaSetBonusDesc,buffs,Buff,,,"Not even the Undead would dare harming a little kitty like you, right?\n\nArmor rating is increased by [e38d23]{cvar(.armorFemaleAnnikaFSBDisplay:0)}[-] and Max Health is increased by [e38d23]{cvar(.armorFemaleAnnikaFSBDisplay02:0)}[-]."
+buffFemaleAnnikaSetBonusTooltip,buffs,Buff,,,"Little Kitty Full Set Bonus"
+
+buffFemaleJennerSetBonusName,buffs,Buff,,,"Boom Girl Full Set Bonus"
+buffFemaleJennerSetBonusDesc,buffs,Buff,,,"You never understood the point in sneaking around.\nIf you Nuke the place and leave no witnesses alive, isn't that the perfect stealth?.\n\nReduced Enemy Search Duration by [e38d23]{cvar(.armorFemaleJennerFSBDisplay:0)}%[-]."
+buffFemaleJennerSetBonusTooltip,buffs,Buff,,,"Boom Girl Full Set Bonus"
+
+buffFemaleAngieSetBonusName,buffs,Buff,,,"Hit Girl Full Set Bonus"
+buffFemaleAngieSetBonusDesc,buffs,Buff,,,"The Storms are just a joke when you can survive the cold in the frozen foods section in the supermarket.\n\nStorm Effects Resistance increased by [e38d23]{cvar(.armorFemaleAngieFSBDisplay:0)}%[-]"
+buffFemaleAngieSetBonusTooltip,buffs,Buff,,,"Hit Girl Full Set Bonus"

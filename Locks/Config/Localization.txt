@@ -1,0 +1,3 @@
+Key,english,tchinese
+LockLoadingHack,Lock Loading Hack,鎖具載入用
+LockLoadingHackDesc,Internal mod item. Not intended for player use.,模組內部物品，非供玩家使用。

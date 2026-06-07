@@ -1,0 +1,141 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+Casino_Voltralux,POI,POIName,,x,Voltralux Casino,,,,,,,,,,,,,
+Alamo_Restaurant_Voltralux,POI,POIName,,x,The Alamo,,,,,,,,,,,,,
+Boxing_Gym_Voltralux,POI,POIName,,x,Misters Boxing Gym,,,,,,,,,,,,,
+Central_Station_Voltralux,POI,POIName,,x,Central Station,,,,,,,,,,,,,
+Crash_Site_Voltralux,POI,POIName,,x,Mysterious Crash Site,,,,,,,,,,,,,
+Eternal_Rests_Voltralux,POI,POIName,,x,Eternal Rests,,,,,,,,,,,,,
+Fastfood_Roosters_Voltralux,POI,POIName,,x,Roosters,,,,,,,,,,,,,
+house_atomic_01_Voltralux,POI,POIName,,x,Sole Survivours Residence,,,,,,,,,,,,,
+KickFlipz_SkateStore_Voltralux,POI,POIName,,x,Kickflipz,,,,,,,,,,,,,
+Liberty_Apartments_Voltralux,POI,POIName,,x,Liberty Apartments,,,,,,,,,,,,,
+LittleItaly_Voltralux,POI,POIName,,x,Little Italy,,,,,,,,,,,,,
+Mafia_Museum_Voltralux,POI,POIName,,x,Mafia Museum,,,,,,,,,,,,,
+Neptunes_Casino_Voltralux,POI,POIName,,x,Neptunes Casino,,,,,,,,,,,,,
+Oasis_Apartments_Voltralux,POI,POIName,,x,Oasis Apartments,,,,,,,,,,,,,
+GunShop_Kendo_Voltralux,POI,POIName,,x,Gun Shop Kendo,,,,,,,,,,,,,
+RPD_Voltralux,POI,POIName,,x,Raccoon Police Department,,,,,,,,,,,,,
+Umbrella_Corp_Voltralux,POI,POIName,,x,Umbrella Corporation,,,,,,,,,,,,,
+Video_Rental_Voltralux,POI,POIName,,x,Videodrome Video Rental,,,,,,,,,,,,,
+Quick_Cabs_Voltralux,POI,POIName,,x,Quick Cabs,,,,,,,,,,,,,
+Roadside_Haunt_Voltralux,POI,POIName,,x,Roadside Haunt,,,,,,,,,,,,,
+WindFarm_Voltralux,POI,POIName,,x,Blue Sky Energy,,,,,,,,,,,,,
+Zap_Arcade_Voltralux,POI,POIName,,x,Zap Arcade,,,,,,,,,,,,,
+Paradise_Plaza_Voltralux,POI,POIName,,x,Paradise Plaza,,,,,,,,,,,,,
+Crystal_Creek_Voltralux,POI,POIName,,x,Crystal Creek Campgrounds,,,,,,,,,,,,,
+Community_Centre_Voltralux,POI,POIName,,x,Community Center,,,,,,,,,,,,,
+OldSlotMachineVLD,blocks,Container,,,Old Slot Machine
+OldSlotMachineOpenVLD,blocks,Container,,,Old Slot Machine
+OldSlotMachineEmptyVLD,blocks,Block,,,Old Slot Machine
+OldSlotMachineEmptyOffVLD,blocks,Block,,,Old Slot Machine
+OldSlotMachineEmptyOffLitVLD,blocks,Block,,,Old Slot Machine
+VintageSlotMachineVLD,blocks,Container,,,Vintage Slot Machine
+VintageSlotMachineOpenVLD,blocks,Container,,,Vintage Slot Machine
+VintageSlotMachineEmptyVLD,blocks,Block,,,Vintage Slot Machine
+OldRouletteTableVLD,blocks,Block,,,Old Roulette Table
+OldPokerTableRoundVLD,blocks,Block,,,Old Poker Table
+PokerTableVLD,blocks,Block,,,Poker Table
+OldLuggageTrolleyVLD,blocks,Block,,,Old Luggage Trolley
+OldLuggageTrolleyEmptyVLD,blocks,Block,,,Old Luggage Trolley
+OldCameraVLM,blocks,Block,,,Old Camera
+MopBucketVLD,blocks,Block,,,Mop Bucket
+WoodenLeatherBenchVLD,blocks,Block,,,Wooden Leather Bench
+RecordsCabinetVLD,blocks,Container,,,Records Cabinet
+OldRockingHorseVLD,blocks,Block,,,Old Rocking Horse
+WW2EraFridgeSmokedVLD,blocks,Container,,,Dirty White Refridgerator
+WW2EraFridgeVLD,blocks,Container,,,White Refridgerator
+RetroFridgeRedMossyVLD,blocks,Container,,,Dirty Retro Refridgerator
+RetroFridgeRedVLD,blocks,Container,,,Retro Red Refridgerator
+JukeBoxVLD,blocks,Block,,,Juke Box
+SkateboardFishVLD,blocks,Block,,,Fish Deck
+SkateboardFabVLD,blocks,Block,,,Fabulous Deck
+SkateboardSkeleVLD,blocks,Block,,,Skeleton Deck
+SkateboardHotDogVLD,blocks,Block,,,Hot Dog Deck
+ChalkBoardVLD,blocks,Block,,,
+ArtDecoFrameDD5,blocks,Block,,,Pelican Poster
+ArtDecoFrameDD4,blocks,Block,,,Train Poster
+ArtDecoFrameDD3,blocks,Block,,,Cordial Poster
+MilkshakePosterVLD,blocks,Block,,,Milkshake Poster
+MusicPosterVLD,blocks,Block,,,Music Poster
+PancakePosterVLD,blocks,Block,,,Pancake Poster
+CoffeePosterVLD,blocks,Block,,,Coffee Decal
+SausagePosterVLD,blocks,Block,,,Deli Decal
+PartyPosterVLD,blocks,Block,,,Retro Party Poster
+Route66PosterVLD,blocks,Block,,,Route 66 Decal
+BestTownPosterVLD,blocks,Block,,,Best Menu Poster
+RPDLionDeco,blocks,Block,,,Lion Statue
+RPDHorseDeco,blocks,Block,,,Horse Statue
+RPDBureauDeskVLM,blocks,Block,,,Bureau Desk
+RPDBureauDeskLootedVLM,blocks,Block,,,Bureau Desk (Opened)
+DesktopPCVLD,blocks,Block,,,Old Computer
+DeskPhoneVLD,blocks,Block,,,Desk Phone
+DeskPhoneBrokenVLD,blocks,Block,,,Broken Desk Phone
+MopBucketVLD,blocks,Block,,,Mop Bucket
+NeonLightCatVLD,blocks,Block,,,Neon Lucky Cat
+NeonLightCatAVLD,blocks,Block,,,Neon Lucky Cat
+NeonLightApolloVLD,blocks,Block,,,Neon Apollo
+NeonLightRockVLD,blocks,Block,,,Neon Rock and Roll
+NeonLightPlantVLD,blocks,Block,,,Neon Plant
+NeonLightTapeVLD,blocks,Block,,,Neon Cassette
+OrnamentalGlobeVLD,blocks,Block,,,Ornamental Globe
+TapeRecorderVLD,blocks,Block,,,Tape Recorder
+TowelRackVLD,blocks,Block,,,Towel Rack
+TeddyBearVLD,blocks,Block,,,Teddy Bear
+NeonLightTapeVLD,blocks,Block,,,Neon Cassette
+OldCameraVLD,blocks,Block,,,Video Camera
+EvidencePinboardVLD,blocks,Block,,,Evidence Pinboard
+BrokenPhoneBoothVLD,blocks,Block,,,Broken Payphone
+BrassAngelVLD,blocks,Block,,,Brass Angel Statue
+CBRadioVLD,blocks,Block,,,CB Radio
+FaxMachineVLD,blocks,Block,,,Fax Machine
+LawnFlamingoVLD,blocks,Block,,,Retro Lawn Flamingo
+ArcadeMachine01VLD,blocks,Block,,,Invaders Arcade Machine
+ArcadeMachine01OpenVLD,blocks,Block,,,Invaders Arcade Machine
+ArcadeMachine01LootedVLD,blocks,Block,,,Invaders Arcade Machine
+ArcadeMachine02VLD,blocks,Block,,,Driver Arcade Machine
+ArcadeMachine02OpenVLD,blocks,Block,,,Driver Arcade Machine
+ArcadeMachine02LootedVLD,blocks,Block,,,Driver Arcade Machine
+ArcadeMachine03VLD,blocks,Block,,,NCA Arcade Machine
+ArcadeMachine03OpenVLD,blocks,Block,,,NCA Arcade Machine
+ArcadeMachine03LootedVLD,blocks,Block,,,NCA Arcade Machine
+ArcadeMachine04VLD,blocks,Block,,,Munkee Arcade Machine
+ArcadeMachine04OpenVLD,blocks,Block,,,Munkee Arcade Machine
+ArcadeMachine04LootedVLD,blocks,Block,,,Munkee Arcade Machine
+ArcadeMachine05VLD,blocks,Block,,,Fury Arcade Machine
+ArcadeMachine05OpenVLD,blocks,Block,,,Fury Arcade Machine
+ArcadeMachine05LootedVLD,blocks,Block,,,Fury Arcade Machine
+ArcadeMachine06VLD,blocks,Block,,,Commander Arcade Machine
+ArcadeMachine06OpenVLD,blocks,Block,,,Commander Arcade Machine
+ArcadeMachine06LootedVLD,blocks,Block,,,Commander Arcade Machine
+MapTableVLD,blocks,Block,,,Map Table
+KatanaDisplayVLD,blocks,Block,,,KatanaDisplay
+ChalkBoardVLD,blocks,Block,,,Chalk Board
+PlateTrophyVLD,blocks,Block,,,Plate Trophy
+NewspaperStackVLD,blocks,Block,,,Newspaper Stack
+WW2CouchVLD,blocks,Block,,,Old Leather Couch
+SlotMachinePinkVLD,blocks,Block,,,Fruit Machine
+GoldBrickStackVL,blocks,Container,,,Gold Stack
+LargeGoldBrickStackVL,blocks,Container,,,Large Gold Stack
+TrainingDummyVLD,blocks,Block,,,Training Dummy
+Football01VLD,blocks,Block,,,Pro Soccerball
+Football02VLD,blocks,Block,,,Classic Soccerball
+Football03VLD,blocks,Block,,,Volleyball
+USFootball01VLD,blocks,Block,,,Pigskin Football
+Basketball01VLD,blocks,Block,,,Basketball
+FootballHelmet01VLD,blocks,Block,,,Blue Football Helmet
+FootballHelmet02VLD,blocks,Block,,,Red Football Helmet
+FootballPads01VLD,blocks,Block,,,Blue Football Pads
+FootballPads02VLD,blocks,Block,,,Orange Football Pads
+FootballPads03VLD,blocks,Block,,,Green Football Pads
+Snowboard01VLD,blocks,Block,,,Snowboard
+Snowboard02VLD,blocks,Block,,,Snowboard Backface
+Snowboard03VLD,blocks,Block,,,Snowboard
+WeightRack01VLD,blocks,Block,,,Weight Rack
+RecordRegularVLD,blocks,Block,,,Framed Record
+RecordGoldVLD,blocks,Block,,,Golden Record
+RecordPlatinumVLD,blocks,Block,,,Platinum Record
+YellowCouch01VLD,blocks,Block,,,Yellow Couch
+GarageWallClockVLM,blocks,Block,,,Classic Garage Clock
+RetroWallClockVLD,blocks,Block,,,Retro Wall Clock
+
+

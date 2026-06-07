@@ -1,0 +1,52 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+
+armorTemLightArmor,items,Item,,,"The Casual Guy Armor [e38d23](MS)"
+armorTemLightArmorDesc,items,Item,,,"You prioritize mobility over protection.\nA standard backpack will help you carry a little more.\nIdeal for warm weather, but you will suffer when temperature drops. [e38d23](MS)"
+armorTemMediumArmor,items,Item,,,"The Undecided Armor [e38d23](MS)"
+armorTemMediumArmorDesc,items,Item,,,"You could not decide between light and heavy, so you settled for a middle ground solution.\nA big backpack will help you carry a most of your garbage.\nIt does not excel in terms of insulation but will do well both in warm and cold environments. Sort of. [e38d23](MS)"
+armorTemHeavyArmor,items,Item,,,"The Tank Armor [e38d23](MS)"
+armorTemHeavyArmorDesc,items,Item,,,"You always played the 'tank' in MMORPG and the Zombie Apocalypse is just another game.\nA huge backpack will allow you to go full 'Loot Goblin' mode. Enjoy.\nMany layers of heavy protective fabric will insulate you from the cold but it will cook you in warm climates. [e38d23](MS)"
+
+armorTemLightHelmet,items,Clothes,,,"Casual Guy Cap [e38d23](MS)"
+armorTemLightOutfit,items,Clothes,,,"Casual Guy Outfit [e38d23](MS)"
+armorTemLightGloves,items,Clothes,,,"Casual Guy Gloves [e38d23](MS)"
+armorTemLightBoots,items,Clothes,,,"Casual Guy Shoes [e38d23](MS)"
+
+armorTemLightHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIdeal for warm weather, but you will suffer when temperature drops.\nYou prioritize mobility over protection.\n\n[e38d23]Cap Bonus:[-] Increases loot stage.\n\n[e38d23]Full Set Bonus:[-] More Dukes in Loot."
+armorTemLightOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIdeal for warm weather, but you will suffer when temperature drops.\nA standard backpack will help you carry a little more.\n\n[e38d23]Outfit Bonus:[-] Opens a few more Backpack Slots.\n\n[e38d23]Full Set Bonus:[-] More Dukes in Loot."
+armorTemLightGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIdeal for warm weather, but you will suffer when temperature drops.\nYou prioritize mobility over protection.\n\n[e38d23]Gloves Bonus:[-] More damage against zombies.\n\n[e38d23]Full Set Bonus:[-] More Dukes in Loot."
+armorTemLightBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIdeal for warm weather, but you will suffer when temperature drops.\nYou prioritize mobility over protection.\n\n[e38d23]Shoes Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] More Dukes in Loot."
+
+armorTemMediumHelmet,items,Clothes,,,"The Undecided Helmet [e38d23](MS)"
+armorTemMediumOutfit,items,Clothes,,,"The Undecided Outfit [e38d23](MS)"
+armorTemMediumGloves,items,Clothes,,,"The Undecided Gloves [e38d23](MS)"
+armorTemMediumBoots,items,Clothes,,,"The Undecided Boots [e38d23](MS)"
+
+armorTemMediumHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou could not decide between light and heavy, so you settled for a middle ground solution.\nIt does not excel in terms of insulation but will do well both in warm and cold environments. Sort of.\n\n[e38d23]Cap Bonus:[-] Increases loot stage.\n\n[e38d23]Full Set Bonus:[-] More Health and Stamina from Food."
+armorTemMediumOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou could not decide between light and heavy, so you settled for a middle ground solution.\nA big backpack will help you carry a most of your garbage.\n\n[e38d23]Outfit Bonus:[-] Opens many more Backpack Slots.\n\n[e38d23]Full Set Bonus:[-] More Health and Stamina from Food."
+armorTemMediumGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou could not decide between light and heavy, so you settled for a middle ground solution.\nIt does not excel in terms of insulation but will do well both in warm and cold environments. Sort of.\n\n[e38d23]Gloves Bonus:[-] More damage against zombies.\n\n[e38d23]Full Set Bonus:[-] More Health and Stamina from Food."
+armorTemMediumBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou could not decide between light and heavy, so you settled for a middle ground solution.\nIt does not excel in terms of insulation but will do well both in warm and cold environments. Sort of.\n\n[e38d23]Boots Bonus:[-] Increases Safe Fall Distance.\n\n[e38d23]Full Set Bonus:[-] More Health and Stamina from Food."
+
+armorTemHeavyHelmet,items,Clothes,,,"The Tank Helmet [e38d23](MS)"
+armorTemHeavyOutfit,items,Clothes,,,"The Tank Outfit [e38d23](MS)"
+armorTemHeavyGloves,items,Clothes,,,"The Tank Gloves [e38d23](MS)"
+armorTemHeavyBoots,items,Clothes,,,"The Tank Boots [e38d23](MS)"
+
+armorTemHeavyHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou always played the 'tank' in MMORPG and the Zombie Apocalypse is just another game.\nMany layers of heavy protective fabric will insulate you from the cold but it will cook you in warm climates.\n\n[e38d23]Helmet Bonus:[-] Stun Resistance.\n\n[e38d23]Full Set Bonus:[-] Critical Injury Resistance."
+armorTemHeavyOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou always played the 'tank' in MMORPG and the Zombie Apocalypse is just another game.\nA huge backpack will allow you to go full 'Loot Goblin' mode. Enjoy.\n\n[e38d23]Outfit Bonus:[-] Opens even more Backpack Slots.\n\n[e38d23]Full Set Bonus:[-] Critical Injury Resistance."
+armorTemHeavyGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou always played the 'tank' in MMORPG and the Zombie Apocalypse is just another game.\nMany layers of heavy protective fabric will insulate you from the cold but it will cook you in warm climates.\n\n[e38d23]Gloves Bonus:[-] More damage against zombies.\n\n[e38d23]Full Set Bonus:[-] Critical Injury Resistance."
+armorTemHeavyBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou always played the 'tank' in MMORPG and the Zombie Apocalypse is just another game.\nMany layers of heavy protective fabric will insulate you from the cold but it will cook you in warm climates.\n\n[e38d23]Boots Bonus:[-] Increases Max Health.\n\n[e38d23]Full Set Bonus:[-] Critical Injury Resistance."
+
+
+buffTemLightSetBonusName,buffs,Buff,,,"Casual Guy Full Set Bonus"
+buffTemLightSetBonusDesc,buffs,Buff,,,"You live and die for the dukes. Dukes, dukes everywhere!\n\nFind {cvar(.armorRogueFSBDisplay:0)}% more cash and dukes in loot."
+buffTemLightSetBonusTooltip,buffs,Buff,,,"Casual Guy Full Set Bonus Active"
+
+buffTemMediumSetBonusName,buffs,Buff,,,"The Undecided Full Set Bonus"
+buffTemMediumSetBonusDesc,buffs,Buff,,,"As a prepper, You have trained your digestive system to get the most out of every bite.\n\nGain {cvar(.armorFarmerFSBDisplay:0)}% more health and stamina from food."
+buffTemMediumSetBonusTooltip,buffs,Buff,,,"The Undecided Full Set Bonus Active"
+
+buffTemHeavySetBonusName,buffs,Buff,,,"The Tank Full Set Bonus"
+buffTemHeavySetBonusDesc,buffs,Buff,,,"You can barely move, but you can take a beating like a champ.\n\nReduces the chance of critical injuries by {cvar(.armorPreacherFSBDisplay01:0)}% and infection chances by {cvar(.armorPreacherFSBDisplay02:0)}%."
+buffTemHeavySetBonusTooltip,buffs,Buff,,,"The Tank Full Set Bonus Active"

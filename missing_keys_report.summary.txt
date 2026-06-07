@@ -1,0 +1,19 @@
+﻿Missing localization keys report
+Generated: 2026-06-08 03:03:01
+Target mods: 15
+Localization keys scanned: 15185
+Entities scanned: 7964
+Suspected missing: 2476
+Actionable missing (excl. Core bulk content): 204
+
+By mod:
+  7D1.0_Izayo_Visible_FPV_Gloves_mod: 8
+  Locks: 1
+  Rebirth_Weapon_Resource: 17
+  TheDescent-cave-assets: 96
+  zzz_REBIRTH__Core: 2354
+
+By status:
+  missing_desc_only: 159
+  missing_name: 1883
+  missing_name_and_desc: 434

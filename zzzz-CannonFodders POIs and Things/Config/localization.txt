@@ -1,0 +1,43 @@
+Key,Source,Context,english
+HazmatTrader_Viper,Carl
+apartmentLockboxClosedGrey,Bank Vault Lock Box
+apartmentLockboxClosedWhite,Bank Vault Lock Box
+apartmentSmallLockboxClosedWhite,Bank Vault Lock Box
+apartmentSmallLockboxClosedGrey,Bank Vault Lock Box
+CFBedrockShapes:VariantHelper,CF Bedrock Block
+CFBedrockDesc,Bedrock walls offer Best protection from people like Lord_reveka  
+CF_title,"Cannon_Fodder83 Custom POI's and Assets"
+CF,"Custom Traders and questable POI's by Cannon_Fodder83"
+CF_Remnant_Hospital_Hive,"Saint Mercy's Hollow"
+CF_Army_Camp_666,"Bandit Military Base"
+CF_casino,"Royal Flush Casino's"
+CF_Mountain_Remnant_Observatory,"Elderstone Observatory"
+CF_Abandoned_Fallout_Shelter,"Fallout Shelter"
+CF_Car_Dealership_01,"Cannon's Cars"
+CF_Unknown_Crash_Site,"Unknown Aircraft Impact Zone"
+CF_Nuclear_Missile_Silo,"NORAD Missile Complex"
+CF_The_Tipsy_Raccoon_Strip_Club_01,"The Tipsy Raccoon"
+CF_Center_for_Disease_and_Control_01,"Last Hope CDC"
+CF_Military_Cache,"Bandit Supplies"
+CF_Dead_to_Rights_International_Airport_02,Dead Rights International Airport
+CF_Military_Supply_Stash,"Bandit Stash"
+CF_Misdrop_Airdrop,"Airdrop"
+CF_Private_Airstrip,"Black Ops Airstrip"
+CF_army_helo_outpost,"Fort Chaos"
+CF_Trauma_Center, "Saint Verona Trauma Center"
+CF_trader_hub, "The Trader's"
+CF_farm_18, "The Biodome Complex"
+CF_powerplant, "Sol Invictus Nuclear"
+Viper_rollUpDoor5x4Blue,"Vipers Edible Undies"
+cntRollingToolBoxClosedBlueViperCustom, "Medical Toolbox"
+MedicalLockerTallViper, "Medical Locker"
+MedicalContainer, "Medical Container"
+MedicalCrateBox, "Medical Crate Box"
+HardenedChestBlackSecureT5, "Special Operations Military Locker"
+HardenedChestBlackInsecureT5, "Special Operations Military Locker"
+drugCFSuperAntibiotics, "X-Rad Vial"
+drugCFSuperAntibioticsDesc, "Super Rare Anti-Radiation Vial to cure radiation poisoning"
+drugCFAntibiotics, "Z-Med Vial"
+drugCFAntibioticsDesc, "Rare Anti-Infection Vial to cure infection from being bitten or scratched"
+LittleBirdBlock, "MH-6 Little Bird"
+CF_fire_station_06,"Hell Diver's Fire Station"

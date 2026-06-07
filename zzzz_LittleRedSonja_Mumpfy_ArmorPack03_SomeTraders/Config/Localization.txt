@@ -1,0 +1,91 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorSomeTradersJennyAndGinno,items,Item,,,"Jenny & Ginno Outfits [e38d23](MS)"
+armorSomeTradersRektAndBecky,items,Item,,,"Rekt & Becky Outfits [e38d23](MS)"
+armorSomeTradersBobAndBobby,items,Item,,,"Bob & Bobby Outfits [e38d23](MS)"
+
+
+armorUnisexJenHelmet,items,Clothes,,,"Jenny & Ginno Bandana [e38d23](MS)"
+armorUnisexJenOutfit,items,Clothes,,,"Jenny & Ginno Outfit [e38d23](MS)"
+armorUnisexJenGloves,items,Clothes,,,"Jenny & Ginno Watch [e38d23](MS)"
+armorUnisexJenBoots,items,Clothes,,,"Jenny & Ginno Boots [e38d23](MS)"
+
+armorUnisexJenHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou finished your medical training in a record time, and still have an easy time learning new things.\n\n[e38d23]Bandana Bonus:[-] Increase XP Gain.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+armorUnisexJenOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are always an example for your patients. You do not eat fast food, you sleep enough hours, and you keep all kind of boring habits to stay healthy.\n\n[e38d23]Outfit Bonus:[-] Increased Max Health.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+armorUnisexJenGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour surgical training teached you how to best use a blade to cure your patients...or to finish them.\n\n[e38d23]Watch Bonus:[-] Increase DMG and % for Instant Kill with Bladed Weapons.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+armorUnisexJenBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nRunning around all day from one emergency to the next keeps you in good shape.\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+
+
+armorUnisexRektHelmet,items,Clothes,,,"Rekt & Becky Cap [e38d23](MS)"
+armorUnisexRektOutfit,items,Clothes,,,"Rekt & Becky Outfit [e38d23](MS)"
+armorUnisexRektGloves,items,Clothes,,,"Rekt & Becky Watch [e38d23](MS)"
+armorUnisexRektBoots,items,Clothes,,,"Rekt & Becky Shoes [e38d23](MS)"
+
+armorUnisexRektHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to squish every coin out of every customer.\n\n[e38d23]Cap Bonus:[-] Much better prices Buying and Selling.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies."
+armorUnisexRektOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou need a lot of pockets for your Climox cream and all your other 'good stuff'.\n\n[e38d23]Outfit Bonus:[-] Increased Carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies."
+armorUnisexRektGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know some fellas that break legs for coin...But you also know how to take care of the scum by yourself.\n\n[e38d23]Watch Bonus:[-] Greatly Improved DMG & Reload Speed with Rifles.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies."
+armorUnisexRektBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou might not be fast, but you never get tired of scamming customers.\n\n[e38d23]Shoes Bonus:[-] Increased Max Stamina.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies."
+
+
+armorUnisexBobHelmet,items,Clothes,,,"Bob & Bobby Googles [e38d23](MS)"
+armorUnisexBobOutfit,items,Clothes,,,"Bob & Bobby Outfit [e38d23](MS)"
+armorUnisexBobGloves,items,Clothes,,,"Bob & Bobby Gloves [e38d23](MS)"
+armorUnisexBobBoots,items,Clothes,,,"Bob & Bobby Boots [e38d23](MS)"
+
+armorUnisexBobHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nOne man's trash is another's treasure.\nOr it might be just Trash.\n\n[e38d23]Googles Bonus:[-] Improved Loot Stage & Scavenge Speed.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation."
+armorUnisexBobOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nUsing tools is fun!\nYou never get tired of the sound of metal (or bones) bending and crashing under your mighty tools.\nWho needs guns? Guns are for weaklings!\n\n[e38d23]Outfit Bonus:[-] Reduced Stamina use with Any Tool.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation."
+armorUnisexBobGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou know how to use a tool in the most effective way...to inflict massive damage.\n\n[e38d23]Gloves Bonus:[-] Greatly increased Entity DMG with Any Tool.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation."
+armorUnisexBobBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nSome people are 'horse whisperers'.\nWell, you are an 'Engine Whisperer' and know how to get the best out of any vehicle.\n\n[e38d23]Boots Bonus:[-] Greatly Reduced Fuel Use with Any Vehicle.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation."
+
+
+statJenDamage,ui_display,Item stat,,,"Blade weapons DMG"
+statJenRipper,ui_display,Item stat,,,"% Instant Kill"
+statRektDamage,ui_display,Item stat,,,"Rifles DMG & Reload speed"
+statBobScavengeTime,ui_display,Item stat,,,"Scavenge time"
+statBobStaminaLoss,ui_display,Item stat,,,"Stamina Use with any Tool"
+statBobDamage,ui_display,Item stat,,,"Any Tool Entity DMG"
+
+buffUnisexJenSetBonusName,buffs,Buff,,,"Jenny & Ginno Full Set Bonus"
+buffUnisexJenSetBonusDesc,buffs,Buff,,,"Your extensive knowledge of Epidemiology & Preventive Medicine keeps you safe from any harm.\nAlmost.\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorUnisexJenFSBDisplay01:0)}%[-] and Infection chances by [e38d23]{cvar(.armorUnisexJenFSBDisplay02:0)}%[-]."
+buffUnisexJenSetBonusTooltip,buffs,Buff,,,"Jenny & Ginno Full Set Bonus"
+
+buffUnisexRektSetBonusName,buffs,Buff,,,"Rekt & Becky Full Set Bonus"
+buffUnisexRektSetBonusDesc,buffs,Buff,,,"Your 'charming' personality is a shield that not even zombies can break.\nEverybody Loves You..right? I said RIGHT?!.\n\nDMG resistance against zombies is increased by [e38d23]{cvar(.armorUnisexRektFSBDisplay01:0)}%[-]."
+buffUnisexRektSetBonusTooltip,buffs,Buff,,,"Rekt & Becky Full Set Bonus"
+
+buffUnisexBobSetBonusName,buffs,Buff,,,"Bob & Bobby Full Set Bonus"
+buffUnisexBobSetBonusDesc,buffs,Buff,,,"This is my Tool.\nThere are many like it, but this one is mine.\nMy Tool is my best friend. It is my life.\n\nTool degradation is reduced by [e38d23]{cvar(.armorUnisexBobFSBDisplay:0)}%[-]."
+buffUnisexBobSetBonusTooltip,buffs,Buff,,,"Bob & Bobby Full Set Bonus"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,103 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorDangerGirlsLightArmor,items,Item,,,"DangerGirls Light Armors [e38d23](MS)"
+armorDangerGirlsMediumArmor,items,Item,,,"DangerGirls Medium Armors [e38d23](MS)"
+armorDangerGirlsHeavyArmor,items,Item,,,"DangerGirls Heavy Armors [e38d23](MS)"
+
+armorFemaleClaireHelmet,items,Clothes,,,"Danger Claire Bandana [e38d23](MS)"
+armorFemaleClaireOutfit,items,Clothes,,,"Danger Claire Outfit [e38d23](MS)"
+armorFemaleClaireGloves,items,Clothes,,,"Danger Claire Lucky Bracelet [e38d23](MS)"
+armorFemaleClaireBoots,items,Clothes,,,"Danger Claire Boots [e38d23](MS)"
+
+armorFemaleClaireHelmet_Barbie,items,Clothes,,,"Barbie Party Bandana [e38d23](MS)"
+armorFemaleClaireOutfit_Barbie,items,Clothes,,,"Barbie Party Outfit [e38d23](MS)"
+
+armorFemaleClaireHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIf you know the enemy and know yourself, you need not fear the result of a hundred battles.\n\n[e38d23]Bandana Bonus:[-] Increase DMG with any Automatic Weapon.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use."
+armorFemaleClaireOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThe Twins always get what they want.\nClaire by harsh Intimidation.\nBarbie by sweet Persuasion.\n\n[e38d23]Outfit Bonus:[-] Much better prices Buying and Selling.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use."
+armorFemaleClaireGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThis bracelet brings Fortune and Glory to its owner.\nAnd it is quite Fancy, that too.\n\n[e38d23]Bracelet Bonus:[-] Increase Loot Stage & Many More Dukes in Loot.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use."
+armorFemaleClaireBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nDo not let their appearance fool you.\nThe Twins are the toughest mobsters in Navezgane and know how to take a beating.\nYou are just lucky they are on your side. For now.\n\n[e38d23]Boots Bonus:[-] Increase Max Health.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use."
+
+armorFemaleSnakeInFlowersHelmet_Hood,items,Clothes,,,"Snake Between Flowers Hood [e38d23](MS)"
+armorFemaleSnakeInFlowersHelmet_Necklace,items,Clothes,,,"Snake Between Flowers Necklace [e38d23](MS)"
+armorFemaleSnakeInFlowersOutfit,items,Clothes,,,"Snake Between Flowers Outfit [e38d23](MS)"
+armorFemaleSnakeInFlowersOutfit_NT,items,Clothes,,,"Snake Between Flowers 'No Tattoo' Outfit [e38d23](MS)"
+armorFemaleSnakeInFlowersGloves,items,Clothes,,,"Snake Between Flowers Gloves [e38d23](MS)"
+armorFemaleSnakeInFlowersBoots,items,Clothes,,,"Snake Between Flowers Boots [e38d23](MS)"
+
+armorFemaleSnakeInFlowersHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to be one with the shadows.\nAnd when to reveal yourself to strike your enemy.\n\n[e38d23]Helmet Bonus:[-] Increase Stealth effectiveness & Sneak DMG.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss."
+armorFemaleSnakeInFlowersOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nOnly peasants and fools need heavy clothes and armor.\nYou move like the wind and can vanish in an instant.\nThey will never catch you.\n\n[e38d23]Outfit Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss."
+armorFemaleSnakeInFlowersGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou have a talent for killing your objectives in a fast and quiet way, and you have mastered the Way of The Blade.\nBut a Silenced Gun will do if you do not have a knife at hand.\n\n[e38d23]Gloves Bonus:[-] Increase DMG with Blades & Supressed Weapons.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss."
+armorFemaleSnakeInFlowersBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are very well trained to land safe and unharmed when falling and you always know your exit.\nIf you cannot find the door then jump through the closest window.\n\n[e38d23]Boots Bonus:[-] Increase Safe Fall Distance.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss."
+
+armorFemaleJillHelmet,items,Clothes,,,"Demolition Jill Beret [e38d23](MS)"
+armorFemaleJillOutfit,items,Clothes,,,"Demolition Jill Outfit [e38d23](MS)"
+armorFemaleJillGloves,items,Clothes,,,"Demolition Jill Extra Gun [e38d23](MS)"
+armorFemaleJillBoots,items,Clothes,,,"Demolition Jill Boots [e38d23](MS)"
+
+armorFemaleJillHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nClaire might be the leader of the group, but You are the smartest girl in the room.\nAnd You learn fast.\n\n[e38d23]Beret Bonus:[-] Increase EXP Gain.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage."
+armorFemaleJillOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nWith so many pockets you will never run out of space for all the good stuff you find around.\nYou would not want to leave that half-eaten sham sandwitch behind, would you?\n\n[e38d23]Outfit Bonus:[-] Greatly Increased carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage."
+armorFemaleJillGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nOnly fools do not carry an extra gun with them.\nA nasty surprise for unaware enemies, and an excellent way to inflict more damage.\n\n[e38d23]Extra Gun Bonus:[-] Increase DMG with Pistols, Revolvers & Batons.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage."
+armorFemaleJillBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLong patrol routes in hostile territory teached you the importance of conserving fuel, and the spare money goes right into your pockets.\nEy! Keeping yourself that pretty is not cheap, ok?\n\n[e38d23]Boots Bonus:[-] Greatly Reduces Fuel use.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage."
+
+armorFemaleBladeHelmet,items,Clothes,,,"Dredd Blade Helmet [e38d23](MS)"
+armorFemaleBladeOutfit,items,Clothes,,,"Dredd Blade Outfit [e38d23](MS)"
+armorFemaleBladeGloves,items,Clothes,,,"Dredd Blade Gloves [e38d23](MS)"
+armorFemaleBladeBoots,items,Clothes,,,"Dredd Blade Boots [e38d23](MS)"
+
+armorFemaleBladeHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou know how to stay cool and focused in any combat situation.\nNever lose your Spine.\n\n[e38d23]Helmet Bonus:[-] Stun Resistance.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed."
+armorFemaleBladeOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou do not know what they did to you in the Army, but after all those experimental 'vitamins' and 'vaccines' you can recover from any injury incredibly fast.\nAnd at least you did not turn purple.\n\n[e38d23]Outfit Bonus:[-] Improved Critical Healing.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed."
+armorFemaleBladeGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYears of training teached you when, where and how to strike for maximum damage with any type of gun\nMelee is for peasants, Guns for the win!\n\n[e38d23]Gloves Bonus:[-] Increase DMG with any Gun.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed."
+armorFemaleBladeBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nUnlike the guards in Whiterun, You never took an arrow to the knee, so  you can move and run fast.\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed."
+
+statClaireDamage,ui_display,Item stat,,,"Automatic Weapons DMG"
+statClaireLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot"
+statSnakeInFlowersDMG,ui_display,Item stat,,,"Blades & Suppressed Guns DMG"
+statSnakeInFlowersSneak,ui_display,Item stat,,,"Sneak Effectiveness & DMG"
+statJillDamage,ui_display,Item stat,,,"Baton, Pistol & Revolver DMG"
+
+buffFemaleClaireSetBonusName,buffs,Buff,,,"Danger Claire Full Set Bonus"
+buffFemaleClaireSetBonusDesc,buffs,Buff,,,"Your have diamond for skin and gasoline for blood. Or that is what people say.\n\nArmor rating is increased by [e38d23]{cvar(.armorFemaleClaireFSBDisplay:0)}[-].\nVehicles use [e38d23]{cvar(.armorFemaleClaireFSBDisplay02:0)}%[-] less fuel."
+buffFemaleClaireSetBonusTooltip,buffs,Buff,,,"Danger Claire Full Set Bonus"
+
+buffFemaleSnakeInFlowersSetBonusName,buffs,Buff,,,"Snake between Flowers Full Set Bonus"
+buffFemaleSnakeInFlowersSetBonusDesc,buffs,Buff,,,"Snakes between Flowers often need to survive without water or food for long periods of time when stalking their next objective.\n\nUse [e38d23]{cvar(.armorFemaleSnakeInFlowersFSBDisplay:0)}%[-] less food and water."
+buffFemaleSnakeInFlowersSetBonusTooltip,buffs,Buff,,,"Snake between Flowers Full Set Bonus"
+
+buffFemaleJillSetBonusName,buffs,Buff,,,"Demolition Jill Full Set Bonus"
+buffFemaleJillSetBonusDesc,buffs,Buff,,,"You know how to find the good stuff. No criminal could ever hide their stash from you.\nNobody can. Not even the Dead.\n\nFind [e38d23]{cvar(.armorFemaleJillFSBDisplay:0)}%[-] better quality loot."
+buffFemaleJillSetBonusTooltip,buffs,Buff,,,"Demolition Jill Full Set Bonus"
+
+buffFemaleBladeSetBonusName,buffs,Buff,,,"Dredd Blade Full Set Bonus"
+buffFemaleBladeSetBonusDesc,buffs,Buff,,,"'Fast' is the name of the game. You aim Fast, you shoot Fast, and you Reload even Faster\n\nReload [e38d23]{cvar(.armorFemaleBladeFSBDisplay:0)}%[-] faster with any gun."
+buffFemaleBladeSetBonusTooltip,buffs,Buff,,,"Dredd Blade Full Set Bonus"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

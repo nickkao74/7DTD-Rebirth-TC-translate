@@ -1,0 +1,8 @@
+Key,english,tchinese
+RBgunT1HandgunPistolAP85Desc,Tier 1 Handgun.,一階手槍。
+RBgunT2HandgunPistolP350Desc,Tier 2 Handgun.,二階手槍。
+RBgunT2HandgunPistolMagnumSuperLuger44Desc,Tier 2 Magnum Handgun.,二階馬格南手槍。
+RBgunT3HandgunPistolGlock17G17Desc,Tier 3 Handgun.,三階手槍。
+RBgunT3HandgunPistolMagnumRevolver44Desc,Tier 3 Magnum Revolver.,三階馬格南左輪手槍。
+RBgunT1SniperRifleHuntingRifleDesc,Tier 1 Sniper Rifle.,一階狙擊步槍。
+RBgunT3DualHandgunPistolMagnumRevolver44Desc,Tier 3 Dual Magnum Revolvers.,三階雙持馬格南左輪手槍。

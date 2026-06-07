@@ -1,0 +1,123 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorGoofyLightArmor,items,Item,,,"Goofy Time Light Armors [e38d23](MS)"
+armorGoofyMediumArmor,items,Item,,,"Goofy Time Medium Armors [e38d23](MS)"
+
+
+armorFemaleBadCopHelmet,items,Clothes,,,"Bad Cop Hat [e38d23](MS)"
+armorFemaleBadCopOutfit,items,Clothes,,,"Bad Cop Outfit [e38d23](MS)"
+armorFemaleBadCopGloves,items,Clothes,,,"Bad Cop Gloves [e38d23](MS)"
+armorFemaleBadCopBoots,items,Clothes,,,"Bad Cop Boots [e38d23](MS)"
+
+armorFemaleBadCopHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to find all the good stuff.\n\n[e38d23]Hat Bonus:[-] Increase Loot Stage & Many More Dukes in Loot.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon."
+armorFemaleBadCopOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nAll that body oil makes your body super slick and difficult to grab by excited customers and hungry zombies.\n\n[e38d23]Outfit Bonus:[-] Damage Resistant.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon."
+armorFemaleBadCopGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou might not be a 'real' cop, but you know how to use all their gadgets\n\n[e38d23]Gloves Bonus:[-] DMG Bonus Batons, Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon."
+armorFemaleBadCopBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for Dancing!\nAnd I guess for running too.\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon."
+
+
+armorFemaleSexySheriffHelmet,items,Clothes,,,"Sexy Sheriff Hat [e38d23](MS)"
+armorFemaleSexySheriffOutfit,items,Clothes,,,"Sexy Sheriff Outfit [e38d23](MS)"
+armorFemaleSexySheriffGloves,items,Clothes,,,"Sexy Sheriff Cuffs [e38d23](MS)"
+armorFemaleSexySheriffBoots,items,Clothes,,,"Sexy Sheriff Boots [e38d23](MS)"
+
+armorFemaleSexySheriffHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWhen people realize you are smarter than you look it is already too late for them.\n\n[e38d23]Hat Bonus:[-] XP Gain Bonus.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus."
+armorFemaleSexySheriffOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nLess clothing means faster movement and easy time dodgeing attacks.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus."
+armorFemaleSexySheriffGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou were the best dealing with the most agressive customers.\n\n[e38d23]Cuffs Bonus:[-] Increase DMG and % for Instant Kill against Rads, Charged and Infernal Zombies.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus."
+armorFemaleSexySheriffBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMost people could barely walk on those heels.\nYou on the other hand can Dance, Run and Kick Ass!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus."
+
+
+armorMaleMachoManHelmet,items,Clothes,,,"Macho Man Mask [e38d23](MS)"
+armorMaleMachoManOutfit,items,Clothes,,,"Macho Man Shorts [e38d23](MS)"
+armorMaleMachoManGloves,items,Clothes,,,"Macho Man Gloves [e38d23](MS)"
+armorMaleMachoManBoots,items,Clothes,,,"Macho Man Boots [e38d23](MS)"
+
+armorMaleMachoManHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThere are not enough healthy neurons left in your brain to be stunned.\n\n[e38d23]Mask Bonus:[-] Stun Resistant.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+armorMaleMachoManOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour Super Macho nature makes you very strong.\n\n[e38d23]Shorts Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+armorMaleMachoManGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou perfectly remember the quote, 'Fly like a bee, sting like a butterfly...'\nYou are pretty sure it was that..\n\n[e38d23]Gloves Bonus:[-] DMG Bonus and Faster Attack Speed with Knuckles.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+armorMaleMachoManBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMacho Men never gets tired\n\n[e38d23]Boots Bonus:[-] Less Stamina Use with Knuckles.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+
+
+armorFemaleWitchBlueHelmet,items,Clothes,,,"Sonja Blue Witch Hat [e38d23](MS)"
+armorFemaleWitchBlueOutfit,items,Clothes,,,"Sonja Blue Witch Outfit [e38d23](MS)"
+armorFemaleWitchBlueGloves,items,Clothes,,,"Sonja Blue Witch Gloves [e38d23](MS)"
+armorFemaleWitchBlueBoots,items,Clothes,,,"Sonja Blue Witch Booties [e38d23](MS)"
+
+armorFemaleWitchGreenHelmet,items,Clothes,,,"Sonja Green Witch Hat [e38d23](MS)"
+armorFemaleWitchGreenOutfit,items,Clothes,,,"Sonja Green Witch Outfit [e38d23](MS)"
+armorFemaleWitchGreenGloves,items,Clothes,,,"Sonja Green Witch Gloves [e38d23](MS)"
+armorFemaleWitchGreenBoots,items,Clothes,,,"Sonja Green Witch Booties [e38d23](MS)"
+
+armorFemaleWitchPurpleHelmet,items,Clothes,,,"Sonja Purple Witch Hat [e38d23](MS)"
+armorFemaleWitchPurpleOutfit,items,Clothes,,,"Sonja Purple Witch Outfit [e38d23](MS)"
+armorFemaleWitchPurpleGloves,items,Clothes,,,"Sonja Purple Witch Gloves [e38d23](MS)"
+armorFemaleWitchPurpleBoots,items,Clothes,,,"Sonja Purple Witch Booties [e38d23](MS)"
+
+armorFemaleWitchRedHelmet,items,Clothes,,,"Sonja Red Witch Hat [e38d23](MS)"
+armorFemaleWitchRedOutfit,items,Clothes,,,"Sonja Red Witch Outfit [e38d23](MS)"
+armorFemaleWitchRedGloves,items,Clothes,,,"Sonja Red Witch Gloves [e38d23](MS)"
+armorFemaleWitchRedBoots,items,Clothes,,,"Sonja Red Witch Booties [e38d23](MS)"
+
+armorFemaleWitchHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Witch Hat will light your path with wisdom and also an actual light.\n                    [e38d23]Lumos![-]\n\n[e38d23]Witch Hat Bonus:[-] XP Gain Bonus & Helmet Light.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use."
+armorFemaleWitchOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Witch Outfit do not provide much protection.\nBut the magic armor enchating it does.\n                    [e38d23]Protego![-]\n\n[e38d23]Outfit Bonus:[-] Damage & Fire Resistance.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use."
+armorFemaleWitchGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can channel your magic to empower any weapon with a fire spell.\n                    [e38d23]Incendio![-]\n\n[e38d23]Gloves Bonus:[-] % to set target on Fire with any weapon.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use."
+armorFemaleWitchBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour control of Time has no equal. It is not you moving faster, but everybody else moving slower.\n               [e38d23]Arresto Momentum![-]\n\n[e38d23]Booties Bonus:[-] Faster Run Speed & Increased Safe Fall Distance.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use."
+
+
+armorFemaleBunnyBlackHelmet,items,Clothes,,,"Black Bunny Ears [e38d23](MS)"
+armorFemaleBunnyBlackOutfit,items,Clothes,,,"Black Bunny Outfit [e38d23](MS)"
+armorFemaleBunnyBlackGloves,items,Clothes,,,"Black Bunny Gloves [e38d23](MS)"
+armorFemaleBunnyBlackBoots,items,Clothes,,,"Black Bunny Heels [e38d23](MS)"
+
+armorFemaleBunnyGoldHelmet,items,Clothes,,,"Gold Bunny Ears [e38d23](MS)"
+armorFemaleBunnyGoldOutfit,items,Clothes,,,"Gold Bunny Outfit [e38d23](MS)"
+armorFemaleBunnyGoldGloves,items,Clothes,,,"Gold Bunny Gloves [e38d23](MS)"
+armorFemaleBunnyGoldBoots,items,Clothes,,,"Gold Bunny Heels [e38d23](MS)"
+
+armorFemaleBunnyWhiteHelmet,items,Clothes,,,"White Bunny Ears [e38d23](MS)"
+armorFemaleBunnyWhiteOutfit,items,Clothes,,,"White Bunny Outfit [e38d23](MS)"
+armorFemaleBunnyWhiteGloves,items,Clothes,,,"White Bunny Gloves [e38d23](MS)"
+armorFemaleBunnyWhiteBoots,items,Clothes,,,"White Bunny Heels [e38d23](MS)"
+
+armorFemaleBunnyRedHelmet,items,Clothes,,,"Red Bunny Ears [e38d23](MS)"
+armorFemaleBunnyRedOutfit,items,Clothes,,,"Red Bunny Outfit [e38d23](MS)"
+armorFemaleBunnyRedGloves,items,Clothes,,,"Red Bunny Gloves [e38d23](MS)"
+armorFemaleBunnyRedBoots,items,Clothes,,,"Red Bunny Heels [e38d23](MS)"
+
+armorFemaleBunnyHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to be very persuasive an get the best prices out of anybody. Yes, even Rekt.\n\n[e38d23]Bunny Ears Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+armorFemaleBunnyOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nPeople do not think you are strong enough to swim that big SledgeHammer. Until you stump it on their face.\n\n[e38d23]Outfit Bonus:[-] Less Stamina use and Faster Attacks with SledgeHammers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+armorFemaleBunnyGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nNothink like a big SledgeHammer to break a party.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus with SledgeHammers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+armorFemaleBunnyBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can move fast and dodge faster on heels.\n\n[e38d23]Heels Bonus:[-] Armor Bonus & Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+
+
+statBadCopLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot"
+statBadCopDamage,ui_display,Item stat,,,"Baton, Pistol & Revolver DMG"
+statSexySheriffRipper,ui_display,Item stat,,,"% Instant Kill"
+statMachoManSpeed,ui_display,Item stat,,,"Knuckles Speed"
+statMachoManDamage,ui_display,Item stat,,,"Knuckles DMG"
+statWitchDamageResist,ui_display,Item stat,,,"DMG Resist"
+statWitchFirePower,ui_display,Item stat,,,"Witch Fire %"
+statBunnyStaminaLoss,ui_display,Item stat,,,"Sledge Stamina Use"
+statBunnySpeed,ui_display,Item stat,,,"Sledge Speed"
+statBunnyDamage,ui_display,Item stat,,,"Sledge DMG"
+statBunnyDamageResist,ui_display,Item stat,,,"Armor Bonus"
+
+
+buffFemaleBadCopSetBonusName,buffs,Buff,,,"Bad Cop Full Set Bonus"
+buffFemaleBadCopSetBonusDesc,buffs,Buff,,,"You are very fast with your hands.\nWhen you want to...\n\n[e38d23]{cvar(.armorFemaleBadCopFSBDisplay01:0)}%[-] Faster reload speed with any weapon."
+buffFemaleBadCopSetBonusTooltip,buffs,Buff,,,"Bad Cop Full Set Bonus"
+
+buffFemaleSexySheriffSetBonusName,buffs,Buff,,,"Sexy Sheriff Full Set Bonus"
+buffFemaleSexySheriffSetBonusDesc,buffs,Buff,,,"All that dancing and those diets finally payed off. You look good, and you feel even better.\n\nIncreased Max Health by [e38d23]{cvar(.armorFemaleSexySheriffFSBDisplay01:0)}[-]."
+buffFemaleSexySheriffSetBonusTooltip,buffs,Buff,,,"Sexy Sheriff Full Set Bonus"
+
+buffMaleMachoManSetBonusName,buffs,Buff,,,"Macho Man Full Set Bonus"
+buffMaleMachoManSetBonusDesc,buffs,Buff,,,"You are too 'Macho' to get injured.\n\nReduce % to get a critical injury by [e38d23]{cvar(.armorMaleMachoManFSBDisplay:0)}%[-]."
+buffMaleMachoManSetBonusTooltip,buffs,Buff,,,"Macho Man Set Bonus"
+
+buffFemaleWitchSetBonusName,buffs,Buff,,,"Sonja Witch Full Set Bonus"
+buffFemaleWitchSetBonusDesc,buffs,Buff,,,"You still do not dominate a fly spell, but can levitate to some degree.\nWingardium Leviosa!\n\nImproves Jump strength by [e38d23]{cvar(.armorFemaleWitchFSBDisplay01:0)}meter[-] and reduces Stamina use when Jumping, Running and Swimming by [e38d23]{cvar(.armorFemaleWitchFSBDisplay02:0)}%[-]."
+buffFemaleWitchSetBonusTooltip,buffs,Buff,,,"Sonja Witch Full Set Bonus"
+
+buffFemaleBunnySetBonusName,buffs,Buff,,,"Bunny Full Set Bonus"
+buffFemaleBunnySetBonusDesc,buffs,Buff,,,"You have a talent to clean customers pockets and stashes out of any valuable.\n\nLoot Stage increased by [e38d23]{cvar(.armorFemaleBunnyFSBDisplay01:0)}%[-] and find [e38d23]{cvar(.armorFemaleBunnyFSBDisplay02:0)}%[-] more Dukes in Loot."
+buffFemaleBunnySetBonusTooltip,buffs,Buff,,,"Bunny Full Set Bonus"

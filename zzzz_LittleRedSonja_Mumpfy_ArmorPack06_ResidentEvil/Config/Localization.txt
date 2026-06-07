@@ -1,0 +1,87 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+armorResidentEvilLightArmor,items,Item,,,"Resident Evil Light Armors [e38d23](MS)"
+armorResidentEvilMediumArmor,items,Item,,,"Resident Evil Medium Armors [e38d23](MS)"
+armorResidentEvilMediumArmor,items,Item,,,"Resident Evil Heavy Armors [e38d23](MS)"
+
+
+armorFemaleAdaWongHelmet,items,Clothes,,,"Ada Wong Choker [e38d23](MS)"
+armorFemaleAdaWongOutfit,items,Clothes,,,"Ada Wong Dress [e38d23](MS)"
+armorFemaleAdaWongGloves,items,Clothes,,,"Ada Wong Bangles [e38d23](MS)"
+armorFemaleAdaWongBoots,items,Clothes,,,"Ada Wong Shoes [e38d23](MS)"
+
+armorFemaleAdaWongHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can be very charming, or very intimidating, depending on the situation.\n\n[e38d23]Choker Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+armorFemaleAdaWongOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nNobody will notice you in this flashy red dress\n\n[e38d23]Dress Bonus:[-] Improved Stealth.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+armorFemaleAdaWongGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to kill fast and quiet.\n\n[e38d23]Bangles Bonus:[-] Increase DMG with any Silenced Gun.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+armorFemaleAdaWongBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYears of practice taught you how to move fast on heels.\n\n[e38d23]Shoes Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+
+
+armorFemaleJillValentineHelmet,items,Clothes,,,"Jill Valentine Pistols [e38d23](MS)"
+armorFemaleJillValentineOutfit,items,Clothes,,,"Jill Valentine Outfit [e38d23](MS)"
+armorFemaleJillValentineGloves,items,Clothes,,,"Jill Valentine Elbow Pad [e38d23](MS)"
+armorFemaleJillValentineBoots,items,Clothes,,,"Jill Valentine Boots [e38d23](MS)"
+
+armorFemaleJillValentineHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can never have too many fully loaded guns on you.\n\n[e38d23]Pistols Bonus:[-] Much faster reload speed.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain."
+armorFemaleJillValentineOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour light clothes help you move fast and dodge any attack.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain."
+armorFemaleJillValentineGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThis aerodynamic elbow pad provides a firm grip and much better aiming\n\n[e38d23]Elbow Pad Bonus:[-] DMG Bonus with Ranged Weapons.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain."
+armorFemaleJillValentineBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for running!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain."
+
+
+armorUnisexLeonKennedyHelmet,items,Clothes,,,"Leon Kennedy Flashlight [e38d23](MS)"
+armorUnisexLeonKennedyOutfit,items,Clothes,,,"Leon Kennedy Outfit [e38d23](MS)"
+armorUnisexLeonKennedyGloves,items,Clothes,,,"Leon Kennedy Gloves [e38d23](MS)"
+armorUnisexLeonKennedyBoots,items,Clothes,,,"Leon Kennedy Boots [e38d23](MS)"
+
+armorUnisexLeonKennedyHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThis Flashlight will light the darkest rooms and help you find the best loot.\n\n[e38d23]Flashlight Bonus:[-] Built-In light & Better Loot.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use."
+armorUnisexLeonKennedyOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou cannot lay low for too long, they need you for the next version of the game.\n\n[e38d23]Outfit Bonus:[-] Faster Natural Crit Healing.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use."
+armorUnisexLeonKennedyGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nChopping, Shooting, Blowing... It does not matter, you are the best zombie killing machine.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus to Entities with any weapon.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use."
+armorUnisexLeonKennedyBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nIntensive training in STARS has made you tough.\n\n[e38d23]Boots Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use."
+
+
+armorFemaleClaireRedfieldHelmet,items,Clothes,,,"Claire Redfield Necklace [e38d23](MS)"
+armorFemaleClaireRedfieldOutfit,items,Clothes,,,"Claire Redfield Outfit [e38d23](MS)"
+armorFemaleClaireRedfieldGloves,items,Clothes,,,"Claire Redfield Bracelet [e38d23](MS)"
+armorFemaleClaireRedfieldBoots,items,Clothes,,,"Claire Redfield Boots [e38d23](MS)"
+
+armorFemaleClaireRedfieldHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know all kind of game exploits to get good stuff cheap and sell all your useless garbage for a fortune.\n\n[e38d23]Necklace Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus."
+armorFemaleClaireRedfieldOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from zombies in all the previous games has made you into a long distance runner\n\n[e38d23]Outfit Bonus:[-] Max Stamina Bonus.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus."
+armorFemaleClaireRedfieldGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou still have the highest score in 'ZombieChop', the most popular Arcade in town.\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus to Entities.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus."
+armorFemaleClaireRedfieldBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from all those zombies has also made you fast enough to outrun the zombies. Or at least to outrun the other guys...\n\n[e38d23]Cap Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus."
+
+
+armorUnisexChrisRedfieldHelmet,items,Clothes,,,"Chris Redfield Headset [e38d23](MS)"
+armorUnisexChrisRedfieldOutfit,items,Clothes,,,"Chris Redfield Outfit [e38d23](MS)"
+armorUnisexChrisRedfieldGloves,items,Clothes,,,"Chris Redfield Gloves [e38d23](MS)"
+armorUnisexChrisRedfieldBoots,items,Clothes,,,"Chris Redfield Boots [e38d23](MS)"
+
+armorUnisexChrisRedfieldHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou have to learn fast to survive in the zombie apocalypse.\n\n[e38d23]Headset Bonus:[-] Increase XP Gain.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries."
+armorUnisexChrisRedfieldOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nIntensive physical training (and a few secret experimental drugs) turned you into a Man of Steel. You are only missing the cape.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries."
+armorUnisexChrisRedfieldGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou do not care about the weak zombies, you just focus on the tough guys\n\n[e38d23]Gloves Bonus:[-] Big DMG Bonus against Rads, Charged & Infernal.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries."
+armorUnisexChrisRedfieldBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nThe experimental drugs not only made you tougher, but also heal really fast.\n\n[e38d23]Boots Bonus:[-] Critical Healing Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries."
+
+
+statAdaWongDMG,ui_display,Item stat,,,"Silenced Guns DMG"
+statFemaleJillValentineSpeed,ui_display,Item stat,,,"Reload Speed"
+statFemaleJillValentineDMG,ui_display,Item stat,,,"Ranged Weapons DMG"
+statUnisexLeonKennedyLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot"
+
+
+buffFemaleAdaWongSetBonusName,buffs,Buff,,,"Ada Wong Full Set Bonus"
+buffFemaleAdaWongSetBonusDesc,buffs,Buff,,,"You know some very fancy moves to prevent injuries.\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorFemaleAdaWongFSBDisplay01:0)}%[-] and Infection chances by [e38d23]{cvar(.armorFemaleAdaWongFSBDisplay02:0)}%[-]."
+buffFemaleAdaWongSetBonusTooltip,buffs,Buff,,,"Ada Wong Full Set Bonus"
+
+buffFemaleJillValentineSetBonusName,buffs,Buff,,,"Jill Valentine Full Set Bonus"
+buffFemaleJillValentineSetBonusDesc,buffs,Buff,,,"If you don't learn fast the zombies will have you for breakfast\n\nIncrease XP Gain by [e38d23]{cvar(.armorFemaleJillValentineFSBDisplay:0)}%[-]."
+buffFemaleJillValentineSetBonusTooltip,buffs,Buff,,,"Jill Valentine Full Set Bonus"
+
+buffUnisexLeonKennedySetBonusName,buffs,Buff,,,"Leon Kennedy Full Set Bonus"
+buffUnisexLeonKennedySetBonusDesc,buffs,Buff,,,"You are good tinkering with stuff.\n\nYou have made some good improvements in both your armor and your vehicle.\n\nImprove Armor by [e38d23]{cvar(.armorUnisexLeonKennedyFSBDisplay01:0)}[-]. \n\nReduce Fuel Use in Vehicles by [e38d23]{cvar(.armorUnisexLeonKennedyFSBDisplay02:0)}%[-]."
+buffUnisexLeonKennedySetBonusTooltip,buffs,Buff,,,"Leon Kennedy Full Set Bonus"
+
+buffFemaleClaireRedfieldSetBonusName,buffs,Buff,,,"Claire Redfield Full Set Bonus"
+buffFemaleClaireRedfieldSetBonusDesc,buffs,Buff,,,"Before the apocalypse you could find the best deals, now you scavenge for them instead.\n\nLoot Stage & Dukes in loot increased by [e38d23]{cvar(.armorFemaleClaireRedfieldFSBDisplay:0)}%[-]"
+buffFemaleClaireRedfieldSetBonusTooltip,buffs,Buff,,,"Claire Redfield Full Set Bonus"
+
+buffUnisexChrisRedfieldSetBonusName,buffs,Buff,,,"Chris Redfield Full Set Bonus"
+buffUnisexChrisRedfieldSetBonusDesc,buffs,Buff,,,"You are strong like a rock. And equaly smart (but nobody tells you because, well, how strong you are)\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorUnisexChrisRedfieldFSBDisplay:0)}%[-]."
+buffUnisexChrisRedfieldSetBonusTooltip,buffs,Buff,,,"Chris Redfield Full Set Bonus"
