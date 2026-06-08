@@ -1,13 +1,13 @@
-Key,English
-guppyFlamethrower,Flamethrower
-guppyFlamethrowerDesc,Burn your enemies.  Burn them all.  Alive or dead and no one cares.
-ammoNapalm,Napalm is fuel for the flamethrower
-ammoNapalmDesc,Whip up a batch of this geneva convention banned stuff to fuel your Flame Thrower,,,,,
-guppyFireExtinguisherItem,Fire Extinguisher
-guppyFireExtinguisherItemDesc,Put out a fire.
-guppysFireExtinguisherBlock,Fire Extinguisher
-guppysFireExtinguisherBlockDesc,Pick up and keep this as you may need it later
-guppyOilSlickGoesInDitch,Ditch Oil Slick
-guppyOilSlickGoesInDitchDesc,Place in a terrain ditch - This will float up a bit to show in a ditch, so do not use if placing on a flat surface for best visual effect.  Light this on fire.
-gupOilSlickGoesOnBlock,Block Oil Slick
-gupOilSlickGoesOnBlockDesc,Place on a block - This is level with the ground so do not use in a terrain ditch for best visual effect.  Light this on fire.
+Key,English,tchinese
+guppyFlamethrower,Flamethrower,火焰噴射器
+guppyFlamethrowerDesc,Burn your enemies.  Burn them all.  Alive or dead and no one cares.,燒盡你的敵人。全部燒光。是死是活沒人在乎。
+ammoNapalm,Napalm is fuel for the flamethrower,凝固汽油是火焰噴射器的燃料
+ammoNapalmDesc,Whip up a batch of this geneva convention banned stuff to fuel your Flame Thrower,調製一批這種日內瓦公約禁用的東西，作為火焰噴射器燃料
+guppyFireExtinguisherItem,Fire Extinguisher,滅火器
+guppyFireExtinguisherItemDesc,Put out a fire.,撲滅火焰。
+guppysFireExtinguisherBlock,Fire Extinguisher,滅火器
+guppysFireExtinguisherBlockDesc,Pick up and keep this as you may need it later,撿起來留著，之後可能會用到
+guppyOilSlickGoesInDitch,Ditch Oil Slick,溝渠油漬
+guppyOilSlickGoesInDitchDesc,Place in a terrain ditch - This will float up a bit to show in a ditch, so do not use if placing on a flat surface for best visual effect.  Light this on fire.,放置在地形溝渠中——會略微上浮以便在溝渠中顯示，若放在平地上視覺效果較差。點燃它。
+gupOilSlickGoesOnBlock,Block Oil Slick,方塊油漬
+gupOilSlickGoesOnBlockDesc,Place on a block - This is level with the ground so do not use in a terrain ditch for best visual effect.  Light this on fire.,放置在方塊上——與地面齊平，不要放在地形溝渠中以獲得最佳視覺效果。點燃它。

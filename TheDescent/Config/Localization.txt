@@ -1,28 +1,28 @@
-Key,english,french,russian
-xuiCaveNetworksDesc,The amount of cave networks generated. Set None to disable cave generation,La quantité de réseaux de grottes à générer. Mettre aucun pour désactiver la génération de grottes,"Количество генерируемых сетей пещер. Установите None, чтобы отключить создание пещер"
-xuiCaveNetworks,Caves,Grottes,Пещеры
-xuiCaveEntrancesDesc,The amount of wilderness cave entrances to spawn,La quantité d'entrées de grottes sauvages à faire apparaitre,Количество появляющихся входов в пещеры в дикой местности
-xuiCaveEntrances,Cave entrances,Entrées de grottes,Входы в пещеры
-xuiCaveWaterDesc,The amount of water generated in cave tunnels,La quantité d'eau qui sera générée dans les tunnels de grotte,"Количество воды, генерирующейся в пещерных туннелях"
-xuiCaveWater,Cave water,Humidité des grottes,Пещерная вода
-xuiCavePreviewDesc,Switch between vanilla preview and cave preview,Affiche l'aperçu du jeu de base ou l'aperçu des grottes,Переключение между ванильным предпросмотром и предпросмотром пещер
-xuiCavePreview,Preview type,Type d'aperçu,Тип предпросмотра
-xuiTerrainOffsetDesc,Increase vanilla terrain height,Augmente la profondeur de base du terrain,Увеличить высоту ванильного ландшафта
-xuiTerrainOffset,Terrain offset,Décalage du terrain,Смещение ландшафта
-crystalCollection,Rare Gems collection,Collection de pierre précieuses,Коллекция редких драгоценных камней
-crystal01,Ruby,Rubis,Рубин
-crystal02,Amethyst,Améthyste,Аметист
-crystal03,Amber,Ambre,Янтарь
-crystal04,Emerald,Emeraude,Изумруд
-crystal05,Sapphire,Saphir,Сапфир
-rawCrystal01,Raw Rubis,Rubis brut,Необработанный рубин
-rawCrystal02,Raw Amethyst,Améthyste brut,Необработанный аметист
-rawCrystal03,Raw Amber,Ambre brut,Необработанный янтарь
-rawCrystal04,Raw Emerald,Emeraude brut,Необработанный изумруд
-rawCrystal05,Raw Spahir,Saphir brut,Необработанный сапфир
-nugget01,Ruby nugget,Minerais de Rubis,Рубиновый самородок
-nugget02,Amethyst nugget,Minerais d'Améthyste,Аметистовый самородок
-nugget03,Amber nugget,Minerais d'Ambre,Янтарный самородок
-nugget04,Emerald nugget,Minerais d'Emeraude,Изумрудный самородок
-nugget05,Sapphire nugget,Minerais de Saphir,Сапфировый самородок
-the_caver_guide,The Caver's Guide,Le guide du spéléologue,Путеводитель спелеолога
+Key,english,french,russian,tchinese
+xuiCaveNetworksDesc,The amount of cave networks generated. Set None to disable cave generation,La quantité de réseaux de grottes à générer. Mettre aucun pour désactiver la génération de grottes,"Количество генерируемых сетей пещер. Установите None, чтобы отключить создание пещер",生成的洞穴網路數量。設為 None 可停用洞穴生成
+xuiCaveNetworks,Caves,Grottes,Пещеры,洞穴
+xuiCaveEntrancesDesc,The amount of wilderness cave entrances to spawn,La quantité d'entrées de grottes sauvages à faire apparaitre,Количество появляющихся входов в пещеры в дикой местности,荒野洞穴入口的生成數量
+xuiCaveEntrances,Cave entrances,Entrées de grottes,Входы в пещеры,洞穴入口
+xuiCaveWaterDesc,The amount of water generated in cave tunnels,La quantité d'eau qui sera générée dans les tunnels de grotte,"Количество воды, генерирующейся в пещерных туннелях",洞穴隧道中生成的水量
+xuiCaveWater,Cave water,Humidité des grottes,Пещерная вода,洞穴水分
+xuiCavePreviewDesc,Switch between vanilla preview and cave preview,Affiche l'aperçu du jeu de base ou l'aperçu des grottes,Переключение между ванильным предпросмотром и предпросмотром пещер,在原版預覽與洞穴預覽之間切換
+xuiCavePreview,Preview type,Type d'aperçu,Тип предпросмотра,預覽類型
+xuiTerrainOffsetDesc,Increase vanilla terrain height,Augmente la profondeur de base du terrain,Увеличить высоту ванильного ландшафта,提高原版地形高度
+xuiTerrainOffset,Terrain offset,Décalage du terrain,Смещение ландшафта,地形偏移
+crystalCollection,Rare Gems collection,Collection de pierre précieuses,Коллекция редких драгоценных камней,稀有寶石收藏
+crystal01,Ruby,Rubis,Рубин,紅寶石
+crystal02,Amethyst,Améthyste,Аметист,紫水晶
+crystal03,Amber,Ambre,Янтарь,琥珀
+crystal04,Emerald,Emeraude,Изумруд,綠寶石
+crystal05,Sapphire,Saphir,Сапфир,藍寶石
+rawCrystal01,Raw Rubis,Rubis brut,Необработанный рубин,原礦紅寶石
+rawCrystal02,Raw Amethyst,Améthyste brut,Необработанный аметист,原礦紫水晶
+rawCrystal03,Raw Amber,Ambre brut,Необработанный янтарь,原礦琥珀
+rawCrystal04,Raw Emerald,Emeraude brut,Необработанный изумруд,原礦綠寶石
+rawCrystal05,Raw Spahir,Saphir brut,Необработанный сапфир,原礦藍寶石
+nugget01,Ruby nugget,Minerais de Rubis,Рубиновый самородок,紅寶石塊
+nugget02,Amethyst nugget,Minerais d'Améthyste,Аметистовый самородок,紫水晶塊
+nugget03,Amber nugget,Minerais d'Ambre,Янтарный самородок,琥珀塊
+nugget04,Emerald nugget,Minerais d'Emeraude,Изумрудный самородок,綠寶石塊
+nugget05,Sapphire nugget,Minerais de Saphir,Сапфировый самородок,藍寶石塊
+the_caver_guide,The Caver's Guide,Le guide du spéléologue,Путеводитель спелеолога,洞穴探險指南
