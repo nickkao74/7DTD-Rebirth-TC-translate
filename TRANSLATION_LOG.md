@@ -7,9 +7,9 @@
 | 項目 | 數量 |
 |------|------|
 | 掃描檔案總數 | 48 |
-| 完成翻譯 | 3 |
+| 完成翻譯 | 8 |
 | 已有翻譯尚未檢查（標題欄含 `tchinese`） | 30 |
-| 尚未翻譯（標題欄無 `tchinese`） | 15 |
+| 尚未翻譯（標題欄無 `tchinese`） | 10 |
 | 最後盤查日期 | 2026-06-08 |
 
 ## 狀態說明
@@ -24,13 +24,18 @@
 
 ---
 
-## 完成翻譯（3）
+## 完成翻譯（8）
 
 | # | 模組資料夾 | 路徑 | 完成日期 |
 |---|-----------|------|----------|
 | 1 | DroneLockToPlayer | `mods/DroneLockToPlayer/Config/Localization.txt` | 2026-06-08 |
 | 2 | gupFireMod | `mods/gupFireMod/Config/Localization.txt` | 2026-06-08 |
 | 3 | TheDescent | `mods/TheDescent/Config/Localization.txt` | 2026-06-08 |
+| 4 | TheDescent-cave-lights | `mods/TheDescent-cave-lights/Config/Localization.txt` | 2026-06-08 |
+| 5 | TheDescent-cave-prefabs | `mods/TheDescent-cave-prefabs/Config/Localization.txt` | 2026-06-08 |
+| 6 | VehicleMadness_Beta4_v5_V2.0 | `mods/VehicleMadness_Beta4_v5_V2.0/Config/Localization.txt` | 2026-06-08 |
+| 7 | ZT-Industrial Resources | `mods/ZT-Industrial Resources/Config/Localization.txt` | 2026-06-08 |
+| 8 | zzzz_Alter_ArmorRacks | `mods/zzzz_Alter_ArmorRacks/Config/Localization.txt` | 2026-06-08 |
 
 ---
 
@@ -71,25 +76,20 @@
 
 ---
 
-## 尚未翻譯（15）
+## 尚未翻譯（10）
 
 | # | 模組資料夾 | 路徑 |
 |---|-----------|------|
-| 1 | TheDescent-cave-lights | `mods/TheDescent-cave-lights/Config/Localization.txt` |
-| 2 | TheDescent-cave-prefabs | `mods/TheDescent-cave-prefabs/Config/Localization.txt` |
-| 3 | VehicleMadness_Beta4_v5_V2.0 | `mods/VehicleMadness_Beta4_v5_V2.0/Config/Localization.txt` |
-| 4 | ZT-Industrial Resources | `mods/ZT-Industrial Resources/Config/Localization.txt` |
-| 5 | zzzz_Alter_ArmorRacks | `mods/zzzz_Alter_ArmorRacks/Config/Localization.txt` |
-| 6 | zzzz-CannonFodders POIs and Things | `mods/zzzz-CannonFodders POIs and Things/Config/localization.txt` |
-| 7 | zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls/Config/Localization.txt` |
-| 8 | zzzz_LittleRedSonja_Mumpfy_ArmorPack02_VanillaReVamp | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack02_VanillaReVamp/Config/Localization.txt` |
-| 9 | zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders/Config/Localization.txt` |
-| 10 | zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor/Config/Localization.txt` |
-| 11 | zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls/Config/Localization.txt` |
-| 12 | zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil/Config/Localization.txt` |
-| 13 | zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD/Config/Localization.txt` |
-| 14 | zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime/Config/Localization.txt` |
-| 15 | zzzzz_LittleRedSonja Rebirth Addons | `mods/zzzzz_LittleRedSonja Rebirth Addons/Config/Localization.txt` |
+| 1 | zzzz-CannonFodders POIs and Things | `mods/zzzz-CannonFodders POIs and Things/Config/localization.txt` |
+| 2 | zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls/Config/Localization.txt` |
+| 3 | zzzz_LittleRedSonja_Mumpfy_ArmorPack02_VanillaReVamp | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack02_VanillaReVamp/Config/Localization.txt` |
+| 4 | zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders/Config/Localization.txt` |
+| 5 | zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor/Config/Localization.txt` |
+| 6 | zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls/Config/Localization.txt` |
+| 7 | zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil/Config/Localization.txt` |
+| 8 | zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD/Config/Localization.txt` |
+| 9 | zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime/Config/Localization.txt` |
+| 10 | zzzzz_LittleRedSonja Rebirth Addons | `mods/zzzzz_LittleRedSonja Rebirth Addons/Config/Localization.txt` |
 
 ---
 
@@ -101,3 +101,4 @@
 | 2026-06-08 | 完成翻譯 | `mods/DroneLockToPlayer/Config/Localization.txt`（2 列）、`mods/gupFireMod/Config/Localization.txt`（12 列）、`mods/TheDescent/Config/Localization.txt`（27 列） |
 | 2026-06-08 | 調整分類 | 新增「完成翻譯」分類；上述 3 檔自「已有翻譯尚未檢查」移入 |
 | 2026-06-08 | 更新路徑 | 所有模組移入 `mods/` 目錄，路徑統一加 `mods/` 前綴 |
+| 2026-06-08 | 完成翻譯 | `mods/TheDescent-cave-lights`（10 列）、`mods/TheDescent-cave-prefabs`（53 列）、`mods/VehicleMadness_Beta4_v5_V2.0`（506 列）、`mods/ZT-Industrial Resources`（21 列）、`mods/zzzz_Alter_ArmorRacks`（70 列） |

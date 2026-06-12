@@ -1,73 +1,73 @@
-Key,English
-blockcommand_AR_Wear,Wear
-blockcommand_AR_Place,Place
-blockcommand_AR_TakeAll,Take All
-blockcommand_AR_SwapAll,Swap All
-blockcommand_AR_PlaceHolding,Place Holding
-blockcommand_AR_Take,Take
-armorRackPlayerHelper,Armor Rack
-armorRackPlayerHelperDesc,Use it to display your armor sets.
-armorRackPlayerFemaleWhite,Armor Rack Female (White)
-armorRackPlayerFemaleBlack,Armor Rack Female (Black)
-armorRackPlayerFemaleDarkGray,Armor Rack Female (Dark Gray)
-armorRackPlayerFemaleRed,Armor Rack Female (Red)
-armorRackPlayerFemaleBlue,Armor Rack Female (Blue)
-armorRackPlayerFemaleGreen,Armor Rack Female (Green)
-armorRackPlayerFemaleBrown,Armor Rack Female (Brown)
-armorRackPlayerFemalePurple,Armor Rack Female (Purple)
-armorRackPlayerFemaleLightGray,Armor Rack Female (Light Gray)
-armorRackPlayerFemaleLightGreen,Armor Rack Female (Light Green)
-armorRackPlayerFemaleLightBlue,Armor Rack Female (Light Blue)
-armorRackPlayerFemaleCyan,Armor Rack Female (Cyan)
-armorRackPlayerFemaleOrange,Armor Rack Female (Orange)
-armorRackPlayerFemaleYellow,Armor Rack Female (Yellow)
-armorRackPlayerFemaleTan,Armor Rack Female (Tan)
-armorRackPlayerFemalePink,Armor Rack Female (Pink)
-armorRackPlayerMaleWhite,Armor Rack Male (White)
-armorRackPlayerMaleBlack,Armor Rack Male (Black)
-armorRackPlayerMaleDarkGray,Armor Rack Male (Dark Gray)
-armorRackPlayerMaleRed,Armor Rack Male (Red)
-armorRackPlayerMaleBlue,Armor Rack Male (Blue)
-armorRackPlayerMaleGreen,Armor Rack Male (Green)
-armorRackPlayerMaleBrown,Armor Rack Male (Brown)
-armorRackPlayerMalePurple,Armor Rack Male (Purple)
-armorRackPlayerMaleLightGray,Armor Rack Male (Light Gray)
-armorRackPlayerMaleLightGreen,Armor Rack Male (Light Green)
-armorRackPlayerMaleLightBlue,Armor Rack Male (Light Blue)
-armorRackPlayerMaleCyan,Armor Rack Male (Cyan)
-armorRackPlayerMaleOrange,Armor Rack Male (Orange)
-armorRackPlayerMaleYellow,Armor Rack Male (Yellow)
-armorRackPlayerMaleTan,Armor Rack Male (Tan)
-armorRackPlayerMalePink,Armor Rack Male (Pink)
-armorRackPlayerFemaleWhite_B,"Armor Rack Female (White, 1 Block Wide)"
-armorRackPlayerFemaleBlack_B,"Armor Rack Female (Black, 1 Block Wide)"
-armorRackPlayerFemaleDarkGray_B,"Armor Rack Female (Dark Gray, 1 Block Wide)"
-armorRackPlayerFemaleRed_B,"Armor Rack Female (Red, 1 Block Wide)"
-armorRackPlayerFemaleBlue_B,"Armor Rack Female (Blue, 1 Block Wide)"
-armorRackPlayerFemaleGreen_B,"Armor Rack Female (Green, 1 Block Wide)"
-armorRackPlayerFemaleBrown_B,"Armor Rack Female (Brown, 1 Block Wide)"
-armorRackPlayerFemalePurple_B,"Armor Rack Female (Purple, 1 Block Wide)"
-armorRackPlayerFemaleLightGray_B,"Armor Rack Female (Light Gray, 1 Block Wide)"
-armorRackPlayerFemaleLightGreen_B,"Armor Rack Female (Light Green, 1 Block Wide)"
-armorRackPlayerFemaleLightBlue_B,"Armor Rack Female (Light Blue, 1 Block Wide)"
-armorRackPlayerFemaleCyan_B,"Armor Rack Female (Cyan, 1 Block Wide)"
-armorRackPlayerFemaleOrange_B,"Armor Rack Female (Orange, 1 Block Wide)"
-armorRackPlayerFemaleYellow_B,"Armor Rack Female (Yellow, 1 Block Wide)"
-armorRackPlayerFemaleTan_B,"Armor Rack Female (Tan, 1 Block Wide)"
-armorRackPlayerFemalePink_B,"Armor Rack Female (Pink, 1 Block Wide)"
-armorRackPlayerMaleWhite_B,"Armor Rack Male (White, 1 Block Wide)"
-armorRackPlayerMaleBlack_B,"Armor Rack Male (Black, 1 Block Wide)"
-armorRackPlayerMaleDarkGray_B,"Armor Rack Male (Dark Gray, 1 Block Wide)"
-armorRackPlayerMaleRed_B,"Armor Rack Male (Red, 1 Block Wide)"
-armorRackPlayerMaleBlue_B,"Armor Rack Male (Blue, 1 Block Wide)"
-armorRackPlayerMaleGreen_B,"Armor Rack Male (Green, 1 Block Wide)"
-armorRackPlayerMaleBrown_B,"Armor Rack Male (Brown, 1 Block Wide)"
-armorRackPlayerMalePurple_B,"Armor Rack Male (Purple, 1 Block Wide)"
-armorRackPlayerMaleLightGray_B,"Armor Rack Male (Light Gray, 1 Block Wide)"
-armorRackPlayerMaleLightGreen_B,"Armor Rack Male (Light Green, 1 Block Wide)"
-armorRackPlayerMaleLightBlue_B,"Armor Rack Male (Light Blue, 1 Block Wide)"
-armorRackPlayerMaleCyan_B,"Armor Rack Male (Cyan, 1 Block Wide)"
-armorRackPlayerMaleOrange_B,"Armor Rack Male (Orange, 1 Block Wide)"
-armorRackPlayerMaleYellow_B,"Armor Rack Male (Yellow, 1 Block Wide)"
-armorRackPlayerMaleTan_B,"Armor Rack Male (Tan, 1 Block Wide)"
-armorRackPlayerMalePink_B,"Armor Rack Male (Pink, 1 Block Wide)"
+Key,English,tchinese
+blockcommand_AR_Wear,Wear,穿戴
+blockcommand_AR_Place,Place,放置
+blockcommand_AR_TakeAll,Take All,全部取走
+blockcommand_AR_SwapAll,Swap All,全部交換
+blockcommand_AR_PlaceHolding,Place Holding,放置手持物品
+blockcommand_AR_Take,Take,取走
+armorRackPlayerHelper,Armor Rack,護甲架
+armorRackPlayerHelperDesc,Use it to display your armor sets.,用於展示你的護甲套裝。
+armorRackPlayerFemaleWhite,Armor Rack Female (White),護甲架 女性（白色）
+armorRackPlayerFemaleBlack,Armor Rack Female (Black),護甲架 女性（黑色）
+armorRackPlayerFemaleDarkGray,Armor Rack Female (Dark Gray),護甲架 女性（深灰色）
+armorRackPlayerFemaleRed,Armor Rack Female (Red),護甲架 女性（紅色）
+armorRackPlayerFemaleBlue,Armor Rack Female (Blue),護甲架 女性（藍色）
+armorRackPlayerFemaleGreen,Armor Rack Female (Green),護甲架 女性（綠色）
+armorRackPlayerFemaleBrown,Armor Rack Female (Brown),護甲架 女性（棕色）
+armorRackPlayerFemalePurple,Armor Rack Female (Purple),護甲架 女性（紫色）
+armorRackPlayerFemaleLightGray,Armor Rack Female (Light Gray),護甲架 女性（淺灰色）
+armorRackPlayerFemaleLightGreen,Armor Rack Female (Light Green),護甲架 女性（淺綠色）
+armorRackPlayerFemaleLightBlue,Armor Rack Female (Light Blue),護甲架 女性（淺藍色）
+armorRackPlayerFemaleCyan,Armor Rack Female (Cyan),護甲架 女性（青色）
+armorRackPlayerFemaleOrange,Armor Rack Female (Orange),護甲架 女性（橙色）
+armorRackPlayerFemaleYellow,Armor Rack Female (Yellow),護甲架 女性（黃色）
+armorRackPlayerFemaleTan,Armor Rack Female (Tan),護甲架 女性（棕褐色）
+armorRackPlayerFemalePink,Armor Rack Female (Pink),護甲架 女性（粉紅色）
+armorRackPlayerMaleWhite,Armor Rack Male (White),護甲架 男性（白色）
+armorRackPlayerMaleBlack,Armor Rack Male (Black),護甲架 男性（黑色）
+armorRackPlayerMaleDarkGray,Armor Rack Male (Dark Gray),護甲架 男性（深灰色）
+armorRackPlayerMaleRed,Armor Rack Male (Red),護甲架 男性（紅色）
+armorRackPlayerMaleBlue,Armor Rack Male (Blue),護甲架 男性（藍色）
+armorRackPlayerMaleGreen,Armor Rack Male (Green),護甲架 男性（綠色）
+armorRackPlayerMaleBrown,Armor Rack Male (Brown),護甲架 男性（棕色）
+armorRackPlayerMalePurple,Armor Rack Male (Purple),護甲架 男性（紫色）
+armorRackPlayerMaleLightGray,Armor Rack Male (Light Gray),護甲架 男性（淺灰色）
+armorRackPlayerMaleLightGreen,Armor Rack Male (Light Green),護甲架 男性（淺綠色）
+armorRackPlayerMaleLightBlue,Armor Rack Male (Light Blue),護甲架 男性（淺藍色）
+armorRackPlayerMaleCyan,Armor Rack Male (Cyan),護甲架 男性（青色）
+armorRackPlayerMaleOrange,Armor Rack Male (Orange),護甲架 男性（橙色）
+armorRackPlayerMaleYellow,Armor Rack Male (Yellow),護甲架 男性（黃色）
+armorRackPlayerMaleTan,Armor Rack Male (Tan),護甲架 男性（棕褐色）
+armorRackPlayerMalePink,Armor Rack Male (Pink),護甲架 男性（粉紅色）
+armorRackPlayerFemaleWhite_B,"Armor Rack Female (White, 1 Block Wide)",護甲架 女性（白色，1 格寬）
+armorRackPlayerFemaleBlack_B,"Armor Rack Female (Black, 1 Block Wide)",護甲架 女性（黑色，1 格寬）
+armorRackPlayerFemaleDarkGray_B,"Armor Rack Female (Dark Gray, 1 Block Wide)",護甲架 女性（深灰色，1 格寬）
+armorRackPlayerFemaleRed_B,"Armor Rack Female (Red, 1 Block Wide)",護甲架 女性（紅色，1 格寬）
+armorRackPlayerFemaleBlue_B,"Armor Rack Female (Blue, 1 Block Wide)",護甲架 女性（藍色，1 格寬）
+armorRackPlayerFemaleGreen_B,"Armor Rack Female (Green, 1 Block Wide)",護甲架 女性（綠色，1 格寬）
+armorRackPlayerFemaleBrown_B,"Armor Rack Female (Brown, 1 Block Wide)",護甲架 女性（棕色，1 格寬）
+armorRackPlayerFemalePurple_B,"Armor Rack Female (Purple, 1 Block Wide)",護甲架 女性（紫色，1 格寬）
+armorRackPlayerFemaleLightGray_B,"Armor Rack Female (Light Gray, 1 Block Wide)",護甲架 女性（淺灰色，1 格寬）
+armorRackPlayerFemaleLightGreen_B,"Armor Rack Female (Light Green, 1 Block Wide)",護甲架 女性（淺綠色，1 格寬）
+armorRackPlayerFemaleLightBlue_B,"Armor Rack Female (Light Blue, 1 Block Wide)",護甲架 女性（淺藍色，1 格寬）
+armorRackPlayerFemaleCyan_B,"Armor Rack Female (Cyan, 1 Block Wide)",護甲架 女性（青色，1 格寬）
+armorRackPlayerFemaleOrange_B,"Armor Rack Female (Orange, 1 Block Wide)",護甲架 女性（橙色，1 格寬）
+armorRackPlayerFemaleYellow_B,"Armor Rack Female (Yellow, 1 Block Wide)",護甲架 女性（黃色，1 格寬）
+armorRackPlayerFemaleTan_B,"Armor Rack Female (Tan, 1 Block Wide)",護甲架 女性（棕褐色，1 格寬）
+armorRackPlayerFemalePink_B,"Armor Rack Female (Pink, 1 Block Wide)",護甲架 女性（粉紅色，1 格寬）
+armorRackPlayerMaleWhite_B,"Armor Rack Male (White, 1 Block Wide)",護甲架 男性（白色，1 格寬）
+armorRackPlayerMaleBlack_B,"Armor Rack Male (Black, 1 Block Wide)",護甲架 男性（黑色，1 格寬）
+armorRackPlayerMaleDarkGray_B,"Armor Rack Male (Dark Gray, 1 Block Wide)",護甲架 男性（深灰色，1 格寬）
+armorRackPlayerMaleRed_B,"Armor Rack Male (Red, 1 Block Wide)",護甲架 男性（紅色，1 格寬）
+armorRackPlayerMaleBlue_B,"Armor Rack Male (Blue, 1 Block Wide)",護甲架 男性（藍色，1 格寬）
+armorRackPlayerMaleGreen_B,"Armor Rack Male (Green, 1 Block Wide)",護甲架 男性（綠色，1 格寬）
+armorRackPlayerMaleBrown_B,"Armor Rack Male (Brown, 1 Block Wide)",護甲架 男性（棕色，1 格寬）
+armorRackPlayerMalePurple_B,"Armor Rack Male (Purple, 1 Block Wide)",護甲架 男性（紫色，1 格寬）
+armorRackPlayerMaleLightGray_B,"Armor Rack Male (Light Gray, 1 Block Wide)",護甲架 男性（淺灰色，1 格寬）
+armorRackPlayerMaleLightGreen_B,"Armor Rack Male (Light Green, 1 Block Wide)",護甲架 男性（淺綠色，1 格寬）
+armorRackPlayerMaleLightBlue_B,"Armor Rack Male (Light Blue, 1 Block Wide)",護甲架 男性（淺藍色，1 格寬）
+armorRackPlayerMaleCyan_B,"Armor Rack Male (Cyan, 1 Block Wide)",護甲架 男性（青色，1 格寬）
+armorRackPlayerMaleOrange_B,"Armor Rack Male (Orange, 1 Block Wide)",護甲架 男性（橙色，1 格寬）
+armorRackPlayerMaleYellow_B,"Armor Rack Male (Yellow, 1 Block Wide)",護甲架 男性（黃色，1 格寬）
+armorRackPlayerMaleTan_B,"Armor Rack Male (Tan, 1 Block Wide)",護甲架 男性（棕褐色，1 格寬）
+armorRackPlayerMalePink_B,"Armor Rack Male (Pink, 1 Block Wide)",護甲架 男性（粉紅色，1 格寬）

@@ -1,4 +1,4 @@
-Key,Source,Context,Changes,English,French,Latam,German,Klingon,Spanish,Polish
+Key,Source,Context,Changes,English,French,Latam,German,Klingon,Spanish,Polish,tchinese
 
 <!-- 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6,523 +6,524 @@ Key,Source,Context,Changes,English,French,Latam,German,Klingon,Spanish,Polish
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     -->
 <!-- ###### Vehicles ###### -->
-vehicleVMFastback,vehicles,vehicle,new,VM Fastback,,Fastback,,,Fastback,
-vehicleVMFastbackPlaceable,vehicles,item,EnChanged,VM Fastback,,Fastback,,,Fastback,
-vehicleVMFastbackPlaceableDesc,vehicles,item,EnChanged,A Custom VM Fastback.,,Fastback,,,Fastback,
-vehicleVMPickup,vehicles,vehicle,new,VM Pickup,,Pickup,,,Pickup,
-vehicleVMPickupPlaceable,vehicles,item,EnChanged,VM Pickup,,Pickup,,,Pickup,
-vehicleVMPickupPlaceableDesc,vehicles,item,EnChanged,Custom VM Pickup,,Un pickup personalizado,,,Un pickup personalizado,
-vehicleVMBuggy,vehicles,vehicle,new,Big VM Buggy,,Buggy,,,Buggy,
-vehicleVMBuggyPlaceable,vehicles,item,EnChanged,Big VM Buggy,,Buggy,,,Buggy,
-vehicleVMBuggyPlaceableDesc,vehicles,item,EnChanged,Custom Big VM Buggy,,Un buggy personalizado,,,Un buggy personalizado,
-vehicleVMHotRod,vehicles,vehicle,new,HotRod,,Custom VM Hot Rod,,,HotRod,
-vehicleVMHotRodPlaceable,vehicles,item,EnChanged,Custom VM Hot Rod,,HotRod,,,HotRod,
-vehicleVMHotRodPlaceableDesc,vehicles,item,EnChanged,Custom VM Hot Rod,,Un Hot Rod personalizado,,,Un Hot Rod personalizado,
-vehicleVMQuad,vehicles,vehicle,new,Brown VM Quad Bike,,Cuatrimoto,,,Cuatrimoto,
-vehicleVMQuadPlaceable,vehicles,item,EnChanged,Brown VM Quad Bike,,Cuatrimoto,,,Cuatrimoto,
-vehicleVMQuadPlaceableDesc,vehicles,item,EnChanged,A Custom Brown VM Quad Bike,,Una cuatrimoto personalizada,,,Una cuatrimoto personalizada,
-vehicleVMSedan,vehicles,vehicle,new,VM Modern Sedan,,Sedán,,,Sedán,
-vehicleVMSedanPlaceable,vehicles,item,EnChanged,VM Modern Sedan,,Sedán,,,Sedán,
-vehicleVMSedanPlaceableDesc,vehicles,item,EnChanged,A Custom VM Modern Sedan,,Un sedán personalizado,,,Un sedán personalizado,
-vehicleVMRustySedan,vehicles,vehicle,new,Rusted VM Sedan,,Sedán Oxidado,,,Sedán Oxidado,
-vehicleVMRustySedanPlaceable,vehicles,item,EnChanged,Rusted VM Sedan,,Sedán oxidado,,,Sedán oxidado,
-vehicleVMRustySedanPlaceableDesc,vehicles,item,EnChanged,A Rusted VM Sedan,,Un sedán oxidado.,,,Un sedán oxidado.,
-vehicleVMTaxiRusted,vehicles,vehicle,new,Rusted VM Taxi,,Taxi oxidado,,,Taxi oxidado,
-vehicleVMTaxiRustedPlaceable,vehicles,item,EnChanged,Rusted VM Taxi,,Taxi oxidado,,,Taxi oxidado,
-vehicleVMTaxiRustedPlaceableDesc,vehicles,item,EnChanged,A Rusted VM Taxi,,Un taxi oxidado,,,Un taxi oxidado,
-vehicleVMBMWred,vehicles,vehicle,new,Red VM BMW,,BMW rojo,,,BMW rojo,
-vehicleVMBMWredPlaceable,vehicles,item,EnChanged,Red VM BMW,,BMW rojo,,,BMW rojo,
-vehicleVMBMWredPlaceableDesc,vehicles,item,EnChanged,A Custom Red VM BMW,,Un BMW rojo personalizado,,,Un BMW rojo personalizado,
-vehicleVMBMWwhite,vehicles,vehicle,new,White VM BMW,,BMW blanco,,,BMW blanco,
-vehicleVMBMWwhitePlaceable,vehicles,item,EnChanged,White VM BMW,,BMW blanco,,,BMW blanco,
-vehicleVMBMWwhitePlaceableDesc,vehicles,item,EnChanged,A Custom White VM BMW,,Un BMW blanco personalizado.,,,Un BMW blanco personalizado.,
-vehicleVMNPCVan,vehicles,vehicle,new,Old VM NPC Mod Van,,NPC Mod Van antigua,,,NPC Mod Van antigua,
-vehicleVMNPCVanPlaceable,vehicles,item,EnChanged,Old VM NPC Mod Van,,NPC Mod Van antigua,,,NPC Mod Van antigua,
-vehicleVMNPCVanPlaceableDesc,vehicles,item,EnChanged,A Custom Old VM NPC Van,,Una van antigua personalizada.,,,Una van antigua personalizada.,
-vehicleVMArmoredCobra,vehicles,vehicle,new,VM Cobra Mustang,,Cobra,,,Cobra,
-vehicleVMArmoredCobraPlaceable,vehicles,item,EnChanged,VM Cobra Mustang,,Cobra,,,Cobra,
-vehicleVMArmoredCobraPlaceableDesc,vehicles,item,EnChanged,VM Cobra Mustang,,Cobra,,,Cobra,
-vehicleVMAmbulanceDamaged,vehicles,vehicle,new,Old VM Ambulance,,Ambulancia ,,,Ambulancia ,
-vehicleVMAmbulanceDamagedPlaceable,vehicles,item,EnChanged,Old VM Ambulance,,Ambulancia ,,,Ambulancia,
-vehicleVMAmbulanceDamagedPlaceableDesc,vehicles,item,EnChanged,A Custom Old VM Ambulance,,Una ambulancia personalizada.,,,Una ambulancia personalizada.,
-vehicleVMPoliceCar,vehicles,vehicle,new,VM Police Car,,Coche de policia,,,Coche de policia,
-vehicleVMPoliceCarPlaceable,vehicles,item,EnChanged,VM Police Car,,Coche de policia,,,Coche de policia,
-vehicleVMPoliceCarPlaceableDesc,vehicles,item,EnChanged,A Custom VM Police Car,,Un coche de policia personalizado.,,,Un coche de policia personalizado.,
-vehicleVMMilitaryTruck,vehicles,vehicle,new,VM Big Military Truck,,Camión militar,,,Camión militar,
-vehicleVMMilitaryTruckPlaceable,vehicles,item,EnChanged,VM Big Military Truck,,Camión militar,,,Camión militar,
-vehicleVMMilitaryTruckPlaceableDesc,vehicles,item,EnChanged,VM Big Military Truck,,Un camión militar.,,,Un camión militar.,
-vehicleVMBoxTruck,vehicles,vehicle,new,Red VM Box Truck,,Camión rígido rojo,,,Camión rígido rojo,
-vehicleVMBoxTruckPlaceable,vehicles,item,EnChanged,Red VM Box Truck,,Camión rígido rojo,,,Camión rígido rojo,
-vehicleVMBoxTruckPlaceableDesc,vehicles,item,EnChanged,A Red VM Box Truck,,Un camión rígido rojo.,,,Un camión rígido rojo.,
-vehicleVMBigRig,vehicles,vehicle,new,VM Big Rig 1.,,Camión de carga 1.,,,Camión de carga 1.,
-vehicleVMBigRigPlaceable,vehicles,item,EnChanged,VM Big Rig 1,,Camión de carga 1,,,Camión de carga 1,
-vehicleVMBigRigPlaceableDesc,vehicles,item,EnChanged,A Custom VM Big Rig 1,,Un camión de carga 1,,,Un camión de carga 1,
-vehicleVMBigRig2,vehicles,vehicle,new,VM Big Rig 2,,Camión de carga 2,,,Camión de carga 2,
-vehicleVMBigRig2Placeable,vehicles,item,EnChanged,VM Big Rig 2,,Camión de carga 2,,,Camión de carga 2,
-vehicleVMBigRig2PlaceableDesc,vehicles,item,EnChanged,A Custom VM Big Rig 2,,Un camión de carga 2.,,,Un camión de carga 2.,
-vehicleVMMilitaryHumVee,vehicles,vehicle,new,VM Military Humvee,,Coche militar,,,Coche militar,
-vehicleVMMilitaryHumVeePlaceable,vehicles,item,EnChanged,VM Military Humvee,,Coche militar,,,Coche militar,
-vehicleVMMilitaryHumVeePlaceableDesc,vehicles,item,EnChanged,A VM Military Humvee,,Un coche militar.,,,Un coche militar.,
+vehicleVMFastback,vehicles,vehicle,new,VM Fastback,,Fastback,,,Fastback,,VM Fastback
+vehicleVMFastbackPlaceable,vehicles,item,EnChanged,VM Fastback,,Fastback,,,Fastback,,VM Fastback
+vehicleVMFastbackPlaceableDesc,vehicles,item,EnChanged,A Custom VM Fastback.,,Fastback,,,Fastback,,自訂 VM Fastback。
+vehicleVMPickup,vehicles,vehicle,new,VM Pickup,,Pickup,,,Pickup,,VM Pickup
+vehicleVMPickupPlaceable,vehicles,item,EnChanged,VM Pickup,,Pickup,,,Pickup,,VM Pickup
+vehicleVMPickupPlaceableDesc,vehicles,item,EnChanged,Custom VM Pickup,,Un pickup personalizado,,,Un pickup personalizado,,自訂 VM Pickup
+vehicleVMBuggy,vehicles,vehicle,new,Big VM Buggy,,Buggy,,,Buggy,,大型 VM Buggy
+vehicleVMBuggyPlaceable,vehicles,item,EnChanged,Big VM Buggy,,Buggy,,,Buggy,,大型 VM Buggy
+vehicleVMBuggyPlaceableDesc,vehicles,item,EnChanged,Custom Big VM Buggy,,Un buggy personalizado,,,Un buggy personalizado,,自訂大型 VM Buggy
+vehicleVMHotRod,vehicles,vehicle,new,HotRod,,Custom VM Hot Rod,,,HotRod,,Hot Rod
+vehicleVMHotRodPlaceable,vehicles,item,EnChanged,Custom VM Hot Rod,,HotRod,,,HotRod,,自訂 VM Hot Rod
+vehicleVMHotRodPlaceableDesc,vehicles,item,EnChanged,Custom VM Hot Rod,,Un Hot Rod personalizado,,,Un Hot Rod personalizado,,自訂 VM Hot Rod
+vehicleVMQuad,vehicles,vehicle,new,Brown VM Quad Bike,,Cuatrimoto,,,Cuatrimoto,,棕色 VM 四輪摩托
+vehicleVMQuadPlaceable,vehicles,item,EnChanged,Brown VM Quad Bike,,Cuatrimoto,,,Cuatrimoto,,棕色 VM 四輪摩托
+vehicleVMQuadPlaceableDesc,vehicles,item,EnChanged,A Custom Brown VM Quad Bike,,Una cuatrimoto personalizada,,,Una cuatrimoto personalizada,,自訂棕色 VM 四輪摩托
+vehicleVMSedan,vehicles,vehicle,new,VM Modern Sedan,,Sedán,,,Sedán,,VM 現代轎車
+vehicleVMSedanPlaceable,vehicles,item,EnChanged,VM Modern Sedan,,Sedán,,,Sedán,,VM 現代轎車
+vehicleVMSedanPlaceableDesc,vehicles,item,EnChanged,A Custom VM Modern Sedan,,Un sedán personalizado,,,Un sedán personalizado,,自訂 VM 現代轎車
+vehicleVMRustySedan,vehicles,vehicle,new,Rusted VM Sedan,,Sedán Oxidado,,,Sedán Oxidado,,生鏽的 VM 轎車
+vehicleVMRustySedanPlaceable,vehicles,item,EnChanged,Rusted VM Sedan,,Sedán oxidado,,,Sedán oxidado,,生鏽的 VM 轎車
+vehicleVMRustySedanPlaceableDesc,vehicles,item,EnChanged,A Rusted VM Sedan,,Un sedán oxidado.,,,Un sedán oxidado.,,生鏽的 VM 轎車
+vehicleVMTaxiRusted,vehicles,vehicle,new,Rusted VM Taxi,,Taxi oxidado,,,Taxi oxidado,,生鏽的 VM 計程車
+vehicleVMTaxiRustedPlaceable,vehicles,item,EnChanged,Rusted VM Taxi,,Taxi oxidado,,,Taxi oxidado,,生鏽的 VM 計程車
+vehicleVMTaxiRustedPlaceableDesc,vehicles,item,EnChanged,A Rusted VM Taxi,,Un taxi oxidado,,,Un taxi oxidado,,生鏽的 VM 計程車
+vehicleVMBMWred,vehicles,vehicle,new,Red VM BMW,,BMW rojo,,,BMW rojo,,紅色 VM BMW
+vehicleVMBMWredPlaceable,vehicles,item,EnChanged,Red VM BMW,,BMW rojo,,,BMW rojo,,紅色 VM BMW
+vehicleVMBMWredPlaceableDesc,vehicles,item,EnChanged,A Custom Red VM BMW,,Un BMW rojo personalizado,,,Un BMW rojo personalizado,,自訂紅色 VM BMW
+vehicleVMBMWwhite,vehicles,vehicle,new,White VM BMW,,BMW blanco,,,BMW blanco,,白色 VM BMW
+vehicleVMBMWwhitePlaceable,vehicles,item,EnChanged,White VM BMW,,BMW blanco,,,BMW blanco,,白色 VM BMW
+vehicleVMBMWwhitePlaceableDesc,vehicles,item,EnChanged,A Custom White VM BMW,,Un BMW blanco personalizado.,,,Un BMW blanco personalizado.,,自訂白色 VM BMW
+vehicleVMNPCVan,vehicles,vehicle,new,Old VM NPC Mod Van,,NPC Mod Van antigua,,,NPC Mod Van antigua,,舊 VM NPC Mod 廂型車
+vehicleVMNPCVanPlaceable,vehicles,item,EnChanged,Old VM NPC Mod Van,,NPC Mod Van antigua,,,NPC Mod Van antigua,,舊 VM NPC Mod 廂型車
+vehicleVMNPCVanPlaceableDesc,vehicles,item,EnChanged,A Custom Old VM NPC Van,,Una van antigua personalizada.,,,Una van antigua personalizada.,,自訂舊 VM NPC 廂型車
+vehicleVMArmoredCobra,vehicles,vehicle,new,VM Cobra Mustang,,Cobra,,,Cobra,,VM Cobra Mustang
+vehicleVMArmoredCobraPlaceable,vehicles,item,EnChanged,VM Cobra Mustang,,Cobra,,,Cobra,,VM Cobra Mustang
+vehicleVMArmoredCobraPlaceableDesc,vehicles,item,EnChanged,VM Cobra Mustang,,Cobra,,,Cobra,,VM Cobra Mustang
+vehicleVMAmbulanceDamaged,vehicles,vehicle,new,Old VM Ambulance,,Ambulancia ,,,Ambulancia ,,舊 VM 救護車
+vehicleVMAmbulanceDamagedPlaceable,vehicles,item,EnChanged,Old VM Ambulance,,Ambulancia ,,,Ambulancia,,舊 VM 救護車
+vehicleVMAmbulanceDamagedPlaceableDesc,vehicles,item,EnChanged,A Custom Old VM Ambulance,,Una ambulancia personalizada.,,,Una ambulancia personalizada.,,自訂舊 VM 救護車
+vehicleVMPoliceCar,vehicles,vehicle,new,VM Police Car,,Coche de policia,,,Coche de policia,,VM 警車
+vehicleVMPoliceCarPlaceable,vehicles,item,EnChanged,VM Police Car,,Coche de policia,,,Coche de policia,,VM 警車
+vehicleVMPoliceCarPlaceableDesc,vehicles,item,EnChanged,A Custom VM Police Car,,Un coche de policia personalizado.,,,Un coche de policia personalizado.,,自訂 VM 警車
+vehicleVMMilitaryTruck,vehicles,vehicle,new,VM Big Military Truck,,Camión militar,,,Camión militar,,VM 大型軍用卡車
+vehicleVMMilitaryTruckPlaceable,vehicles,item,EnChanged,VM Big Military Truck,,Camión militar,,,Camión militar,,VM 大型軍用卡車
+vehicleVMMilitaryTruckPlaceableDesc,vehicles,item,EnChanged,VM Big Military Truck,,Un camión militar.,,,Un camión militar.,,VM 大型軍用卡車
+vehicleVMBoxTruck,vehicles,vehicle,new,Red VM Box Truck,,Camión rígido rojo,,,Camión rígido rojo,,紅色 VM 箱型卡車
+vehicleVMBoxTruckPlaceable,vehicles,item,EnChanged,Red VM Box Truck,,Camión rígido rojo,,,Camión rígido rojo,,紅色 VM 箱型卡車
+vehicleVMBoxTruckPlaceableDesc,vehicles,item,EnChanged,A Red VM Box Truck,,Un camión rígido rojo.,,,Un camión rígido rojo.,,紅色 VM 箱型卡車
+vehicleVMBigRig,vehicles,vehicle,new,VM Big Rig 1.,,Camión de carga 1.,,,Camión de carga 1.,,VM 大卡車 1
+vehicleVMBigRigPlaceable,vehicles,item,EnChanged,VM Big Rig 1,,Camión de carga 1,,,Camión de carga 1,,VM 大卡車 1
+vehicleVMBigRigPlaceableDesc,vehicles,item,EnChanged,A Custom VM Big Rig 1,,Un camión de carga 1,,,Un camión de carga 1,,自訂 VM 大卡車 1
+vehicleVMBigRig2,vehicles,vehicle,new,VM Big Rig 2,,Camión de carga 2,,,Camión de carga 2,,VM 大卡車 2
+vehicleVMBigRig2Placeable,vehicles,item,EnChanged,VM Big Rig 2,,Camión de carga 2,,,Camión de carga 2,,VM 大卡車 2
+vehicleVMBigRig2PlaceableDesc,vehicles,item,EnChanged,A Custom VM Big Rig 2,,Un camión de carga 2.,,,Un camión de carga 2.,,自訂 VM 大卡車 2
+vehicleVMMilitaryHumVee,vehicles,vehicle,new,VM Military Humvee,,Coche militar,,,Coche militar,,VM 軍用悍馬
+vehicleVMMilitaryHumVeePlaceable,vehicles,item,EnChanged,VM Military Humvee,,Coche militar,,,Coche militar,,VM 軍用悍馬
+vehicleVMMilitaryHumVeePlaceableDesc,vehicles,item,EnChanged,A VM Military Humvee,,Un coche militar.,,,Un coche militar.,,VM 軍用悍馬
 <!--##### New Vehicles 2021#####-->
-vehicleVMHunter,vehicles,vehicle,new,VM Hunter Car ,,,,,
-vehicleVMHunterPlaceable,vehicles,item,EnChanged,VM Hunter Car,,,,,
-vehicleVMHunterPlaceableDesc,vehicles,item,EnChanged,A Custom VM Hunter Apocalyptic Car,,,,,
-vehicleVMCrusader,vehicles,vehicle,new,VM Crusader,,,,,
-vehicleVMCrusaderPlaceable,vehicles,item,EnChanged,VM Crusader,,,,,
-vehicleVMCrusaderPlaceableDesc,vehicles,item,EnChanged,A Custom VM Crusader Vehicle.,,,,,
-vehicleVMInterceptor,vehicles,vehicle,new,VM Interceptor,,,,,
-vehicleVMInterceptorPlaceable,vehicles,item,EnChanged,VM Interceptor Car,,,,,
-vehicleVMInterceptorPlaceableDesc,vehicles,item,EnChanged,Mad Max Interceptor Vehicle,,,,,
-vehicleVMMalice,vehicles,vehicle,new,VM Malice,,,,,
-vehicleVMMalicePlaceable,vehicles,item,EnChanged,VM Malice Car,,,,,
-vehicleVMMalicePlaceableDesc,vehicles,item,EnChanged,A Custom VM Malice Vehicle,,,,,
-vehicleVMSpiker,vehicles,vehicle,new,VM Spiker,,,,,
-vehicleVMSpikerPlaceable,vehicles,item,EnChanged,VM Spiker,,,,,
-vehicleVMSpikerPlaceableDesc,vehicles,item,EnChanged,A Custom VM Madmax Style Vehicle,,,,,
-vehicleVMTurbo,vehicles,vehicle,new,VM Hell Car Turbo,,,,,
-vehicleVMTurboPlaceable,vehicles,item,EnChanged,VM Hell Car Turbo,,,,,
-vehicleVMTurboPlaceableDesc,vehicles,item,EnChanged,A Custom VM Turbo Style Vehicle,,,,,
-vehicleVMRV,vehicles,vehicle,new,VM RV ,,,,,
-vehicleVMRVPlaceable,vehicles,item,EnChanged,VM RV,,,,,
-vehicleVMRVPlaceableDesc,vehicles,item,EnChanged,A Custom VM Recreational Vehicle,,,,,
-vehicleVMVan2,vehicles,vehicle,new,VM Workshop Van,,,,,
-vehicleVMVan2Placeable,vehicles,item,EnChanged,VM Workshop Van,,,,,
-vehicleVMVan2PlaceableDesc,vehicles,item,EnChanged,A Custom VM Workshop Van,,,,,
-vehicleVMMotoGuppy,vehicles,vehicle,new,VM Moto Guppy Minibike,,,,,
-vehicleVMMotoGuppyPlaceable,vehicles,item,EnChanged,VM MotoGuppy Minibike,,,,,
-vehicleVMMotoGuppyPlaceableDesc,vehicles,item,EnChanged,A Custom VM minibike you can ride!,,,,,
-vehicleVMVespa,vehicles,vehicle,new,Red VM Vespa,,,,,
-vehicleVMVespaPlaceable,vehicles,item,EnChanged,Red VM Vespa Minibike,,,,,
-vehicleVMVespaPlaceableDesc,vehicles,item,EnChanged,A VM Vespa you can ride!,,,,,
-vehicleVMApoTruck,vehicles,vehicle,new,VM Farm Rig ,,,,,
-vehicleVMApoTruckPlaceable,vehicles,item,EnChanged,VM Farm Rig,,,,,
-vehicleVMApoTruckPlaceableDesc,vehicles,item,EnChanged,A Custom VM Farming Rig Vehicle,,,,,
-vehicleVMFlatbed,vehicles,vehicle,new,VM Flatbed Truck ,,,,,
-vehicleVMFlatbedPlaceable,vehicles,item,EnChanged,VM Flatbed Truck,,,,,
-vehicleVMFlatbedPlaceableDesc,vehicles,item,EnChanged,A VM Flatbed Truck,,,,,
-vehicleVMM3ATruck,vehicles,vehicle,new,VM Military Car ,,,,,
-vehicleVMM3ATruckPlaceable,vehicles,item,EnChanged,VM Military Car,,,,,
-vehicleVMM3ATruckPlaceableDesc,vehicles,item,EnChanged,A Small Old VM Military Vehicle,,,,,
-vehicleVMMonsterPickup,vehicles,vehicle,new,VM Monster Pickup ,,,,,
-vehicleVMMonsterPickupPlaceable,vehicles,item,EnChanged,VM Monster Pickup,,,,,
-vehicleVMMonsterPickupPlaceableDesc,vehicles,item,EnChanged,A Big VM Pickup,,,,,
-vehicleVMMonsterVan,vehicles,vehicle,new,VM Monster Van ,,,,,
-vehicleVMMonsterVanPlaceable,vehicles,item,EnChanged,VM Monster Van,,,,,
-vehicleVMMonsterVanPlaceableDesc,vehicles,item,EnChanged,A Big Big VM Van,,,,,
-vehicleVMWarthog,vehicles,vehicle,new,VM Warthog,,,,,
-vehicleVMWarthogPlaceable,vehicles,item,EnChanged,VM Warthog,,,,,
-vehicleVMWarthogPlaceableDesc,vehicles,item,EnChanged,A VM Warthog,,,,,
-vehicleVMMilitaryTruck2,vehicles,vehicle,new,Old VM Military Truck ,,,,,
-vehicleVMMilitaryTruck2Placeable,vehicles,item,EnChanged,Old VM Military Truck,,,,,
-vehicleVMMilitaryTruck2PlaceableDesc,vehicles,item,EnChanged,A Custom Old VM Military Vehicle,,,,,
-vehicleVMTacticalJeep,vehicles,vehicle,new,VM Tactical Jeep,,,,,
-vehicleVMTacticalJeepPlaceable,vehicles,item,EnChanged,VM Tactical Jeep,,,,,
-vehicleVMTacticalJeepPlaceableDesc,vehicles,item,EnChanged,A Custom VM Military Vehicle,,,,,
-vehicleVMVeneno,vehicles,vehicle,new,VM Veneno ,,,,,
-vehicleVMVenenoPlaceable,vehicles,item,EnChanged,VM Veneno,,,,,
-vehicleVMVenenoPlaceableDesc,vehicles,item,EnChanged,A Custom VM Lamborgini Veneno,,,,,
-vehicleVMOldsMobile,vehicles,vehicle,new,VM OldsMobile,,,,,
-vehicleVMOldsMobilePlaceable,vehicles,item,EnChanged,VM OldsMobile,,,,,
-vehicleVMOldsMobilePlaceableDesc,vehicles,item,EnChanged,A Custom VM Oldsmobile Car,,,,,
-vehicleVMJeepC,vehicles,vehicle,new,4x4 Brown VM Jeep ,,,,,
-vehicleVMJeepCPlaceable,vehicles,item,EnChanged,4x4 Brown VM Jeep,,,,,
-vehicleVMJeepCPlaceableDesc,vehicles,item,EnChanged,A Custom Brown VM Jeep,,,,,
-vehicleVMBuggy2,vehicles,vehicle,new,Small VM Buggy ,,,,,
-vehicleVMBuggy2Placeable,vehicles,item,EnChanged,Small VM Buggy,,,,,
-vehicleVMBuggy2PlaceableDesc,vehicles,item,EnChanged,A Custom Small VM Buggy,,,,,
-vehicleVMStriker,vehicles,vehicle,new,VM Striker APC ,,,,,
-vehicleVMStrikerPlaceable,vehicles,item,EnChanged,VM Striker APC,,,,,
-vehicleVMStrikerPlaceableDesc,vehicles,item,EnChanged,A Custom VM Military Vehicle,,,,,
-vehicleVMBeetle,vehicles,vehicle,new,VM Beetle ,,,,,
-vehicleVMBeetlePlaceable,vehicles,item,EnChanged,VM Beetle,,,,,
-vehicleVMBeetlePlaceableDesc,vehicles,item,EnChanged,A VM Custom VW Beetle,,,,,
-vehicleVMQuad2,vehicles,vehicle,new,Red VM Quad Bike,,Cuatrimoto,,,Cuatrimoto,
-vehicleVMQuad2Placeable,vehicles,item,EnChanged,Red VM Quad Bike,,Cuatrimoto.,,,Cuatrimoto.,
-vehicleVMQuad2PlaceableDesc,vehicles,item,EnChanged,A Custom VM Red Quad Bike,,Una cuatrimoto personalizada,,,Una cuatrimoto personalizada,
-vehicleVMCombi,vehicles,vehicle,new,VM Combi Van 1,,,,,
-vehicleVMCombiPlaceable,vehicles,item,EnChanged,VM Combi Van 1,,,,,
-vehicleVMCombiPlaceableDesc,vehicles,item,EnChanged,A Custom VW Combi Van,,,,,
-vehicleVMTruckOpen,vehicles,vehicle,new,VM Military Transporter ,,,,,
-vehicleVMTruckOpenPlaceable,vehicles,item,EnChanged,VM  Military Transporter,,,,,
-vehicleVMTruckOpenPlaceableDesc,vehicles,item,EnChanged,A Custom VM Military Transporter,,,,,
-vehicleVMCombi2,vehicles,vehicle,new,VM 1963 Combi Van ,,,,,
-vehicleVMCombi2Placeable,vehicles,item,EnChanged,VM 1963 Combi Van,,,,,
-vehicleVMCombi2PlaceableDesc,vehicles,item,EnChanged,Another VM Custom VW Combi Van,,,,,
-vehicleVMTruckWorkingStiffs,vehicles,vehicle,new, The Working Stiffs Van,,,,,
-vehicleVMTruckWorkingStiffsPlaceable,vehicles,item,EnChanged, Working Stiffs Van,,,,,
-vehicleVMTruckWorkingStiffsPlaceableDesc,vehicles,item,EnChanged,The Working Stiffs Van,,,,,
-vehicleVMTruckMoPower,vehicles,vehicle,new,The Mo Power Van,,,,,
-vehicleVMTruckMoPowerPlaceable,vehicles,item,EnChanged,Mo Power Van,,,,,
-vehicleVMTruckMoPowerPlaceableDesc,vehicles,item,EnChanged,The Mo Power Van,,,,,
-vehicleVMTruckAmbulance,vehicles,vehicle,new,Vanilla Ambulance,,,,,
-vehicleVMTruckAmbulancePlaceable,vehicles,item,EnChanged,Vanilla Ambulance,,,,,
-vehicleVMTruckAmbulancePlaceableDesc,vehicles,item,EnChanged,The Vanilla Ambulance,,,,,
+vehicleVMHunter,vehicles,vehicle,new,VM Hunter Car ,,,,,,VM 獵人車
+vehicleVMHunterPlaceable,vehicles,item,EnChanged,VM Hunter Car,,,,,,VM 獵人車
+vehicleVMHunterPlaceableDesc,vehicles,item,EnChanged,A Custom VM Hunter Apocalyptic Car,,,,,,自訂 VM 獵人末日車
+vehicleVMCrusader,vehicles,vehicle,new,VM Crusader,,,,,,VM Crusader
+vehicleVMCrusaderPlaceable,vehicles,item,EnChanged,VM Crusader,,,,,,VM Crusader
+vehicleVMCrusaderPlaceableDesc,vehicles,item,EnChanged,A Custom VM Crusader Vehicle.,,,,,,自訂 VM Crusader 車輛。
+vehicleVMInterceptor,vehicles,vehicle,new,VM Interceptor,,,,,,VM Interceptor
+vehicleVMInterceptorPlaceable,vehicles,item,EnChanged,VM Interceptor Car,,,,,,VM Interceptor 車
+vehicleVMInterceptorPlaceableDesc,vehicles,item,EnChanged,Mad Max Interceptor Vehicle,,,,,,Mad Max Interceptor 車輛
+vehicleVMMalice,vehicles,vehicle,new,VM Malice,,,,,,VM Malice
+vehicleVMMalicePlaceable,vehicles,item,EnChanged,VM Malice Car,,,,,,VM Malice 車
+vehicleVMMalicePlaceableDesc,vehicles,item,EnChanged,A Custom VM Malice Vehicle,,,,,,自訂 VM Malice 車輛
+vehicleVMSpiker,vehicles,vehicle,new,VM Spiker,,,,,,VM Spiker
+vehicleVMSpikerPlaceable,vehicles,item,EnChanged,VM Spiker,,,,,,VM Spiker
+vehicleVMSpikerPlaceableDesc,vehicles,item,EnChanged,A Custom VM Madmax Style Vehicle,,,,,,自訂 VM Mad Max 風格車輛
+vehicleVMTurbo,vehicles,vehicle,new,VM Hell Car Turbo,,,,,,VM 地獄車渦輪
+vehicleVMTurboPlaceable,vehicles,item,EnChanged,VM Hell Car Turbo,,,,,,VM 地獄車渦輪
+vehicleVMTurboPlaceableDesc,vehicles,item,EnChanged,A Custom VM Turbo Style Vehicle,,,,,,自訂 VM 渦輪風格車輛
+vehicleVMRV,vehicles,vehicle,new,VM RV ,,,,,,VM 休旅車
+vehicleVMRVPlaceable,vehicles,item,EnChanged,VM RV,,,,,,VM 休旅車
+vehicleVMRVPlaceableDesc,vehicles,item,EnChanged,A Custom VM Recreational Vehicle,,,,,,自訂 VM 休旅車
+vehicleVMVan2,vehicles,vehicle,new,VM Workshop Van,,,,,,VM 工坊廂型車
+vehicleVMVan2Placeable,vehicles,item,EnChanged,VM Workshop Van,,,,,,VM 工坊廂型車
+vehicleVMVan2PlaceableDesc,vehicles,item,EnChanged,A Custom VM Workshop Van,,,,,,自訂 VM 工坊廂型車
+vehicleVMMotoGuppy,vehicles,vehicle,new,VM Moto Guppy Minibike,,,,,,VM Moto Guppy 迷你摩托
+vehicleVMMotoGuppyPlaceable,vehicles,item,EnChanged,VM MotoGuppy Minibike,,,,,,VM MotoGuppy 迷你摩托
+vehicleVMMotoGuppyPlaceableDesc,vehicles,item,EnChanged,A Custom VM minibike you can ride!,,,,,,可騎乘的自訂 VM 迷你摩托！
+vehicleVMVespa,vehicles,vehicle,new,Red VM Vespa,,,,,,紅色 VM Vespa
+vehicleVMVespaPlaceable,vehicles,item,EnChanged,Red VM Vespa Minibike,,,,,,紅色 VM Vespa 迷你摩托
+vehicleVMVespaPlaceableDesc,vehicles,item,EnChanged,A VM Vespa you can ride!,,,,,,可騎乘的 VM Vespa！
+vehicleVMApoTruck,vehicles,vehicle,new,VM Farm Rig ,,,,,,VM 農場卡車
+vehicleVMApoTruckPlaceable,vehicles,item,EnChanged,VM Farm Rig,,,,,,VM 農場卡車
+vehicleVMApoTruckPlaceableDesc,vehicles,item,EnChanged,A Custom VM Farming Rig Vehicle,,,,,,自訂 VM 農用卡車
+vehicleVMFlatbed,vehicles,vehicle,new,VM Flatbed Truck ,,,,,,VM 平板卡車
+vehicleVMFlatbedPlaceable,vehicles,item,EnChanged,VM Flatbed Truck,,,,,,VM 平板卡車
+vehicleVMFlatbedPlaceableDesc,vehicles,item,EnChanged,A VM Flatbed Truck,,,,,,VM 平板卡車
+vehicleVMM3ATruck,vehicles,vehicle,new,VM Military Car ,,,,,,VM 軍車
+vehicleVMM3ATruckPlaceable,vehicles,item,EnChanged,VM Military Car,,,,,,VM 軍車
+vehicleVMM3ATruckPlaceableDesc,vehicles,item,EnChanged,A Small Old VM Military Vehicle,,,,,,小型舊 VM 軍用車輛
+vehicleVMMonsterPickup,vehicles,vehicle,new,VM Monster Pickup ,,,,,,VM 怪物皮卡
+vehicleVMMonsterPickupPlaceable,vehicles,item,EnChanged,VM Monster Pickup,,,,,,VM 怪物皮卡
+vehicleVMMonsterPickupPlaceableDesc,vehicles,item,EnChanged,A Big VM Pickup,,,,,,大型 VM Pickup
+vehicleVMMonsterVan,vehicles,vehicle,new,VM Monster Van ,,,,,,VM 怪物廂型車
+vehicleVMMonsterVanPlaceable,vehicles,item,EnChanged,VM Monster Van,,,,,,VM 怪物廂型車
+vehicleVMMonsterVanPlaceableDesc,vehicles,item,EnChanged,A Big Big VM Van,,,,,,超大型 VM 廂型車
+vehicleVMWarthog,vehicles,vehicle,new,VM Warthog,,,,,,VM Warthog
+vehicleVMWarthogPlaceable,vehicles,item,EnChanged,VM Warthog,,,,,,VM Warthog
+vehicleVMWarthogPlaceableDesc,vehicles,item,EnChanged,A VM Warthog,,,,,,VM Warthog
+vehicleVMMilitaryTruck2,vehicles,vehicle,new,Old VM Military Truck ,,,,,,舊 VM 軍用卡車
+vehicleVMMilitaryTruck2Placeable,vehicles,item,EnChanged,Old VM Military Truck,,,,,,舊 VM 軍用卡車
+vehicleVMMilitaryTruck2PlaceableDesc,vehicles,item,EnChanged,A Custom Old VM Military Vehicle,,,,,,自訂舊 VM 軍用車輛
+vehicleVMTacticalJeep,vehicles,vehicle,new,VM Tactical Jeep,,,,,,VM 戰術吉普車
+vehicleVMTacticalJeepPlaceable,vehicles,item,EnChanged,VM Tactical Jeep,,,,,,VM 戰術吉普車
+vehicleVMTacticalJeepPlaceableDesc,vehicles,item,EnChanged,A Custom VM Military Vehicle,,,,,,自訂 VM 軍用車輛
+vehicleVMVeneno,vehicles,vehicle,new,VM Veneno ,,,,,,VM Veneno
+vehicleVMVenenoPlaceable,vehicles,item,EnChanged,VM Veneno,,,,,,VM Veneno
+vehicleVMVenenoPlaceableDesc,vehicles,item,EnChanged,A Custom VM Lamborgini Veneno,,,,,,自訂 VM Lamborghini Veneno
+vehicleVMOldsMobile,vehicles,vehicle,new,VM OldsMobile,,,,,,VM Oldsmobile
+vehicleVMOldsMobilePlaceable,vehicles,item,EnChanged,VM OldsMobile,,,,,,VM Oldsmobile
+vehicleVMOldsMobilePlaceableDesc,vehicles,item,EnChanged,A Custom VM Oldsmobile Car,,,,,,自訂 VM Oldsmobile 車
+vehicleVMJeepC,vehicles,vehicle,new,4x4 Brown VM Jeep ,,,,,,4x4 棕色 VM 吉普車
+vehicleVMJeepCPlaceable,vehicles,item,EnChanged,4x4 Brown VM Jeep,,,,,,4x4 棕色 VM 吉普車
+vehicleVMJeepCPlaceableDesc,vehicles,item,EnChanged,A Custom Brown VM Jeep,,,,,,自訂棕色 VM 吉普車
+vehicleVMBuggy2,vehicles,vehicle,new,Small VM Buggy ,,,,,,小型 VM Buggy
+vehicleVMBuggy2Placeable,vehicles,item,EnChanged,Small VM Buggy,,,,,,小型 VM Buggy
+vehicleVMBuggy2PlaceableDesc,vehicles,item,EnChanged,A Custom Small VM Buggy,,,,,,自訂小型 VM Buggy
+vehicleVMStriker,vehicles,vehicle,new,VM Striker APC ,,,,,,VM Striker 裝甲運兵車
+vehicleVMStrikerPlaceable,vehicles,item,EnChanged,VM Striker APC,,,,,,VM Striker 裝甲運兵車
+vehicleVMStrikerPlaceableDesc,vehicles,item,EnChanged,A Custom VM Military Vehicle,,,,,,自訂 VM 軍用車輛
+vehicleVMBeetle,vehicles,vehicle,new,VM Beetle ,,,,,,VM 金龜車
+vehicleVMBeetlePlaceable,vehicles,item,EnChanged,VM Beetle,,,,,,VM 金龜車
+vehicleVMBeetlePlaceableDesc,vehicles,item,EnChanged,A VM Custom VW Beetle,,,,,,自訂 VM VW 金龜車
+vehicleVMQuad2,vehicles,vehicle,new,Red VM Quad Bike,,Cuatrimoto,,,Cuatrimoto,,紅色 VM 四輪摩托
+vehicleVMQuad2Placeable,vehicles,item,EnChanged,Red VM Quad Bike,,Cuatrimoto.,,,Cuatrimoto.,,紅色 VM 四輪摩托
+vehicleVMQuad2PlaceableDesc,vehicles,item,EnChanged,A Custom VM Red Quad Bike,,Una cuatrimoto personalizada,,,Una cuatrimoto personalizada,,自訂紅色 VM 四輪摩托
+vehicleVMCombi,vehicles,vehicle,new,VM Combi Van 1,,,,,,VM Combi 廂型車 1
+vehicleVMCombiPlaceable,vehicles,item,EnChanged,VM Combi Van 1,,,,,,VM Combi 廂型車 1
+vehicleVMCombiPlaceableDesc,vehicles,item,EnChanged,A Custom VW Combi Van,,,,,,自訂 VW Combi 廂型車
+vehicleVMTruckOpen,vehicles,vehicle,new,VM Military Transporter ,,,,,,VM 軍用運輸車
+vehicleVMTruckOpenPlaceable,vehicles,item,EnChanged,VM  Military Transporter,,,,,,VM 軍用運輸車
+vehicleVMTruckOpenPlaceableDesc,vehicles,item,EnChanged,A Custom VM Military Transporter,,,,,,自訂 VM 軍用運輸車
+vehicleVMCombi2,vehicles,vehicle,new,VM 1963 Combi Van ,,,,,,VM 1963 Combi 廂型車
+vehicleVMCombi2Placeable,vehicles,item,EnChanged,VM 1963 Combi Van,,,,,,VM 1963 Combi 廂型車
+vehicleVMCombi2PlaceableDesc,vehicles,item,EnChanged,Another VM Custom VW Combi Van,,,,,,另一輛自訂 VM VW Combi 廂型車
+vehicleVMTruckWorkingStiffs,vehicles,vehicle,new, The Working Stiffs Van,,,,,,Working Stiffs 廂型車
+vehicleVMTruckWorkingStiffsPlaceable,vehicles,item,EnChanged, Working Stiffs Van,,,,,,Working Stiffs 廂型車
+vehicleVMTruckWorkingStiffsPlaceableDesc,vehicles,item,EnChanged,The Working Stiffs Van,,,,,,Working Stiffs 廂型車
+vehicleVMTruckMoPower,vehicles,vehicle,new,The Mo Power Van,,,,,,Mo Power 廂型車
+vehicleVMTruckMoPowerPlaceable,vehicles,item,EnChanged,Mo Power Van,,,,,,Mo Power 廂型車
+vehicleVMTruckMoPowerPlaceableDesc,vehicles,item,EnChanged,The Mo Power Van,,,,,,Mo Power 廂型車
+vehicleVMTruckAmbulance,vehicles,vehicle,new,Vanilla Ambulance,,,,,,原版救護車
+vehicleVMTruckAmbulancePlaceable,vehicles,item,EnChanged,Vanilla Ambulance,,,,,,原版救護車
+vehicleVMTruckAmbulancePlaceableDesc,vehicles,item,EnChanged,The Vanilla Ambulance,,,,,,原版救護車
 <!-- NEW VEHICLES 2023 -->
-vehicleVMMuscle2,vehicles,vehicle,new, Blue VM Muscle Car ,,,,,
-vehicleVMMuscle2Placeable,vehicles,item,EnChanged,Blue VM Muscle Car,,,,,
-vehicleVMMuscle2PlaceableDesc,vehicles,item,EnChanged,Blue VM Muscle Car,,,,,
-vehicleVMMuscleRed,vehicles,vehicle,new,Red VM Muscle Car,,,,,
-vehicleVMMuscleRedPlaceable,vehicles,item,EnChanged,VM Red Muscle Car,,,,,
-vehicleVMMuscleRedPlaceableDesc,vehicles,item,EnChanged,A Custom Red VM Muscle Car,,,,,
-vehicleVMJunkerMustang,vehicles,vehicle,new,VM Junker Mustang,,,,,
-vehicleVMJunkerMustangPlaceable,vehicles,item,EnChanged,VM Junker Mustang,,,,,
-vehicleVMJunkerMustangPlaceableDesc,vehicles,item,EnChanged,A Custom VM Junker Mustang to craft,,,,,
-vehicleVMBusSchool,vehicles,vehicle,new,Yellow School Bus ,,,,,
-vehicleVMBusSchoolPlaceable,vehicles,item,EnChanged,Yellow School Bus,,,,,
-vehicleVMBusSchoolPlaceableDesc,vehicles,item,EnChanged,Yellow School Bus,,,,,
-vehicleVMBusCity,vehicles,vehicle,new,Blue City Bus,,,,,
-vehicleVMBusCityPlaceable,vehicles,item,EnChanged,Blue City Bus,,,,,
-vehicleVMBusCityPlaceableDesc,vehicles,item,EnChanged,Blue City Bus,,,,,
-vehicleVMBusShuttle,vehicles,vehicle,new,Grey Shuttle Bus,,,,,
-vehicleVMBusShuttlePlaceable,vehicles,item,EnChanged,Grey Shuttle Bus,,,,,
-vehicleVMBusShuttlePlaceableDesc,vehicles,item,EnChanged,Grey Shuttle Bus.,,,,,
-vehicleVMCamaro,vehicles,vehicle,new,VM Camaro,,,,,
-vehicleVMCamaroPlaceable,vehicles,item,EnChanged,VM Camaro,,,,,
-vehicleVMCamaroPlaceableDesc,vehicles,item,EnChanged,A Custom VM Camaro,,,,,
-vehicleVMSedanCutlas,vehicles,vehicle,new,VM Cutlass Sedan,,,,,
-vehicleVMSedanCutlasPlaceable,vehicles,item,EnChanged,VM Cutlass Sedan,,,,,
-vehicleVMSedanCutlasPlaceableDesc,vehicles,item,EnChanged,A Custom VM Cutlass Sedan,,,,,
-vehicleVMSedanFairH,vehicles,vehicle,new,VM FairHaven Sedan,,,,,
-vehicleVMSedanFairHPlaceable,vehicles,item,EnChanged,VM FairHaven Sedan,,,,,
-vehicleVMSedanFairHPlaceableDesc,vehicles,item,EnChanged,A Custom VM FairHaven Sedan,,,,,
-vehicleVMStationWagon,vehicles,vehicle,new,VM Station Wagon,,,,,
-vehicleVMStationWagonPlaceable,vehicles,item,EnChanged,VM Station Wagon,,,,,
-vehicleVMStationWagonPlaceableDesc,vehicles,item,EnChanged,A Custom VM Station Wagon,,,,,
-vehicleVMSmallPickUp,vehicles,vehicle,new,Small VM Pickup Truck,,,,,
-vehicleVMSmallPickUpPlaceable,vehicles,item,EnChanged,Small VM Pickup Truck.,,,,,
-vehicleVMSmallPickUpPlaceableDesc,vehicles,item,EnChanged,A Custom VM Small Pickup Truck,,,,,
-vehicleVMSkylineGTR,vehicles,vehicle,new,VM Skyline GT-R,,,,,
-vehicleVMSkylineGTRPlaceable,vehicles,item,EnChanged,VM Skyline GT-R,,,,,
-vehicleVMSkylineGTRPlaceableDesc,vehicles,item,EnChanged,A Custom VM Skyline GT-R,,,,,
-vehicleVMCaterham,vehicles,vehicle,new,VM Caterham,,,,,
-vehicleVMCaterhamPlaceable,vehicles,item,EnChanged,VM Caterham,,,,,
-vehicleVMCaterhamPlaceableDesc,vehicles,item,EnChanged,A Custom 2 seater VM Caterham.,,,,,
-vehicleVMDumperTruck,vehicles,vehicle,new,Old VM Dumper Truck,,,,,
-vehicleVMDumperTruckPlaceable,vehicles,item,EnChanged,An Old VM Dumper Truck,,,,,
-vehicleVMDumperTruckPlaceableDesc,vehicles,item,EnChanged,A Custom VM Old Dumper Truck,,,,,
-vehicleVMVanRed,vehicles,vehicle,new,Old Red VM Van,,Red Van antigua,,,Van antigua,
-vehicleVMVanRedPlaceable,vehicles,item,EnChanged,Old Red VM Van,,Van antigua,,,Van antigua,
-vehicleVMVanRedPlaceableDesc,vehicles,item,EnChanged,A Custom Old Red VM Van,,Una van antigua personalizada,,,Una van antigua personalizada,
-vehicleVMEvoLancer,vehicles,vehicle,new,VM EVO Lancer,,,,,
-vehicleVMEvoLancerPlaceable,vehicles,item,EnChanged,A Custom VM EVO Lancer,,,,,
-vehicleVMEvoLancerPlaceableDesc,vehicles,item,EnChanged,A Custom VM Evo Lancer,,,,,
+vehicleVMMuscle2,vehicles,vehicle,new, Blue VM Muscle Car ,,,,,,藍色 VM 肌肉車
+vehicleVMMuscle2Placeable,vehicles,item,EnChanged,Blue VM Muscle Car,,,,,,藍色 VM 肌肉車
+vehicleVMMuscle2PlaceableDesc,vehicles,item,EnChanged,Blue VM Muscle Car,,,,,,藍色 VM 肌肉車
+vehicleVMMuscleRed,vehicles,vehicle,new,Red VM Muscle Car,,,,,,紅色 VM 肌肉車
+vehicleVMMuscleRedPlaceable,vehicles,item,EnChanged,VM Red Muscle Car,,,,,,紅色 VM 肌肉車
+vehicleVMMuscleRedPlaceableDesc,vehicles,item,EnChanged,A Custom Red VM Muscle Car,,,,,,自訂紅色 VM 肌肉車
+vehicleVMJunkerMustang,vehicles,vehicle,new,VM Junker Mustang,,,,,,VM 廢土 Mustang
+vehicleVMJunkerMustangPlaceable,vehicles,item,EnChanged,VM Junker Mustang,,,,,,VM 廢土 Mustang
+vehicleVMJunkerMustangPlaceableDesc,vehicles,item,EnChanged,A Custom VM Junker Mustang to craft,,,,,,可製作的自訂 VM 廢土 Mustang
+vehicleVMBusSchool,vehicles,vehicle,new,Yellow School Bus ,,,,,,黃色校車
+vehicleVMBusSchoolPlaceable,vehicles,item,EnChanged,Yellow School Bus,,,,,,黃色校車
+vehicleVMBusSchoolPlaceableDesc,vehicles,item,EnChanged,Yellow School Bus,,,,,,黃色校車
+vehicleVMBusCity,vehicles,vehicle,new,Blue City Bus,,,,,,藍色城市巴士
+vehicleVMBusCityPlaceable,vehicles,item,EnChanged,Blue City Bus,,,,,,藍色城市巴士
+vehicleVMBusCityPlaceableDesc,vehicles,item,EnChanged,Blue City Bus,,,,,,藍色城市巴士
+vehicleVMBusShuttle,vehicles,vehicle,new,Grey Shuttle Bus,,,,,,灰色接駁巴士
+vehicleVMBusShuttlePlaceable,vehicles,item,EnChanged,Grey Shuttle Bus,,,,,,灰色接駁巴士
+vehicleVMBusShuttlePlaceableDesc,vehicles,item,EnChanged,Grey Shuttle Bus.,,,,,,灰色接駁巴士。
+vehicleVMCamaro,vehicles,vehicle,new,VM Camaro,,,,,,VM Camaro
+vehicleVMCamaroPlaceable,vehicles,item,EnChanged,VM Camaro,,,,,,VM Camaro
+vehicleVMCamaroPlaceableDesc,vehicles,item,EnChanged,A Custom VM Camaro,,,,,,自訂 VM Camaro
+vehicleVMSedanCutlas,vehicles,vehicle,new,VM Cutlass Sedan,,,,,,VM Cutlass 轎車
+vehicleVMSedanCutlasPlaceable,vehicles,item,EnChanged,VM Cutlass Sedan,,,,,,VM Cutlass 轎車
+vehicleVMSedanCutlasPlaceableDesc,vehicles,item,EnChanged,A Custom VM Cutlass Sedan,,,,,,自訂 VM Cutlass 轎車
+vehicleVMSedanFairH,vehicles,vehicle,new,VM FairHaven Sedan,,,,,,VM FairHaven 轎車
+vehicleVMSedanFairHPlaceable,vehicles,item,EnChanged,VM FairHaven Sedan,,,,,,VM FairHaven 轎車
+vehicleVMSedanFairHPlaceableDesc,vehicles,item,EnChanged,A Custom VM FairHaven Sedan,,,,,,自訂 VM FairHaven 轎車
+vehicleVMStationWagon,vehicles,vehicle,new,VM Station Wagon,,,,,,VM 旅行車
+vehicleVMStationWagonPlaceable,vehicles,item,EnChanged,VM Station Wagon,,,,,,VM 旅行車
+vehicleVMStationWagonPlaceableDesc,vehicles,item,EnChanged,A Custom VM Station Wagon,,,,,,自訂 VM 旅行車
+vehicleVMSmallPickUp,vehicles,vehicle,new,Small VM Pickup Truck,,,,,,小型 VM 皮卡車
+vehicleVMSmallPickUpPlaceable,vehicles,item,EnChanged,Small VM Pickup Truck.,,,,,,小型 VM 皮卡車。
+vehicleVMSmallPickUpPlaceableDesc,vehicles,item,EnChanged,A Custom VM Small Pickup Truck,,,,,,自訂 VM 小型皮卡車
+vehicleVMSkylineGTR,vehicles,vehicle,new,VM Skyline GT-R,,,,,,VM Skyline GT-R
+vehicleVMSkylineGTRPlaceable,vehicles,item,EnChanged,VM Skyline GT-R,,,,,,VM Skyline GT-R
+vehicleVMSkylineGTRPlaceableDesc,vehicles,item,EnChanged,A Custom VM Skyline GT-R,,,,,,自訂 VM Skyline GT-R
+vehicleVMCaterham,vehicles,vehicle,new,VM Caterham,,,,,,VM Caterham
+vehicleVMCaterhamPlaceable,vehicles,item,EnChanged,VM Caterham,,,,,,VM Caterham
+vehicleVMCaterhamPlaceableDesc,vehicles,item,EnChanged,A Custom 2 seater VM Caterham.,,,,,,自訂雙座 VM Caterham。
+vehicleVMDumperTruck,vehicles,vehicle,new,Old VM Dumper Truck,,,,,,舊 VM 傾卸卡車
+vehicleVMDumperTruckPlaceable,vehicles,item,EnChanged,An Old VM Dumper Truck,,,,,,舊 VM 傾卸卡車
+vehicleVMDumperTruckPlaceableDesc,vehicles,item,EnChanged,A Custom VM Old Dumper Truck,,,,,,自訂舊 VM 傾卸卡車
+vehicleVMVanRed,vehicles,vehicle,new,Old Red VM Van,,Red Van antigua,,,Van antigua,,舊紅色 VM 廂型車
+vehicleVMVanRedPlaceable,vehicles,item,EnChanged,Old Red VM Van,,Van antigua,,,Van antigua,,舊紅色 VM 廂型車
+vehicleVMVanRedPlaceableDesc,vehicles,item,EnChanged,A Custom Old Red VM Van,,Una van antigua personalizada,,,Una van antigua personalizada,,自訂舊紅色 VM 廂型車
+vehicleVMEvoLancer,vehicles,vehicle,new,VM EVO Lancer,,,,,,VM EVO Lancer
+vehicleVMEvoLancerPlaceable,vehicles,item,EnChanged,A Custom VM EVO Lancer,,,,,,自訂 VM EVO Lancer
+vehicleVMEvoLancerPlaceableDesc,vehicles,item,EnChanged,A Custom VM Evo Lancer,,,,,,自訂 VM Evo Lancer
 <!--##### New Vehicles 2024#####-->
-vehicleVMVespakart,vehicles,vehicle,new,VM Vespa Kart,,,,,
-vehicleVMVespakartPlaceable,vehicles,item,EnChanged,VM Vespa Kart,,,,,
-vehicleVMVespakartPlaceableDesc,vehicles,item,EnChanged,A Funky VM Vespa Kart Transport,,,,,
-vehicleVMExplorer,vehicles,vehicle,new,VM Explorer 4x4,,,,,
-vehicleVMExplorerPlaceable,vehicles,item,EnChanged,VM Explorer 4x4,,,,,
-vehicleVMExplorerPlaceableDesc,vehicles,item,EnChanged,A Custom VM Explorer 4x4,,,,,
-vehicleVMOldSemi,vehicles,vehicle,new,Old VM Semi Truck,,,,,
-vehicleVMOldSemiPlaceable,vehicles,item,EnChanged,Old VM Semi Truck,,,,,
-vehicleVMOldSemiPlaceableDesc,vehicles,item,EnChanged,A Old VM Semi Truck,,,,,
-vehicleVMMustangMach1,vehicles,vehicle,new, VM Mustang Mach1,,,,,
-vehicleVMMustangMach1Placeable,vehicles,item,EnChanged,VM Mustang Mach1,,,,,
-vehicleVMMustangMach1PlaceableDesc,vehicles,item,EnChanged,A custom VM Mustang Mach1,,,,,
+vehicleVMVespakart,vehicles,vehicle,new,VM Vespa Kart,,,,,,VM Vespa 卡丁車
+vehicleVMVespakartPlaceable,vehicles,item,EnChanged,VM Vespa Kart,,,,,,VM Vespa 卡丁車
+vehicleVMVespakartPlaceableDesc,vehicles,item,EnChanged,A Funky VM Vespa Kart Transport,,,,,,酷炫 VM Vespa 卡丁運輸車
+vehicleVMExplorer,vehicles,vehicle,new,VM Explorer 4x4,,,,,,VM Explorer 4x4
+vehicleVMExplorerPlaceable,vehicles,item,EnChanged,VM Explorer 4x4,,,,,,VM Explorer 4x4
+vehicleVMExplorerPlaceableDesc,vehicles,item,EnChanged,A Custom VM Explorer 4x4,,,,,,自訂 VM Explorer 4x4
+vehicleVMOldSemi,vehicles,vehicle,new,Old VM Semi Truck,,,,,,舊 VM 半掛卡車
+vehicleVMOldSemiPlaceable,vehicles,item,EnChanged,Old VM Semi Truck,,,,,,舊 VM 半掛卡車
+vehicleVMOldSemiPlaceableDesc,vehicles,item,EnChanged,A Old VM Semi Truck,,,,,,舊 VM 半掛卡車
+vehicleVMMustangMach1,vehicles,vehicle,new, VM Mustang Mach1,,,,,,VM Mustang Mach1
+vehicleVMMustangMach1Placeable,vehicles,item,EnChanged,VM Mustang Mach1,,,,,,VM Mustang Mach1
+vehicleVMMustangMach1PlaceableDesc,vehicles,item,EnChanged,A custom VM Mustang Mach1,,,,,,自訂 VM Mustang Mach1
 
 <!-- ###### New Items ###### -->
-VMToolCarLift,items,Part,EnChanged,VM Car Lift,,Elevador de coches,,,Elevador de coches,
-VMToolCarLiftDesc,items,Part,EnChanged,VM Car Lift used to craft the Auto WorkBench,,Elevador de coches,,,Elevador de coches,
-VMToolRatchetSet,items,Part,EnChanged,VM Ratchet Set,,Caja de tuercas,,,Caja de tuercas,
-VMToolRatchetSetDesc,items,Part,EnChanged,VM Ratchet Set used to craft the Auto WorkBench,,Caja de tuercas,,,Caja de tuercas,
-VMToolCompressor,items,Part,EnChanged,VM Compressor Tool,,Herramienta de compresión,,,Herramienta de compresión,
-VMToolCompressorDesc,items,Part,EnChanged,VM Compressor Tool used to craft the Auto WorkBench,,Herramienta de compresión,,,Herramienta de compresión,
-Tire,items,Part,EnChanged,Tire,,,,,,
-TireDesc,items,Part,EnChanged,"Vehicle Parts and components are used for constructing vehicles.",,,,,,
-RepairToolDesc1,items,Part,EnChanged,"A tool for restoring high tier VM vehicles you find in the world.",,,,,,
-RepairToolDesc2,items,Part,EnChanged,"A tool for restoring mid tier VM vehicles you find in the world.",,,,,,
-RepairToolDesc3,items,Part,EnChanged,"A tool for restoring low tier VM vehicles you find in the world.",,,,,,
-damagedTire,items,Part,EnChanged,Damaged Tire,,,,,
-carAlternator,items,Part,EnChanged,VM Car Alternator,,,,,
-damagedcarAlternator,items,Part,EnChanged,Damaged VM Car Alternator,,,,,
-carEngineAssembly,items,Part,EnChanged,VM Car Engine Assembly,,,,,
-carElectricalAssembly,items,Part,EnChanged,VM Car Electrical Assembly,,,,,
-carBodyAssembly,items,Part,EnChanged,VM Car Body Assembly,,,,,
-carEngine,items,Part,EnChanged,VM Car Engine,,,,,
-damagedcarEngine,items,Part,EnChanged,Damaged VM Car Engine,,,,,
-carCarburetor,items,Part,EnChanged,VM Car Carburetor,,,,,
-damagedcarCarburetor,items,Part,EnChanged,Damaged VM Car Carburetor,,,,,
-carSeats,items,Part,EnChanged,VM Car Seats,,,,,
-damagedcarSeats,items,Part,EnChanged,Damaged VM Car Seats,,,,,
-damagedcarBattery,items,Part,EnChanged,Damaged VM Car Battery,,,,,
+VMToolCarLift,items,Part,EnChanged,VM Car Lift,,Elevador de coches,,,Elevador de coches,,VM 汽車升降機
+VMToolCarLiftDesc,items,Part,EnChanged,VM Car Lift used to craft the Auto WorkBench,,Elevador de coches,,,Elevador de coches,,用於製作汽車工作台的 VM 汽車升降機
+VMToolRatchetSet,items,Part,EnChanged,VM Ratchet Set,,Caja de tuercas,,,Caja de tuercas,,VM 棘輪扳手組
+VMToolRatchetSetDesc,items,Part,EnChanged,VM Ratchet Set used to craft the Auto WorkBench,,Caja de tuercas,,,Caja de tuercas,,用於製作汽車工作台的 VM 棘輪扳手組
+VMToolCompressor,items,Part,EnChanged,VM Compressor Tool,,Herramienta de compresión,,,Herramienta de compresión,,VM 壓縮機工具
+VMToolCompressorDesc,items,Part,EnChanged,VM Compressor Tool used to craft the Auto WorkBench,,Herramienta de compresión,,,Herramienta de compresión,,用於製作汽車工作台的 VM 壓縮機工具
+Tire,items,Part,EnChanged,Tire,,,,,,輪胎
+TireDesc,items,Part,EnChanged,"Vehicle Parts and components are used for constructing vehicles.",,,,,,載具零件與組件用於組裝載具。
+RepairToolDesc1,items,Part,EnChanged,"A tool for restoring high tier VM vehicles you find in the world.",,,,,,用於修復在世界中找到的高階 VM 載具的工具。
+RepairToolDesc2,items,Part,EnChanged,"A tool for restoring mid tier VM vehicles you find in the world.",,,,,,用於修復在世界中找到的中階 VM 載具的工具。
+RepairToolDesc3,items,Part,EnChanged,"A tool for restoring low tier VM vehicles you find in the world.",,,,,,用於修復在世界中找到的低階 VM 載具的工具。
+damagedTire,items,Part,EnChanged,Damaged Tire,,,,,,損壞的輪胎
+carAlternator,items,Part,EnChanged,VM Car Alternator,,,,,,VM 汽車發電機
+damagedcarAlternator,items,Part,EnChanged,Damaged VM Car Alternator,,,,,,損壞的 VM 汽車發電機
+carEngineAssembly,items,Part,EnChanged,VM Car Engine Assembly,,,,,,VM 汽車引擎組件
+carElectricalAssembly,items,Part,EnChanged,VM Car Electrical Assembly,,,,,,VM 汽車電氣組件
+carBodyAssembly,items,Part,EnChanged,VM Car Body Assembly,,,,,,VM 汽車車身組件
+carEngine,items,Part,EnChanged,VM Car Engine,,,,,,VM 汽車引擎
+damagedcarEngine,items,Part,EnChanged,Damaged VM Car Engine,,,,,,損壞的 VM 汽車引擎
+carCarburetor,items,Part,EnChanged,VM Car Carburetor,,,,,,VM 汽車化油器
+damagedcarCarburetor,items,Part,EnChanged,Damaged VM Car Carburetor,,,,,,損壞的 VM 汽車化油器
+carSeats,items,Part,EnChanged,VM Car Seats,,,,,,VM 汽車座椅
+damagedcarSeats,items,Part,EnChanged,Damaged VM Car Seats,,,,,,損壞的 VM 汽車座椅
+damagedcarBattery,items,Part,EnChanged,Damaged VM Car Battery,,,,,,損壞的 VM 汽車電池
 <!-- HeavyDutyBattery,items,Part,EnChanged,VM Heavy Duty Battery,,,,,-->
-carTransmission,items,Part,EnChanged,VM Car Transmission,,,,,
-damagedcarTransmission,items,Part,EnChanged,Damaged VM Car Transmission,,,,,
-carChassis,items,Part,EnChanged,VM Car Chassis,,,,,
-damagedcarChassis,items,Part,EnChanged,Damaged VM Car Chassis,,,,,
-carDoors,items,Part,EnChanged,Car Doors,,,,,
-carHood,items,Part,EnChanged,Car Hood,,,,,
-carTrunk,items,Part,EnChanged,Car Trunk,,,,,
-carBodyKit,items,Part,EnChanged,Car Body Kit,,,,,
-carFender,items,Part,EnChanged,Car Fender,,,,,
-carBumperFront,items,Part,EnChanged,Car Bumper Front,,,,,
-carWheelrims,items,Part,EnChanged,VM Car Wheel Rims,,,,,
-vehicleVMWheels,items,Part,EnChanged,VM Wheels,,,,,
-damagedWheel,items,Part,EnChanged,Damaged VM Wheel,,,,,
-Footpump,items,Part,EnChanged,VM Foot Pump,,,,,
-BatteryChargerUnit,items,Part,EnChanged,VM Battery Charger Unit,,,,,
-HotwireKit,items,Part,EnChanged,VM Hotwire Kit,,,,,
-WireCutters,items,Part,EnChanged,VM Wire Cutters,,,,,
-ElectricalWire,items,Part,EnChanged,VM Electrical Wire,,,,,
-MonsterSuspensionAssembly,items,Part,EnChanged,VM Monster Suspension Assembly,,,,,
-VMPickupShell,items,Part,EnChanged, A useable part for the VM Monster Pickup Recipe ,,,,,
+carTransmission,items,Part,EnChanged,VM Car Transmission,,,,,,VM 汽車變速箱
+damagedcarTransmission,items,Part,EnChanged,Damaged VM Car Transmission,,,,,,損壞的 VM 汽車變速箱
+carChassis,items,Part,EnChanged,VM Car Chassis,,,,,,VM 汽車底盤
+damagedcarChassis,items,Part,EnChanged,Damaged VM Car Chassis,,,,,,損壞的 VM 汽車底盤
+carDoors,items,Part,EnChanged,Car Doors,,,,,,車門
+carHood,items,Part,EnChanged,Car Hood,,,,,,引擎蓋
+carTrunk,items,Part,EnChanged,Car Trunk,,,,,,行李箱
+carBodyKit,items,Part,EnChanged,Car Body Kit,,,,,,車身套件
+carFender,items,Part,EnChanged,Car Fender,,,,,,擋泥板
+carBumperFront,items,Part,EnChanged,Car Bumper Front,,,,,,前保險桿
+carWheelrims,items,Part,EnChanged,VM Car Wheel Rims,,,,,,VM 汽車輪框
+vehicleVMWheels,items,Part,EnChanged,VM Wheels,,,,,,VM 輪胎
+damagedWheel,items,Part,EnChanged,Damaged VM Wheel,,,,,,損壞的 VM 輪圈
+Footpump,items,Part,EnChanged,VM Foot Pump,,,,,,VM 腳踩打氣筒
+BatteryChargerUnit,items,Part,EnChanged,VM Battery Charger Unit,,,,,,VM 電池充電器
+HotwireKit,items,Part,EnChanged,VM Hotwire Kit,,,,,,VM 熱線啟動套件
+WireCutters,items,Part,EnChanged,VM Wire Cutters,,,,,,VM 剪線鉗
+ElectricalWire,items,Part,EnChanged,VM Electrical Wire,,,,,,VM 電線
+MonsterSuspensionAssembly,items,Part,EnChanged,VM Monster Suspension Assembly,,,,,,VM 怪物懸吊組件
+VMPickupShell,items,Part,EnChanged, A useable part for the VM Monster Pickup Recipe ,,,,,,VM 怪物皮卡配方的可用零件
 <!-- ## Repair Tools ##-->
-MilitaryHumVeeRestorationTool,items,Part,EnChanged,VM Military Humvee Restoration Tool,,,,,
-M3AMilitaryRestorationTool,items,Part,EnChanged,VM M3A Military Car Restoration Tool,,,,,
-MilitaryTruckRestorationTool,items,Part,EnChanged,VM Military Truck Restoration Tool,,,,,
-MilitaryTruck2RestorationTool,items,Part,EnChanged,VM Old Military Truck Restoration Tool,,,,,
-StrikerAPCRestorationTool,items,Part,EnChanged,VM Striker APC Restoration Tool,,,,,
-TacticalJeepRestorationTool,items,Part,EnChanged,VM Tactical Jeep Restoration Tool,,,,,
-CobraMustangRestorationTool,items,Part,EnChanged,VM Cobra Mustang Restoration Tool,,,,,
-HunterRestorationTool,items,Part,EnChanged,VM Hunter Restoration Tool,,,,,
-WarthogRestorationTool,items,Part,EnChanged,VM Warthog Restoration Tool,,,,,
-MadMaxInterceptorRestorationTool,items,Part,EnChanged,VM Mad Max Interceptor Restoration Tool,,,,,
-GyroRestorationTool,items,Part,EnChanged,TFP Gyrocopter Restoration Tool,,,,,
-HotRodRestorationTool,items,Part,EnChanged,VM Hot Rod Restoration Tool,,,,,
-FastbackRestorationTool,items,Part,EnChanged,VM Fastback Restoration Tool,,,,,
-BigBuggyRestorationTool,items,Part,EnChanged,VM Big Buggy Restoration Tool,,,,,
-MaliceRestorationTool,items,Part,EnChanged,VM Malice Restoration Tool,,,,,
-BoxTruckRedRestorationTool,items,Part,EnChanged,VM Box Truck Red Restoration Tool,,,,,
-BigRig2RestorationTool,items,Part,EnChanged,VM Big Rig 2 Restoration Tool,,,,,
-MuscleTurboRestorationTool,items,Part,EnChanged,VM Muscle Turbo Restoration Tool,,,,,
-SmallAPOtruckRestorationTool,items,Part,EnChanged,VM Small APO Truck Restoration Tool,,,,,
+MilitaryHumVeeRestorationTool,items,Part,EnChanged,VM Military Humvee Restoration Tool,,,,,,VM 軍用悍馬 修復工具
+M3AMilitaryRestorationTool,items,Part,EnChanged,VM M3A Military Car Restoration Tool,,,,,,VM M3A 軍車 修復工具
+MilitaryTruckRestorationTool,items,Part,EnChanged,VM Military Truck Restoration Tool,,,,,,VM 軍用卡車 修復工具
+MilitaryTruck2RestorationTool,items,Part,EnChanged,VM Old Military Truck Restoration Tool,,,,,,VM 舊軍用卡車 修復工具
+StrikerAPCRestorationTool,items,Part,EnChanged,VM Striker APC Restoration Tool,,,,,,VM Striker 裝甲運兵車 修復工具
+TacticalJeepRestorationTool,items,Part,EnChanged,VM Tactical Jeep Restoration Tool,,,,,,VM 戰術吉普車 修復工具
+CobraMustangRestorationTool,items,Part,EnChanged,VM Cobra Mustang Restoration Tool,,,,,,VM Cobra Mustang 修復工具
+HunterRestorationTool,items,Part,EnChanged,VM Hunter Restoration Tool,,,,,,VM 獵人 修復工具
+WarthogRestorationTool,items,Part,EnChanged,VM Warthog Restoration Tool,,,,,,VM Warthog 修復工具
+MadMaxInterceptorRestorationTool,items,Part,EnChanged,VM Mad Max Interceptor Restoration Tool,,,,,,VM Mad Max Interceptor 修復工具
+GyroRestorationTool,items,Part,EnChanged,TFP Gyrocopter Restoration Tool,,,,,,TFP 旋翼機 修復工具
+HotRodRestorationTool,items,Part,EnChanged,VM Hot Rod Restoration Tool,,,,,,VM Hot Rod 修復工具
+FastbackRestorationTool,items,Part,EnChanged,VM Fastback Restoration Tool,,,,,,VM Fastback 修復工具
+BigBuggyRestorationTool,items,Part,EnChanged,VM Big Buggy Restoration Tool,,,,,,VM 大型 Buggy 修復工具
+MaliceRestorationTool,items,Part,EnChanged,VM Malice Restoration Tool,,,,,,VM Malice 修復工具
+BoxTruckRedRestorationTool,items,Part,EnChanged,VM Box Truck Red Restoration Tool,,,,,,VM 紅色箱型卡車 修復工具
+BigRig2RestorationTool,items,Part,EnChanged,VM Big Rig 2 Restoration Tool,,,,,,VM 大卡車 2 修復工具
+MuscleTurboRestorationTool,items,Part,EnChanged,VM Muscle Turbo Restoration Tool,,,,,,VM 肌肉渦輪 修復工具
+SmallAPOtruckRestorationTool,items,Part,EnChanged,VM Small APO Truck Restoration Tool,,,,,,VM 小型 APO 卡車 修復工具
 <!-- SmallMilitaryTruckRestorationTool,items,Part,EnChanged,VM Small Military Truck Restoration Tool,,,,,-->
-FlatbedRestorationTool,items,Part,EnChanged,VM Flatbed Restoration Tool,,,,,
-RVRestorationTool,items,Part,EnChanged,VM RV Restoration Tool,,,,,
-Van2RestorationTool,items,Part,EnChanged,VM Workshop Van Restoration Tool,,,,,
-SedanRestorationTool,items,Part,EnChanged,VM Sedan Restoration Tool,,,,,
-BeetleRestorationTool,items,Part,EnChanged,VM Beetle Restoration Tool,,,,,
-RedBMWRestorationTool,items,Part,EnChanged,VM Red BMW Restoration Tool,,,,,
-WhiteBMWRestorationTool,items,Part,EnChanged,VM White BMW Restoration Tool,,,,,
-BrownJeepRestorationTool,items,Part,EnChanged,VM Brown Jeep Restoration Tool,,,,,
-CombiVan1RestorationTool,items,Part,EnChanged,VM Combi Van 1 Restoration Tool,,,,,
-Van1RestorationTool,items,Part,EnChanged,VM NPC Van Restoration Tool,,,,,
-WSVanRestorationTool,items,Part,EnChanged,Working Stiff Van Restoration Tool,,,,,
-MOpowerVanRestorationTool,items,Part,EnChanged,Mo Power Van Restoration Tool,,,,,
-TFPAmbulanceRestorationTool,items,Part,EnChanged,TFP Ambulance Restoration Tool,,,,,
-TFP4x4RestorationTool,items,Part,EnChanged,TFP 4x4 Restoration Tool,,,,,
-TFPMotorcycleRestorationTool,items,Part,EnChanged,TFP Motorcycle Restoration Tool,,,,,
-TFPBicycleRestorationTool,items,Part,EnChanged,TFP Bicycle Restoration Tool,,,,,
-EVOLancerRestorationTool,items,Part,EnChanged,VM Evo Lancer Restoration Tool,,,,,
-SpikerRestorationTool,items,Part,EnChanged,VM Spiker Car Restoration Tool,,,,,
-MotoGuppyRestorationTool,items,Part,EnChanged,VM MotoGuppy Restoration Tool,,,,,
-CrusaderRestorationTool,items,Part,EnChanged,VM Crusader Restoration Tool,,,,,
-CutlassRestorationTool,items,Part,EnChanged,VM Cutlass Restoration Tool,,,,,
-PoliceRestorationTool,items,Part,EnChanged,VM Police Car Restoration Tool,,,,,
-BrownQuadRestorationTool,items,Part,EnChanged,VM Brown Quad Bike Restoration Tool,,,,,
-TaxiRestorationTool,items,Part,EnChanged,VM Rusty Yellow Taxi Restoration Tool,,,,,
-RedVanRestorationTool,items,Part,EnChanged,VM Red Van Restoration Tool,,,,,
-VespaRestorationTool,items, part,EnChanged,VM Vespa Restoration Tools,,,,,
-VespaKartRestorationTool,items, part,EnChanged,VM Vespa Kart Restoration Tools,,,,,
-ExplorerRestorationTool,items,Part,EnChanged,VM Explorer Restoration Tool,,,,,
-OldSemiRestorationTool,items,Part,EnChanged,VM Old Semi Restoration Tool,,,,,
-Mach1RestorationTool,items,Part,EnChanged,VM Mustang Mach1 Restoration Tool,,,,,
-YellowSchoolBusRestorationTool,items,Part,EnChanged,Yellow School Bus Restoration Tool,,,,,
+FlatbedRestorationTool,items,Part,EnChanged,VM Flatbed Restoration Tool,,,,,,VM 平板卡車 修復工具
+RVRestorationTool,items,Part,EnChanged,VM RV Restoration Tool,,,,,,VM 休旅車 修復工具
+Van2RestorationTool,items,Part,EnChanged,VM Workshop Van Restoration Tool,,,,,,VM 工坊廂型車 修復工具
+SedanRestorationTool,items,Part,EnChanged,VM Sedan Restoration Tool,,,,,,VM 轎車 修復工具
+BeetleRestorationTool,items,Part,EnChanged,VM Beetle Restoration Tool,,,,,,VM 金龜車 修復工具
+RedBMWRestorationTool,items,Part,EnChanged,VM Red BMW Restoration Tool,,,,,,VM 紅色 BMW 修復工具
+WhiteBMWRestorationTool,items,Part,EnChanged,VM White BMW Restoration Tool,,,,,,VM 白色 BMW 修復工具
+BrownJeepRestorationTool,items,Part,EnChanged,VM Brown Jeep Restoration Tool,,,,,,VM 棕色吉普車 修復工具
+CombiVan1RestorationTool,items,Part,EnChanged,VM Combi Van 1 Restoration Tool,,,,,,VM Combi 廂型車 1 修復工具
+Van1RestorationTool,items,Part,EnChanged,VM NPC Van Restoration Tool,,,,,,VM NPC 廂型車 修復工具
+WSVanRestorationTool,items,Part,EnChanged,Working Stiff Van Restoration Tool,,,,,,Working Stiff 廂型車 修復工具
+MOpowerVanRestorationTool,items,Part,EnChanged,Mo Power Van Restoration Tool,,,,,,Mo Power 廂型車 修復工具
+TFPAmbulanceRestorationTool,items,Part,EnChanged,TFP Ambulance Restoration Tool,,,,,,TFP 救護車 修復工具
+TFP4x4RestorationTool,items,Part,EnChanged,TFP 4x4 Restoration Tool,,,,,,TFP 4x4 修復工具
+TFPMotorcycleRestorationTool,items,Part,EnChanged,TFP Motorcycle Restoration Tool,,,,,,TFP 摩托車 修復工具
+TFPBicycleRestorationTool,items,Part,EnChanged,TFP Bicycle Restoration Tool,,,,,,TFP 腳踏車 修復工具
+EVOLancerRestorationTool,items,Part,EnChanged,VM Evo Lancer Restoration Tool,,,,,,VM Evo Lancer 修復工具
+SpikerRestorationTool,items,Part,EnChanged,VM Spiker Car Restoration Tool,,,,,,VM Spiker 車 修復工具
+MotoGuppyRestorationTool,items,Part,EnChanged,VM MotoGuppy Restoration Tool,,,,,,VM MotoGuppy 修復工具
+CrusaderRestorationTool,items,Part,EnChanged,VM Crusader Restoration Tool,,,,,,VM Crusader 修復工具
+CutlassRestorationTool,items,Part,EnChanged,VM Cutlass Restoration Tool,,,,,,VM Cutlass 修復工具
+PoliceRestorationTool,items,Part,EnChanged,VM Police Car Restoration Tool,,,,,,VM 警車 修復工具
+BrownQuadRestorationTool,items,Part,EnChanged,VM Brown Quad Bike Restoration Tool,,,,,,VM 棕色四輪摩托 修復工具
+TaxiRestorationTool,items,Part,EnChanged,VM Rusty Yellow Taxi Restoration Tool,,,,,,VM 生鏽黃色計程車 修復工具
+RedVanRestorationTool,items,Part,EnChanged,VM Red Van Restoration Tool,,,,,,VM 紅色廂型車 修復工具
+VespaRestorationTool,items, part,EnChanged,VM Vespa Restoration Tools,,,,,,VM Vespa 修復工具
+VespaKartRestorationTool,items, part,EnChanged,VM Vespa Kart Restoration Tools,,,,,,VM Vespa 卡丁車 修復工具
+ExplorerRestorationTool,items,Part,EnChanged,VM Explorer Restoration Tool,,,,,,VM Explorer 修復工具
+OldSemiRestorationTool,items,Part,EnChanged,VM Old Semi Restoration Tool,,,,,,VM 舊半掛卡車 修復工具
+Mach1RestorationTool,items,Part,EnChanged,VM Mustang Mach1 Restoration Tool,,,,,,VM Mustang Mach1 修復工具
+YellowSchoolBusRestorationTool,items,Part,EnChanged,Yellow School Bus Restoration Tool,,,,,,黃色校車 修復工具
 <!-- ###### New Blocks ###### -->
-VMAutoWorkbench,blocks,Block,KeyChanged EnChanged,Auto Workbench,,Mesa de trabajo de automóviles,,,Mesa de trabajo de automóviles,
+VMAutoWorkbench,blocks,Block,KeyChanged EnChanged,Auto Workbench,,Mesa de trabajo de automóviles,,,Mesa de trabajo de automóviles,,汽車工作台
 <!--### Change All Wreck Descriptions ###-->
-PoliceCarDamaged,blocks,Block,KeyChanged EnChanged,Damaged VM Police Car,,Coche de policía,,,Coche de policía,
-OldPickupTruck,blocks,Block,KeyChanged EnChanged,Damaged VM Old Pickup ,,Pickup dañado,,,Pickup dañado,
-AmbulanceDamaged,blocks,Block,KeyChanged EnChanged,Damaged VM Ambulance,,Ambulancia,,,Ambulancia,
-AmbulanceHalfWreck,blocks,Block,KeyChanged EnChanged,Half wrecked VM Ambulance,,Ambulancia,,,Ambulancia,
-AmbulanceShell,blocks,Block,KeyChanged EnChanged,Damaged VM Ambulance Shell,,Ambulancia,,,Ambulancia,
-AbandonedMilitary,blocks,Block,EnChanged,VM Abandoned Military Trailer,,,,,
-BigRigDamaged,blocks,Block,EnChanged,Damaged VM Big Rig 1,,,,,
-BigRigShell,blocks,Block,EnChanged,VM Big Rig 1 Shell,,,,,
-BlueEvoDamaged,blocks,Block,EnChanged,Damaged Blue VM EVO,,,,,
-BlueEvoHalfWreck,blocks,Block,EnChanged,Blue VM EVO Wreck,,,,,
-BlueEvoShell,blocks,Block,EnChanged,Blue VM EVO Shell,,,,,
-BusDamaged,blocks,Block,EnChanged,Damaged VM Bus,,,,,
-BusDamaged2,blocks,Block,EnChanged,Damaged VM Bus,,,,,
-cntAmbulanceTruck01,blocks,Block,EnChanged,Large Ambulance,,,,,
-cntArmyTruckClosed,blocks,Block,EnChanged,Army Truck,,,,,
-cntArmyTruckOpen,blocks,Block,EnChanged,Army Truck,,,,,
-cntBusCity,blocks,Block,EnChanged,City Bus,,,,,
-cntBusSchool,blocks,Block,EnChanged,School Bus,,,,,
-cntBusSchoolShort,blocks,Block,EnChanged,Short School Bus,,,,,
-VMWreckCar1,blocks,Block,EnChanged,Random Car 1,,,,,
-VMWreckCar2,blocks,Block,EnChanged,Random Car 2,,,,,
-VMWreckCar3,blocks,Block,EnChanged,Random Car 3,,,,,
-VMWreckCar4,blocks,Block,EnChanged,Random Car 4,,,,,
-VMWreckCar5,blocks,Block,EnChanged,Random Car 5,,,,,
-VMWreckCar6,blocks,Block,EnChanged,Random Car 6,,,,,
-VMWreckCar7_2,blocks,Block,EnChanged,Random Car 7b,,,,,
-VMWreckCar7_3,blocks,Block,EnChanged,Random Car 7c,,,,,
-VMWreckCar7,blocks,Block,EnChanged,Random Car 7,,,,,
-VMWreckCar8_2,blocks,Block,EnChanged,Random Car 8b,,,,,
-VMWreckCar8_3,blocks,Block,EnChanged,Random Car 8c,,,,,
-VMWreckCar8,blocks,Block,EnChanged,Random Car 8,,,,,
-VMWreckLada1,blocks,Block,EnChanged,Lada,,,,,
-cntServiceTruckMoPower,blocks,Block,EnChanged,Mo Power Truck,,,,,
-cntServiceTruckWorkingStiffTools,blocks,Block,EnChanged,Stiff Tools Truck,,,,,
-VMWreckSUV1_2,blocks,Block,EnChanged,SUV 2,,,,,
-VMWreckSUV1_3,blocks,Block,EnChanged,SUV 3,,,,,
-VMWreckSUV1,blocks,Block,EnChanged,SUV 1,,,,,
-VMWreckTruck1,blocks,Block,EnChanged,Truck 1,,,,,
-VMWreckTruck2,blocks,Block,EnChanged,Truck 2,,,,,
-VMWreckVan,blocks,Block,EnChanged,Van 1,,,,,
-VMWreckVan2_1,blocks,Block,EnChanged,Van 2,,,,,
-VMWreckVan2_3,blocks,Block,EnChanged,Van 2a,,,,,
-VMWreckRV,blocks,Block,EnChanged,Damaged RV,,,,,
-VMWreckRV1,blocks,Block,EnChanged,RV Wreck,,,,,
-VMWreckWagon1,blocks,Block,EnChanged,Wagon,,,,,
-VMWreckZuk1,blocks,Block,EnChanged,Żuk,,,,,
-CrusaderDamaged,blocks,Block,EnChanged,Damaged VM Crusader,,,,,
-CrusaderHalfWreck,blocks,Block,EnChanged,VM Crusader Wreck,,,,,
-CrusaderShell,blocks,Block,EnChanged,VM Crusader Shell,,,,,
-FastbackDamaged,blocks,Block,EnChanged,Damaged VM Fastback,,,,,
-FastbackHalfWreck,blocks,Block,EnChanged,VM Fastback Wreck,,,,,
-FastbackShell,blocks,Block,EnChanged,VM Fastback Shell,,,,,
-FiretruckDamaged,blocks,Block,EnChanged,Damaged VM Firetruck,,,,,
-FiretruckWreck,blocks,Block,EnChanged,VM Firetruck Wreck,,,,,
-FuelTankerDamaged,blocks,Block,EnChanged,Damaged VM Fuel Tanker,,,,,
-GasTank,blocks,Block,EnChanged,Old VM Gas Tank,,,,,
-GasTankerTruck,blocks,Block,EnChanged,VM Gas Tanker truck,,,,,
-GreyEvoDamaged,blocks,Block,EnChanged,Damaged Grey VM EVO,,,,,
-GreyEvoEvoShell,blocks,Block,EnChanged,Grey VM EVO Shell,,,,,
-GreyEvoHalfWreck,blocks,Block,EnChanged,Grey VM EVO Wreck,,,,,
-GTODamaged,blocks,Block,EnChanged,Damaged VM Old GTO,,,,,
-JeepDamaged,blocks,Block,EnChanged,Damaged VM Jeep,,,,,
-JeepHalfWreck,blocks,Block,EnChanged,VM Jeep Wreck,,,,,
-JeepShell,blocks,Block,EnChanged,VM Jeep Shell,,,,,
-MilitaryHumVeeDamaged,blocks,Block,EnChanged,Damaged VM Military HumVee,,,,,
-MilitaryHumVeeShell,blocks,Block,EnChanged,VM Military HumVee Shell,,,,,
-MilitaryTruckDamaged,blocks,Block,EnChanged,Damaged VM Military Truck,,,,,
-MilitaryTruckShell,blocks,Block,EnChanged,VM Military Truck Shell,,,,,
-MustangDamaged,blocks,Block,EnChanged,Damaged old VM Mustang,,,,,
-OldChevyTruckDamaged,blocks,Block,EnChanged,Damaged Smith's Dad's Old VM Chevy Truck,,,,,
-OldsmobileDamaged,blocks,Block,EnChanged,Damaged VM Oldsmobile,,,,,
-OldsmobileHalfWreck,blocks,Block,EnChanged,VM Oldsmobile Wreck,,,,,
-OldsmobileShell,blocks,Block,EnChanged,VM Oldsmobile Shell,,,,,
-OrangeEvoDamaged,blocks,Block,EnChanged,Damaged Orange VM EVO,,,,,
-OrangeEvoEvoShell,blocks,Block,EnChanged,Orange VM EVO Shell,,,,,
-OrangeEvoHalfWreck,blocks,Block,EnChanged,Orange VM EVO Wreck,,,,,
-RedBMWDamaged,blocks,Block,EnChanged,Damaged Red VM BMW,,,,,
-RedBMWHalfWreck,blocks,Block,EnChanged,Red VM BMW Wreck,,,,,
-RedBMWShell,blocks,Block,EnChanged,Red VM BMW Shell,,,,,
-SpikerDamaged,blocks,Block,EnChanged,Damaged VM Spiker,,,,,
-SpikerHalfWreck,blocks,Block,EnChanged,VM Spiker Wreck,,,,,
-SpikerShell,blocks,Block,EnChanged,VM Spiker Shell,,,,,
-TurboDamaged,blocks,Block,EnChanged,Damaged VM Hell Car Turbo,,,,,
-TurboHalfWreck,blocks,Block,EnChanged,VM Hell Car Turbo Wreck,,,,,
-TurboShell,blocks,Block,EnChanged,VM Hell Car Shell,,,,,
-VMVan2Damaged,blocks,Block,EnChanged,Damaged VM Workshop Van,,,,,
-VMVan2HalfWreck,blocks,Block,EnChanged,VM Workshop Van Wreck,,,,,
-VMVan2Shell,blocks,Block,EnChanged,VM Workshop Van Shell,,,,,
-WhiteBMWDamaged,blocks,Block,EnChanged,Damaged White VM BMW,,,,,
-WhiteBMWHalfWreck,blocks,Block,EnChanged,White VM BMW Wreck,,,,,
-WhiteBMWShell,blocks,Block,EnChanged,White VM BMW Shell,,,,,
-4x4TruckDamaged,blocks,Block,EnChanged,Damaged TFP 4x4,,,,,
-4x4TruckHalfWreck,blocks,Block,EnChanged,TFP 4x4 Half Wreck,,,,,
-4x4TruckShell,blocks,Block,EnChanged,TFP 4x4 Shell,,,,,
-OldCar1Damaged,blocks,Block,EnChanged,Damaged Old Blue VM Car,,,,,
-OldCar1HalfWreck,blocks,Block,EnChanged,Old Blue VM Car Wreck,,,,,
-OldCar1Shell,blocks,Block,EnChanged,Old Blue VM Car Shell,,,,,
-MotorcycleDamaged,blocks,Block,EnChanged,Damaged TFP Motorcycle ,,,,,
-MotorcycleHalfWreck,blocks,Block,EnChanged,TFP Motorcycle Wreck,,,,,
-MotorcycleShell,blocks,Block,EnChanged,TFP Motorcycle Shell,,,,,
-DumperTruckDamaged,blocks,Block,EnChanged,Damaged Old VM DumperTruck ,,,,,
-DumperTruckHalfWreck,blocks,Block,EnChanged,Old VM DumperTruck Wreck ,,,,,
-DumperTruckShell,blocks,Block,EnChanged,Old VM Dumper Truck Shell ,,,,,
-GarbageTruckDamaged,blocks,Block,EnChanged,Damaged VM Garbage Truck ,,,,,
-GarbageTruckShell,blocks,Block,EnChanged,VM Garbage Truck Shell ,,,,,
-PontiacDamaged,blocks,Block,EnChanged,Damaged VM Pontiac GTO ,,,,,
-PontiacHalfWreck,blocks,Block,EnChanged,VM Pontiac GTO Wreck ,,,,,
-PontiacShell,blocks,Block,EnChanged,VM Pontiac GTO Shell ,,,,,
-PoliceBurnedHalfWreck,blocks,Block,EnChanged,Old Burned VM Police Car Wreck ,,,,,
-VMPoliceBurned180Wreck0,blocks,Block,EnChanged,Burned VM Police Car ,,,,,
-VMPoliceBurned180Wreck2,blocks,Block,EnChanged,Burned VM Police Car Shell ,,,,,
-VenturaDamaged,blocks,Block,EnChanged,Damaged old VM Pontiac Ventura ,,,,,
-BelAirDamaged,blocks,Block,EnChanged,Damaged Old VM Chevy BelAir ,,,,,
-HelicopterCrashed,blocks,Block,EnChanged,Crashed VM Helicopter wreck ,,,,,
+PoliceCarDamaged,blocks,Block,KeyChanged EnChanged,Damaged VM Police Car,,Coche de policía,,,Coche de policía,,損壞的 VM 警車
+OldPickupTruck,blocks,Block,KeyChanged EnChanged,Damaged VM Old Pickup ,,Pickup dañado,,,Pickup dañado,,損壞的 VM 舊皮卡
+AmbulanceDamaged,blocks,Block,KeyChanged EnChanged,Damaged VM Ambulance,,Ambulancia,,,Ambulancia,,損壞的 VM 救護車
+AmbulanceHalfWreck,blocks,Block,KeyChanged EnChanged,Half wrecked VM Ambulance,,Ambulancia,,,Ambulancia,,半毀的 VM 救護車
+AmbulanceShell,blocks,Block,KeyChanged EnChanged,Damaged VM Ambulance Shell,,Ambulancia,,,Ambulancia,,損壞的 VM 救護車外殼
+AbandonedMilitary,blocks,Block,EnChanged,VM Abandoned Military Trailer,,,,,,VM 廢棄軍用拖車
+BigRigDamaged,blocks,Block,EnChanged,Damaged VM Big Rig 1,,,,,,損壞的 VM 大卡車 1
+BigRigShell,blocks,Block,EnChanged,VM Big Rig 1 Shell,,,,,,VM 大卡車 1 外殼
+BlueEvoDamaged,blocks,Block,EnChanged,Damaged Blue VM EVO,,,,,,損壞的藍色 VM EVO
+BlueEvoHalfWreck,blocks,Block,EnChanged,Blue VM EVO Wreck,,,,,,藍色 VM EVO 殘骸
+BlueEvoShell,blocks,Block,EnChanged,Blue VM EVO Shell,,,,,,藍色 VM EVO 外殼
+BusDamaged,blocks,Block,EnChanged,Damaged VM Bus,,,,,,損壞的 VM 巴士
+BusDamaged2,blocks,Block,EnChanged,Damaged VM Bus,,,,,,損壞的 VM 巴士
+cntAmbulanceTruck01,blocks,Block,EnChanged,Large Ambulance,,,,,,大型救護車
+cntArmyTruckClosed,blocks,Block,EnChanged,Army Truck,,,,,,軍用卡車
+cntArmyTruckOpen,blocks,Block,EnChanged,Army Truck,,,,,,軍用卡車
+cntBusCity,blocks,Block,EnChanged,City Bus,,,,,,城市巴士
+cntBusSchool,blocks,Block,EnChanged,School Bus,,,,,,校車
+cntBusSchoolShort,blocks,Block,EnChanged,Short School Bus,,,,,,短型校車
+VMWreckCar1,blocks,Block,EnChanged,Random Car 1,,,,,,隨機汽車 1
+VMWreckCar2,blocks,Block,EnChanged,Random Car 2,,,,,,隨機汽車 2
+VMWreckCar3,blocks,Block,EnChanged,Random Car 3,,,,,,隨機汽車 3
+VMWreckCar4,blocks,Block,EnChanged,Random Car 4,,,,,,隨機汽車 4
+VMWreckCar5,blocks,Block,EnChanged,Random Car 5,,,,,,隨機汽車 5
+VMWreckCar6,blocks,Block,EnChanged,Random Car 6,,,,,,隨機汽車 6
+VMWreckCar7_2,blocks,Block,EnChanged,Random Car 7b,,,,,,隨機汽車 7b
+VMWreckCar7_3,blocks,Block,EnChanged,Random Car 7c,,,,,,隨機汽車 7c
+VMWreckCar7,blocks,Block,EnChanged,Random Car 7,,,,,,隨機汽車 7
+VMWreckCar8_2,blocks,Block,EnChanged,Random Car 8b,,,,,,隨機汽車 8b
+VMWreckCar8_3,blocks,Block,EnChanged,Random Car 8c,,,,,,隨機汽車 8c
+VMWreckCar8,blocks,Block,EnChanged,Random Car 8,,,,,,隨機汽車 8
+VMWreckLada1,blocks,Block,EnChanged,Lada,,,,,,Lada
+cntServiceTruckMoPower,blocks,Block,EnChanged,Mo Power Truck,,,,,,Mo Power 卡車
+cntServiceTruckWorkingStiffTools,blocks,Block,EnChanged,Stiff Tools Truck,,,,,,Stiff Tools 卡車
+VMWreckSUV1_2,blocks,Block,EnChanged,SUV 2,,,,,,SUV 2
+VMWreckSUV1_3,blocks,Block,EnChanged,SUV 3,,,,,,SUV 3
+VMWreckSUV1,blocks,Block,EnChanged,SUV 1,,,,,,SUV 1
+VMWreckTruck1,blocks,Block,EnChanged,Truck 1,,,,,,卡車 1
+VMWreckTruck2,blocks,Block,EnChanged,Truck 2,,,,,,卡車 2
+VMWreckVan,blocks,Block,EnChanged,Van 1,,,,,,廂型車 1
+VMWreckVan2_1,blocks,Block,EnChanged,Van 2,,,,,,廂型車 2
+VMWreckVan2_3,blocks,Block,EnChanged,Van 2a,,,,,,廂型車 2a
+VMWreckRV,blocks,Block,EnChanged,Damaged RV,,,,,,損壞的休旅車
+VMWreckRV1,blocks,Block,EnChanged,RV Wreck,,,,,,休旅車殘骸
+VMWreckWagon1,blocks,Block,EnChanged,Wagon,,,,,,旅行車
+VMWreckZuk1,blocks,Block,EnChanged,Żuk,,,,,,Żuk
+CrusaderDamaged,blocks,Block,EnChanged,Damaged VM Crusader,,,,,,損壞的 VM Crusader
+CrusaderHalfWreck,blocks,Block,EnChanged,VM Crusader Wreck,,,,,,VM Crusader 殘骸
+CrusaderShell,blocks,Block,EnChanged,VM Crusader Shell,,,,,,VM Crusader 外殼
+FastbackDamaged,blocks,Block,EnChanged,Damaged VM Fastback,,,,,,損壞的 VM Fastback
+FastbackHalfWreck,blocks,Block,EnChanged,VM Fastback Wreck,,,,,,VM Fastback 殘骸
+FastbackShell,blocks,Block,EnChanged,VM Fastback Shell,,,,,,VM Fastback 外殼
+FiretruckDamaged,blocks,Block,EnChanged,Damaged VM Firetruck,,,,,,損壞的 VM 消防車
+FiretruckWreck,blocks,Block,EnChanged,VM Firetruck Wreck,,,,,,VM 消防車殘骸
+FuelTankerDamaged,blocks,Block,EnChanged,Damaged VM Fuel Tanker,,,,,,損壞的 VM 燃料槽車
+GasTank,blocks,Block,EnChanged,Old VM Gas Tank,,,,,,舊 VM 瓦斯槽
+GasTankerTruck,blocks,Block,EnChanged,VM Gas Tanker truck,,,,,,VM 瓦斯槽車
+GreyEvoDamaged,blocks,Block,EnChanged,Damaged Grey VM EVO,,,,,,損壞的灰色 VM EVO
+GreyEvoEvoShell,blocks,Block,EnChanged,Grey VM EVO Shell,,,,,,灰色 VM EVO 外殼
+GreyEvoHalfWreck,blocks,Block,EnChanged,Grey VM EVO Wreck,,,,,,灰色 VM EVO 殘骸
+GTODamaged,blocks,Block,EnChanged,Damaged VM Old GTO,,,,,,損壞的 VM 舊 GTO
+JeepDamaged,blocks,Block,EnChanged,Damaged VM Jeep,,,,,,損壞的 VM 吉普車
+JeepHalfWreck,blocks,Block,EnChanged,VM Jeep Wreck,,,,,,VM 吉普車殘骸
+JeepShell,blocks,Block,EnChanged,VM Jeep Shell,,,,,,VM 吉普車外殼
+MilitaryHumVeeDamaged,blocks,Block,EnChanged,Damaged VM Military HumVee,,,,,,損壞的 VM 軍用悍馬
+MilitaryHumVeeShell,blocks,Block,EnChanged,VM Military HumVee Shell,,,,,,VM 軍用悍馬外殼
+MilitaryTruckDamaged,blocks,Block,EnChanged,Damaged VM Military Truck,,,,,,損壞的 VM 軍用卡車
+MilitaryTruckShell,blocks,Block,EnChanged,VM Military Truck Shell,,,,,,VM 軍用卡車外殼
+MustangDamaged,blocks,Block,EnChanged,Damaged old VM Mustang,,,,,,損壞的舊 VM Mustang
+OldChevyTruckDamaged,blocks,Block,EnChanged,Damaged Smith's Dad's Old VM Chevy Truck,,,,,,損壞的 Smith 老爸的舊 VM Chevy 卡車
+OldsmobileDamaged,blocks,Block,EnChanged,Damaged VM Oldsmobile,,,,,,損壞的 VM Oldsmobile
+OldsmobileHalfWreck,blocks,Block,EnChanged,VM Oldsmobile Wreck,,,,,,VM Oldsmobile 殘骸
+OldsmobileShell,blocks,Block,EnChanged,VM Oldsmobile Shell,,,,,,VM Oldsmobile 外殼
+OrangeEvoDamaged,blocks,Block,EnChanged,Damaged Orange VM EVO,,,,,,損壞的橘色 VM EVO
+OrangeEvoEvoShell,blocks,Block,EnChanged,Orange VM EVO Shell,,,,,,橘色 VM EVO 外殼
+OrangeEvoHalfWreck,blocks,Block,EnChanged,Orange VM EVO Wreck,,,,,,橘色 VM EVO 殘骸
+RedBMWDamaged,blocks,Block,EnChanged,Damaged Red VM BMW,,,,,,損壞的紅色 VM BMW
+RedBMWHalfWreck,blocks,Block,EnChanged,Red VM BMW Wreck,,,,,,紅色 VM BMW 殘骸
+RedBMWShell,blocks,Block,EnChanged,Red VM BMW Shell,,,,,,紅色 VM BMW 外殼
+SpikerDamaged,blocks,Block,EnChanged,Damaged VM Spiker,,,,,,損壞的 VM Spiker
+SpikerHalfWreck,blocks,Block,EnChanged,VM Spiker Wreck,,,,,,VM Spiker 殘骸
+SpikerShell,blocks,Block,EnChanged,VM Spiker Shell,,,,,,VM Spiker 外殼
+TurboDamaged,blocks,Block,EnChanged,Damaged VM Hell Car Turbo,,,,,,損壞的 VM 地獄車渦輪
+TurboHalfWreck,blocks,Block,EnChanged,VM Hell Car Turbo Wreck,,,,,,VM 地獄車渦輪殘骸
+TurboShell,blocks,Block,EnChanged,VM Hell Car Shell,,,,,,VM 地獄車外殼
+VMVan2Damaged,blocks,Block,EnChanged,Damaged VM Workshop Van,,,,,,損壞的 VM 工坊廂型車
+VMVan2HalfWreck,blocks,Block,EnChanged,VM Workshop Van Wreck,,,,,,VM 工坊廂型車殘骸
+VMVan2Shell,blocks,Block,EnChanged,VM Workshop Van Shell,,,,,,VM 工坊廂型車外殼
+WhiteBMWDamaged,blocks,Block,EnChanged,Damaged White VM BMW,,,,,,損壞的白色 VM BMW
+WhiteBMWHalfWreck,blocks,Block,EnChanged,White VM BMW Wreck,,,,,,白色 VM BMW 殘骸
+WhiteBMWShell,blocks,Block,EnChanged,White VM BMW Shell,,,,,,白色 VM BMW 外殼
+4x4TruckDamaged,blocks,Block,EnChanged,Damaged TFP 4x4,,,,,,損壞的 TFP 4x4
+4x4TruckHalfWreck,blocks,Block,EnChanged,TFP 4x4 Half Wreck,,,,,,TFP 4x4 半毀殘骸
+4x4TruckShell,blocks,Block,EnChanged,TFP 4x4 Shell,,,,,,TFP 4x4 外殼
+OldCar1Damaged,blocks,Block,EnChanged,Damaged Old Blue VM Car,,,,,,損壞的舊藍色 VM 汽車
+OldCar1HalfWreck,blocks,Block,EnChanged,Old Blue VM Car Wreck,,,,,,舊藍色 VM 汽車殘骸
+OldCar1Shell,blocks,Block,EnChanged,Old Blue VM Car Shell,,,,,,舊藍色 VM 汽車外殼
+MotorcycleDamaged,blocks,Block,EnChanged,Damaged TFP Motorcycle ,,,,,,損壞的 TFP 摩托車
+MotorcycleHalfWreck,blocks,Block,EnChanged,TFP Motorcycle Wreck,,,,,,TFP 摩托車殘骸
+MotorcycleShell,blocks,Block,EnChanged,TFP Motorcycle Shell,,,,,,TFP 摩托車外殼
+DumperTruckDamaged,blocks,Block,EnChanged,Damaged Old VM DumperTruck ,,,,,,損壞的舊 VM 傾卸卡車
+DumperTruckHalfWreck,blocks,Block,EnChanged,Old VM DumperTruck Wreck ,,,,,,舊 VM 傾卸卡車殘骸
+DumperTruckShell,blocks,Block,EnChanged,Old VM Dumper Truck Shell ,,,,,,舊 VM 傾卸卡車外殼
+GarbageTruckDamaged,blocks,Block,EnChanged,Damaged VM Garbage Truck ,,,,,,損壞的 VM 垃圾卡車
+GarbageTruckShell,blocks,Block,EnChanged,VM Garbage Truck Shell ,,,,,,VM 垃圾卡車外殼
+PontiacDamaged,blocks,Block,EnChanged,Damaged VM Pontiac GTO ,,,,,,損壞的 VM Pontiac GTO
+PontiacHalfWreck,blocks,Block,EnChanged,VM Pontiac GTO Wreck ,,,,,,VM Pontiac GTO 殘骸
+PontiacShell,blocks,Block,EnChanged,VM Pontiac GTO Shell ,,,,,,VM Pontiac GTO 外殼
+PoliceBurnedHalfWreck,blocks,Block,EnChanged,Old Burned VM Police Car Wreck ,,,,,,燒毀的舊 VM 警車殘骸
+VMPoliceBurned180Wreck0,blocks,Block,EnChanged,Burned VM Police Car ,,,,,,燒毀的 VM 警車
+VMPoliceBurned180Wreck2,blocks,Block,EnChanged,Burned VM Police Car Shell ,,,,,,燒毀的 VM 警車外殼
+VenturaDamaged,blocks,Block,EnChanged,Damaged old VM Pontiac Ventura ,,,,,,損壞的舊 VM Pontiac Ventura
+BelAirDamaged,blocks,Block,EnChanged,Damaged Old VM Chevy BelAir ,,,,,,損壞的舊 VM Chevy Bel Air
+HelicopterCrashed,blocks,Block,EnChanged,Crashed VM Helicopter wreck ,,,,,,墜毀的 VM 直升機殘骸
 <!-- ### New Damaged Blocks for Repairable harvesting ##-->
-DamagedBeetle,blocks,Block,EnChanged,Damaged VM Beetle Car,,,,,
-DamagedBicycle,blocks,Block,EnChanged,Damaged TFP Bike,,,,,
-DamagedGyro,blocks,Block,EnChanged,Damaged TFP Gyro,,,,,
-DamagedMilitaryTruck2,blocks,Block,EnChanged,Damaged Old VM Military truck,,,,,
-DamagedWarthog,blocks,Block,EnChanged,Damaged VM Warthog,,,,,
-DamagedInterceptor,blocks,Block,EnChanged,Damaged VM Interceptor,,,,,
-DamagedJeepTA,blocks,Block,EnChanged,Damaged VM Tactical Jeep,,,,,
-DamagedStrikerAPC,blocks,Block,EnChanged,Damaged VM Striker APC vehicle,,,,,
-DamagedApoTruck,blocks,Block,EnChanged,Damaged Apocaliptic VM Farm Truck,,,,,
+DamagedBeetle,blocks,Block,EnChanged,Damaged VM Beetle Car,,,,,,損壞的 VM 金龜車
+DamagedBicycle,blocks,Block,EnChanged,Damaged TFP Bike,,,,,,損壞的 TFP 腳踏車
+DamagedGyro,blocks,Block,EnChanged,Damaged TFP Gyro,,,,,,損壞的 TFP 旋翼機
+DamagedMilitaryTruck2,blocks,Block,EnChanged,Damaged Old VM Military truck,,,,,,損壞的舊 VM 軍用卡車
+DamagedWarthog,blocks,Block,EnChanged,Damaged VM Warthog,,,,,,損壞的 VM Warthog
+DamagedInterceptor,blocks,Block,EnChanged,Damaged VM Interceptor,,,,,,損壞的 VM Interceptor
+DamagedJeepTA,blocks,Block,EnChanged,Damaged VM Tactical Jeep,,,,,,損壞的 VM 戰術吉普車
+DamagedStrikerAPC,blocks,Block,EnChanged,Damaged VM Striker APC vehicle,,,,,,損壞的 VM Striker 裝甲運兵車
+DamagedApoTruck,blocks,Block,EnChanged,Damaged Apocaliptic VM Farm Truck,,,,,,損壞的末日 VM 農場卡車
 <!--DamagedSmallMTTruck,blocks,Block,EnChanged,Damaged VM Military Truck,,,,,-->
-DamagedMalice,blocks,Block,EnChanged,Damaged VM Malice Car,,,,,
-DamagedM3MTruck,blocks,Block,EnChanged,Damaged VM Old Military Car,,,,,
-DamagedHunter,blocks,Block,EnChanged,Damaged VM Hunter Car,,,,,
-DamagedFlatbedTruck,blocks,Block,EnChanged,Damaged VM FlatBed Truck,,,,,
-DamagedCombiVan,blocks,Block,EnChanged,Damaged VM Combi Van,,,,,
-DamagedCobra,blocks,Block,EnChanged,Damaged VM Mustang Cobra,,,,,
-DamagedBoxTruck,blocks,Block,EnChanged,Damaged Red VM Box Truck,,,,,
-DamagedBigRig2,blocks,Block,EnChanged,Damaged VM Custom Big Rig Semi Truck,,,,,
-DamagedVMBuggy,blocks,Block,EnChanged,Damaged big VM Buggy ,,,,,
-DamagedMotoGuppy,blocks,Block,EnChanged,Damaged VM MotoGuppy Moped ,,,,,
-DamagedHotRod,blocks,Block,EnChanged,Damaged VM HotRod Car ,,,,,
-DamagedNPCVan,blocks,Block,EnChanged,Damaged VM NPC Van ,,,,,
-DamagedRustySedan,blocks,block,EnChanged,Damaged VM Rusty Sedan ,,,,,
-DamagedModernSedan,blocks,block,EnChanged,Damaged VM Modern Sedan ,,,,,
-DamagedVespa,blocks,block,EnChanged,Damaged VM Vespa Moped ,,,,,
-DamagedVespaKart,blocks,block,EnChanged,Damaged VM Vespa Kart ,,,,,
-DamagedCutlassSedan,blocks,block,EnChanged,Damaged VM Cutlass Sedan ,,,,,
-WhiteSedanDamaged,blocks,block,EnChanged,Damaged White VM Sedan ,,,,,
-BrownSedanDamaged,blocks,block,EnChanged,Damaged Brown VM Sedan ,,,,,
-BlueSedanDamaged,blocks,block,EnChanged,Damaged Blue VM Sedan ,,,,,
-DamagedBrownQuad,blocks,block,EnChanged,Damaged Brown VM Quad Bike ,,,,,
-DamagedRustyTaxi,blocks,block,EnChanged,Damaged Rusty Yellow VM Taxi ,,,,,
-DamagedRedVan,blocks,block,EnChanged,Damaged Red VM Van ,,,,,
-DamagedMustangJunker,blocks,block,EnChanged,Damaged VM Mustang Junker,,,,,
-DamagedExplorer,blocks,Block,EnChanged,Damaged VM Explorer Jeep ,,,,,
-DamagedOldSemi,blocks,Block,EnChanged,Damaged Old VM Semi ,,,,,
-DamagedPickup,blocks,Block,EnChanged,Old Damaged VM Pickup Shell,,,,,
-DamagedMustangMach1,blocks,block,EnChanged,Damaged VM Mustang Mach1,,,,,
+DamagedMalice,blocks,Block,EnChanged,Damaged VM Malice Car,,,,,,損壞的 VM Malice 車
+DamagedM3MTruck,blocks,Block,EnChanged,Damaged VM Old Military Car,,,,,,損壞的 VM 舊軍車
+DamagedHunter,blocks,Block,EnChanged,Damaged VM Hunter Car,,,,,,損壞的 VM 獵人車
+DamagedFlatbedTruck,blocks,Block,EnChanged,Damaged VM FlatBed Truck,,,,,,損壞的 VM 平板卡車
+DamagedCombiVan,blocks,Block,EnChanged,Damaged VM Combi Van,,,,,,損壞的 VM Combi 廂型車
+DamagedCobra,blocks,Block,EnChanged,Damaged VM Mustang Cobra,,,,,,損壞的 VM Mustang Cobra
+DamagedBoxTruck,blocks,Block,EnChanged,Damaged Red VM Box Truck,,,,,,損壞的紅色 VM 箱型卡車
+DamagedBigRig2,blocks,Block,EnChanged,Damaged VM Custom Big Rig Semi Truck,,,,,,損壞的 VM 自訂大卡車半掛車
+DamagedVMBuggy,blocks,Block,EnChanged,Damaged big VM Buggy ,,,,,,損壞的大型 VM Buggy
+DamagedMotoGuppy,blocks,Block,EnChanged,Damaged VM MotoGuppy Moped ,,,,,,損壞的 VM MotoGuppy 機車
+DamagedHotRod,blocks,Block,EnChanged,Damaged VM HotRod Car ,,,,,,損壞的 VM Hot Rod 車
+DamagedNPCVan,blocks,Block,EnChanged,Damaged VM NPC Van ,,,,,,損壞的 VM NPC 廂型車
+DamagedRustySedan,blocks,block,EnChanged,Damaged VM Rusty Sedan ,,,,,,損壞的生鏽 VM 轎車
+DamagedModernSedan,blocks,block,EnChanged,Damaged VM Modern Sedan ,,,,,,損壞的 VM 現代轎車
+DamagedVespa,blocks,block,EnChanged,Damaged VM Vespa Moped ,,,,,,損壞的 VM Vespa 機車
+DamagedVespaKart,blocks,block,EnChanged,Damaged VM Vespa Kart ,,,,,,損壞的 VM Vespa 卡丁車
+DamagedCutlassSedan,blocks,block,EnChanged,Damaged VM Cutlass Sedan ,,,,,,損壞的 VM Cutlass 轎車
+WhiteSedanDamaged,blocks,block,EnChanged,Damaged White VM Sedan ,,,,,,損壞的白色 VM 轎車
+BrownSedanDamaged,blocks,block,EnChanged,Damaged Brown VM Sedan ,,,,,,損壞的棕色 VM 轎車
+BlueSedanDamaged,blocks,block,EnChanged,Damaged Blue VM Sedan ,,,,,,損壞的藍色 VM 轎車
+DamagedBrownQuad,blocks,block,EnChanged,Damaged Brown VM Quad Bike ,,,,,,損壞的棕色 VM 四輪摩托
+DamagedRustyTaxi,blocks,block,EnChanged,Damaged Rusty Yellow VM Taxi ,,,,,,損壞的生鏽黃色 VM 計程車
+DamagedRedVan,blocks,block,EnChanged,Damaged Red VM Van ,,,,,,損壞的紅色 VM 廂型車
+DamagedMustangJunker,blocks,block,EnChanged,Damaged VM Mustang Junker,,,,,,損壞的 VM 廢土 Mustang
+DamagedExplorer,blocks,Block,EnChanged,Damaged VM Explorer Jeep ,,,,,,損壞的 VM Explorer 吉普車
+DamagedOldSemi,blocks,Block,EnChanged,Damaged Old VM Semi ,,,,,,損壞的舊 VM 半掛卡車
+DamagedPickup,blocks,Block,EnChanged,Old Damaged VM Pickup Shell,,,,,,損壞的舊 VM 皮卡外殼
+DamagedMustangMach1,blocks,block,EnChanged,Damaged VM Mustang Mach1,,,,,,損壞的 VM Mustang Mach1
 <!-- #### RepairableBlocks #### -->
-Repairable4x4Truck,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP 4x4 Truck,,,,,
-RepairableAmbulance,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP Ambulance,,,,,
-RepairableBeetle,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Beetle,,,,,
-RepairableBicycle,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP Bicycle,,,,,
-RepairableBigBuggy,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Big VM Buggy ,,,,,
-RepairableBigRig2,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Custom Big Rig,,,,,
-RepairableBoxTruckRed,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Red VM Box Truck,,,,,
-RepairableBrownJeep,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Brown VM Jeep,,,,,
-RepairableExplorer,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Explorer,,,,,
-RepairableCobra,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Mustang Cobra,,,,,
-RepairableMustangMach1,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Mustang Mach1,,,,,
-RepairableCombiVan1,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Old VM Combi Van 1,,,,,
-RepairableFastback,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Fastback,,,,,
-RepairableFlatBed,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Flatbed,,,,,
-RepairableHotRod,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Hot Rod,,,,,
-RepairableHunter,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Hunter,,,,,
-RepairableInterceptor,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Interceptor,,,,,
-RepairableM3ATruck,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n M3A Military transport Car,,,,,
-RepairableMalice,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Malice,,,,,
-RepairableMilitaryHumVee,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Military Humvee,,,,,
-RepairableMilitaryTruck,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Big VM Military Truck,,,,,
-RepairableMilitaryTruck2,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Old VM Military Truck,,,,,
-RepairableMoPower,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP Mo Power Truck,,,,,
-RepairableMotorcycle,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP Motorcycle,,,,,
-RepairableRedBMW,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Red VM BMW,,,,,
-RepairableRV,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Apocaliptic RV,,,,,
-RepairableSedan,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM FairHaven Sedan,,,,,
-RepairableSmallAPOTruck,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Apocaliptic Farm Truck ,,,,,
-RepairableStrikerAPC,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Striker APC,,,,,
-RepairableTacticalJeep,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Military VM Tactical Jeep,,,,,
-RepairableTurboMuscle,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Hell Car Turbo Muscle Car,,,,,
-RepairableNPCVan,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM NPC Mod Van,,,,,
-RepairableVan2,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Workshop Van,,,,,
-RepairableWarthog,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Warthog,,,,,
-RepairableWhiteBMW,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n White VM BMW,,,,,,,,,,
-RepairableWorkingStiffs,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Working Stiffs Truck,,,,,
-RepairableGyro,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Gyrocopter,,,,,
-RepairableEvoLancer,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Evo Lancer,,,,,
-RepairableSpiker,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Aplocaliptic Spiker Car,,,,,
-RepairableMotoGuppy,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM MotoGuppy Moped,,,,,
-RepairableCrusader4x4,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Crusader 4x4,,,,,
-RepairableVespa,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Red VM Vespa Moped,,,,,
-RepairableVespaKart,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Vespa Kart,,,,,
-RepairableCutlass,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Sedan Cutlass,,,,,
-RepairablePoliceCar,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Police Car,,,,,
-RepairableBrownQuad,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Brown VM Quad Bike,,,,,
-RepairableRustyTaxi,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Rusted yellow VM Taxi,,,,,
-RepairableRedVan,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Old Red VM Van,,,,,
-RepairableOldSemi,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Old VM Semi Truck,,,,,
-RepairablePickUp,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Pickup Truck,,,,,
-RepairableSchoolBus,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Yellow School Bus,,,,, -->
+Repairable4x4Truck,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP 4x4 Truck,,,,,,"([68E3CF]可修復[-])\n TFP 4x4 卡車"
+RepairableAmbulance,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP Ambulance,,,,,,"([68E3CF]可修復[-])\n TFP 救護車"
+RepairableBeetle,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Beetle,,,,,,"([68E3CF]可修復[-])\n VM 金龜車"
+RepairableBicycle,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP Bicycle,,,,,,"([68E3CF]可修復[-])\n TFP 腳踏車"
+RepairableBigBuggy,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Big VM Buggy ,,,,,,"([68E3CF]可修復[-])\n 大型 VM Buggy"
+RepairableBigRig2,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Custom Big Rig,,,,,,"([68E3CF]可修復[-])\n VM 自訂大卡車"
+RepairableBoxTruckRed,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Red VM Box Truck,,,,,,"([68E3CF]可修復[-])\n 紅色 VM 箱型卡車"
+RepairableBrownJeep,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Brown VM Jeep,,,,,,"([68E3CF]可修復[-])\n 棕色 VM 吉普車"
+RepairableExplorer,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Explorer,,,,,,"([68E3CF]可修復[-])\n VM Explorer"
+RepairableCobra,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Mustang Cobra,,,,,,"([68E3CF]可修復[-])\n VM Mustang Cobra"
+RepairableMustangMach1,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Mustang Mach1,,,,,,"([68E3CF]可修復[-])\n VM Mustang Mach1"
+RepairableCombiVan1,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Old VM Combi Van 1,,,,,,"([68E3CF]可修復[-])\n 舊 VM Combi 廂型車 1"
+RepairableFastback,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Fastback,,,,,,"([68E3CF]可修復[-])\n VM Fastback"
+RepairableFlatBed,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Flatbed,,,,,,"([68E3CF]可修復[-])\n VM 平板卡車"
+RepairableHotRod,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Hot Rod,,,,,,"([68E3CF]可修復[-])\n VM Hot Rod"
+RepairableHunter,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Hunter,,,,,,"([68E3CF]可修復[-])\n VM 獵人"
+RepairableInterceptor,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Interceptor,,,,,,"([68E3CF]可修復[-])\n VM Interceptor"
+RepairableM3ATruck,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n M3A Military transport Car,,,,,,"([68E3CF]可修復[-])\n M3A 軍用運輸車"
+RepairableMalice,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Malice,,,,,,"([68E3CF]可修復[-])\n VM Malice"
+RepairableMilitaryHumVee,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Military Humvee,,,,,,"([68E3CF]可修復[-])\n 軍用悍馬"
+RepairableMilitaryTruck,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Big VM Military Truck,,,,,,"([68E3CF]可修復[-])\n 大型 VM 軍用卡車"
+RepairableMilitaryTruck2,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Old VM Military Truck,,,,,,"([68E3CF]可修復[-])\n 舊 VM 軍用卡車"
+RepairableMoPower,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP Mo Power Truck,,,,,,"([68E3CF]可修復[-])\n TFP Mo Power 卡車"
+RepairableMotorcycle,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n TFP Motorcycle,,,,,,"([68E3CF]可修復[-])\n TFP 摩托車"
+RepairableRedBMW,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Red VM BMW,,,,,,"([68E3CF]可修復[-])\n 紅色 VM BMW"
+RepairableRV,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Apocaliptic RV,,,,,,"([68E3CF]可修復[-])\n VM 末日休旅車"
+RepairableSedan,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM FairHaven Sedan,,,,,,"([68E3CF]可修復[-])\n VM FairHaven 轎車"
+RepairableSmallAPOTruck,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Apocaliptic Farm Truck ,,,,,,"([68E3CF]可修復[-])\n VM 末日農場卡車"
+RepairableStrikerAPC,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Striker APC,,,,,,"([68E3CF]可修復[-])\n VM Striker 裝甲運兵車"
+RepairableTacticalJeep,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Military VM Tactical Jeep,,,,,,"([68E3CF]可修復[-])\n 軍用 VM 戰術吉普車"
+RepairableTurboMuscle,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Hell Car Turbo Muscle Car,,,,,,"([68E3CF]可修復[-])\n 地獄車渦輪肌肉車"
+RepairableNPCVan,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM NPC Mod Van,,,,,,"([68E3CF]可修復[-])\n VM NPC Mod 廂型車"
+RepairableVan2,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Workshop Van,,,,,,"([68E3CF]可修復[-])\n VM 工坊廂型車"
+RepairableWarthog,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Warthog,,,,,,"([68E3CF]可修復[-])\n VM Warthog"
+RepairableWhiteBMW,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n White VM BMW,,,,,,,,,,,"([68E3CF]可修復[-])\n 白色 VM BMW"
+RepairableWorkingStiffs,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Working Stiffs Truck,,,,,,"([68E3CF]可修復[-])\n Working Stiffs 卡車"
+RepairableGyro,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Gyrocopter,,,,,,"([68E3CF]可修復[-])\n 旋翼機"
+RepairableEvoLancer,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Evo Lancer,,,,,,"([68E3CF]可修復[-])\n VM Evo Lancer"
+RepairableSpiker,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Aplocaliptic Spiker Car,,,,,,"([68E3CF]可修復[-])\n VM 末日 Spiker 車"
+RepairableMotoGuppy,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM MotoGuppy Moped,,,,,,"([68E3CF]可修復[-])\n VM MotoGuppy 機車"
+RepairableCrusader4x4,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Crusader 4x4,,,,,,"([68E3CF]可修復[-])\n VM Crusader 4x4"
+RepairableVespa,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Red VM Vespa Moped,,,,,,"([68E3CF]可修復[-])\n 紅色 VM Vespa 機車"
+RepairableVespaKart,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Vespa Kart,,,,,,"([68E3CF]可修復[-])\n VM Vespa 卡丁車"
+RepairableCutlass,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Sedan Cutlass,,,,,,"([68E3CF]可修復[-])\n VM Cutlass 轎車"
+RepairablePoliceCar,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Police Car,,,,,,"([68E3CF]可修復[-])\n VM 警車"
+RepairableBrownQuad,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Brown VM Quad Bike,,,,,,"([68E3CF]可修復[-])\n 棕色 VM 四輪摩托"
+RepairableRustyTaxi,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Rusted yellow VM Taxi,,,,,,"([68E3CF]可修復[-])\n 生鏽黃色 VM 計程車"
+RepairableRedVan,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Old Red VM Van,,,,,,"([68E3CF]可修復[-])\n 舊紅色 VM 廂型車"
+RepairableOldSemi,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Old VM Semi Truck,,,,,,"([68E3CF]可修復[-])\n 舊 VM 半掛卡車"
+RepairablePickUp,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n VM Pickup Truck,,,,,,"([68E3CF]可修復[-])\n VM 皮卡車"
+RepairableSchoolBus,blocks,Block,EnChanged,([68E3CF]Repairable[-])\n Yellow School Bus,,,,, -->,"([68E3CF]可修復[-])\n 黃色校車"
+

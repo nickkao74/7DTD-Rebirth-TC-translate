@@ -1,28 +1,28 @@
-Key,english
+Key,english,tchinese
 
 
-ztIndustrialMasterBlocks,"Industrial Master"
-ztIndustrialMasterBlocksDesc,"This set of parent blocks control all masters of elevators and company."
-ztIndustrialDoorParentBlocks,"Door Controller"
-ztIndustrialDoorParentBlocksDesc,"This master set includes door based items."
-ztIndustrialConcreteParentBlocks,"Conrete Master"
-ztIndustrialConcreteParentBlocksDesc,"This maset set includes concrete resources for industrial items."
+ztIndustrialMasterBlocks,"Industrial Master",工業主控
+ztIndustrialMasterBlocksDesc,"This set of parent blocks control all masters of elevators and company.",這組父方塊控制所有電梯與公司的主控項目。
+ztIndustrialDoorParentBlocks,"Door Controller",門控制器
+ztIndustrialDoorParentBlocksDesc,"This master set includes door based items.",此主控組包含門類物品。
+ztIndustrialConcreteParentBlocks,"Conrete Master",混凝土主控
+ztIndustrialConcreteParentBlocksDesc,"This maset set includes concrete resources for industrial items.",此主控組包含工業物品的混凝土資源。
 
 
-ZT_Industrial,"Industrial Resources"
-ZT_IndustrialDesc,"Somehow, you've managed to craft working devices and industrial resources to help you escape zombies or simply navigate differently in your base!"
+ZT_Industrial,"Industrial Resources",工業資源
+ZT_IndustrialDesc,"Somehow, you've managed to craft working devices and industrial resources to help you escape zombies or simply navigate differently in your base!",不知怎的，你成功製作了可用裝置與工業資源，助你逃離殭屍或在基地中另闢路徑！
 
 
-ZT_WorkingElevator,"Workable Elevator"
-ZT_WorkingRotatingDoor,"Rotating Door"
-ZT_WorkingRotatingDoorAlt,"Rotating Door (Alt Glass)"
-ZT_EscalatorBottom,"Elevator Start"
-ZT_EscalatorBottomDesc,"This elevator piece is to be placed first."
-ZT_EscalatorMiddle,"Elevator Middle"
-ZT_EscalatorMiddleDesc,"This elevator piece is to be placed as many times as needed before the final two pieces (i.e. Elevator Top and Elevator End)."
-ZT_EscalatorPreTop,"Elevator Top"
-ZT_EscalatorPreTopDesc,"This elevator piece is to be placed after the Elevator Start and Elevator Middle pices."
-ZT_EscalatorTop,"Elevator End"
-ZT_EscalatorTopDesc,"This elevator piece is placed at the end of ascension or descension."
-ZT_EscalatorAngle,"Elevator Wedge Support"
-ZT_EscalatorAngleDesc,"This elevator piece is technically the last piece. Place this inbetween every elevator piece to ensure the entire set looks like one escalator."
+ZT_WorkingElevator,"Workable Elevator",可用電梯
+ZT_WorkingRotatingDoor,"Rotating Door",旋轉門
+ZT_WorkingRotatingDoorAlt,"Rotating Door (Alt Glass)",旋轉門（替代玻璃）
+ZT_EscalatorBottom,"Elevator Start",電梯起點
+ZT_EscalatorBottomDesc,"This elevator piece is to be placed first.",此電梯部件須最先放置。
+ZT_EscalatorMiddle,"Elevator Middle",電梯中段
+ZT_EscalatorMiddleDesc,"This elevator piece is to be placed as many times as needed before the final two pieces (i.e. Elevator Top and Elevator End).",此電梯部件可在最後兩段（電梯頂部與電梯終點）之前重複放置所需次數。
+ZT_EscalatorPreTop,"Elevator Top",電梯頂部
+ZT_EscalatorPreTopDesc,"This elevator piece is to be placed after the Elevator Start and Elevator Middle pices.",此電梯部件須放在電梯起點與電梯中段之後。
+ZT_EscalatorTop,"Elevator End",電梯終點
+ZT_EscalatorTopDesc,"This elevator piece is placed at the end of ascension or descension.",此電梯部件放在上升或下降路徑的末端。
+ZT_EscalatorAngle,"Elevator Wedge Support",電梯楔形支撐
+ZT_EscalatorAngleDesc,"This elevator piece is technically the last piece. Place this inbetween every elevator piece to ensure the entire set looks like one escalator.",此部件技術上為最後一段。請在每段電梯之間放置，使整組看起來像一座電扶梯。

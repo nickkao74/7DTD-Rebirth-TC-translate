@@ -1,54 +1,54 @@
-Key,english,french
-leopard_entrance_01,Wilderness cavern,
-leopard_entrance_02,Abandoned Mine Entrance,
-leopard_entrance_03,Deep hole,
-leopard_entrance_04,Mountain cave,
-leopard_entrance_05,Zombie sound trap,
-leopard_entrance_06,Wolf tavern,
-leopard_entrance_07,Moe's last bedroom,
-leopard_entrance_08,Opened hot spring,
-leopard_entrance_09,leopard_entrance_09,
-leopard_entrance_10,Eroded relief,
-leopard_entrance_11,Wilderness well,
-leopard_entrance_12,Flooded crater,
-leopard_entrance_farm_01,Jericho Ranch,
-leopard_entrance_gas_station_04,Pass-N-Gas Store #4,
-leopard_filler_01,leopard_filler_01,
-leopard_filler_02,leopard_filler_02,
-leopard_filler_03,leopard_filler_03,
-leopard_filler_04,leopard_filler_04,
-leopard_filler_05,leopard_filler_05,
-leopard_filler_06,leopard_filler_06,
-leopard_filler_07,leopard_filler_07,
-leopard_filler_08,leopard_filler_08,
-leopard_filler_09,leopard_filler_09,
-leopard_filler_10,leopard_filler_10,
-leopard_filler_11,leopard_filler_11,
-leopard_filler_12,leopard_filler_12,
-leopard_filler_13,leopard_filler_13,
-tonio_entrance_01,tonio_entrance_01,
-tonio_entrance_02,tonio_entrance_02,
-tonio_filler_01,tonio_filler_01,
-tonio_filler_02,tonio_filler_02,
-tonio_filler_03,tonio_filler_03,
-tonio_filler_04,tonio_filler_04,
-tonio_filler_05,tonio_filler_05,
-tonio_filler_06,tonio_filler_06,
-tonio_filler_07,tonio_filler_07,
-tonio_filler_08,tonio_filler_08,
-tonio_filler_09,tonio_filler_09,
-tonio_filler_10,tonio_filler_10,
-tonio_filler_11,tonio_filler_11,
-tonio_filler_12,tonio_filler_12,
-tonio_filler_13,tonio_filler_13,
-tonio_filler_14,tonio_filler_14,
-tonio_filler_15,tonio_filler_15,
-tonio_filler_16,tonio_filler_16,
-tonio_filler_17,tonio_filler_17,
-tonio_filler_18,tonio_filler_18,
-tonio_filler_19,tonio_filler_19,
-tonio_filler_20,tonio_filler_20,
-tonio_filler_21,tonio_filler_21,
-tonio_filler_22,tonio_filler_22,
-tonio_filler_23,tonio_filler_23,
-tonio_filler_24,tonio_filler_24,
+Key,english,french,tchinese
+leopard_entrance_01,Wilderness cavern,,荒野洞穴
+leopard_entrance_02,Abandoned Mine Entrance,,廢棄礦井入口
+leopard_entrance_03,Deep hole,,深洞
+leopard_entrance_04,Mountain cave,,山地洞穴
+leopard_entrance_05,Zombie sound trap,,殭屍聲響陷阱
+leopard_entrance_06,Wolf tavern,,狼群酒館
+leopard_entrance_07,Moe's last bedroom,,莫伊的最後臥室
+leopard_entrance_08,Opened hot spring,,開放溫泉
+leopard_entrance_09,leopard_entrance_09,,leopard_entrance_09
+leopard_entrance_10,Eroded relief,,侵蝕地貌
+leopard_entrance_11,Wilderness well,,荒野水井
+leopard_entrance_12,Flooded crater,,淹水坑洞
+leopard_entrance_farm_01,Jericho Ranch,,耶利哥牧場
+leopard_entrance_gas_station_04,Pass-N-Gas Store #4,,Pass-N-Gas 商店 #4
+leopard_filler_01,leopard_filler_01,,leopard_filler_01
+leopard_filler_02,leopard_filler_02,,leopard_filler_02
+leopard_filler_03,leopard_filler_03,,leopard_filler_03
+leopard_filler_04,leopard_filler_04,,leopard_filler_04
+leopard_filler_05,leopard_filler_05,,leopard_filler_05
+leopard_filler_06,leopard_filler_06,,leopard_filler_06
+leopard_filler_07,leopard_filler_07,,leopard_filler_07
+leopard_filler_08,leopard_filler_08,,leopard_filler_08
+leopard_filler_09,leopard_filler_09,,leopard_filler_09
+leopard_filler_10,leopard_filler_10,,leopard_filler_10
+leopard_filler_11,leopard_filler_11,,leopard_filler_11
+leopard_filler_12,leopard_filler_12,,leopard_filler_12
+leopard_filler_13,leopard_filler_13,,leopard_filler_13
+tonio_entrance_01,tonio_entrance_01,,tonio_entrance_01
+tonio_entrance_02,tonio_entrance_02,,tonio_entrance_02
+tonio_filler_01,tonio_filler_01,,tonio_filler_01
+tonio_filler_02,tonio_filler_02,,tonio_filler_02
+tonio_filler_03,tonio_filler_03,,tonio_filler_03
+tonio_filler_04,tonio_filler_04,,tonio_filler_04
+tonio_filler_05,tonio_filler_05,,tonio_filler_05
+tonio_filler_06,tonio_filler_06,,tonio_filler_06
+tonio_filler_07,tonio_filler_07,,tonio_filler_07
+tonio_filler_08,tonio_filler_08,,tonio_filler_08
+tonio_filler_09,tonio_filler_09,,tonio_filler_09
+tonio_filler_10,tonio_filler_10,,tonio_filler_10
+tonio_filler_11,tonio_filler_11,,tonio_filler_11
+tonio_filler_12,tonio_filler_12,,tonio_filler_12
+tonio_filler_13,tonio_filler_13,,tonio_filler_13
+tonio_filler_14,tonio_filler_14,,tonio_filler_14
+tonio_filler_15,tonio_filler_15,,tonio_filler_15
+tonio_filler_16,tonio_filler_16,,tonio_filler_16
+tonio_filler_17,tonio_filler_17,,tonio_filler_17
+tonio_filler_18,tonio_filler_18,,tonio_filler_18
+tonio_filler_19,tonio_filler_19,,tonio_filler_19
+tonio_filler_20,tonio_filler_20,,tonio_filler_20
+tonio_filler_21,tonio_filler_21,,tonio_filler_21
+tonio_filler_22,tonio_filler_22,,tonio_filler_22
+tonio_filler_23,tonio_filler_23,,tonio_filler_23
+tonio_filler_24,tonio_filler_24,,tonio_filler_24
