@@ -1,100 +1,69 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
+Key,File,Type,UsedInMainMenu,NoTranslate,english,tchinese
 
-armorVanillaReVampLightArmor,items,Item,,,"Vanilla ReVamp Light Armors [e38d23](MS)"
-armorVanillaReVampMediumArmor,items,Item,,,"Vanilla ReVamp Medium Armors [e38d23](MS)"
-armorVanillaReVampHeavyArmor,items,Item,,,"Vanilla ReVamp Heavy Armors [e38d23](MS)"
+armorVanillaReVampLightArmor,items,Item,,,"Vanilla ReVamp Light Armors [e38d23](MS)","原版翻新輕型護甲 [e38d23](MS)"
+armorVanillaReVampMediumArmor,items,Item,,,"Vanilla ReVamp Medium Armors [e38d23](MS)","原版翻新中型護甲 [e38d23](MS)"
+armorVanillaReVampHeavyArmor,items,Item,,,"Vanilla ReVamp Heavy Armors [e38d23](MS)","原版翻新重型護甲 [e38d23](MS)"
 
-armorTheHitmanHelmet,items,Clothes,,,"The Hitman Glasses [e38d23](MS)"
-armorTheHitmanOutfit,items,Clothes,,,"The Hitman Suit [e38d23](MS)"
-armorTheHitmanGloves,items,Clothes,,,"The Hitman Gloves [e38d23](MS)"
-armorTheHitmanBoots,items,Clothes,,,"The Hitman Shoes [e38d23](MS)"
+armorTheHitmanHelmet,items,Clothes,,,"The Hitman Glasses [e38d23](MS)","殺手墨鏡 [e38d23](MS)"
+armorTheHitmanOutfit,items,Clothes,,,"The Hitman Suit [e38d23](MS)","殺手西裝 [e38d23](MS)"
+armorTheHitmanGloves,items,Clothes,,,"The Hitman Gloves [e38d23](MS)","殺手手套 [e38d23](MS)"
+armorTheHitmanBoots,items,Clothes,,,"The Hitman Shoes [e38d23](MS)","殺手皮鞋 [e38d23](MS)"
 
-armorTheHitmanHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThey better give you a good price. Or else.\n\n[e38d23]Glasses Bonus:[-] Better prices when Buying or Selling.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers."
-armorTheHitmanOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\n'Silicon carbide discs. Ceramic matrices. Cutting-edge body armour.\nWe just sew it between the fabric and the lining. Zero penetration.'\n\n[e38d23]Suit Bonus:[-] Increases resistance to critical injuries.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers."
-armorTheHitmanGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nA true wheelman wears fancy gloves.\n\n[e38d23]Gloves Bonus:[-] Vehicles use less fuel.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers."
-armorTheHitmanBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese hand made Oxford shoes make you look cool and help you run faster.\n\n[e38d23]Shoes Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers."
+armorTheHitmanHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThey better give you a good price. Or else.\n\n[e38d23]Glasses Bonus:[-] Better prices when Buying or Selling.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers.","[e38d23]輕型護甲[-]\n\n他們最好給你個好價錢。否則後果自負。\n\n[e38d23]墨鏡加成：[-] 買賣價格更優惠。\n\n[e38d23]全套加成：[-] 提升手槍與左輪的傷害。"
+armorTheHitmanOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\n'Silicon carbide discs. Ceramic matrices. Cutting-edge body armour.\nWe just sew it between the fabric and the lining. Zero penetration.'\n\n[e38d23]Suit Bonus:[-] Increases resistance to critical injuries.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers.","[e38d23]輕型護甲[-]\n\n「碳化矽板。陶瓷基材。最尖端的防彈衣。\n我們只是把它縫進布料與襯裡之間。零穿透。」\n\n[e38d23]西裝加成：[-] 提升重傷抗性。\n\n[e38d23]全套加成：[-] 提升手槍與左輪的傷害。"
+armorTheHitmanGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nA true wheelman wears fancy gloves.\n\n[e38d23]Gloves Bonus:[-] Vehicles use less fuel.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers.","[e38d23]輕型護甲[-]\n\n真正的車手戴的是講究的手套。\n\n[e38d23]手套加成：[-] 載具燃料消耗減少。\n\n[e38d23]全套加成：[-] 提升手槍與左輪的傷害。"
+armorTheHitmanBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese hand made Oxford shoes make you look cool and help you run faster.\n\n[e38d23]Shoes Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Increased DMG with Pistols and Revolvers.","[e38d23]輕型護甲[-]\n\n這雙手工牛津鞋讓你看起來有型，也助你跑得更快。\n\n[e38d23]鞋子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 提升手槍與左輪的傷害。"
 
-armorTheMotorgangHelmet,items,Clothes,,,"The Motorgang Glasses [e38d23](MS)"
-armorTheMotorgangOutfit,items,Clothes,,,"The Motorgang Outfit [e38d23](MS)"
-armorTheMotorgangGloves,items,Clothes,,,"The Motorgang Wristbands [e38d23](MS)"
-armorTheMotorgangBoots,items,Clothes,,,"The Motorgang Boots [e38d23](MS)"
+armorTheMotorgangHelmet,items,Clothes,,,"The Motorgang Glasses [e38d23](MS)","機車幫墨鏡 [e38d23](MS)"
+armorTheMotorgangOutfit,items,Clothes,,,"The Motorgang Outfit [e38d23](MS)","機車幫服裝 [e38d23](MS)"
+armorTheMotorgangGloves,items,Clothes,,,"The Motorgang Wristbands [e38d23](MS)","機車幫護腕 [e38d23](MS)"
+armorTheMotorgangBoots,items,Clothes,,,"The Motorgang Boots [e38d23](MS)","機車幫靴子 [e38d23](MS)"
 
-armorTheMotorgangHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nGuns are for weaklings, you like it close and personal, and you are really good at it\n\n[e38d23]Glasses Bonus:[-] Increase melee attack speed.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use."
-armorTheMotorgangOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLook and feel like a badass, nobody can stop you now!\n\n[e38d23]Outfit Bonus:[-] Increased Max Health.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use."
-armorTheMotorgangGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to beat up people, and how to look cool doing it.\n\n[e38d23]Wristbands Bonus:[-] Increases melee weapon damage.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use."
-armorTheMotorgangBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nKicking Ass is Fun!\nYou could do it all day\n\n[e38d23]Boots Bonus:[-] Use less stamina with melee weapons.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use."
+armorTheMotorgangHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nGuns are for weaklings, you like it close and personal, and you are really good at it\n\n[e38d23]Glasses Bonus:[-] Increase melee attack speed.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use.","[e38d23]中型護甲[-]\n\n槍是弱者用的，你喜歡近身肉搏，而且你很在行\n\n[e38d23]墨鏡加成：[-] 提升近戰攻擊速度。\n\n[e38d23]全套加成：[-] 提升護甲值並減少燃料消耗。"
+armorTheMotorgangOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLook and feel like a badass, nobody can stop you now!\n\n[e38d23]Outfit Bonus:[-] Increased Max Health.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use.","[e38d23]中型護甲[-]\n\n看起來、感覺都像個狠角色，現在沒人能阻止你！\n\n[e38d23]服裝加成：[-] 提升最大生命值。\n\n[e38d23]全套加成：[-] 提升護甲值並減少燃料消耗。"
+armorTheMotorgangGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to beat up people, and how to look cool doing it.\n\n[e38d23]Wristbands Bonus:[-] Increases melee weapon damage.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use.","[e38d23]中型護甲[-]\n\n你懂得怎麼揍人，也懂得揍得帥氣。\n\n[e38d23]護腕加成：[-] 提升近戰武器傷害。\n\n[e38d23]全套加成：[-] 提升護甲值並減少燃料消耗。"
+armorTheMotorgangBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nKicking Ass is Fun!\nYou could do it all day\n\n[e38d23]Boots Bonus:[-] Use less stamina with melee weapons.\n\n[e38d23]Full Set Bonus:[-] Increased Armor Rating & Less Fuel use.","[e38d23]中型護甲[-]\n\n痛扁別人真有趣！\n你可以扁上一整天\n\n[e38d23]靴子加成：[-] 使用近戰武器消耗更少耐力。\n\n[e38d23]全套加成：[-] 提升護甲值並減少燃料消耗。"
 
-armorTheTactiCoolHelmet,items,Clothes,,,"The TactiCool Cap [e38d23](MS)"
-armorTheTactiCoolOutfit,items,Clothes,,,"The TactiCool Outfit [e38d23](MS)"
-armorTheTactiCoolGloves,items,Clothes,,,"The TactiCool Gloves [e38d23](MS)"
-armorTheTactiCoolBoots,items,Clothes,,,"The TactiCool Boots [e38d23](MS)"
+armorTheTactiCoolHelmet,items,Clothes,,,"The TactiCool Cap [e38d23](MS)","戰術潮帽 [e38d23](MS)"
+armorTheTactiCoolOutfit,items,Clothes,,,"The TactiCool Outfit [e38d23](MS)","戰術潮服 [e38d23](MS)"
+armorTheTactiCoolGloves,items,Clothes,,,"The TactiCool Gloves [e38d23](MS)","戰術潮手套 [e38d23](MS)"
+armorTheTactiCoolBoots,items,Clothes,,,"The TactiCool Boots [e38d23](MS)","戰術潮靴 [e38d23](MS)"
 
-armorTheTactiCoolHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nAll those old movies from the 80s teached you that there is no need to Aim when you can shoot fast and reload even faster\n\n[e38d23]Cap Bonus:[-] Much Faster Reload Speed.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster."
-armorTheTactiCoolOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nWith so many pockets you will never run out of space for all the good stuff you find around.\nYou would not want to leave that half-eaten sham sandwitch behind, would you?\n\n[e38d23]Outfit Bonus:[-] Greatly Increased carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster."
-armorTheTactiCoolGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nAll those years of training playing darts and Beer Pong finally payed off.\nYour hability shooting guns and playing Flip Cup is legendary.\n\n[e38d23]Extra Gun Bonus:[-]  Increases DMG with all ranged weapons.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster."
-armorTheTactiCoolBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThese overpriced boots makes you look Cool and Run Faster\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster."
+armorTheTactiCoolHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nAll those old movies from the 80s teached you that there is no need to Aim when you can shoot fast and reload even faster\n\n[e38d23]Cap Bonus:[-] Much Faster Reload Speed.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster.","[e38d23]中型護甲[-]\n\n那些 80 年代的老電影教會你：只要射得快、裝填更快，根本不必瞄準\n\n[e38d23]帽子加成：[-] 大幅加快裝填速度。\n\n[e38d23]全套加成：[-] 恢復類物品作用速度大幅加快。"
+armorTheTactiCoolOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nWith so many pockets you will never run out of space for all the good stuff you find around.\nYou would not want to leave that half-eaten sham sandwitch behind, would you?\n\n[e38d23]Outfit Bonus:[-] Greatly Increased carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster.","[e38d23]中型護甲[-]\n\n口袋這麼多，你永遠不愁沒地方裝沿途找到的好東西。\n你總不會想把那塊吃了一半的午餐肉三明治丟下吧？\n\n[e38d23]服裝加成：[-] 大幅提升攜帶容量。\n\n[e38d23]全套加成：[-] 恢復類物品作用速度大幅加快。"
+armorTheTactiCoolGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nAll those years of training playing darts and Beer Pong finally payed off.\nYour hability shooting guns and playing Flip Cup is legendary.\n\n[e38d23]Extra Gun Bonus:[-]  Increases DMG with all ranged weapons.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster.","[e38d23]中型護甲[-]\n\n那些年苦練飛鏢與啤酒乒乓終於有了回報。\n你射擊與翻杯子的本事堪稱傳奇。\n\n[e38d23]備用槍加成：[-]  提升所有遠程武器的傷害。\n\n[e38d23]全套加成：[-] 恢復類物品作用速度大幅加快。"
+armorTheTactiCoolBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThese overpriced boots makes you look Cool and Run Faster\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Recovery Items work Much Faster.","[e38d23]中型護甲[-]\n\n這雙貴得離譜的靴子讓你看起來很潮，也跑得更快\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 恢復類物品作用速度大幅加快。"
 
-armorTheGeekHelmet_White,items,Clothes,,,"The Geek Helmet [e38d23](MS)"
-armorTheGeekOutfit_White,items,Clothes,,,"The Geek Outfit [e38d23](MS)"
-armorTheGeekGloves_White,items,Clothes,,,"The Geek Gloves [e38d23](MS)"
-armorTheGeekBoots_White,items,Clothes,,,"The Geek Converse [e38d23](MS)"
+armorTheGeekHelmet_White,items,Clothes,,,"The Geek Helmet [e38d23](MS)","宅宅頭盔 [e38d23](MS)"
+armorTheGeekOutfit_White,items,Clothes,,,"The Geek Outfit [e38d23](MS)","宅宅服裝 [e38d23](MS)"
+armorTheGeekGloves_White,items,Clothes,,,"The Geek Gloves [e38d23](MS)","宅宅手套 [e38d23](MS)"
+armorTheGeekBoots_White,items,Clothes,,,"The Geek Converse [e38d23](MS)","宅宅帆布鞋 [e38d23](MS)"
 
-armorTheGeekHelmet_Yellow,items,Clothes,,,"The Geek Helmet Variant [e38d23](MS)"
-armorTheGeekOutfit_Yellow,items,Clothes,,,"The Geek Outfit Variant [e38d23](MS)"
-armorTheGeekGloves_Yellow,items,Clothes,,,"The Geek Gloves Variant [e38d23](MS)"
-armorTheGeekBoots_Yellow,items,Clothes,,,"The Geek Converse Variant [e38d23](MS)"
+armorTheGeekHelmet_Yellow,items,Clothes,,,"The Geek Helmet Variant [e38d23](MS)","宅宅頭盔變體 [e38d23](MS)"
+armorTheGeekOutfit_Yellow,items,Clothes,,,"The Geek Outfit Variant [e38d23](MS)","宅宅服裝變體 [e38d23](MS)"
+armorTheGeekGloves_Yellow,items,Clothes,,,"The Geek Gloves Variant [e38d23](MS)","宅宅手套變體 [e38d23](MS)"
+armorTheGeekBoots_Yellow,items,Clothes,,,"The Geek Converse Variant [e38d23](MS)","宅宅帆布鞋變體 [e38d23](MS)"
 
-armorTheGeekHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou are always the smartest guy in the room: You know all the Magic Combos and secret areas in you favorite MMORPG.\n\n[e38d23]Helmet Bonus:[-] Increased EXP Gain.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation"
-armorTheGeekOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nAll your years playing videogames and MinMaxing your stats teached you how to focus and pay attention to the small details\n\n[e38d23]Outfit Bonus:[-] Adds a chance to gain two crafting skill points when reading magazines.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation"
-armorTheGeekGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou are the best discovering weak points and winning strategies against Bosses in your favorite games\n\n[e38d23]Gloves Bonus:[-] Increase DMG Intelect based weapons.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation"
-armorTheGeekBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYour endless Stamina is legendary.\nYou could play D&D all day long.\n\n[e38d23]Boots Bonus:[-] Increase Max Stamina.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation"
+armorTheGeekHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou are always the smartest guy in the room: You know all the Magic Combos and secret areas in you favorite MMORPG.\n\n[e38d23]Helmet Bonus:[-] Increased EXP Gain.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation","[e38d23]重型護甲[-]\n\n你永遠是房裡最聰明的人：你熟知最愛的 MMORPG 裡所有的魔法連招與隱藏區域。\n\n[e38d23]頭盔加成：[-] 提升經驗值獲得。\n\n[e38d23]全套加成：[-] 工具與武器耗損更慢"
+armorTheGeekOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nAll your years playing videogames and MinMaxing your stats teached you how to focus and pay attention to the small details\n\n[e38d23]Outfit Bonus:[-] Adds a chance to gain two crafting skill points when reading magazines.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation","[e38d23]重型護甲[-]\n\n多年打電動、鑽研數值極大化的經驗，教會你如何專注並留意細節\n\n[e38d23]服裝加成：[-] 閱讀雜誌時有機率獲得兩點工藝技能點。\n\n[e38d23]全套加成：[-] 工具與武器耗損更慢"
+armorTheGeekGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou are the best discovering weak points and winning strategies against Bosses in your favorite games\n\n[e38d23]Gloves Bonus:[-] Increase DMG Intelect based weapons.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation","[e38d23]重型護甲[-]\n\n在你最愛的遊戲裡，你最擅長找出弱點與擊敗頭目的致勝策略\n\n[e38d23]手套加成：[-] 提升智力系武器的傷害。\n\n[e38d23]全套加成：[-] 工具與武器耗損更慢"
+armorTheGeekBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYour endless Stamina is legendary.\nYou could play D&D all day long.\n\n[e38d23]Boots Bonus:[-] Increase Max Stamina.\n\n[e38d23]Full Set Bonus:[-] Slower Tools & Weapons Degradation","[e38d23]重型護甲[-]\n\n你源源不絕的耐力堪稱傳奇。\n你可以玩一整天的 D&D。\n\n[e38d23]靴子加成：[-] 提升最大耐力。\n\n[e38d23]全套加成：[-] 工具與武器耗損更慢"
 
-statTactiCoolReloadSpeed,ui_display,Item stat,,,"Gun Reload Speed"
-statMotorgangAttackSpeed,ui_display,Item stat,,,"Melee Atack Speed"
+statTactiCoolReloadSpeed,ui_display,Item stat,,,"Gun Reload Speed","槍械裝填速度"
+statMotorgangAttackSpeed,ui_display,Item stat,,,"Melee Atack Speed","近戰攻擊速度"
 
-buffTheHitmanSetBonusName,buffs,Buff,,,"The Hitman Full Set Bonus"
-buffTheHitmanSetBonusDesc,buffs,Buff,,,"Your Gun-Fu is very strong!.\n\nDamage with any Pistol or Revolver is increased by [e38d23]{cvar(.armorTheHitmanFSBDisplay:0)}%[-]."
-buffTheHitmanSetBonusTooltip,buffs,Buff,,,"The Hitman Full Set Bonus"
+buffTheHitmanSetBonusName,buffs,Buff,,,"The Hitman Full Set Bonus","殺手全套加成"
+buffTheHitmanSetBonusDesc,buffs,Buff,,,"Your Gun-Fu is very strong!.\n\nDamage with any Pistol or Revolver is increased by [e38d23]{cvar(.armorTheHitmanFSBDisplay:0)}%[-].","你的槍術功夫非常高強！\n\n所有手槍或左輪的傷害提升 [e38d23]{cvar(.armorTheHitmanFSBDisplay:0)}%[-]。"
+buffTheHitmanSetBonusTooltip,buffs,Buff,,,"The Hitman Full Set Bonus","殺手全套加成"
 
-buffTheMotorgangSetBonusName,buffs,Buff,,,"The Motorgang Full Set Bonus"
-buffTheMotorgangSetBonusDesc,buffs,Buff,,,"You know how to look intimidating and you know how to squish any vehicle for best performance.\n\nArmor rating is increased by [e38d23]{cvar(.armorTheMotorgangFSBDisplay:0)}[-].\nVehicles use [e38d23]{cvar(.armorTheMotorgangFSBDisplay02:0)}% less fuel.[-]"
-buffTheMotorgangSetBonusTooltip,buffs,Buff,,,"The Motorgang Full Set Bonus"
+buffTheMotorgangSetBonusName,buffs,Buff,,,"The Motorgang Full Set Bonus","機車幫全套加成"
+buffTheMotorgangSetBonusDesc,buffs,Buff,,,"You know how to look intimidating and you know how to squish any vehicle for best performance.\n\nArmor rating is increased by [e38d23]{cvar(.armorTheMotorgangFSBDisplay:0)}[-].\nVehicles use [e38d23]{cvar(.armorTheMotorgangFSBDisplay02:0)}% less fuel.[-]","你知道怎麼擺出嚇人的架勢，也懂得如何把任何載具調校到最佳性能。\n\n護甲值提升 [e38d23]{cvar(.armorTheMotorgangFSBDisplay:0)}[-]。\n載具燃料消耗減少 [e38d23]{cvar(.armorTheMotorgangFSBDisplay02:0)}%[-]。"
+buffTheMotorgangSetBonusTooltip,buffs,Buff,,,"The Motorgang Full Set Bonus","機車幫全套加成"
 
-buffTheTactiCoolSetBonusName,buffs,Buff,,,"The TactiCool Full Set Bonus"
-buffTheTactiCoolSetBonusDesc,buffs,Buff,,,"You are too Tactical and too Cool to stay down for long.\n\nRecovery items work [e38d23]{cvar(.armorTheTactiCoolFSBDisplay:0)}%[-] faster."
-buffTheTactiCoolSetBonusTooltip,buffs,Buff,,,"The TactiCool Full Set Bonus"
+buffTheTactiCoolSetBonusName,buffs,Buff,,,"The TactiCool Full Set Bonus","戰術潮全套加成"
+buffTheTactiCoolSetBonusDesc,buffs,Buff,,,"You are too Tactical and too Cool to stay down for long.\n\nRecovery items work [e38d23]{cvar(.armorTheTactiCoolFSBDisplay:0)}%[-] faster.","你太戰術、也太潮了，倒不了多久就會站起來。\n\n恢復類物品作用速度加快 [e38d23]{cvar(.armorTheTactiCoolFSBDisplay:0)}%[-]。"
+buffTheTactiCoolSetBonusTooltip,buffs,Buff,,,"The TactiCool Full Set Bonus","戰術潮全套加成"
 
-buffTheGeekSetBonusName,buffs,Buff,,,"The Geek Full Set Bonus"
-buffTheGeekSetBonusDesc,buffs,Buff,,,"Understanding the mechanics of tools and weapons allows the Geek to operate them properly so they last longer.\n\nTools and Weapons degrade [e38d23]{cvar(.armorTheGeekFSBDisplay:0)}%[-] slower."
-buffTheGeekSetBonusTooltip,buffs,Buff,,,"The Geek Full Set Bonus"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+buffTheGeekSetBonusName,buffs,Buff,,,"The Geek Full Set Bonus","宅宅全套加成"
+buffTheGeekSetBonusDesc,buffs,Buff,,,"Understanding the mechanics of tools and weapons allows the Geek to operate them properly so they last longer.\n\nTools and Weapons degrade [e38d23]{cvar(.armorTheGeekFSBDisplay:0)}%[-] slower.","了解工具與武器的運作原理，讓宅宅能正確操作它們，使其更耐用。\n\n工具與武器的耗損速度減慢 [e38d23]{cvar(.armorTheGeekFSBDisplay:0)}%[-]。"
+buffTheGeekSetBonusTooltip,buffs,Buff,,,"The Geek Full Set Bonus","宅宅全套加成"

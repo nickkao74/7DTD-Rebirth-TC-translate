@@ -7,10 +7,10 @@
 | 項目 | 數量 |
 |------|------|
 | 掃描檔案總數 | 48 |
-| 完成翻譯 | 8 |
+| 完成翻譯 | 13 |
 | 已有翻譯尚未檢查（標題欄含 `tchinese`） | 30 |
-| 尚未翻譯（標題欄無 `tchinese`） | 10 |
-| 最後盤查日期 | 2026-06-08 |
+| 尚未翻譯（標題欄無 `tchinese`） | 5 |
+| 最後盤查日期 | 2026-06-19 |
 
 ## 狀態說明
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 完成翻譯（8）
+## 完成翻譯（13）
 
 | # | 模組資料夾 | 路徑 | 完成日期 |
 |---|-----------|------|----------|
@@ -36,6 +36,11 @@
 | 6 | VehicleMadness_Beta4_v5_V2.0 | `mods/VehicleMadness_Beta4_v5_V2.0/Config/Localization.txt` | 2026-06-08 |
 | 7 | ZT-Industrial Resources | `mods/ZT-Industrial Resources/Config/Localization.txt` | 2026-06-08 |
 | 8 | zzzz_Alter_ArmorRacks | `mods/zzzz_Alter_ArmorRacks/Config/Localization.txt` | 2026-06-08 |
+| 9 | zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls/Config/Localization.txt` | 2026-06-19 |
+| 10 | zzzz_LittleRedSonja_Mumpfy_ArmorPack02_VanillaReVamp | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack02_VanillaReVamp/Config/Localization.txt` | 2026-06-19 |
+| 11 | zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders/Config/Localization.txt` | 2026-06-19 |
+| 12 | zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor/Config/Localization.txt` | 2026-06-19 |
+| 13 | zzzz-CannonFodders POIs and Things | `mods/zzzz-CannonFodders POIs and Things/Config/localization.txt` | 2026-06-19 |
 
 ---
 
@@ -76,20 +81,15 @@
 
 ---
 
-## 尚未翻譯（10）
+## 尚未翻譯（5）
 
 | # | 模組資料夾 | 路徑 |
 |---|-----------|------|
-| 1 | zzzz-CannonFodders POIs and Things | `mods/zzzz-CannonFodders POIs and Things/Config/localization.txt` |
-| 2 | zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls/Config/Localization.txt` |
-| 3 | zzzz_LittleRedSonja_Mumpfy_ArmorPack02_VanillaReVamp | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack02_VanillaReVamp/Config/Localization.txt` |
-| 4 | zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders/Config/Localization.txt` |
-| 5 | zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor/Config/Localization.txt` |
-| 6 | zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls/Config/Localization.txt` |
-| 7 | zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil/Config/Localization.txt` |
-| 8 | zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD/Config/Localization.txt` |
-| 9 | zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime/Config/Localization.txt` |
-| 10 | zzzzz_LittleRedSonja Rebirth Addons | `mods/zzzzz_LittleRedSonja Rebirth Addons/Config/Localization.txt` |
+| 1 | zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls/Config/Localization.txt` |
+| 2 | zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil/Config/Localization.txt` |
+| 3 | zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD/Config/Localization.txt` |
+| 4 | zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime/Config/Localization.txt` |
+| 5 | zzzzz_LittleRedSonja Rebirth Addons | `mods/zzzzz_LittleRedSonja Rebirth Addons/Config/Localization.txt` |
 
 ---
 
@@ -102,3 +102,6 @@
 | 2026-06-08 | 調整分類 | 新增「完成翻譯」分類；上述 3 檔自「已有翻譯尚未檢查」移入 |
 | 2026-06-08 | 更新路徑 | 所有模組移入 `mods/` 目錄，路徑統一加 `mods/` 前綴 |
 | 2026-06-08 | 完成翻譯 | `mods/TheDescent-cave-lights`（10 列）、`mods/TheDescent-cave-prefabs`（53 列）、`mods/VehicleMadness_Beta4_v5_V2.0`（506 列）、`mods/ZT-Industrial Resources`（21 列）、`mods/zzzz_Alter_ArmorRacks`（70 列） |
+| 2026-06-19 | 完成翻譯 | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls`（56 列）、`ArmorPack02_VanillaReVamp`（53 列）、`ArmorPack03_SomeTraders`（42 列）、`ArmorPack04_GNSArmor`（39 列），共 190 列 |
+| 2026-06-19 | 暫緩 | `mods/zzzz-CannonFodders POIs and Things`：標題宣告 4 欄但資料列格式不一致（英文落在第 2 欄），待個別處理 |
+| 2026-06-19 | 完成翻譯 | `mods/zzzz-CannonFodders POIs and Things`（42 列）：補齊 `Source`/`Context` 空欄，將英文移至 `english` 欄並對齊為 5 欄，新增 `tchinese` 譯文 |

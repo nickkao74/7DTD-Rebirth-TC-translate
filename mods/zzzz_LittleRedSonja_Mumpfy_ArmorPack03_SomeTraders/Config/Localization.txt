@@ -1,91 +1,58 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
+Key,File,Type,UsedInMainMenu,NoTranslate,english,tchinese
 
-armorSomeTradersJennyAndGinno,items,Item,,,"Jenny & Ginno Outfits [e38d23](MS)"
-armorSomeTradersRektAndBecky,items,Item,,,"Rekt & Becky Outfits [e38d23](MS)"
-armorSomeTradersBobAndBobby,items,Item,,,"Bob & Bobby Outfits [e38d23](MS)"
-
-
-armorUnisexJenHelmet,items,Clothes,,,"Jenny & Ginno Bandana [e38d23](MS)"
-armorUnisexJenOutfit,items,Clothes,,,"Jenny & Ginno Outfit [e38d23](MS)"
-armorUnisexJenGloves,items,Clothes,,,"Jenny & Ginno Watch [e38d23](MS)"
-armorUnisexJenBoots,items,Clothes,,,"Jenny & Ginno Boots [e38d23](MS)"
-
-armorUnisexJenHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou finished your medical training in a record time, and still have an easy time learning new things.\n\n[e38d23]Bandana Bonus:[-] Increase XP Gain.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
-armorUnisexJenOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are always an example for your patients. You do not eat fast food, you sleep enough hours, and you keep all kind of boring habits to stay healthy.\n\n[e38d23]Outfit Bonus:[-] Increased Max Health.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
-armorUnisexJenGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour surgical training teached you how to best use a blade to cure your patients...or to finish them.\n\n[e38d23]Watch Bonus:[-] Increase DMG and % for Instant Kill with Bladed Weapons.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
-armorUnisexJenBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nRunning around all day from one emergency to the next keeps you in good shape.\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+armorSomeTradersJennyAndGinno,items,Item,,,"Jenny & Ginno Outfits [e38d23](MS)","珍妮與吉諾服裝 [e38d23](MS)"
+armorSomeTradersRektAndBecky,items,Item,,,"Rekt & Becky Outfits [e38d23](MS)","雷克特與貝琪服裝 [e38d23](MS)"
+armorSomeTradersBobAndBobby,items,Item,,,"Bob & Bobby Outfits [e38d23](MS)","鮑伯與鮑比服裝 [e38d23](MS)"
 
 
-armorUnisexRektHelmet,items,Clothes,,,"Rekt & Becky Cap [e38d23](MS)"
-armorUnisexRektOutfit,items,Clothes,,,"Rekt & Becky Outfit [e38d23](MS)"
-armorUnisexRektGloves,items,Clothes,,,"Rekt & Becky Watch [e38d23](MS)"
-armorUnisexRektBoots,items,Clothes,,,"Rekt & Becky Shoes [e38d23](MS)"
+armorUnisexJenHelmet,items,Clothes,,,"Jenny & Ginno Bandana [e38d23](MS)","珍妮與吉諾頭巾 [e38d23](MS)"
+armorUnisexJenOutfit,items,Clothes,,,"Jenny & Ginno Outfit [e38d23](MS)","珍妮與吉諾服裝 [e38d23](MS)"
+armorUnisexJenGloves,items,Clothes,,,"Jenny & Ginno Watch [e38d23](MS)","珍妮與吉諾手錶 [e38d23](MS)"
+armorUnisexJenBoots,items,Clothes,,,"Jenny & Ginno Boots [e38d23](MS)","珍妮與吉諾靴子 [e38d23](MS)"
 
-armorUnisexRektHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to squish every coin out of every customer.\n\n[e38d23]Cap Bonus:[-] Much better prices Buying and Selling.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies."
-armorUnisexRektOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou need a lot of pockets for your Climox cream and all your other 'good stuff'.\n\n[e38d23]Outfit Bonus:[-] Increased Carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies."
-armorUnisexRektGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know some fellas that break legs for coin...But you also know how to take care of the scum by yourself.\n\n[e38d23]Watch Bonus:[-] Greatly Improved DMG & Reload Speed with Rifles.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies."
-armorUnisexRektBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou might not be fast, but you never get tired of scamming customers.\n\n[e38d23]Shoes Bonus:[-] Increased Max Stamina.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies."
-
-
-armorUnisexBobHelmet,items,Clothes,,,"Bob & Bobby Googles [e38d23](MS)"
-armorUnisexBobOutfit,items,Clothes,,,"Bob & Bobby Outfit [e38d23](MS)"
-armorUnisexBobGloves,items,Clothes,,,"Bob & Bobby Gloves [e38d23](MS)"
-armorUnisexBobBoots,items,Clothes,,,"Bob & Bobby Boots [e38d23](MS)"
-
-armorUnisexBobHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nOne man's trash is another's treasure.\nOr it might be just Trash.\n\n[e38d23]Googles Bonus:[-] Improved Loot Stage & Scavenge Speed.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation."
-armorUnisexBobOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nUsing tools is fun!\nYou never get tired of the sound of metal (or bones) bending and crashing under your mighty tools.\nWho needs guns? Guns are for weaklings!\n\n[e38d23]Outfit Bonus:[-] Reduced Stamina use with Any Tool.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation."
-armorUnisexBobGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou know how to use a tool in the most effective way...to inflict massive damage.\n\n[e38d23]Gloves Bonus:[-] Greatly increased Entity DMG with Any Tool.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation."
-armorUnisexBobBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nSome people are 'horse whisperers'.\nWell, you are an 'Engine Whisperer' and know how to get the best out of any vehicle.\n\n[e38d23]Boots Bonus:[-] Greatly Reduced Fuel Use with Any Vehicle.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation."
+armorUnisexJenHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou finished your medical training in a record time, and still have an easy time learning new things.\n\n[e38d23]Bandana Bonus:[-] Increase XP Gain.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection.","[e38d23]輕型護甲[-]\n\n你以破紀錄的時間完成了醫療訓練，學習新事物對你來說依然輕而易舉。\n\n[e38d23]頭巾加成：[-] 提升經驗值獲得。\n\n[e38d23]全套加成：[-] 降低重傷與感染的機率。"
+armorUnisexJenOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are always an example for your patients. You do not eat fast food, you sleep enough hours, and you keep all kind of boring habits to stay healthy.\n\n[e38d23]Outfit Bonus:[-] Increased Max Health.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection.","[e38d23]輕型護甲[-]\n\n你總是病患的表率。你不吃速食，睡眠充足，並維持各種無趣卻健康的習慣。\n\n[e38d23]服裝加成：[-] 提升最大生命值。\n\n[e38d23]全套加成：[-] 降低重傷與感染的機率。"
+armorUnisexJenGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour surgical training teached you how to best use a blade to cure your patients...or to finish them.\n\n[e38d23]Watch Bonus:[-] Increase DMG and % for Instant Kill with Bladed Weapons.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection.","[e38d23]輕型護甲[-]\n\n外科訓練教會你如何最妥善地用刀刃治療病患……或了結他們。\n\n[e38d23]手錶加成：[-] 提升刀刃武器的傷害與秒殺機率。\n\n[e38d23]全套加成：[-] 降低重傷與感染的機率。"
+armorUnisexJenBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nRunning around all day from one emergency to the next keeps you in good shape.\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection.","[e38d23]輕型護甲[-]\n\n整天從一場急救奔波到下一場，讓你保持良好體態。\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 降低重傷與感染的機率。"
 
 
-statJenDamage,ui_display,Item stat,,,"Blade weapons DMG"
-statJenRipper,ui_display,Item stat,,,"% Instant Kill"
-statRektDamage,ui_display,Item stat,,,"Rifles DMG & Reload speed"
-statBobScavengeTime,ui_display,Item stat,,,"Scavenge time"
-statBobStaminaLoss,ui_display,Item stat,,,"Stamina Use with any Tool"
-statBobDamage,ui_display,Item stat,,,"Any Tool Entity DMG"
+armorUnisexRektHelmet,items,Clothes,,,"Rekt & Becky Cap [e38d23](MS)","雷克特與貝琪帽子 [e38d23](MS)"
+armorUnisexRektOutfit,items,Clothes,,,"Rekt & Becky Outfit [e38d23](MS)","雷克特與貝琪服裝 [e38d23](MS)"
+armorUnisexRektGloves,items,Clothes,,,"Rekt & Becky Watch [e38d23](MS)","雷克特與貝琪手錶 [e38d23](MS)"
+armorUnisexRektBoots,items,Clothes,,,"Rekt & Becky Shoes [e38d23](MS)","雷克特與貝琪鞋子 [e38d23](MS)"
 
-buffUnisexJenSetBonusName,buffs,Buff,,,"Jenny & Ginno Full Set Bonus"
-buffUnisexJenSetBonusDesc,buffs,Buff,,,"Your extensive knowledge of Epidemiology & Preventive Medicine keeps you safe from any harm.\nAlmost.\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorUnisexJenFSBDisplay01:0)}%[-] and Infection chances by [e38d23]{cvar(.armorUnisexJenFSBDisplay02:0)}%[-]."
-buffUnisexJenSetBonusTooltip,buffs,Buff,,,"Jenny & Ginno Full Set Bonus"
-
-buffUnisexRektSetBonusName,buffs,Buff,,,"Rekt & Becky Full Set Bonus"
-buffUnisexRektSetBonusDesc,buffs,Buff,,,"Your 'charming' personality is a shield that not even zombies can break.\nEverybody Loves You..right? I said RIGHT?!.\n\nDMG resistance against zombies is increased by [e38d23]{cvar(.armorUnisexRektFSBDisplay01:0)}%[-]."
-buffUnisexRektSetBonusTooltip,buffs,Buff,,,"Rekt & Becky Full Set Bonus"
-
-buffUnisexBobSetBonusName,buffs,Buff,,,"Bob & Bobby Full Set Bonus"
-buffUnisexBobSetBonusDesc,buffs,Buff,,,"This is my Tool.\nThere are many like it, but this one is mine.\nMy Tool is my best friend. It is my life.\n\nTool degradation is reduced by [e38d23]{cvar(.armorUnisexBobFSBDisplay:0)}%[-]."
-buffUnisexBobSetBonusTooltip,buffs,Buff,,,"Bob & Bobby Full Set Bonus"
+armorUnisexRektHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to squish every coin out of every customer.\n\n[e38d23]Cap Bonus:[-] Much better prices Buying and Selling.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies.","[e38d23]中型護甲[-]\n\n你懂得從每位顧客身上榨出每一枚硬幣。\n\n[e38d23]帽子加成：[-] 買賣價格大幅優惠。\n\n[e38d23]全套加成：[-] 對喪屍的傷害抗性。"
+armorUnisexRektOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou need a lot of pockets for your Climox cream and all your other 'good stuff'.\n\n[e38d23]Outfit Bonus:[-] Increased Carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies.","[e38d23]中型護甲[-]\n\n你需要很多口袋來裝你的 Climox 藥膏和其他所有「好東西」。\n\n[e38d23]服裝加成：[-] 提升攜帶容量。\n\n[e38d23]全套加成：[-] 對喪屍的傷害抗性。"
+armorUnisexRektGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know some fellas that break legs for coin...But you also know how to take care of the scum by yourself.\n\n[e38d23]Watch Bonus:[-] Greatly Improved DMG & Reload Speed with Rifles.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies.","[e38d23]中型護甲[-]\n\n你認識一些為了錢替人打斷腿的傢伙……但你也懂得親自收拾人渣。\n\n[e38d23]手錶加成：[-] 大幅提升步槍的傷害與裝填速度。\n\n[e38d23]全套加成：[-] 對喪屍的傷害抗性。"
+armorUnisexRektBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou might not be fast, but you never get tired of scamming customers.\n\n[e38d23]Shoes Bonus:[-] Increased Max Stamina.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance against zombies.","[e38d23]中型護甲[-]\n\n你或許跑不快，但坑顧客這檔事你永遠不嫌累。\n\n[e38d23]鞋子加成：[-] 提升最大耐力。\n\n[e38d23]全套加成：[-] 對喪屍的傷害抗性。"
 
 
+armorUnisexBobHelmet,items,Clothes,,,"Bob & Bobby Googles [e38d23](MS)","鮑伯與鮑比護目鏡 [e38d23](MS)"
+armorUnisexBobOutfit,items,Clothes,,,"Bob & Bobby Outfit [e38d23](MS)","鮑伯與鮑比服裝 [e38d23](MS)"
+armorUnisexBobGloves,items,Clothes,,,"Bob & Bobby Gloves [e38d23](MS)","鮑伯與鮑比手套 [e38d23](MS)"
+armorUnisexBobBoots,items,Clothes,,,"Bob & Bobby Boots [e38d23](MS)","鮑伯與鮑比靴子 [e38d23](MS)"
+
+armorUnisexBobHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nOne man's trash is another's treasure.\nOr it might be just Trash.\n\n[e38d23]Googles Bonus:[-] Improved Loot Stage & Scavenge Speed.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation.","[e38d23]重型護甲[-]\n\n一個人的垃圾是另一個人的寶藏。\n不過也可能就只是垃圾。\n\n[e38d23]護目鏡加成：[-] 提升戰利品等級與搜刮速度。\n\n[e38d23]全套加成：[-] 工具耗損大幅降低。"
+armorUnisexBobOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nUsing tools is fun!\nYou never get tired of the sound of metal (or bones) bending and crashing under your mighty tools.\nWho needs guns? Guns are for weaklings!\n\n[e38d23]Outfit Bonus:[-] Reduced Stamina use with Any Tool.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation.","[e38d23]重型護甲[-]\n\n用工具真有趣！\n金屬（或骨頭）在你強力工具下彎折碎裂的聲音，你怎麼聽都不膩。\n誰需要槍？槍是弱者用的！\n\n[e38d23]服裝加成：[-] 使用任何工具消耗更少耐力。\n\n[e38d23]全套加成：[-] 工具耗損大幅降低。"
+armorUnisexBobGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou know how to use a tool in the most effective way...to inflict massive damage.\n\n[e38d23]Gloves Bonus:[-] Greatly increased Entity DMG with Any Tool.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation.","[e38d23]重型護甲[-]\n\n你懂得以最有效的方式使用工具……來造成巨大傷害。\n\n[e38d23]手套加成：[-] 大幅提升任何工具對生物的傷害。\n\n[e38d23]全套加成：[-] 工具耗損大幅降低。"
+armorUnisexBobBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nSome people are 'horse whisperers'.\nWell, you are an 'Engine Whisperer' and know how to get the best out of any vehicle.\n\n[e38d23]Boots Bonus:[-] Greatly Reduced Fuel Use with Any Vehicle.\n\n[e38d23]Full Set Bonus:[-] Much Lower Tool Degradation.","[e38d23]重型護甲[-]\n\n有些人是「馬語者」。\n而你是「引擎語者」，懂得如何讓任何載具發揮最佳性能。\n\n[e38d23]靴子加成：[-] 大幅減少任何載具的燃料消耗。\n\n[e38d23]全套加成：[-] 工具耗損大幅降低。"
 
 
+statJenDamage,ui_display,Item stat,,,"Blade weapons DMG","刀刃武器傷害"
+statJenRipper,ui_display,Item stat,,,"% Instant Kill","秒殺機率"
+statRektDamage,ui_display,Item stat,,,"Rifles DMG & Reload speed","步槍傷害與裝填速度"
+statBobScavengeTime,ui_display,Item stat,,,"Scavenge time","搜刮時間"
+statBobStaminaLoss,ui_display,Item stat,,,"Stamina Use with any Tool","任何工具的耐力消耗"
+statBobDamage,ui_display,Item stat,,,"Any Tool Entity DMG","任何工具對生物的傷害"
 
+buffUnisexJenSetBonusName,buffs,Buff,,,"Jenny & Ginno Full Set Bonus","珍妮與吉諾全套加成"
+buffUnisexJenSetBonusDesc,buffs,Buff,,,"Your extensive knowledge of Epidemiology & Preventive Medicine keeps you safe from any harm.\nAlmost.\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorUnisexJenFSBDisplay01:0)}%[-] and Infection chances by [e38d23]{cvar(.armorUnisexJenFSBDisplay02:0)}%[-].","你在流行病學與預防醫學上的淵博知識，讓你免受任何傷害。\n幾乎啦。\n\n重傷機率降低 [e38d23]{cvar(.armorUnisexJenFSBDisplay01:0)}%[-]，感染機率降低 [e38d23]{cvar(.armorUnisexJenFSBDisplay02:0)}%[-]。"
+buffUnisexJenSetBonusTooltip,buffs,Buff,,,"Jenny & Ginno Full Set Bonus","珍妮與吉諾全套加成"
 
+buffUnisexRektSetBonusName,buffs,Buff,,,"Rekt & Becky Full Set Bonus","雷克特與貝琪全套加成"
+buffUnisexRektSetBonusDesc,buffs,Buff,,,"Your 'charming' personality is a shield that not even zombies can break.\nEverybody Loves You..right? I said RIGHT?!.\n\nDMG resistance against zombies is increased by [e38d23]{cvar(.armorUnisexRektFSBDisplay01:0)}%[-].","你那「迷人」的個性是一面連喪屍都打不破的盾。\n大家都愛你……對吧？我說對吧？！\n\n對喪屍的傷害抗性提升 [e38d23]{cvar(.armorUnisexRektFSBDisplay01:0)}%[-]。"
+buffUnisexRektSetBonusTooltip,buffs,Buff,,,"Rekt & Becky Full Set Bonus","雷克特與貝琪全套加成"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+buffUnisexBobSetBonusName,buffs,Buff,,,"Bob & Bobby Full Set Bonus","鮑伯與鮑比全套加成"
+buffUnisexBobSetBonusDesc,buffs,Buff,,,"This is my Tool.\nThere are many like it, but this one is mine.\nMy Tool is my best friend. It is my life.\n\nTool degradation is reduced by [e38d23]{cvar(.armorUnisexBobFSBDisplay:0)}%[-].","這是我的工具。\n像它的工具有很多，但這把是我的。\n我的工具是我最好的朋友。它是我的生命。\n\n工具耗損降低 [e38d23]{cvar(.armorUnisexBobFSBDisplay:0)}%[-]。"
+buffUnisexBobSetBonusTooltip,buffs,Buff,,,"Bob & Bobby Full Set Bonus","鮑伯與鮑比全套加成"

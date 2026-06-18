@@ -1,79 +1,79 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
+Key,File,Type,UsedInMainMenu,NoTranslate,english,tchinese
 
-armorTWDLightArmor,items,Item,,,"The Walking Dead Light Armors [e38d23](MS)"
-armorTWDMediumArmor,items,Item,,,"The Walking Dead Medium Armors [e38d23](MS)"
-
-
-armorUnisexDarylTWDHelmet,items,Clothes,,,"Daryl Ears Necklace [e38d23](MS)"
-armorUnisexDarylTWDOutfit,items,Clothes,,,"Daryl Outfit [e38d23](MS)"
-armorUnisexDarylTWDGloves,items,Clothes,,,"Daryl Bracelet [e38d23](MS)"
-armorUnisexDarylTWDBoots,items,Clothes,,,"Daryl Shoes [e38d23](MS)"
-
-armorUnisexDarylTWDHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou did not get all these ears by being slow.\n\n[e38d23]Ears Necklace Bonus:[-] Faster Reload with Crossbows.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use."
-armorUnisexDarylTWDOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese muddy dirty clothes will help you remain unnoticed\n\n[e38d23]Outfit Bonus:[-] Improved Stealth.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use."
-armorUnisexDarylTWDGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWho needs a gun when you have your crossbow?\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus with Crossbows.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use."
-armorUnisexDarylTWDBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are silent like a snake.\n\n[e38d23]Shoes Bonus:[-] Noise reduction.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use."
+armorTWDLightArmor,items,Item,,,"The Walking Dead Light Armors [e38d23](MS)","陰屍路輕型護甲 [e38d23](MS)"
+armorTWDMediumArmor,items,Item,,,"The Walking Dead Medium Armors [e38d23](MS)","陰屍路中型護甲 [e38d23](MS)"
 
 
-armorUnisexMichonneTWDHelmet,items,Clothes,,,"Michonne Hair & Headband [e38d23](MS)"
-armorUnisexMichonneTWDHelmet_Headband,items,Clothes,,,"Michonne Only Headband [e38d23](MS)"
-armorUnisexMichonneTWDOutfit,items,Clothes,,,"Michonne Outfit [e38d23](MS)"
-armorUnisexMichonneTWDGloves,items,Clothes,,,"Michonne Gloves [e38d23](MS)"
-armorUnisexMichonneTWDBoots,items,Clothes,,,"Michonne Boots [e38d23](MS)"
+armorUnisexDarylTWDHelmet,items,Clothes,,,"Daryl Ears Necklace [e38d23](MS)","戴瑞耳朵項鍊 [e38d23](MS)"
+armorUnisexDarylTWDOutfit,items,Clothes,,,"Daryl Outfit [e38d23](MS)","戴瑞服裝 [e38d23](MS)"
+armorUnisexDarylTWDGloves,items,Clothes,,,"Daryl Bracelet [e38d23](MS)","戴瑞手鍊 [e38d23](MS)"
+armorUnisexDarylTWDBoots,items,Clothes,,,"Daryl Shoes [e38d23](MS)","戴瑞鞋子 [e38d23](MS)"
 
-armorUnisexMichonneTWDHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can chopity chop any zombie in record time.\n\n[e38d23]Pistols Bonus:[-] Faster Attack Speed with Blades.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades."
-armorUnisexMichonneTWDOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour light clothes help you move fast and dodge any attack.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades."
-armorUnisexMichonneTWDGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are lethal with any kind of blade, and can often finish your target in one hit.\n\n[e38d23]Elbow Pad Bonus:[-] Increase DMG and % for Instant Kill with Blades.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades."
-armorUnisexMichonneTWDBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for running!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades."
-
-
-armorUnisexRickTWDHelmet,items,Clothes,,,"Rick Hat [e38d23](MS)"
-armorUnisexRickTWDOutfit,items,Clothes,,,"Rick Outfit [e38d23](MS)"
-armorUnisexRickTWDGloves,items,Clothes,,,"Rick Watch & Ring [e38d23](MS)"
-armorUnisexRickTWDBoots,items,Clothes,,,"Rick Shoes [e38d23](MS)"
-
-armorUnisexRickTWDHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou are the fastest Gunslinger North of Pecos.\n\n[e38d23]Flashlight Bonus:[-] Faster Reload with Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
-armorUnisexRickTWDOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nSurviving in the Apocalypse is rough, and what does not kill you makes you stronger.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
-armorUnisexRickTWDGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou have no equal in a gunfight.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus with Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
-armorUnisexRickTWDBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from all those zombies has also made you fast enough to outrun the zombies. Or at least to outrun the other guys...\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+armorUnisexDarylTWDHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou did not get all these ears by being slow.\n\n[e38d23]Ears Necklace Bonus:[-] Faster Reload with Crossbows.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use.","[e38d23]輕型護甲[-]\n\n這一串耳朵可不是靠手腳慢蒐集來的。\n\n[e38d23]耳朵項鍊加成：[-] 加快十字弓裝填速度。\n\n[e38d23]全套加成：[-] 護甲加成並減少燃料消耗。"
+armorUnisexDarylTWDOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese muddy dirty clothes will help you remain unnoticed\n\n[e38d23]Outfit Bonus:[-] Improved Stealth.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use.","[e38d23]輕型護甲[-]\n\n這身沾滿泥巴的髒衣服能幫你不被察覺\n\n[e38d23]服裝加成：[-] 提升潛行。\n\n[e38d23]全套加成：[-] 護甲加成並減少燃料消耗。"
+armorUnisexDarylTWDGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWho needs a gun when you have your crossbow?\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus with Crossbows.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use.","[e38d23]輕型護甲[-]\n\n有了十字弓，誰還需要槍？\n\n[e38d23]手鍊加成：[-] 提升十字弓傷害。\n\n[e38d23]全套加成：[-] 護甲加成並減少燃料消耗。"
+armorUnisexDarylTWDBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are silent like a snake.\n\n[e38d23]Shoes Bonus:[-] Noise reduction.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Less Fuel Use.","[e38d23]輕型護甲[-]\n\n你安靜得像條蛇。\n\n[e38d23]鞋子加成：[-] 降低噪音。\n\n[e38d23]全套加成：[-] 護甲加成並減少燃料消耗。"
 
 
-armorUnisexNeganTWDHelmet,items,Clothes,,,"Negan Scarf [e38d23](MS)"
-armorUnisexNeganTWDOutfit,items,Clothes,,,"Negan Outfit [e38d23](MS)"
-armorUnisexNeganTWDGloves,items,Clothes,,,"Negan Glove [e38d23](MS)"
-armorUnisexNeganTWDBoots,items,Clothes,,,"Negan Boots [e38d23](MS)"
+armorUnisexMichonneTWDHelmet,items,Clothes,,,"Michonne Hair & Headband [e38d23](MS)","蜜瓊頭髮與頭帶 [e38d23](MS)"
+armorUnisexMichonneTWDHelmet_Headband,items,Clothes,,,"Michonne Only Headband [e38d23](MS)","蜜瓊單頭帶 [e38d23](MS)"
+armorUnisexMichonneTWDOutfit,items,Clothes,,,"Michonne Outfit [e38d23](MS)","蜜瓊服裝 [e38d23](MS)"
+armorUnisexMichonneTWDGloves,items,Clothes,,,"Michonne Gloves [e38d23](MS)","蜜瓊手套 [e38d23](MS)"
+armorUnisexMichonneTWDBoots,items,Clothes,,,"Michonne Boots [e38d23](MS)","蜜瓊靴子 [e38d23](MS)"
 
-armorUnisexNeganTWDHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou always get the best prices. Or else.\n\n[e38d23]Necklace Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
-armorUnisexNeganTWDOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou have recovered from very bad injuries before, and you can do it again.\n\n[e38d23]Outfit Bonus:[-] Faster injury recovery.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
-armorUnisexNeganTWDGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLucille is thirsty.\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus and Faster Attacks with Clubs.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
-armorUnisexNeganTWDBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can beat zombies (or people) with a bat all day long, bonking heads never gets old.\n\n[e38d23]Cap Bonus:[-] Less Stamina Use with Clubs.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
-
-
-
-statDarylReload,ui_display,Item stat,,,"Crossbow Reload Speed"
-statDarylDMG,ui_display,Item stat,,,"Crossbow DMG"
-statMichonneSpeed,ui_display,Item stat,,,"Blades Attack Speed"
-statMichonneDamage,ui_display,Item stat,,,"Blades DMG"
-statMichonneRipper,ui_display,Item stat,,,"% Instant Kill"
-statRickReload,ui_display,Item stat,,,"Handguns Reload Speed"
-statRickDamage,ui_display,Item stat,,,"Handguns DMG"
-statNeganDamage,ui_display,Item stat,,,"Clubs DMG"
-statNeganSpeed,ui_display,Item stat,,,"Clubs Attack Speed"
-statNeganStaminaLoss,ui_display,Item stat,,,"Clubs Stamina Use"
+armorUnisexMichonneTWDHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can chopity chop any zombie in record time.\n\n[e38d23]Pistols Bonus:[-] Faster Attack Speed with Blades.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades.","[e38d23]輕型護甲[-]\n\n你能以破紀錄的速度把任何喪屍剁個稀爛。\n\n[e38d23]刀刃加成：[-] 加快刀刃的攻擊速度。\n\n[e38d23]全套加成：[-] 降低刀刃的耗損與耐力消耗。"
+armorUnisexMichonneTWDOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour light clothes help you move fast and dodge any attack.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades.","[e38d23]輕型護甲[-]\n\n你的輕便衣物助你快速移動、閃避任何攻擊。\n\n[e38d23]服裝加成：[-] 傷害抗性。\n\n[e38d23]全套加成：[-] 降低刀刃的耗損與耐力消耗。"
+armorUnisexMichonneTWDGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are lethal with any kind of blade, and can often finish your target in one hit.\n\n[e38d23]Elbow Pad Bonus:[-] Increase DMG and % for Instant Kill with Blades.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades.","[e38d23]輕型護甲[-]\n\n你使用任何刀刃都極為致命，常常一擊就能了結目標。\n\n[e38d23]護肘加成：[-] 提升刀刃的傷害與秒殺機率。\n\n[e38d23]全套加成：[-] 降低刀刃的耗損與耐力消耗。"
+armorUnisexMichonneTWDBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for running!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Less Degradation & Stamina use with Blades.","[e38d23]輕型護甲[-]\n\n這雙靴子就是為了奔跑而生！\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 降低刀刃的耗損與耐力消耗。"
 
 
-buffUnisexDarylTWDSetBonusName,buffs,Buff,,,"Daryl Full Set Bonus"
-buffUnisexDarylTWDSetBonusDesc,buffs,Buff,,,"You look cool, ride a motorcycle, and the public loves you. What else could you ask for?\n\nWell, maybe these nice armor bonus.\n\nIncreases Armor Rating by [e38d23]{cvar(.armorUnisexDarylTWDFSBDisplay01:0)}[-] and Reduces Fuel Use by [e38d23]{cvar(.armorUnisexDarylTWDFSBDisplay02:0)}%[-]."
-buffUnisexDarylTWDSetBonusTooltip,buffs,Buff,,,"Daryl Full Set Bonus"
+armorUnisexRickTWDHelmet,items,Clothes,,,"Rick Hat [e38d23](MS)","瑞克帽子 [e38d23](MS)"
+armorUnisexRickTWDOutfit,items,Clothes,,,"Rick Outfit [e38d23](MS)","瑞克服裝 [e38d23](MS)"
+armorUnisexRickTWDGloves,items,Clothes,,,"Rick Watch & Ring [e38d23](MS)","瑞克手錶與戒指 [e38d23](MS)"
+armorUnisexRickTWDBoots,items,Clothes,,,"Rick Shoes [e38d23](MS)","瑞克鞋子 [e38d23](MS)"
 
-buffUnisexMichonneTWDSetBonusName,buffs,Buff,,,"Michonne Full Set Bonus"
-buffUnisexMichonneTWDSetBonusDesc,buffs,Buff,,,"No, sorry, the armor did not came with a built-in-Katana, but enjoy this bonus with any blade anyway\n\nReduces Degradation of Blades by [e38d23]{cvar(.armorUnisexMichonneTWDFSBDisplay01:0)}%[-] and Stamina Use by [e38d23]{cvar(.armorUnisexMichonneTWDFSBDisplay02:0)}%[-]."
-buffUnisexMichonneTWDSetBonusTooltip,buffs,Buff,,,"Michonne Full Set Bonus"
+armorUnisexRickTWDHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou are the fastest Gunslinger North of Pecos.\n\n[e38d23]Flashlight Bonus:[-] Faster Reload with Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot.","[e38d23]中型護甲[-]\n\n你是佩科斯以北最快的槍手。\n\n[e38d23]手電筒加成：[-] 加快手槍與左輪的裝填速度。\n\n[e38d23]全套加成：[-] 提升戰利品等級並增加戰利品金幣。"
+armorUnisexRickTWDOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nSurviving in the Apocalypse is rough, and what does not kill you makes you stronger.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot.","[e38d23]中型護甲[-]\n\n在末日中求生很艱辛，而那些殺不死你的，會讓你更強大。\n\n[e38d23]服裝加成：[-] 最大生命值加成。\n\n[e38d23]全套加成：[-] 提升戰利品等級並增加戰利品金幣。"
+armorUnisexRickTWDGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou have no equal in a gunfight.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus with Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot.","[e38d23]中型護甲[-]\n\n在槍戰中你無人能敵。\n\n[e38d23]手套加成：[-] 提升手槍與左輪的傷害。\n\n[e38d23]全套加成：[-] 提升戰利品等級並增加戰利品金幣。"
+armorUnisexRickTWDBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from all those zombies has also made you fast enough to outrun the zombies. Or at least to outrun the other guys...\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot.","[e38d23]中型護甲[-]\n\n不斷逃離那些喪屍，也讓你跑得夠快、能甩開喪屍。至少能甩開其他人……\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 提升戰利品等級並增加戰利品金幣。"
 
-buffUnisexRickTWDSetBonusName,buffs,Buff,,,"Rick Full Set Bonus"
-buffUnisexRickTWDSetBonusDesc,buffs,Buff,,,"Your training as sheriff gave you a special talent to find other peoples stashes. All the good stuff.\n\nLoot Stage increased by [e38d23]{cvar(.armorUnisexRickTWDFSBDisplay01:0)}[-] and find [e38d23]{cvar(.armorUnisexRickTWDFSBDisplay02:0)}%[-] more Dukes in Loot."
-buffUnisexRickTWDSetBonusTooltip,buffs,Buff,,,"Rick Full Set Bonus"
 
-buffUnisexNeganTWDSetBonusName,buffs,Buff,,,"Negan Full Set Bonus"
-buffUnisexNeganTWDSetBonusDesc,buffs,Buff,,,"You are too Badass to get critically injured.\n\nReduce % to get a critical injury by [e38d23]{cvar(.armorUnisexNeganTWDFSBDisplay:0)}%[-]"
-buffUnisexNeganTWDSetBonusTooltip,buffs,Buff,,,"Negan Full Set Bonus"
+armorUnisexNeganTWDHelmet,items,Clothes,,,"Negan Scarf [e38d23](MS)","尼根圍巾 [e38d23](MS)"
+armorUnisexNeganTWDOutfit,items,Clothes,,,"Negan Outfit [e38d23](MS)","尼根服裝 [e38d23](MS)"
+armorUnisexNeganTWDGloves,items,Clothes,,,"Negan Glove [e38d23](MS)","尼根手套 [e38d23](MS)"
+armorUnisexNeganTWDBoots,items,Clothes,,,"Negan Boots [e38d23](MS)","尼根靴子 [e38d23](MS)"
+
+armorUnisexNeganTWDHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou always get the best prices. Or else.\n\n[e38d23]Necklace Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury.","[e38d23]中型護甲[-]\n\n你總能拿到最好的價錢。否則後果自負。\n\n[e38d23]項鍊加成：[-] 買賣價格大幅優惠。\n\n[e38d23]全套加成：[-] 降低受到重傷的機率。"
+armorUnisexNeganTWDOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou have recovered from very bad injuries before, and you can do it again.\n\n[e38d23]Outfit Bonus:[-] Faster injury recovery.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury.","[e38d23]中型護甲[-]\n\n你以前曾從非常嚴重的傷勢中復原，現在也能再來一次。\n\n[e38d23]服裝加成：[-] 加快傷勢復原。\n\n[e38d23]全套加成：[-] 降低受到重傷的機率。"
+armorUnisexNeganTWDGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLucille is thirsty.\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus and Faster Attacks with Clubs.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury.","[e38d23]中型護甲[-]\n\n露西兒渴了。\n\n[e38d23]手鍊加成：[-] 提升棍棒的傷害並加快攻擊。\n\n[e38d23]全套加成：[-] 降低受到重傷的機率。"
+armorUnisexNeganTWDBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can beat zombies (or people) with a bat all day long, bonking heads never gets old.\n\n[e38d23]Cap Bonus:[-] Less Stamina Use with Clubs.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury.","[e38d23]中型護甲[-]\n\n你可以拿球棒把喪屍（或人）打上一整天，敲腦袋這事永遠不膩。\n\n[e38d23]帽子加成：[-] 降低棍棒的耐力消耗。\n\n[e38d23]全套加成：[-] 降低受到重傷的機率。"
+
+
+
+statDarylReload,ui_display,Item stat,,,"Crossbow Reload Speed","十字弓裝填速度"
+statDarylDMG,ui_display,Item stat,,,"Crossbow DMG","十字弓傷害"
+statMichonneSpeed,ui_display,Item stat,,,"Blades Attack Speed","刀刃攻擊速度"
+statMichonneDamage,ui_display,Item stat,,,"Blades DMG","刀刃傷害"
+statMichonneRipper,ui_display,Item stat,,,"% Instant Kill","秒殺機率"
+statRickReload,ui_display,Item stat,,,"Handguns Reload Speed","手槍裝填速度"
+statRickDamage,ui_display,Item stat,,,"Handguns DMG","手槍傷害"
+statNeganDamage,ui_display,Item stat,,,"Clubs DMG","棍棒傷害"
+statNeganSpeed,ui_display,Item stat,,,"Clubs Attack Speed","棍棒攻擊速度"
+statNeganStaminaLoss,ui_display,Item stat,,,"Clubs Stamina Use","棍棒耐力消耗"
+
+
+buffUnisexDarylTWDSetBonusName,buffs,Buff,,,"Daryl Full Set Bonus","戴瑞全套加成"
+buffUnisexDarylTWDSetBonusDesc,buffs,Buff,,,"You look cool, ride a motorcycle, and the public loves you. What else could you ask for?\n\nWell, maybe these nice armor bonus.\n\nIncreases Armor Rating by [e38d23]{cvar(.armorUnisexDarylTWDFSBDisplay01:0)}[-] and Reduces Fuel Use by [e38d23]{cvar(.armorUnisexDarylTWDFSBDisplay02:0)}%[-].","你帥氣、騎著摩托車，大眾也愛你。你還能要求什麼？\n\n嗯，或許就是這些不錯的護甲加成。\n\n護甲值提升 [e38d23]{cvar(.armorUnisexDarylTWDFSBDisplay01:0)}[-]，燃料消耗減少 [e38d23]{cvar(.armorUnisexDarylTWDFSBDisplay02:0)}%[-]。"
+buffUnisexDarylTWDSetBonusTooltip,buffs,Buff,,,"Daryl Full Set Bonus","戴瑞全套加成"
+
+buffUnisexMichonneTWDSetBonusName,buffs,Buff,,,"Michonne Full Set Bonus","蜜瓊全套加成"
+buffUnisexMichonneTWDSetBonusDesc,buffs,Buff,,,"No, sorry, the armor did not came with a built-in-Katana, but enjoy this bonus with any blade anyway\n\nReduces Degradation of Blades by [e38d23]{cvar(.armorUnisexMichonneTWDFSBDisplay01:0)}%[-] and Stamina Use by [e38d23]{cvar(.armorUnisexMichonneTWDFSBDisplay02:0)}%[-].","抱歉，這套護甲並沒有內建武士刀，但無論如何，用任何刀刃都能享受這份加成\n\n刀刃耗損降低 [e38d23]{cvar(.armorUnisexMichonneTWDFSBDisplay01:0)}%[-]，耐力消耗降低 [e38d23]{cvar(.armorUnisexMichonneTWDFSBDisplay02:0)}%[-]。"
+buffUnisexMichonneTWDSetBonusTooltip,buffs,Buff,,,"Michonne Full Set Bonus","蜜瓊全套加成"
+
+buffUnisexRickTWDSetBonusName,buffs,Buff,,,"Rick Full Set Bonus","瑞克全套加成"
+buffUnisexRickTWDSetBonusDesc,buffs,Buff,,,"Your training as sheriff gave you a special talent to find other peoples stashes. All the good stuff.\n\nLoot Stage increased by [e38d23]{cvar(.armorUnisexRickTWDFSBDisplay01:0)}[-] and find [e38d23]{cvar(.armorUnisexRickTWDFSBDisplay02:0)}%[-] more Dukes in Loot.","身為警長的訓練賦予你尋找他人藏匿處的特殊天賦。全是好東西。\n\n戰利品等級提升 [e38d23]{cvar(.armorUnisexRickTWDFSBDisplay01:0)}[-]，戰利品中找到的金幣增加 [e38d23]{cvar(.armorUnisexRickTWDFSBDisplay02:0)}%[-]。"
+buffUnisexRickTWDSetBonusTooltip,buffs,Buff,,,"Rick Full Set Bonus","瑞克全套加成"
+
+buffUnisexNeganTWDSetBonusName,buffs,Buff,,,"Negan Full Set Bonus","尼根全套加成"
+buffUnisexNeganTWDSetBonusDesc,buffs,Buff,,,"You are too Badass to get critically injured.\n\nReduce % to get a critical injury by [e38d23]{cvar(.armorUnisexNeganTWDFSBDisplay:0)}%[-]","你太狠了，根本不會受重傷。\n\n受到重傷的機率降低 [e38d23]{cvar(.armorUnisexNeganTWDFSBDisplay:0)}%[-]"
+buffUnisexNeganTWDSetBonusTooltip,buffs,Buff,,,"Negan Full Set Bonus","尼根全套加成"

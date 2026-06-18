@@ -1,123 +1,123 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
+Key,File,Type,UsedInMainMenu,NoTranslate,english,tchinese
 
-armorGoofyLightArmor,items,Item,,,"Goofy Time Light Armors [e38d23](MS)"
-armorGoofyMediumArmor,items,Item,,,"Goofy Time Medium Armors [e38d23](MS)"
-
-
-armorFemaleBadCopHelmet,items,Clothes,,,"Bad Cop Hat [e38d23](MS)"
-armorFemaleBadCopOutfit,items,Clothes,,,"Bad Cop Outfit [e38d23](MS)"
-armorFemaleBadCopGloves,items,Clothes,,,"Bad Cop Gloves [e38d23](MS)"
-armorFemaleBadCopBoots,items,Clothes,,,"Bad Cop Boots [e38d23](MS)"
-
-armorFemaleBadCopHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to find all the good stuff.\n\n[e38d23]Hat Bonus:[-] Increase Loot Stage & Many More Dukes in Loot.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon."
-armorFemaleBadCopOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nAll that body oil makes your body super slick and difficult to grab by excited customers and hungry zombies.\n\n[e38d23]Outfit Bonus:[-] Damage Resistant.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon."
-armorFemaleBadCopGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou might not be a 'real' cop, but you know how to use all their gadgets\n\n[e38d23]Gloves Bonus:[-] DMG Bonus Batons, Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon."
-armorFemaleBadCopBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for Dancing!\nAnd I guess for running too.\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon."
+armorGoofyLightArmor,items,Item,,,"Goofy Time Light Armors [e38d23](MS)","搞怪時光輕型護甲 [e38d23](MS)"
+armorGoofyMediumArmor,items,Item,,,"Goofy Time Medium Armors [e38d23](MS)","搞怪時光中型護甲 [e38d23](MS)"
 
 
-armorFemaleSexySheriffHelmet,items,Clothes,,,"Sexy Sheriff Hat [e38d23](MS)"
-armorFemaleSexySheriffOutfit,items,Clothes,,,"Sexy Sheriff Outfit [e38d23](MS)"
-armorFemaleSexySheriffGloves,items,Clothes,,,"Sexy Sheriff Cuffs [e38d23](MS)"
-armorFemaleSexySheriffBoots,items,Clothes,,,"Sexy Sheriff Boots [e38d23](MS)"
+armorFemaleBadCopHelmet,items,Clothes,,,"Bad Cop Hat [e38d23](MS)","壞警察帽子 [e38d23](MS)"
+armorFemaleBadCopOutfit,items,Clothes,,,"Bad Cop Outfit [e38d23](MS)","壞警察服裝 [e38d23](MS)"
+armorFemaleBadCopGloves,items,Clothes,,,"Bad Cop Gloves [e38d23](MS)","壞警察手套 [e38d23](MS)"
+armorFemaleBadCopBoots,items,Clothes,,,"Bad Cop Boots [e38d23](MS)","壞警察靴子 [e38d23](MS)"
 
-armorFemaleSexySheriffHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWhen people realize you are smarter than you look it is already too late for them.\n\n[e38d23]Hat Bonus:[-] XP Gain Bonus.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus."
-armorFemaleSexySheriffOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nLess clothing means faster movement and easy time dodgeing attacks.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus."
-armorFemaleSexySheriffGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou were the best dealing with the most agressive customers.\n\n[e38d23]Cuffs Bonus:[-] Increase DMG and % for Instant Kill against Rads, Charged and Infernal Zombies.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus."
-armorFemaleSexySheriffBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMost people could barely walk on those heels.\nYou on the other hand can Dance, Run and Kick Ass!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus."
-
-
-armorMaleMachoManHelmet,items,Clothes,,,"Macho Man Mask [e38d23](MS)"
-armorMaleMachoManOutfit,items,Clothes,,,"Macho Man Shorts [e38d23](MS)"
-armorMaleMachoManGloves,items,Clothes,,,"Macho Man Gloves [e38d23](MS)"
-armorMaleMachoManBoots,items,Clothes,,,"Macho Man Boots [e38d23](MS)"
-
-armorMaleMachoManHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThere are not enough healthy neurons left in your brain to be stunned.\n\n[e38d23]Mask Bonus:[-] Stun Resistant.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
-armorMaleMachoManOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour Super Macho nature makes you very strong.\n\n[e38d23]Shorts Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
-armorMaleMachoManGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou perfectly remember the quote, 'Fly like a bee, sting like a butterfly...'\nYou are pretty sure it was that..\n\n[e38d23]Gloves Bonus:[-] DMG Bonus and Faster Attack Speed with Knuckles.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
-armorMaleMachoManBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMacho Men never gets tired\n\n[e38d23]Boots Bonus:[-] Less Stamina Use with Knuckles.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury."
+armorFemaleBadCopHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to find all the good stuff.\n\n[e38d23]Hat Bonus:[-] Increase Loot Stage & Many More Dukes in Loot.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon.","[e38d23]輕型護甲[-]\n\n你懂得如何找到所有好東西。\n\n[e38d23]帽子加成：[-] 提升戰利品等級並大幅增加戰利品金幣。\n\n[e38d23]全套加成：[-] 加快任何武器的裝填速度。"
+armorFemaleBadCopOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nAll that body oil makes your body super slick and difficult to grab by excited customers and hungry zombies.\n\n[e38d23]Outfit Bonus:[-] Damage Resistant.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon.","[e38d23]輕型護甲[-]\n\n滿身的身體油讓你滑溜溜的，興奮的顧客和飢餓的喪屍都難以抓住你。\n\n[e38d23]服裝加成：[-] 傷害抗性。\n\n[e38d23]全套加成：[-] 加快任何武器的裝填速度。"
+armorFemaleBadCopGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou might not be a 'real' cop, but you know how to use all their gadgets\n\n[e38d23]Gloves Bonus:[-] DMG Bonus Batons, Pistols & Revolvers.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon.","[e38d23]輕型護甲[-]\n\n你或許不是「真正的」警察，但你懂得使用他們所有的裝備\n\n[e38d23]手套加成：[-] 提升警棍、手槍與左輪的傷害。\n\n[e38d23]全套加成：[-] 加快任何武器的裝填速度。"
+armorFemaleBadCopBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for Dancing!\nAnd I guess for running too.\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Faster Reload with any Weapon.","[e38d23]輕型護甲[-]\n\n這雙靴子是為了跳舞而生！\n我猜也順便能拿來奔跑。\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 加快任何武器的裝填速度。"
 
 
-armorFemaleWitchBlueHelmet,items,Clothes,,,"Sonja Blue Witch Hat [e38d23](MS)"
-armorFemaleWitchBlueOutfit,items,Clothes,,,"Sonja Blue Witch Outfit [e38d23](MS)"
-armorFemaleWitchBlueGloves,items,Clothes,,,"Sonja Blue Witch Gloves [e38d23](MS)"
-armorFemaleWitchBlueBoots,items,Clothes,,,"Sonja Blue Witch Booties [e38d23](MS)"
+armorFemaleSexySheriffHelmet,items,Clothes,,,"Sexy Sheriff Hat [e38d23](MS)","性感警長帽子 [e38d23](MS)"
+armorFemaleSexySheriffOutfit,items,Clothes,,,"Sexy Sheriff Outfit [e38d23](MS)","性感警長服裝 [e38d23](MS)"
+armorFemaleSexySheriffGloves,items,Clothes,,,"Sexy Sheriff Cuffs [e38d23](MS)","性感警長手銬 [e38d23](MS)"
+armorFemaleSexySheriffBoots,items,Clothes,,,"Sexy Sheriff Boots [e38d23](MS)","性感警長靴子 [e38d23](MS)"
 
-armorFemaleWitchGreenHelmet,items,Clothes,,,"Sonja Green Witch Hat [e38d23](MS)"
-armorFemaleWitchGreenOutfit,items,Clothes,,,"Sonja Green Witch Outfit [e38d23](MS)"
-armorFemaleWitchGreenGloves,items,Clothes,,,"Sonja Green Witch Gloves [e38d23](MS)"
-armorFemaleWitchGreenBoots,items,Clothes,,,"Sonja Green Witch Booties [e38d23](MS)"
-
-armorFemaleWitchPurpleHelmet,items,Clothes,,,"Sonja Purple Witch Hat [e38d23](MS)"
-armorFemaleWitchPurpleOutfit,items,Clothes,,,"Sonja Purple Witch Outfit [e38d23](MS)"
-armorFemaleWitchPurpleGloves,items,Clothes,,,"Sonja Purple Witch Gloves [e38d23](MS)"
-armorFemaleWitchPurpleBoots,items,Clothes,,,"Sonja Purple Witch Booties [e38d23](MS)"
-
-armorFemaleWitchRedHelmet,items,Clothes,,,"Sonja Red Witch Hat [e38d23](MS)"
-armorFemaleWitchRedOutfit,items,Clothes,,,"Sonja Red Witch Outfit [e38d23](MS)"
-armorFemaleWitchRedGloves,items,Clothes,,,"Sonja Red Witch Gloves [e38d23](MS)"
-armorFemaleWitchRedBoots,items,Clothes,,,"Sonja Red Witch Booties [e38d23](MS)"
-
-armorFemaleWitchHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Witch Hat will light your path with wisdom and also an actual light.\n                    [e38d23]Lumos![-]\n\n[e38d23]Witch Hat Bonus:[-] XP Gain Bonus & Helmet Light.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use."
-armorFemaleWitchOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Witch Outfit do not provide much protection.\nBut the magic armor enchating it does.\n                    [e38d23]Protego![-]\n\n[e38d23]Outfit Bonus:[-] Damage & Fire Resistance.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use."
-armorFemaleWitchGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can channel your magic to empower any weapon with a fire spell.\n                    [e38d23]Incendio![-]\n\n[e38d23]Gloves Bonus:[-] % to set target on Fire with any weapon.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use."
-armorFemaleWitchBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour control of Time has no equal. It is not you moving faster, but everybody else moving slower.\n               [e38d23]Arresto Momentum![-]\n\n[e38d23]Booties Bonus:[-] Faster Run Speed & Increased Safe Fall Distance.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use."
+armorFemaleSexySheriffHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWhen people realize you are smarter than you look it is already too late for them.\n\n[e38d23]Hat Bonus:[-] XP Gain Bonus.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus.","[e38d23]輕型護甲[-]\n\n等人們發現你比外表聰明時，對他們而言已經太遲了。\n\n[e38d23]帽子加成：[-] 經驗值獲得加成。\n\n[e38d23]全套加成：[-] 最大生命值加成。"
+armorFemaleSexySheriffOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nLess clothing means faster movement and easy time dodgeing attacks.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus.","[e38d23]輕型護甲[-]\n\n衣服越少代表移動越快，也更容易閃避攻擊。\n\n[e38d23]服裝加成：[-] 傷害抗性。\n\n[e38d23]全套加成：[-] 最大生命值加成。"
+armorFemaleSexySheriffGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou were the best dealing with the most agressive customers.\n\n[e38d23]Cuffs Bonus:[-] Increase DMG and % for Instant Kill against Rads, Charged and Infernal Zombies.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus.","[e38d23]輕型護甲[-]\n\n應付最兇悍的顧客，你是最厲害的。\n\n[e38d23]手銬加成：[-] 對輻射、充能與地獄喪屍提升傷害與秒殺機率。\n\n[e38d23]全套加成：[-] 最大生命值加成。"
+armorFemaleSexySheriffBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMost people could barely walk on those heels.\nYou on the other hand can Dance, Run and Kick Ass!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Max Health Bonus.","[e38d23]輕型護甲[-]\n\n多數人踩著那種高跟鞋連走路都有困難。\n而你卻能跳舞、奔跑、痛扁敵人！\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 最大生命值加成。"
 
 
-armorFemaleBunnyBlackHelmet,items,Clothes,,,"Black Bunny Ears [e38d23](MS)"
-armorFemaleBunnyBlackOutfit,items,Clothes,,,"Black Bunny Outfit [e38d23](MS)"
-armorFemaleBunnyBlackGloves,items,Clothes,,,"Black Bunny Gloves [e38d23](MS)"
-armorFemaleBunnyBlackBoots,items,Clothes,,,"Black Bunny Heels [e38d23](MS)"
+armorMaleMachoManHelmet,items,Clothes,,,"Macho Man Mask [e38d23](MS)","猛男面具 [e38d23](MS)"
+armorMaleMachoManOutfit,items,Clothes,,,"Macho Man Shorts [e38d23](MS)","猛男短褲 [e38d23](MS)"
+armorMaleMachoManGloves,items,Clothes,,,"Macho Man Gloves [e38d23](MS)","猛男手套 [e38d23](MS)"
+armorMaleMachoManBoots,items,Clothes,,,"Macho Man Boots [e38d23](MS)","猛男靴子 [e38d23](MS)"
 
-armorFemaleBunnyGoldHelmet,items,Clothes,,,"Gold Bunny Ears [e38d23](MS)"
-armorFemaleBunnyGoldOutfit,items,Clothes,,,"Gold Bunny Outfit [e38d23](MS)"
-armorFemaleBunnyGoldGloves,items,Clothes,,,"Gold Bunny Gloves [e38d23](MS)"
-armorFemaleBunnyGoldBoots,items,Clothes,,,"Gold Bunny Heels [e38d23](MS)"
-
-armorFemaleBunnyWhiteHelmet,items,Clothes,,,"White Bunny Ears [e38d23](MS)"
-armorFemaleBunnyWhiteOutfit,items,Clothes,,,"White Bunny Outfit [e38d23](MS)"
-armorFemaleBunnyWhiteGloves,items,Clothes,,,"White Bunny Gloves [e38d23](MS)"
-armorFemaleBunnyWhiteBoots,items,Clothes,,,"White Bunny Heels [e38d23](MS)"
-
-armorFemaleBunnyRedHelmet,items,Clothes,,,"Red Bunny Ears [e38d23](MS)"
-armorFemaleBunnyRedOutfit,items,Clothes,,,"Red Bunny Outfit [e38d23](MS)"
-armorFemaleBunnyRedGloves,items,Clothes,,,"Red Bunny Gloves [e38d23](MS)"
-armorFemaleBunnyRedBoots,items,Clothes,,,"Red Bunny Heels [e38d23](MS)"
-
-armorFemaleBunnyHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to be very persuasive an get the best prices out of anybody. Yes, even Rekt.\n\n[e38d23]Bunny Ears Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
-armorFemaleBunnyOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nPeople do not think you are strong enough to swim that big SledgeHammer. Until you stump it on their face.\n\n[e38d23]Outfit Bonus:[-] Less Stamina use and Faster Attacks with SledgeHammers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
-armorFemaleBunnyGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nNothink like a big SledgeHammer to break a party.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus with SledgeHammers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
-armorFemaleBunnyBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can move fast and dodge faster on heels.\n\n[e38d23]Heels Bonus:[-] Armor Bonus & Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot."
+armorMaleMachoManHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThere are not enough healthy neurons left in your brain to be stunned.\n\n[e38d23]Mask Bonus:[-] Stun Resistant.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury.","[e38d23]輕型護甲[-]\n\n你腦中剩下的健康神經元已經不足以被暈眩了。\n\n[e38d23]面具加成：[-] 暈眩抗性。\n\n[e38d23]全套加成：[-] 降低受到重傷的機率。"
+armorMaleMachoManOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour Super Macho nature makes you very strong.\n\n[e38d23]Shorts Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury.","[e38d23]輕型護甲[-]\n\n你超級猛男的本性讓你非常強壯。\n\n[e38d23]短褲加成：[-] 最大生命值加成。\n\n[e38d23]全套加成：[-] 降低受到重傷的機率。"
+armorMaleMachoManGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou perfectly remember the quote, 'Fly like a bee, sting like a butterfly...'\nYou are pretty sure it was that..\n\n[e38d23]Gloves Bonus:[-] DMG Bonus and Faster Attack Speed with Knuckles.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury.","[e38d23]輕型護甲[-]\n\n你清楚記得那句名言：「像蜜蜂般飛舞，像蝴蝶般螫刺……」\n你相當確定就是這句……\n\n[e38d23]手套加成：[-] 提升指虎的傷害並加快攻擊速度。\n\n[e38d23]全套加成：[-] 降低受到重傷的機率。"
+armorMaleMachoManBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMacho Men never gets tired\n\n[e38d23]Boots Bonus:[-] Less Stamina Use with Knuckles.\n\n[e38d23]Full Set Bonus:[-] Reduced % to get a critical injury.","[e38d23]輕型護甲[-]\n\n猛男永遠不會累\n\n[e38d23]靴子加成：[-] 降低指虎的耐力消耗。\n\n[e38d23]全套加成：[-] 降低受到重傷的機率。"
 
 
-statBadCopLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot"
-statBadCopDamage,ui_display,Item stat,,,"Baton, Pistol & Revolver DMG"
-statSexySheriffRipper,ui_display,Item stat,,,"% Instant Kill"
-statMachoManSpeed,ui_display,Item stat,,,"Knuckles Speed"
-statMachoManDamage,ui_display,Item stat,,,"Knuckles DMG"
-statWitchDamageResist,ui_display,Item stat,,,"DMG Resist"
-statWitchFirePower,ui_display,Item stat,,,"Witch Fire %"
-statBunnyStaminaLoss,ui_display,Item stat,,,"Sledge Stamina Use"
-statBunnySpeed,ui_display,Item stat,,,"Sledge Speed"
-statBunnyDamage,ui_display,Item stat,,,"Sledge DMG"
-statBunnyDamageResist,ui_display,Item stat,,,"Armor Bonus"
+armorFemaleWitchBlueHelmet,items,Clothes,,,"Sonja Blue Witch Hat [e38d23](MS)","桑雅藍女巫帽 [e38d23](MS)"
+armorFemaleWitchBlueOutfit,items,Clothes,,,"Sonja Blue Witch Outfit [e38d23](MS)","桑雅藍女巫服裝 [e38d23](MS)"
+armorFemaleWitchBlueGloves,items,Clothes,,,"Sonja Blue Witch Gloves [e38d23](MS)","桑雅藍女巫手套 [e38d23](MS)"
+armorFemaleWitchBlueBoots,items,Clothes,,,"Sonja Blue Witch Booties [e38d23](MS)","桑雅藍女巫短靴 [e38d23](MS)"
+
+armorFemaleWitchGreenHelmet,items,Clothes,,,"Sonja Green Witch Hat [e38d23](MS)","桑雅綠女巫帽 [e38d23](MS)"
+armorFemaleWitchGreenOutfit,items,Clothes,,,"Sonja Green Witch Outfit [e38d23](MS)","桑雅綠女巫服裝 [e38d23](MS)"
+armorFemaleWitchGreenGloves,items,Clothes,,,"Sonja Green Witch Gloves [e38d23](MS)","桑雅綠女巫手套 [e38d23](MS)"
+armorFemaleWitchGreenBoots,items,Clothes,,,"Sonja Green Witch Booties [e38d23](MS)","桑雅綠女巫短靴 [e38d23](MS)"
+
+armorFemaleWitchPurpleHelmet,items,Clothes,,,"Sonja Purple Witch Hat [e38d23](MS)","桑雅紫女巫帽 [e38d23](MS)"
+armorFemaleWitchPurpleOutfit,items,Clothes,,,"Sonja Purple Witch Outfit [e38d23](MS)","桑雅紫女巫服裝 [e38d23](MS)"
+armorFemaleWitchPurpleGloves,items,Clothes,,,"Sonja Purple Witch Gloves [e38d23](MS)","桑雅紫女巫手套 [e38d23](MS)"
+armorFemaleWitchPurpleBoots,items,Clothes,,,"Sonja Purple Witch Booties [e38d23](MS)","桑雅紫女巫短靴 [e38d23](MS)"
+
+armorFemaleWitchRedHelmet,items,Clothes,,,"Sonja Red Witch Hat [e38d23](MS)","桑雅紅女巫帽 [e38d23](MS)"
+armorFemaleWitchRedOutfit,items,Clothes,,,"Sonja Red Witch Outfit [e38d23](MS)","桑雅紅女巫服裝 [e38d23](MS)"
+armorFemaleWitchRedGloves,items,Clothes,,,"Sonja Red Witch Gloves [e38d23](MS)","桑雅紅女巫手套 [e38d23](MS)"
+armorFemaleWitchRedBoots,items,Clothes,,,"Sonja Red Witch Booties [e38d23](MS)","桑雅紅女巫短靴 [e38d23](MS)"
+
+armorFemaleWitchHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Witch Hat will light your path with wisdom and also an actual light.\n                    [e38d23]Lumos![-]\n\n[e38d23]Witch Hat Bonus:[-] XP Gain Bonus & Helmet Light.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use.","[e38d23]中型護甲[-]\n\n你的女巫帽會用智慧照亮你的道路，也會用實際的光照亮。\n                    [e38d23]路摸思！[-]\n\n[e38d23]女巫帽加成：[-] 經驗值獲得加成與頭盔照明。\n\n[e38d23]全套加成：[-] 提升跳躍力並減少耐力消耗。"
+armorFemaleWitchOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Witch Outfit do not provide much protection.\nBut the magic armor enchating it does.\n                    [e38d23]Protego![-]\n\n[e38d23]Outfit Bonus:[-] Damage & Fire Resistance.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use.","[e38d23]中型護甲[-]\n\n你的女巫服裝提供不了多少防護。\n但附在其上的魔法護甲可以。\n                    [e38d23]護法現身！[-]\n\n[e38d23]服裝加成：[-] 傷害與火焰抗性。\n\n[e38d23]全套加成：[-] 提升跳躍力並減少耐力消耗。"
+armorFemaleWitchGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can channel your magic to empower any weapon with a fire spell.\n                    [e38d23]Incendio![-]\n\n[e38d23]Gloves Bonus:[-] % to set target on Fire with any weapon.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use.","[e38d23]中型護甲[-]\n\n你能引導魔力，為任何武器附上火焰咒語。\n                    [e38d23]火焰熊熊！[-]\n\n[e38d23]手套加成：[-] 使用任何武器有機率使目標著火。\n\n[e38d23]全套加成：[-] 提升跳躍力並減少耐力消耗。"
+armorFemaleWitchBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour control of Time has no equal. It is not you moving faster, but everybody else moving slower.\n               [e38d23]Arresto Momentum![-]\n\n[e38d23]Booties Bonus:[-] Faster Run Speed & Increased Safe Fall Distance.\n\n[e38d23]Full Set Bonus:[-] Improved Jump strength & Less Stamina use.","[e38d23]中型護甲[-]\n\n你對時間的掌控無人能及。不是你移動得更快，而是其他人都變慢了。\n               [e38d23]速度禁制！[-]\n\n[e38d23]短靴加成：[-] 提升奔跑速度並增加安全墜落距離。\n\n[e38d23]全套加成：[-] 提升跳躍力並減少耐力消耗。"
 
 
-buffFemaleBadCopSetBonusName,buffs,Buff,,,"Bad Cop Full Set Bonus"
-buffFemaleBadCopSetBonusDesc,buffs,Buff,,,"You are very fast with your hands.\nWhen you want to...\n\n[e38d23]{cvar(.armorFemaleBadCopFSBDisplay01:0)}%[-] Faster reload speed with any weapon."
-buffFemaleBadCopSetBonusTooltip,buffs,Buff,,,"Bad Cop Full Set Bonus"
+armorFemaleBunnyBlackHelmet,items,Clothes,,,"Black Bunny Ears [e38d23](MS)","黑兔耳 [e38d23](MS)"
+armorFemaleBunnyBlackOutfit,items,Clothes,,,"Black Bunny Outfit [e38d23](MS)","黑兔服裝 [e38d23](MS)"
+armorFemaleBunnyBlackGloves,items,Clothes,,,"Black Bunny Gloves [e38d23](MS)","黑兔手套 [e38d23](MS)"
+armorFemaleBunnyBlackBoots,items,Clothes,,,"Black Bunny Heels [e38d23](MS)","黑兔高跟鞋 [e38d23](MS)"
 
-buffFemaleSexySheriffSetBonusName,buffs,Buff,,,"Sexy Sheriff Full Set Bonus"
-buffFemaleSexySheriffSetBonusDesc,buffs,Buff,,,"All that dancing and those diets finally payed off. You look good, and you feel even better.\n\nIncreased Max Health by [e38d23]{cvar(.armorFemaleSexySheriffFSBDisplay01:0)}[-]."
-buffFemaleSexySheriffSetBonusTooltip,buffs,Buff,,,"Sexy Sheriff Full Set Bonus"
+armorFemaleBunnyGoldHelmet,items,Clothes,,,"Gold Bunny Ears [e38d23](MS)","金兔耳 [e38d23](MS)"
+armorFemaleBunnyGoldOutfit,items,Clothes,,,"Gold Bunny Outfit [e38d23](MS)","金兔服裝 [e38d23](MS)"
+armorFemaleBunnyGoldGloves,items,Clothes,,,"Gold Bunny Gloves [e38d23](MS)","金兔手套 [e38d23](MS)"
+armorFemaleBunnyGoldBoots,items,Clothes,,,"Gold Bunny Heels [e38d23](MS)","金兔高跟鞋 [e38d23](MS)"
 
-buffMaleMachoManSetBonusName,buffs,Buff,,,"Macho Man Full Set Bonus"
-buffMaleMachoManSetBonusDesc,buffs,Buff,,,"You are too 'Macho' to get injured.\n\nReduce % to get a critical injury by [e38d23]{cvar(.armorMaleMachoManFSBDisplay:0)}%[-]."
-buffMaleMachoManSetBonusTooltip,buffs,Buff,,,"Macho Man Set Bonus"
+armorFemaleBunnyWhiteHelmet,items,Clothes,,,"White Bunny Ears [e38d23](MS)","白兔耳 [e38d23](MS)"
+armorFemaleBunnyWhiteOutfit,items,Clothes,,,"White Bunny Outfit [e38d23](MS)","白兔服裝 [e38d23](MS)"
+armorFemaleBunnyWhiteGloves,items,Clothes,,,"White Bunny Gloves [e38d23](MS)","白兔手套 [e38d23](MS)"
+armorFemaleBunnyWhiteBoots,items,Clothes,,,"White Bunny Heels [e38d23](MS)","白兔高跟鞋 [e38d23](MS)"
 
-buffFemaleWitchSetBonusName,buffs,Buff,,,"Sonja Witch Full Set Bonus"
-buffFemaleWitchSetBonusDesc,buffs,Buff,,,"You still do not dominate a fly spell, but can levitate to some degree.\nWingardium Leviosa!\n\nImproves Jump strength by [e38d23]{cvar(.armorFemaleWitchFSBDisplay01:0)}meter[-] and reduces Stamina use when Jumping, Running and Swimming by [e38d23]{cvar(.armorFemaleWitchFSBDisplay02:0)}%[-]."
-buffFemaleWitchSetBonusTooltip,buffs,Buff,,,"Sonja Witch Full Set Bonus"
+armorFemaleBunnyRedHelmet,items,Clothes,,,"Red Bunny Ears [e38d23](MS)","紅兔耳 [e38d23](MS)"
+armorFemaleBunnyRedOutfit,items,Clothes,,,"Red Bunny Outfit [e38d23](MS)","紅兔服裝 [e38d23](MS)"
+armorFemaleBunnyRedGloves,items,Clothes,,,"Red Bunny Gloves [e38d23](MS)","紅兔手套 [e38d23](MS)"
+armorFemaleBunnyRedBoots,items,Clothes,,,"Red Bunny Heels [e38d23](MS)","紅兔高跟鞋 [e38d23](MS)"
 
-buffFemaleBunnySetBonusName,buffs,Buff,,,"Bunny Full Set Bonus"
-buffFemaleBunnySetBonusDesc,buffs,Buff,,,"You have a talent to clean customers pockets and stashes out of any valuable.\n\nLoot Stage increased by [e38d23]{cvar(.armorFemaleBunnyFSBDisplay01:0)}%[-] and find [e38d23]{cvar(.armorFemaleBunnyFSBDisplay02:0)}%[-] more Dukes in Loot."
-buffFemaleBunnySetBonusTooltip,buffs,Buff,,,"Bunny Full Set Bonus"
+armorFemaleBunnyHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to be very persuasive an get the best prices out of anybody. Yes, even Rekt.\n\n[e38d23]Bunny Ears Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot.","[e38d23]中型護甲[-]\n\n你懂得展現強大的說服力，從任何人身上談到最好的價錢。沒錯，連雷克特也不例外。\n\n[e38d23]兔耳加成：[-] 買賣價格大幅優惠。\n\n[e38d23]全套加成：[-] 提升戰利品等級並增加戰利品金幣。"
+armorFemaleBunnyOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nPeople do not think you are strong enough to swim that big SledgeHammer. Until you stump it on their face.\n\n[e38d23]Outfit Bonus:[-] Less Stamina use and Faster Attacks with SledgeHammers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot.","[e38d23]中型護甲[-]\n\n人們都覺得你沒力氣揮動那把大鎚。直到你一鎚砸在他們臉上。\n\n[e38d23]服裝加成：[-] 降低大鎚的耐力消耗並加快攻擊。\n\n[e38d23]全套加成：[-] 提升戰利品等級並增加戰利品金幣。"
+armorFemaleBunnyGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nNothink like a big SledgeHammer to break a party.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus with SledgeHammers.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot.","[e38d23]中型護甲[-]\n\n沒什麼比一把大鎚更適合砸場了。\n\n[e38d23]手套加成：[-] 提升大鎚傷害。\n\n[e38d23]全套加成：[-] 提升戰利品等級並增加戰利品金幣。"
+armorFemaleBunnyBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou can move fast and dodge faster on heels.\n\n[e38d23]Heels Bonus:[-] Armor Bonus & Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Improved Loot Stage & More Dukes in Loot.","[e38d23]中型護甲[-]\n\n踩著高跟鞋，你依然能快速移動、更快閃避。\n\n[e38d23]高跟鞋加成：[-] 護甲加成與提升奔跑速度。\n\n[e38d23]全套加成：[-] 提升戰利品等級並增加戰利品金幣。"
+
+
+statBadCopLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot","戰利品等級與戰利品金幣"
+statBadCopDamage,ui_display,Item stat,,,"Baton, Pistol & Revolver DMG","警棍、手槍與左輪傷害"
+statSexySheriffRipper,ui_display,Item stat,,,"% Instant Kill","秒殺機率"
+statMachoManSpeed,ui_display,Item stat,,,"Knuckles Speed","指虎攻擊速度"
+statMachoManDamage,ui_display,Item stat,,,"Knuckles DMG","指虎傷害"
+statWitchDamageResist,ui_display,Item stat,,,"DMG Resist","傷害抗性"
+statWitchFirePower,ui_display,Item stat,,,"Witch Fire %","女巫火焰機率"
+statBunnyStaminaLoss,ui_display,Item stat,,,"Sledge Stamina Use","大鎚耐力消耗"
+statBunnySpeed,ui_display,Item stat,,,"Sledge Speed","大鎚攻擊速度"
+statBunnyDamage,ui_display,Item stat,,,"Sledge DMG","大鎚傷害"
+statBunnyDamageResist,ui_display,Item stat,,,"Armor Bonus","護甲加成"
+
+
+buffFemaleBadCopSetBonusName,buffs,Buff,,,"Bad Cop Full Set Bonus","壞警察全套加成"
+buffFemaleBadCopSetBonusDesc,buffs,Buff,,,"You are very fast with your hands.\nWhen you want to...\n\n[e38d23]{cvar(.armorFemaleBadCopFSBDisplay01:0)}%[-] Faster reload speed with any weapon.","你的手非常快。\n當你想的時候……\n\n任何武器的裝填速度加快 [e38d23]{cvar(.armorFemaleBadCopFSBDisplay01:0)}%[-]。"
+buffFemaleBadCopSetBonusTooltip,buffs,Buff,,,"Bad Cop Full Set Bonus","壞警察全套加成"
+
+buffFemaleSexySheriffSetBonusName,buffs,Buff,,,"Sexy Sheriff Full Set Bonus","性感警長全套加成"
+buffFemaleSexySheriffSetBonusDesc,buffs,Buff,,,"All that dancing and those diets finally payed off. You look good, and you feel even better.\n\nIncreased Max Health by [e38d23]{cvar(.armorFemaleSexySheriffFSBDisplay01:0)}[-].","那些舞蹈與節食終於有了回報。你看起來不錯，感覺更棒。\n\n最大生命值提升 [e38d23]{cvar(.armorFemaleSexySheriffFSBDisplay01:0)}[-]。"
+buffFemaleSexySheriffSetBonusTooltip,buffs,Buff,,,"Sexy Sheriff Full Set Bonus","性感警長全套加成"
+
+buffMaleMachoManSetBonusName,buffs,Buff,,,"Macho Man Full Set Bonus","猛男全套加成"
+buffMaleMachoManSetBonusDesc,buffs,Buff,,,"You are too 'Macho' to get injured.\n\nReduce % to get a critical injury by [e38d23]{cvar(.armorMaleMachoManFSBDisplay:0)}%[-].","你太「猛」了，根本不會受傷。\n\n受到重傷的機率降低 [e38d23]{cvar(.armorMaleMachoManFSBDisplay:0)}%[-]。"
+buffMaleMachoManSetBonusTooltip,buffs,Buff,,,"Macho Man Set Bonus","猛男全套加成"
+
+buffFemaleWitchSetBonusName,buffs,Buff,,,"Sonja Witch Full Set Bonus","桑雅女巫全套加成"
+buffFemaleWitchSetBonusDesc,buffs,Buff,,,"You still do not dominate a fly spell, but can levitate to some degree.\nWingardium Leviosa!\n\nImproves Jump strength by [e38d23]{cvar(.armorFemaleWitchFSBDisplay01:0)}meter[-] and reduces Stamina use when Jumping, Running and Swimming by [e38d23]{cvar(.armorFemaleWitchFSBDisplay02:0)}%[-].","你還沒能完全駕馭飛行咒語，但已能在某種程度上漂浮。\n溫咖癲啦唯啊薩！\n\n跳躍力提升 [e38d23]{cvar(.armorFemaleWitchFSBDisplay01:0)}公尺[-]，跳躍、奔跑與游泳時的耐力消耗降低 [e38d23]{cvar(.armorFemaleWitchFSBDisplay02:0)}%[-]。"
+buffFemaleWitchSetBonusTooltip,buffs,Buff,,,"Sonja Witch Full Set Bonus","桑雅女巫全套加成"
+
+buffFemaleBunnySetBonusName,buffs,Buff,,,"Bunny Full Set Bonus","兔女郎全套加成"
+buffFemaleBunnySetBonusDesc,buffs,Buff,,,"You have a talent to clean customers pockets and stashes out of any valuable.\n\nLoot Stage increased by [e38d23]{cvar(.armorFemaleBunnyFSBDisplay01:0)}%[-] and find [e38d23]{cvar(.armorFemaleBunnyFSBDisplay02:0)}%[-] more Dukes in Loot.","你天生擅長把顧客的口袋和藏匿處裡的值錢東西搜刮一空。\n\n戰利品等級提升 [e38d23]{cvar(.armorFemaleBunnyFSBDisplay01:0)}%[-]，戰利品中找到的金幣增加 [e38d23]{cvar(.armorFemaleBunnyFSBDisplay02:0)}%[-]。"
+buffFemaleBunnySetBonusTooltip,buffs,Buff,,,"Bunny Full Set Bonus","兔女郎全套加成"

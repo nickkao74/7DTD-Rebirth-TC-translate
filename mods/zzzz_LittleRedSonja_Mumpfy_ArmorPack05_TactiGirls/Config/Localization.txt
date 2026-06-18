@@ -1,80 +1,81 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
-
-armorTactiGirlsLightArmor,items,Item,,,"TactiGirls Light Armors [e38d23](MS)"
-armorTactiGirlsMediumArmor,items,Item,,,"TactiGirls Medium Armors [e38d23](MS)"
+Key,File,Type,UsedInMainMenu,NoTranslate,english,tchinese
 
 
-armorFemaleCoyoteHelmet,items,Clothes,,,"Coyote Bandana [e38d23](MS)"
-armorFemaleCoyoteOutfit,items,Clothes,,,"Coyote Outfit [e38d23](MS)"
-armorFemaleCoyoteGloves,items,Clothes,,,"Coyote Gloves [e38d23](MS)"
-armorFemaleCoyoteBoots,items,Clothes,,,"Coyote Boots [e38d23](MS)"
-
-armorFemaleCoyoteHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are the best at removing unnecessary body parts with a Shotgun, and you can do it from very far away.\n\n[e38d23]Bandana Bonus:[-] Increase Range and Handling with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns."
-armorFemaleCoyoteOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou always go for 'close & personal' and know how to take a beating. 'Shotgun to the Face' for the Win!.\n\n[e38d23]Outfit Bonus:[-] Increase Max Health.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns."
-armorFemaleCoyoteGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIt does not matter if they hit you if you hit them harder.\n\n[e38d23]Gloves Bonus:[-] Increase DMG with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns."
-armorFemaleCoyoteBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWho needs a big magazine when you can Reload this fast?.\n\n[e38d23]Boots Bonus:[-] Faster Reload with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns."
+armorTactiGirlsLightArmor,items,Item,,,"TactiGirls Light Armors [e38d23](MS)","戰術女郎輕型護甲 [e38d23](MS)"
+armorTactiGirlsMediumArmor,items,Item,,,"TactiGirls Medium Armors [e38d23](MS)","戰術女郎中型護甲 [e38d23](MS)"
 
 
-armorFemaleAnnikaHelmet,items,Clothes,,,"Little Kitty Headset [e38d23](MS)"
-armorFemaleAnnikaOutfit,items,Clothes,,,"Little Kitty Outfit [e38d23](MS)"
-armorFemaleAnnikaGloves,items,Clothes,,,"Little Kitty Bangles [e38d23](MS)"
-armorFemaleAnnikaBoots,items,Clothes,,,"Little Kitty Boots [e38d23](MS)"
+armorFemaleCoyoteHelmet,items,Clothes,,,"Coyote Bandana [e38d23](MS)","郊狼頭巾 [e38d23](MS)"
+armorFemaleCoyoteOutfit,items,Clothes,,,"Coyote Outfit [e38d23](MS)","郊狼服裝 [e38d23](MS)"
+armorFemaleCoyoteGloves,items,Clothes,,,"Coyote Gloves [e38d23](MS)","郊狼手套 [e38d23](MS)"
+armorFemaleCoyoteBoots,items,Clothes,,,"Coyote Boots [e38d23](MS)","郊狼靴子 [e38d23](MS)"
 
-armorFemaleAnnikaHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nNobody can say NO to a cute little Kitty.\n\n[e38d23]Headset Bonus:[-] Much better buying & Selling price.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus."
-armorFemaleAnnikaOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nHeavy Armor looks just...bad. Your nice happy clothes will protect you equally good.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus."
-armorFemaleAnnikaGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMelee is for peasants and will get you dirty. PEW-PEW for the win!.\n\n[e38d23]Bangles Bonus:[-] DMG Bonus with Ranged Weapons.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus."
-armorFemaleAnnikaBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can run away from Home Chores or Zombies equally fast. They will never catch you!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus."
-
-
-armorFemaleJennerHelmet_V1,items,Clothes,,,"Boom Girl Beanie - Green Set [e38d23](MS)"
-armorFemaleJennerOutfit_V1,items,Clothes,,,"Boom Girl Outfit - Green Set [e38d23](MS)"
-armorFemaleJennerGloves_V1,items,Clothes,,,"Boom Girl Gloves - Green Set [e38d23](MS)"
-armorFemaleJennerBoots_V1,items,Clothes,,,"Boom Girl Boots - Green Set [e38d23](MS)"
-
-armorFemaleJennerHelmet_V2,items,Clothes,,,"Boom Girl Beanie - Orange Set [e38d23](MS)"
-armorFemaleJennerOutfit_V2,items,Clothes,,,"Boom Girl Outfit - Orange Set [e38d23](MS)"
-armorFemaleJennerGloves_V2,items,Clothes,,,"Boom Girl Gloves - Orange Set [e38d23](MS)"
-armorFemaleJennerBoots_V2,items,Clothes,,,"Boom Girl Boots - Orange Set [e38d23](MS)"
-
-armorFemaleJennerHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThere are no second chances when playing with BOOMs, so you have to be smart and learn fast.\n\n[e38d23]Beannie Bonus:[-] Gain More XP.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration."
-armorFemaleJennerOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nEating your greens and keeping yourself in good shape might help you survive if things go BOOM.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration."
-armorFemaleJennerGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to make living things go BOOM in the best and most destructive way. Exploding chickens never gets old. Mayhem!.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus to Entities with any kind of Explosive.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration."
-armorFemaleJennerBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know everything about landmines and could never detonate one by accident. Only on purpose.\n\n[e38d23]Boots Bonus:[-] Stepping on landmines will never detonate them.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration."
+armorFemaleCoyoteHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are the best at removing unnecessary body parts with a Shotgun, and you can do it from very far away.\n\n[e38d23]Bandana Bonus:[-] Increase Range and Handling with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns.","[e38d23]輕型護甲[-]\n\n用霰彈槍移除多餘的身體部位，你是箇中好手，而且還能在極遠的距離辦到。\n\n[e38d23]頭巾加成：[-] 提升霰彈槍的射程與操控。\n\n[e38d23]全套加成：[-] 用霰彈槍每次擊殺都回復生命值並獲得額外經驗值。"
+armorFemaleCoyoteOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou always go for 'close & personal' and know how to take a beating. 'Shotgun to the Face' for the Win!.\n\n[e38d23]Outfit Bonus:[-] Increase Max Health.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns.","[e38d23]輕型護甲[-]\n\n你總是選擇「近身肉搏」，而且很能挨打。「一臉霰彈」就是致勝關鍵！\n\n[e38d23]服裝加成：[-] 提升最大生命值。\n\n[e38d23]全套加成：[-] 用霰彈槍每次擊殺都回復生命值並獲得額外經驗值。"
+armorFemaleCoyoteGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIt does not matter if they hit you if you hit them harder.\n\n[e38d23]Gloves Bonus:[-] Increase DMG with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns.","[e38d23]輕型護甲[-]\n\n只要你打得更狠，他們打到你也無所謂。\n\n[e38d23]手套加成：[-] 提升霰彈槍的傷害。\n\n[e38d23]全套加成：[-] 用霰彈槍每次擊殺都回復生命值並獲得額外經驗值。"
+armorFemaleCoyoteBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nWho needs a big magazine when you can Reload this fast?.\n\n[e38d23]Boots Bonus:[-] Faster Reload with Shotguns.\n\n[e38d23]Full Set Bonus:[-] Gain HP and extra XP with every kill using shotguns.","[e38d23]輕型護甲[-]\n\n裝填這麼快，誰還需要大彈匣？\n\n[e38d23]靴子加成：[-] 加快霰彈槍的裝填速度。\n\n[e38d23]全套加成：[-] 用霰彈槍每次擊殺都回復生命值並獲得額外經驗值。"
 
 
-armorFemaleAngieHelmet,items,Clothes,,,"Hit Girl Cap [e38d23](MS)"
-armorFemaleAngieOutfit,items,Clothes,,,"Hit Girl Outfit [e38d23](MS)"
-armorFemaleAngieGloves,items,Clothes,,,"Hit Girl Gloves [e38d23](MS)"
-armorFemaleAngieBoots,items,Clothes,,,"Hit Girl Boots [e38d23](MS)"
+armorFemaleAnnikaHelmet,items,Clothes,,,"Little Kitty Headset [e38d23](MS)","小貓咪耳機 [e38d23](MS)"
+armorFemaleAnnikaOutfit,items,Clothes,,,"Little Kitty Outfit [e38d23](MS)","小貓咪服裝 [e38d23](MS)"
+armorFemaleAnnikaGloves,items,Clothes,,,"Little Kitty Bangles [e38d23](MS)","小貓咪手環 [e38d23](MS)"
+armorFemaleAnnikaBoots,items,Clothes,,,"Little Kitty Boots [e38d23](MS)","小貓咪靴子 [e38d23](MS)"
 
-armorFemaleAngieHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou were an expert in finding the best offers and discounts in the local shop.Those skills can still be useful in the Apocalypse.\n\n[e38d23]Cap Bonus:[-] Loot Stage Bonus.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects."
-armorFemaleAngieOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou like Rifles, and you love Headshots. Headshots with Rifles means double the fun. Win - Win!\n\n[e38d23]Outfit Bonus:[-] Extra XP from Headshot Kills with any Rifle.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects."
-armorFemaleAngieGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou are like a surgeon with a rifle. Amputations, dismemberment, all the good stuff, you can never have enough.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus & Reload Speed with Rifles.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects."
-armorFemaleAngieBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Stamina is legendary among your peers, You could stay in line for hours just to grab the best Black Friday discounts.\n\n[e38d23]Cap Bonus:[-] Max Stamina Bonus.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects."
-
-
-statCoyoteRange,ui_display,Item stat,,,"Shotgun Range & Handling"
-statCoyoteDamage,ui_display,Item stat,,,"Shotgun Entity Damage"
-statCoyoteReload,ui_display,Item stat,,,"Shotgun Reload Speed"
-statJennerDMG,ui_display,Item stat,,,"Explosives Entity DMG"
-statJennerMines,ui_display,Item stat,,,"Land Mine Immunity"
-statAngieLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot"
-statAngieXP,ui_display,Item stat,,,"Extra XP Headshot Rifle Kills"
-statAngieDMG,ui_display,Item stat,,,"Rifle DMG and Reload Speed"
+armorFemaleAnnikaHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nNobody can say NO to a cute little Kitty.\n\n[e38d23]Headset Bonus:[-] Much better buying & Selling price.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus.","[e38d23]輕型護甲[-]\n\n沒人能對可愛的小貓咪說不。\n\n[e38d23]耳機加成：[-] 買賣價格大幅優惠。\n\n[e38d23]全套加成：[-] 護甲與最大生命值加成。"
+armorFemaleAnnikaOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nHeavy Armor looks just...bad. Your nice happy clothes will protect you equally good.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus.","[e38d23]輕型護甲[-]\n\n重型護甲看起來就是……醜。你這身討喜的服裝同樣能好好保護你。\n\n[e38d23]服裝加成：[-] 傷害抗性。\n\n[e38d23]全套加成：[-] 護甲與最大生命值加成。"
+armorFemaleAnnikaGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nMelee is for peasants and will get you dirty. PEW-PEW for the win!.\n\n[e38d23]Bangles Bonus:[-] DMG Bonus with Ranged Weapons.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus.","[e38d23]輕型護甲[-]\n\n近戰是平民玩的，還會把自己弄髒。砰砰開槍才是王道！\n\n[e38d23]手環加成：[-] 提升遠程武器傷害。\n\n[e38d23]全套加成：[-] 護甲與最大生命值加成。"
+armorFemaleAnnikaBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can run away from Home Chores or Zombies equally fast. They will never catch you!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Armor and Max Health Bonus.","[e38d23]輕型護甲[-]\n\n不管是逃避家務還是喪屍，你都跑得一樣快。他們永遠抓不到你！\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 護甲與最大生命值加成。"
 
 
-buffFemaleCoyoteSetBonusName,buffs,Buff,,,"Coyote Full Set Bonus"
-buffFemaleCoyoteSetBonusDesc,buffs,Buff,,,"Your only need to know one thing: Where they are.\nEvery kill makes you stronger.\n\nKills with Shotguns grants you [e38d23]{cvar(.armorFemaleCoyoteFSBDisplay:0)}%[-] extra XP and regenerates [e38d23]{cvar(.armorFemaleCoyoteFSBDisplay02:0)}[-] HP."
-buffFemaleCoyoteSetBonusTooltip,buffs,Buff,,,"Coyote Full Set Bonus"
+armorFemaleJennerHelmet_V1,items,Clothes,,,"Boom Girl Beanie - Green Set [e38d23](MS)","爆爆女毛帽 - 綠色套組 [e38d23](MS)"
+armorFemaleJennerOutfit_V1,items,Clothes,,,"Boom Girl Outfit - Green Set [e38d23](MS)","爆爆女服裝 - 綠色套組 [e38d23](MS)"
+armorFemaleJennerGloves_V1,items,Clothes,,,"Boom Girl Gloves - Green Set [e38d23](MS)","爆爆女手套 - 綠色套組 [e38d23](MS)"
+armorFemaleJennerBoots_V1,items,Clothes,,,"Boom Girl Boots - Green Set [e38d23](MS)","爆爆女靴子 - 綠色套組 [e38d23](MS)"
 
-buffFemaleAnnikaSetBonusName,buffs,Buff,,,"Little Kitty Full Set Bonus"
-buffFemaleAnnikaSetBonusDesc,buffs,Buff,,,"Not even the Undead would dare harming a little kitty like you, right?\n\nArmor rating is increased by [e38d23]{cvar(.armorFemaleAnnikaFSBDisplay:0)}[-] and Max Health is increased by [e38d23]{cvar(.armorFemaleAnnikaFSBDisplay02:0)}[-]."
-buffFemaleAnnikaSetBonusTooltip,buffs,Buff,,,"Little Kitty Full Set Bonus"
+armorFemaleJennerHelmet_V2,items,Clothes,,,"Boom Girl Beanie - Orange Set [e38d23](MS)","爆爆女毛帽 - 橘色套組 [e38d23](MS)"
+armorFemaleJennerOutfit_V2,items,Clothes,,,"Boom Girl Outfit - Orange Set [e38d23](MS)","爆爆女服裝 - 橘色套組 [e38d23](MS)"
+armorFemaleJennerGloves_V2,items,Clothes,,,"Boom Girl Gloves - Orange Set [e38d23](MS)","爆爆女手套 - 橘色套組 [e38d23](MS)"
+armorFemaleJennerBoots_V2,items,Clothes,,,"Boom Girl Boots - Orange Set [e38d23](MS)","爆爆女靴子 - 橘色套組 [e38d23](MS)"
 
-buffFemaleJennerSetBonusName,buffs,Buff,,,"Boom Girl Full Set Bonus"
-buffFemaleJennerSetBonusDesc,buffs,Buff,,,"You never understood the point in sneaking around.\nIf you Nuke the place and leave no witnesses alive, isn't that the perfect stealth?.\n\nReduced Enemy Search Duration by [e38d23]{cvar(.armorFemaleJennerFSBDisplay:0)}%[-]."
-buffFemaleJennerSetBonusTooltip,buffs,Buff,,,"Boom Girl Full Set Bonus"
+armorFemaleJennerHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThere are no second chances when playing with BOOMs, so you have to be smart and learn fast.\n\n[e38d23]Beannie Bonus:[-] Gain More XP.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration.","[e38d23]中型護甲[-]\n\n玩炸藥沒有第二次機會，所以你得夠聰明、學得夠快。\n\n[e38d23]毛帽加成：[-] 獲得更多經驗值。\n\n[e38d23]全套加成：[-] 縮短敵人搜索時間。"
+armorFemaleJennerOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nEating your greens and keeping yourself in good shape might help you survive if things go BOOM.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration.","[e38d23]中型護甲[-]\n\n多吃蔬菜、保持良好體態，在東西炸開時或許能幫你保命。\n\n[e38d23]服裝加成：[-] 最大生命值加成。\n\n[e38d23]全套加成：[-] 縮短敵人搜索時間。"
+armorFemaleJennerGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know how to make living things go BOOM in the best and most destructive way. Exploding chickens never gets old. Mayhem!.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus to Entities with any kind of Explosive.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration.","[e38d23]中型護甲[-]\n\n你懂得用最棒、最具破壞力的方式把活物炸開。爆炸的雞永遠不膩。一團混亂！\n\n[e38d23]手套加成：[-] 提升各類爆裂物對生物的傷害。\n\n[e38d23]全套加成：[-] 縮短敵人搜索時間。"
+armorFemaleJennerBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know everything about landmines and could never detonate one by accident. Only on purpose.\n\n[e38d23]Boots Bonus:[-] Stepping on landmines will never detonate them.\n\n[e38d23]Full Set Bonus:[-] Reduced Enemy Search Duration.","[e38d23]中型護甲[-]\n\n你對地雷瞭若指掌，絕不會不小心引爆。只會刻意引爆。\n\n[e38d23]靴子加成：[-] 踩到地雷永遠不會引爆。\n\n[e38d23]全套加成：[-] 縮短敵人搜索時間。"
 
-buffFemaleAngieSetBonusName,buffs,Buff,,,"Hit Girl Full Set Bonus"
-buffFemaleAngieSetBonusDesc,buffs,Buff,,,"The Storms are just a joke when you can survive the cold in the frozen foods section in the supermarket.\n\nStorm Effects Resistance increased by [e38d23]{cvar(.armorFemaleAngieFSBDisplay:0)}%[-]"
-buffFemaleAngieSetBonusTooltip,buffs,Buff,,,"Hit Girl Full Set Bonus"
+
+armorFemaleAngieHelmet,items,Clothes,,,"Hit Girl Cap [e38d23](MS)","殺手少女帽子 [e38d23](MS)"
+armorFemaleAngieOutfit,items,Clothes,,,"Hit Girl Outfit [e38d23](MS)","殺手少女服裝 [e38d23](MS)"
+armorFemaleAngieGloves,items,Clothes,,,"Hit Girl Gloves [e38d23](MS)","殺手少女手套 [e38d23](MS)"
+armorFemaleAngieBoots,items,Clothes,,,"Hit Girl Boots [e38d23](MS)","殺手少女靴子 [e38d23](MS)"
+
+armorFemaleAngieHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou were an expert in finding the best offers and discounts in the local shop.Those skills can still be useful in the Apocalypse.\n\n[e38d23]Cap Bonus:[-] Loot Stage Bonus.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects.","[e38d23]中型護甲[-]\n\n你曾是在本地商店找出最佳優惠與折扣的專家。這些本事在末日依然管用。\n\n[e38d23]帽子加成：[-] 戰利品等級加成。\n\n[e38d23]全套加成：[-] 抵抗風暴效果。"
+armorFemaleAngieOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou like Rifles, and you love Headshots. Headshots with Rifles means double the fun. Win - Win!\n\n[e38d23]Outfit Bonus:[-] Extra XP from Headshot Kills with any Rifle.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects.","[e38d23]中型護甲[-]\n\n你喜歡步槍，也熱愛爆頭。用步槍爆頭代表雙倍樂趣。雙贏！\n\n[e38d23]服裝加成：[-] 用任何步槍爆頭擊殺可獲得額外經驗值。\n\n[e38d23]全套加成：[-] 抵抗風暴效果。"
+armorFemaleAngieGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou are like a surgeon with a rifle. Amputations, dismemberment, all the good stuff, you can never have enough.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus & Reload Speed with Rifles.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects.","[e38d23]中型護甲[-]\n\n你拿著步槍就像外科醫師。截肢、分屍，那些好玩的，你怎麼都不嫌多。\n\n[e38d23]手套加成：[-] 提升步槍的傷害與裝填速度。\n\n[e38d23]全套加成：[-] 抵抗風暴效果。"
+armorFemaleAngieBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYour Stamina is legendary among your peers, You could stay in line for hours just to grab the best Black Friday discounts.\n\n[e38d23]Cap Bonus:[-] Max Stamina Bonus.\n\n[e38d23]Full Set Bonus:[-] Resistance to Storm effects.","[e38d23]中型護甲[-]\n\n你的耐力在同儕間堪稱傳奇，你能排隊好幾個小時只為搶到最棒的黑色星期五折扣。\n\n[e38d23]帽子加成：[-] 最大耐力加成。\n\n[e38d23]全套加成：[-] 抵抗風暴效果。"
+
+
+statCoyoteRange,ui_display,Item stat,,,"Shotgun Range & Handling","霰彈槍射程與操控"
+statCoyoteDamage,ui_display,Item stat,,,"Shotgun Entity Damage","霰彈槍對生物傷害"
+statCoyoteReload,ui_display,Item stat,,,"Shotgun Reload Speed","霰彈槍裝填速度"
+statJennerDMG,ui_display,Item stat,,,"Explosives Entity DMG","爆裂物對生物傷害"
+statJennerMines,ui_display,Item stat,,,"Land Mine Immunity","地雷免疫"
+statAngieLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot","戰利品等級與戰利品金幣"
+statAngieXP,ui_display,Item stat,,,"Extra XP Headshot Rifle Kills","步槍爆頭擊殺額外經驗值"
+statAngieDMG,ui_display,Item stat,,,"Rifle DMG and Reload Speed","步槍傷害與裝填速度"
+
+
+buffFemaleCoyoteSetBonusName,buffs,Buff,,,"Coyote Full Set Bonus","郊狼全套加成"
+buffFemaleCoyoteSetBonusDesc,buffs,Buff,,,"Your only need to know one thing: Where they are.\nEvery kill makes you stronger.\n\nKills with Shotguns grants you [e38d23]{cvar(.armorFemaleCoyoteFSBDisplay:0)}%[-] extra XP and regenerates [e38d23]{cvar(.armorFemaleCoyoteFSBDisplay02:0)}[-] HP.","你只需要知道一件事：他們在哪。\n每次擊殺都讓你更強。\n\n用霰彈槍擊殺可獲得 [e38d23]{cvar(.armorFemaleCoyoteFSBDisplay:0)}%[-] 額外經驗值並回復 [e38d23]{cvar(.armorFemaleCoyoteFSBDisplay02:0)}[-] 生命值。"
+buffFemaleCoyoteSetBonusTooltip,buffs,Buff,,,"Coyote Full Set Bonus","郊狼全套加成"
+
+buffFemaleAnnikaSetBonusName,buffs,Buff,,,"Little Kitty Full Set Bonus","小貓咪全套加成"
+buffFemaleAnnikaSetBonusDesc,buffs,Buff,,,"Not even the Undead would dare harming a little kitty like you, right?\n\nArmor rating is increased by [e38d23]{cvar(.armorFemaleAnnikaFSBDisplay:0)}[-] and Max Health is increased by [e38d23]{cvar(.armorFemaleAnnikaFSBDisplay02:0)}[-].","就連不死生物也不敢傷害像你這樣的小貓咪，對吧？\n\n護甲值提升 [e38d23]{cvar(.armorFemaleAnnikaFSBDisplay:0)}[-]，最大生命值提升 [e38d23]{cvar(.armorFemaleAnnikaFSBDisplay02:0)}[-]。"
+buffFemaleAnnikaSetBonusTooltip,buffs,Buff,,,"Little Kitty Full Set Bonus","小貓咪全套加成"
+
+buffFemaleJennerSetBonusName,buffs,Buff,,,"Boom Girl Full Set Bonus","爆爆女全套加成"
+buffFemaleJennerSetBonusDesc,buffs,Buff,,,"You never understood the point in sneaking around.\nIf you Nuke the place and leave no witnesses alive, isn't that the perfect stealth?.\n\nReduced Enemy Search Duration by [e38d23]{cvar(.armorFemaleJennerFSBDisplay:0)}%[-].","你從來不懂偷偷摸摸有什麼意義。\n要是你把整個地方炸個精光、不留活口，那不就是完美的潛行嗎？\n\n敵人搜索時間縮短 [e38d23]{cvar(.armorFemaleJennerFSBDisplay:0)}%[-]。"
+buffFemaleJennerSetBonusTooltip,buffs,Buff,,,"Boom Girl Full Set Bonus","爆爆女全套加成"
+
+buffFemaleAngieSetBonusName,buffs,Buff,,,"Hit Girl Full Set Bonus","殺手少女全套加成"
+buffFemaleAngieSetBonusDesc,buffs,Buff,,,"The Storms are just a joke when you can survive the cold in the frozen foods section in the supermarket.\n\nStorm Effects Resistance increased by [e38d23]{cvar(.armorFemaleAngieFSBDisplay:0)}%[-]","當你能在超市冷凍食品區的寒冷中存活，風暴根本只是個笑話。\n\n風暴效果抗性提升 [e38d23]{cvar(.armorFemaleAngieFSBDisplay:0)}%[-]"
+buffFemaleAngieSetBonusTooltip,buffs,Buff,,,"Hit Girl Full Set Bonus","殺手少女全套加成"

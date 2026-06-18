@@ -1,87 +1,87 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
+Key,File,Type,UsedInMainMenu,NoTranslate,english,tchinese
 
-armorResidentEvilLightArmor,items,Item,,,"Resident Evil Light Armors [e38d23](MS)"
-armorResidentEvilMediumArmor,items,Item,,,"Resident Evil Medium Armors [e38d23](MS)"
-armorResidentEvilMediumArmor,items,Item,,,"Resident Evil Heavy Armors [e38d23](MS)"
-
-
-armorFemaleAdaWongHelmet,items,Clothes,,,"Ada Wong Choker [e38d23](MS)"
-armorFemaleAdaWongOutfit,items,Clothes,,,"Ada Wong Dress [e38d23](MS)"
-armorFemaleAdaWongGloves,items,Clothes,,,"Ada Wong Bangles [e38d23](MS)"
-armorFemaleAdaWongBoots,items,Clothes,,,"Ada Wong Shoes [e38d23](MS)"
-
-armorFemaleAdaWongHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can be very charming, or very intimidating, depending on the situation.\n\n[e38d23]Choker Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
-armorFemaleAdaWongOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nNobody will notice you in this flashy red dress\n\n[e38d23]Dress Bonus:[-] Improved Stealth.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
-armorFemaleAdaWongGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to kill fast and quiet.\n\n[e38d23]Bangles Bonus:[-] Increase DMG with any Silenced Gun.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
-armorFemaleAdaWongBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYears of practice taught you how to move fast on heels.\n\n[e38d23]Shoes Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection."
+armorResidentEvilLightArmor,items,Item,,,"Resident Evil Light Armors [e38d23](MS)","惡靈古堡輕型護甲 [e38d23](MS)"
+armorResidentEvilMediumArmor,items,Item,,,"Resident Evil Medium Armors [e38d23](MS)","惡靈古堡中型護甲 [e38d23](MS)"
+armorResidentEvilMediumArmor,items,Item,,,"Resident Evil Heavy Armors [e38d23](MS)","惡靈古堡重型護甲 [e38d23](MS)"
 
 
-armorFemaleJillValentineHelmet,items,Clothes,,,"Jill Valentine Pistols [e38d23](MS)"
-armorFemaleJillValentineOutfit,items,Clothes,,,"Jill Valentine Outfit [e38d23](MS)"
-armorFemaleJillValentineGloves,items,Clothes,,,"Jill Valentine Elbow Pad [e38d23](MS)"
-armorFemaleJillValentineBoots,items,Clothes,,,"Jill Valentine Boots [e38d23](MS)"
+armorFemaleAdaWongHelmet,items,Clothes,,,"Ada Wong Choker [e38d23](MS)","艾達·王頸圈 [e38d23](MS)"
+armorFemaleAdaWongOutfit,items,Clothes,,,"Ada Wong Dress [e38d23](MS)","艾達·王洋裝 [e38d23](MS)"
+armorFemaleAdaWongGloves,items,Clothes,,,"Ada Wong Bangles [e38d23](MS)","艾達·王手環 [e38d23](MS)"
+armorFemaleAdaWongBoots,items,Clothes,,,"Ada Wong Shoes [e38d23](MS)","艾達·王鞋子 [e38d23](MS)"
 
-armorFemaleJillValentineHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can never have too many fully loaded guns on you.\n\n[e38d23]Pistols Bonus:[-] Much faster reload speed.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain."
-armorFemaleJillValentineOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour light clothes help you move fast and dodge any attack.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain."
-armorFemaleJillValentineGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThis aerodynamic elbow pad provides a firm grip and much better aiming\n\n[e38d23]Elbow Pad Bonus:[-] DMG Bonus with Ranged Weapons.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain."
-armorFemaleJillValentineBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for running!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain."
-
-
-armorUnisexLeonKennedyHelmet,items,Clothes,,,"Leon Kennedy Flashlight [e38d23](MS)"
-armorUnisexLeonKennedyOutfit,items,Clothes,,,"Leon Kennedy Outfit [e38d23](MS)"
-armorUnisexLeonKennedyGloves,items,Clothes,,,"Leon Kennedy Gloves [e38d23](MS)"
-armorUnisexLeonKennedyBoots,items,Clothes,,,"Leon Kennedy Boots [e38d23](MS)"
-
-armorUnisexLeonKennedyHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThis Flashlight will light the darkest rooms and help you find the best loot.\n\n[e38d23]Flashlight Bonus:[-] Built-In light & Better Loot.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use."
-armorUnisexLeonKennedyOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou cannot lay low for too long, they need you for the next version of the game.\n\n[e38d23]Outfit Bonus:[-] Faster Natural Crit Healing.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use."
-armorUnisexLeonKennedyGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nChopping, Shooting, Blowing... It does not matter, you are the best zombie killing machine.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus to Entities with any weapon.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use."
-armorUnisexLeonKennedyBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nIntensive training in STARS has made you tough.\n\n[e38d23]Boots Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use."
+armorFemaleAdaWongHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can be very charming, or very intimidating, depending on the situation.\n\n[e38d23]Choker Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection.","[e38d23]輕型護甲[-]\n\n你能很迷人，也能很嚇人，端看當下情況。\n\n[e38d23]頸圈加成：[-] 買賣價格大幅優惠。\n\n[e38d23]全套加成：[-] 降低重傷與感染的機率。"
+armorFemaleAdaWongOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nNobody will notice you in this flashy red dress\n\n[e38d23]Dress Bonus:[-] Improved Stealth.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection.","[e38d23]輕型護甲[-]\n\n穿著這身搶眼的紅洋裝，沒人會注意到你\n\n[e38d23]洋裝加成：[-] 提升潛行。\n\n[e38d23]全套加成：[-] 降低重傷與感染的機率。"
+armorFemaleAdaWongGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to kill fast and quiet.\n\n[e38d23]Bangles Bonus:[-] Increase DMG with any Silenced Gun.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection.","[e38d23]輕型護甲[-]\n\n你懂得迅速而無聲地殺人。\n\n[e38d23]手環加成：[-] 提升所有消音槍械的傷害。\n\n[e38d23]全套加成：[-] 降低重傷與感染的機率。"
+armorFemaleAdaWongBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYears of practice taught you how to move fast on heels.\n\n[e38d23]Shoes Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries & Infection.","[e38d23]輕型護甲[-]\n\n多年的練習教會你如何踩著高跟鞋快速移動。\n\n[e38d23]鞋子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 降低重傷與感染的機率。"
 
 
-armorFemaleClaireRedfieldHelmet,items,Clothes,,,"Claire Redfield Necklace [e38d23](MS)"
-armorFemaleClaireRedfieldOutfit,items,Clothes,,,"Claire Redfield Outfit [e38d23](MS)"
-armorFemaleClaireRedfieldGloves,items,Clothes,,,"Claire Redfield Bracelet [e38d23](MS)"
-armorFemaleClaireRedfieldBoots,items,Clothes,,,"Claire Redfield Boots [e38d23](MS)"
+armorFemaleJillValentineHelmet,items,Clothes,,,"Jill Valentine Pistols [e38d23](MS)","吉兒·范倫廷手槍 [e38d23](MS)"
+armorFemaleJillValentineOutfit,items,Clothes,,,"Jill Valentine Outfit [e38d23](MS)","吉兒·范倫廷服裝 [e38d23](MS)"
+armorFemaleJillValentineGloves,items,Clothes,,,"Jill Valentine Elbow Pad [e38d23](MS)","吉兒·范倫廷護肘 [e38d23](MS)"
+armorFemaleJillValentineBoots,items,Clothes,,,"Jill Valentine Boots [e38d23](MS)","吉兒·范倫廷靴子 [e38d23](MS)"
 
-armorFemaleClaireRedfieldHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know all kind of game exploits to get good stuff cheap and sell all your useless garbage for a fortune.\n\n[e38d23]Necklace Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus."
-armorFemaleClaireRedfieldOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from zombies in all the previous games has made you into a long distance runner\n\n[e38d23]Outfit Bonus:[-] Max Stamina Bonus.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus."
-armorFemaleClaireRedfieldGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou still have the highest score in 'ZombieChop', the most popular Arcade in town.\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus to Entities.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus."
-armorFemaleClaireRedfieldBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from all those zombies has also made you fast enough to outrun the zombies. Or at least to outrun the other guys...\n\n[e38d23]Cap Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus."
-
-
-armorUnisexChrisRedfieldHelmet,items,Clothes,,,"Chris Redfield Headset [e38d23](MS)"
-armorUnisexChrisRedfieldOutfit,items,Clothes,,,"Chris Redfield Outfit [e38d23](MS)"
-armorUnisexChrisRedfieldGloves,items,Clothes,,,"Chris Redfield Gloves [e38d23](MS)"
-armorUnisexChrisRedfieldBoots,items,Clothes,,,"Chris Redfield Boots [e38d23](MS)"
-
-armorUnisexChrisRedfieldHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou have to learn fast to survive in the zombie apocalypse.\n\n[e38d23]Headset Bonus:[-] Increase XP Gain.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries."
-armorUnisexChrisRedfieldOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nIntensive physical training (and a few secret experimental drugs) turned you into a Man of Steel. You are only missing the cape.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries."
-armorUnisexChrisRedfieldGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou do not care about the weak zombies, you just focus on the tough guys\n\n[e38d23]Gloves Bonus:[-] Big DMG Bonus against Rads, Charged & Infernal.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries."
-armorUnisexChrisRedfieldBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nThe experimental drugs not only made you tougher, but also heal really fast.\n\n[e38d23]Boots Bonus:[-] Critical Healing Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries."
+armorFemaleJillValentineHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou can never have too many fully loaded guns on you.\n\n[e38d23]Pistols Bonus:[-] Much faster reload speed.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain.","[e38d23]輕型護甲[-]\n\n身上帶著上滿膛的槍，再多也不嫌多。\n\n[e38d23]手槍加成：[-] 大幅加快裝填速度。\n\n[e38d23]全套加成：[-] 提升經驗值獲得。"
+armorFemaleJillValentineOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYour light clothes help you move fast and dodge any attack.\n\n[e38d23]Outfit Bonus:[-] Damage Resistance.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain.","[e38d23]輕型護甲[-]\n\n你的輕便衣物助你快速移動、閃避任何攻擊。\n\n[e38d23]服裝加成：[-] 傷害抗性。\n\n[e38d23]全套加成：[-] 提升經驗值獲得。"
+armorFemaleJillValentineGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThis aerodynamic elbow pad provides a firm grip and much better aiming\n\n[e38d23]Elbow Pad Bonus:[-] DMG Bonus with Ranged Weapons.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain.","[e38d23]輕型護甲[-]\n\n這款符合空氣力學的護肘提供穩固的握持與更佳的瞄準\n\n[e38d23]護肘加成：[-] 提升遠程武器傷害。\n\n[e38d23]全套加成：[-] 提升經驗值獲得。"
+armorFemaleJillValentineBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThese boots are made for running!\n\n[e38d23]Boots Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] Increase XP Gain.","[e38d23]輕型護甲[-]\n\n這雙靴子就是為了奔跑而生！\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 提升經驗值獲得。"
 
 
-statAdaWongDMG,ui_display,Item stat,,,"Silenced Guns DMG"
-statFemaleJillValentineSpeed,ui_display,Item stat,,,"Reload Speed"
-statFemaleJillValentineDMG,ui_display,Item stat,,,"Ranged Weapons DMG"
-statUnisexLeonKennedyLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot"
+armorUnisexLeonKennedyHelmet,items,Clothes,,,"Leon Kennedy Flashlight [e38d23](MS)","里昂·甘迺迪手電筒 [e38d23](MS)"
+armorUnisexLeonKennedyOutfit,items,Clothes,,,"Leon Kennedy Outfit [e38d23](MS)","里昂·甘迺迪服裝 [e38d23](MS)"
+armorUnisexLeonKennedyGloves,items,Clothes,,,"Leon Kennedy Gloves [e38d23](MS)","里昂·甘迺迪手套 [e38d23](MS)"
+armorUnisexLeonKennedyBoots,items,Clothes,,,"Leon Kennedy Boots [e38d23](MS)","里昂·甘迺迪靴子 [e38d23](MS)"
+
+armorUnisexLeonKennedyHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nThis Flashlight will light the darkest rooms and help you find the best loot.\n\n[e38d23]Flashlight Bonus:[-] Built-In light & Better Loot.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use.","[e38d23]中型護甲[-]\n\n這支手電筒能照亮最黑暗的房間，幫你找到最好的戰利品。\n\n[e38d23]手電筒加成：[-] 內建照明與更佳戰利品。\n\n[e38d23]全套加成：[-] 護甲加成並降低載具燃料消耗。"
+armorUnisexLeonKennedyOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou cannot lay low for too long, they need you for the next version of the game.\n\n[e38d23]Outfit Bonus:[-] Faster Natural Crit Healing.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use.","[e38d23]中型護甲[-]\n\n你沒辦法低調太久，他們還需要你出現在下一版遊戲裡。\n\n[e38d23]服裝加成：[-] 加快重傷的自然治療。\n\n[e38d23]全套加成：[-] 護甲加成並降低載具燃料消耗。"
+armorUnisexLeonKennedyGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nChopping, Shooting, Blowing... It does not matter, you are the best zombie killing machine.\n\n[e38d23]Gloves Bonus:[-] DMG Bonus to Entities with any weapon.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use.","[e38d23]中型護甲[-]\n\n劈砍、射擊、爆破……都無所謂，你就是最強的喪屍殺戮機器。\n\n[e38d23]手套加成：[-] 提升任何武器對生物的傷害。\n\n[e38d23]全套加成：[-] 護甲加成並降低載具燃料消耗。"
+armorUnisexLeonKennedyBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nIntensive training in STARS has made you tough.\n\n[e38d23]Boots Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Armor Bonus & Lower Vehicle Fuel use.","[e38d23]中型護甲[-]\n\nSTARS 的高強度訓練讓你變得強悍。\n\n[e38d23]靴子加成：[-] 最大生命值加成。\n\n[e38d23]全套加成：[-] 護甲加成並降低載具燃料消耗。"
 
 
-buffFemaleAdaWongSetBonusName,buffs,Buff,,,"Ada Wong Full Set Bonus"
-buffFemaleAdaWongSetBonusDesc,buffs,Buff,,,"You know some very fancy moves to prevent injuries.\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorFemaleAdaWongFSBDisplay01:0)}%[-] and Infection chances by [e38d23]{cvar(.armorFemaleAdaWongFSBDisplay02:0)}%[-]."
-buffFemaleAdaWongSetBonusTooltip,buffs,Buff,,,"Ada Wong Full Set Bonus"
+armorFemaleClaireRedfieldHelmet,items,Clothes,,,"Claire Redfield Necklace [e38d23](MS)","克萊兒·雷德菲爾項鍊 [e38d23](MS)"
+armorFemaleClaireRedfieldOutfit,items,Clothes,,,"Claire Redfield Outfit [e38d23](MS)","克萊兒·雷德菲爾服裝 [e38d23](MS)"
+armorFemaleClaireRedfieldGloves,items,Clothes,,,"Claire Redfield Bracelet [e38d23](MS)","克萊兒·雷德菲爾手鍊 [e38d23](MS)"
+armorFemaleClaireRedfieldBoots,items,Clothes,,,"Claire Redfield Boots [e38d23](MS)","克萊兒·雷德菲爾靴子 [e38d23](MS)"
 
-buffFemaleJillValentineSetBonusName,buffs,Buff,,,"Jill Valentine Full Set Bonus"
-buffFemaleJillValentineSetBonusDesc,buffs,Buff,,,"If you don't learn fast the zombies will have you for breakfast\n\nIncrease XP Gain by [e38d23]{cvar(.armorFemaleJillValentineFSBDisplay:0)}%[-]."
-buffFemaleJillValentineSetBonusTooltip,buffs,Buff,,,"Jill Valentine Full Set Bonus"
+armorFemaleClaireRedfieldHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou know all kind of game exploits to get good stuff cheap and sell all your useless garbage for a fortune.\n\n[e38d23]Necklace Bonus:[-] Much Better Buy & Sell Prices.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus.","[e38d23]中型護甲[-]\n\n你熟知各種遊戲取巧手法，能廉價入手好東西，再把沒用的破爛賣出大錢。\n\n[e38d23]項鍊加成：[-] 買賣價格大幅優惠。\n\n[e38d23]全套加成：[-] 更多金幣與戰利品等級加成。"
+armorFemaleClaireRedfieldOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from zombies in all the previous games has made you into a long distance runner\n\n[e38d23]Outfit Bonus:[-] Max Stamina Bonus.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus.","[e38d23]中型護甲[-]\n\n在前幾部作品裡不斷逃離喪屍，把你練成了長跑健將\n\n[e38d23]服裝加成：[-] 最大耐力加成。\n\n[e38d23]全套加成：[-] 更多金幣與戰利品等級加成。"
+armorFemaleClaireRedfieldGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nYou still have the highest score in 'ZombieChop', the most popular Arcade in town.\n\n[e38d23]Bracelet Bonus:[-] DMG Bonus to Entities.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus.","[e38d23]中型護甲[-]\n\n在鎮上最受歡迎的電玩遊樂場裡，「喪屍劈砍」的最高分至今仍是你保持的。\n\n[e38d23]手鍊加成：[-] 提升對生物的傷害。\n\n[e38d23]全套加成：[-] 更多金幣與戰利品等級加成。"
+armorFemaleClaireRedfieldBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nRunning from all those zombies has also made you fast enough to outrun the zombies. Or at least to outrun the other guys...\n\n[e38d23]Cap Bonus:[-] Faster Run Speed.\n\n[e38d23]Full Set Bonus:[-] More Dukes & Loot Stage Bonus.","[e38d23]中型護甲[-]\n\n不斷逃離那些喪屍，也讓你跑得夠快、能甩開喪屍。至少能甩開其他人……\n\n[e38d23]帽子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 更多金幣與戰利品等級加成。"
 
-buffUnisexLeonKennedySetBonusName,buffs,Buff,,,"Leon Kennedy Full Set Bonus"
-buffUnisexLeonKennedySetBonusDesc,buffs,Buff,,,"You are good tinkering with stuff.\n\nYou have made some good improvements in both your armor and your vehicle.\n\nImprove Armor by [e38d23]{cvar(.armorUnisexLeonKennedyFSBDisplay01:0)}[-]. \n\nReduce Fuel Use in Vehicles by [e38d23]{cvar(.armorUnisexLeonKennedyFSBDisplay02:0)}%[-]."
-buffUnisexLeonKennedySetBonusTooltip,buffs,Buff,,,"Leon Kennedy Full Set Bonus"
 
-buffFemaleClaireRedfieldSetBonusName,buffs,Buff,,,"Claire Redfield Full Set Bonus"
-buffFemaleClaireRedfieldSetBonusDesc,buffs,Buff,,,"Before the apocalypse you could find the best deals, now you scavenge for them instead.\n\nLoot Stage & Dukes in loot increased by [e38d23]{cvar(.armorFemaleClaireRedfieldFSBDisplay:0)}%[-]"
-buffFemaleClaireRedfieldSetBonusTooltip,buffs,Buff,,,"Claire Redfield Full Set Bonus"
+armorUnisexChrisRedfieldHelmet,items,Clothes,,,"Chris Redfield Headset [e38d23](MS)","克里斯·雷德菲爾耳機 [e38d23](MS)"
+armorUnisexChrisRedfieldOutfit,items,Clothes,,,"Chris Redfield Outfit [e38d23](MS)","克里斯·雷德菲爾服裝 [e38d23](MS)"
+armorUnisexChrisRedfieldGloves,items,Clothes,,,"Chris Redfield Gloves [e38d23](MS)","克里斯·雷德菲爾手套 [e38d23](MS)"
+armorUnisexChrisRedfieldBoots,items,Clothes,,,"Chris Redfield Boots [e38d23](MS)","克里斯·雷德菲爾靴子 [e38d23](MS)"
 
-buffUnisexChrisRedfieldSetBonusName,buffs,Buff,,,"Chris Redfield Full Set Bonus"
-buffUnisexChrisRedfieldSetBonusDesc,buffs,Buff,,,"You are strong like a rock. And equaly smart (but nobody tells you because, well, how strong you are)\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorUnisexChrisRedfieldFSBDisplay:0)}%[-]."
-buffUnisexChrisRedfieldSetBonusTooltip,buffs,Buff,,,"Chris Redfield Full Set Bonus"
+armorUnisexChrisRedfieldHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou have to learn fast to survive in the zombie apocalypse.\n\n[e38d23]Headset Bonus:[-] Increase XP Gain.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries.","[e38d23]重型護甲[-]\n\n要在喪屍末日生存，你必須學得很快。\n\n[e38d23]耳機加成：[-] 提升經驗值獲得。\n\n[e38d23]全套加成：[-] 降低重傷機率。"
+armorUnisexChrisRedfieldOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nIntensive physical training (and a few secret experimental drugs) turned you into a Man of Steel. You are only missing the cape.\n\n[e38d23]Outfit Bonus:[-] Max Health Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries.","[e38d23]重型護甲[-]\n\n高強度的體能訓練（外加幾種祕密實驗藥物）把你變成了鋼鐵之軀。你就只差一件披風了。\n\n[e38d23]服裝加成：[-] 最大生命值加成。\n\n[e38d23]全套加成：[-] 降低重傷機率。"
+armorUnisexChrisRedfieldGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou do not care about the weak zombies, you just focus on the tough guys\n\n[e38d23]Gloves Bonus:[-] Big DMG Bonus against Rads, Charged & Infernal.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries.","[e38d23]重型護甲[-]\n\n你不在乎那些弱小的喪屍，只專注對付硬角色\n\n[e38d23]手套加成：[-] 對輻射、充能與地獄類喪屍大幅提升傷害。\n\n[e38d23]全套加成：[-] 降低重傷機率。"
+armorUnisexChrisRedfieldBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nThe experimental drugs not only made you tougher, but also heal really fast.\n\n[e38d23]Boots Bonus:[-] Critical Healing Bonus.\n\n[e38d23]Full Set Bonus:[-] Reduced % of Critical Injuries.","[e38d23]重型護甲[-]\n\n那些實驗藥物不只讓你更強悍，還讓你復原得飛快。\n\n[e38d23]靴子加成：[-] 重傷治療加成。\n\n[e38d23]全套加成：[-] 降低重傷機率。"
+
+
+statAdaWongDMG,ui_display,Item stat,,,"Silenced Guns DMG","消音槍械傷害"
+statFemaleJillValentineSpeed,ui_display,Item stat,,,"Reload Speed","裝填速度"
+statFemaleJillValentineDMG,ui_display,Item stat,,,"Ranged Weapons DMG","遠程武器傷害"
+statUnisexLeonKennedyLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot","戰利品等級與戰利品金幣"
+
+
+buffFemaleAdaWongSetBonusName,buffs,Buff,,,"Ada Wong Full Set Bonus","艾達·王全套加成"
+buffFemaleAdaWongSetBonusDesc,buffs,Buff,,,"You know some very fancy moves to prevent injuries.\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorFemaleAdaWongFSBDisplay01:0)}%[-] and Infection chances by [e38d23]{cvar(.armorFemaleAdaWongFSBDisplay02:0)}%[-].","你會一些很花俏的身手來避免受傷。\n\n重傷機率降低 [e38d23]{cvar(.armorFemaleAdaWongFSBDisplay01:0)}%[-]，感染機率降低 [e38d23]{cvar(.armorFemaleAdaWongFSBDisplay02:0)}%[-]。"
+buffFemaleAdaWongSetBonusTooltip,buffs,Buff,,,"Ada Wong Full Set Bonus","艾達·王全套加成"
+
+buffFemaleJillValentineSetBonusName,buffs,Buff,,,"Jill Valentine Full Set Bonus","吉兒·范倫廷全套加成"
+buffFemaleJillValentineSetBonusDesc,buffs,Buff,,,"If you don't learn fast the zombies will have you for breakfast\n\nIncrease XP Gain by [e38d23]{cvar(.armorFemaleJillValentineFSBDisplay:0)}%[-].","要是你學得不夠快，喪屍就會把你當早餐吃掉\n\n經驗值獲得提升 [e38d23]{cvar(.armorFemaleJillValentineFSBDisplay:0)}%[-]。"
+buffFemaleJillValentineSetBonusTooltip,buffs,Buff,,,"Jill Valentine Full Set Bonus","吉兒·范倫廷全套加成"
+
+buffUnisexLeonKennedySetBonusName,buffs,Buff,,,"Leon Kennedy Full Set Bonus","里昂·甘迺迪全套加成"
+buffUnisexLeonKennedySetBonusDesc,buffs,Buff,,,"You are good tinkering with stuff.\n\nYou have made some good improvements in both your armor and your vehicle.\n\nImprove Armor by [e38d23]{cvar(.armorUnisexLeonKennedyFSBDisplay01:0)}[-]. \n\nReduce Fuel Use in Vehicles by [e38d23]{cvar(.armorUnisexLeonKennedyFSBDisplay02:0)}%[-].","你很擅長擺弄各種東西。\n\n你為自己的護甲與載具都做了不錯的改良。\n\n護甲提升 [e38d23]{cvar(.armorUnisexLeonKennedyFSBDisplay01:0)}[-]。 \n\n載具燃料消耗減少 [e38d23]{cvar(.armorUnisexLeonKennedyFSBDisplay02:0)}%[-]。"
+buffUnisexLeonKennedySetBonusTooltip,buffs,Buff,,,"Leon Kennedy Full Set Bonus","里昂·甘迺迪全套加成"
+
+buffFemaleClaireRedfieldSetBonusName,buffs,Buff,,,"Claire Redfield Full Set Bonus","克萊兒·雷德菲爾全套加成"
+buffFemaleClaireRedfieldSetBonusDesc,buffs,Buff,,,"Before the apocalypse you could find the best deals, now you scavenge for them instead.\n\nLoot Stage & Dukes in loot increased by [e38d23]{cvar(.armorFemaleClaireRedfieldFSBDisplay:0)}%[-]","末日之前你總能找到最划算的交易，如今你改用搜刮的方式取得。\n\n戰利品等級與戰利品金幣提升 [e38d23]{cvar(.armorFemaleClaireRedfieldFSBDisplay:0)}%[-]"
+buffFemaleClaireRedfieldSetBonusTooltip,buffs,Buff,,,"Claire Redfield Full Set Bonus","克萊兒·雷德菲爾全套加成"
+
+buffUnisexChrisRedfieldSetBonusName,buffs,Buff,,,"Chris Redfield Full Set Bonus","克里斯·雷德菲爾全套加成"
+buffUnisexChrisRedfieldSetBonusDesc,buffs,Buff,,,"You are strong like a rock. And equaly smart (but nobody tells you because, well, how strong you are)\n\nReduces the chance of Critical Injuries by [e38d23]{cvar(.armorUnisexChrisRedfieldFSBDisplay:0)}%[-].","你壯得像塊岩石。腦袋也一樣（但沒人敢告訴你，畢竟，你那麼壯）\n\n重傷機率降低 [e38d23]{cvar(.armorUnisexChrisRedfieldFSBDisplay:0)}%[-]。"
+buffUnisexChrisRedfieldSetBonusTooltip,buffs,Buff,,,"Chris Redfield Full Set Bonus","克里斯·雷德菲爾全套加成"

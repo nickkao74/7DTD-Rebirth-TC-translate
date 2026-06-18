@@ -1,103 +1,72 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
+Key,File,Type,UsedInMainMenu,NoTranslate,english,tchinese
 
-armorDangerGirlsLightArmor,items,Item,,,"DangerGirls Light Armors [e38d23](MS)"
-armorDangerGirlsMediumArmor,items,Item,,,"DangerGirls Medium Armors [e38d23](MS)"
-armorDangerGirlsHeavyArmor,items,Item,,,"DangerGirls Heavy Armors [e38d23](MS)"
+armorDangerGirlsLightArmor,items,Item,,,"DangerGirls Light Armors [e38d23](MS)","危險女郎輕型護甲 [e38d23](MS)"
+armorDangerGirlsMediumArmor,items,Item,,,"DangerGirls Medium Armors [e38d23](MS)","危險女郎中型護甲 [e38d23](MS)"
+armorDangerGirlsHeavyArmor,items,Item,,,"DangerGirls Heavy Armors [e38d23](MS)","危險女郎重型護甲 [e38d23](MS)"
 
-armorFemaleClaireHelmet,items,Clothes,,,"Danger Claire Bandana [e38d23](MS)"
-armorFemaleClaireOutfit,items,Clothes,,,"Danger Claire Outfit [e38d23](MS)"
-armorFemaleClaireGloves,items,Clothes,,,"Danger Claire Lucky Bracelet [e38d23](MS)"
-armorFemaleClaireBoots,items,Clothes,,,"Danger Claire Boots [e38d23](MS)"
+armorFemaleClaireHelmet,items,Clothes,,,"Danger Claire Bandana [e38d23](MS)","危險克萊兒頭巾 [e38d23](MS)"
+armorFemaleClaireOutfit,items,Clothes,,,"Danger Claire Outfit [e38d23](MS)","危險克萊兒服裝 [e38d23](MS)"
+armorFemaleClaireGloves,items,Clothes,,,"Danger Claire Lucky Bracelet [e38d23](MS)","危險克萊兒幸運手環 [e38d23](MS)"
+armorFemaleClaireBoots,items,Clothes,,,"Danger Claire Boots [e38d23](MS)","危險克萊兒靴子 [e38d23](MS)"
 
-armorFemaleClaireHelmet_Barbie,items,Clothes,,,"Barbie Party Bandana [e38d23](MS)"
-armorFemaleClaireOutfit_Barbie,items,Clothes,,,"Barbie Party Outfit [e38d23](MS)"
+armorFemaleClaireHelmet_Barbie,items,Clothes,,,"Barbie Party Bandana [e38d23](MS)","芭比派對頭巾 [e38d23](MS)"
+armorFemaleClaireOutfit_Barbie,items,Clothes,,,"Barbie Party Outfit [e38d23](MS)","芭比派對服裝 [e38d23](MS)"
 
-armorFemaleClaireHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIf you know the enemy and know yourself, you need not fear the result of a hundred battles.\n\n[e38d23]Bandana Bonus:[-] Increase DMG with any Automatic Weapon.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use."
-armorFemaleClaireOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThe Twins always get what they want.\nClaire by harsh Intimidation.\nBarbie by sweet Persuasion.\n\n[e38d23]Outfit Bonus:[-] Much better prices Buying and Selling.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use."
-armorFemaleClaireGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThis bracelet brings Fortune and Glory to its owner.\nAnd it is quite Fancy, that too.\n\n[e38d23]Bracelet Bonus:[-] Increase Loot Stage & Many More Dukes in Loot.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use."
-armorFemaleClaireBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nDo not let their appearance fool you.\nThe Twins are the toughest mobsters in Navezgane and know how to take a beating.\nYou are just lucky they are on your side. For now.\n\n[e38d23]Boots Bonus:[-] Increase Max Health.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use."
+armorFemaleClaireHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nIf you know the enemy and know yourself, you need not fear the result of a hundred battles.\n\n[e38d23]Bandana Bonus:[-] Increase DMG with any Automatic Weapon.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use.","[e38d23]輕型護甲[-]\n\n知己知彼，百戰不殆。\n\n[e38d23]頭巾加成：[-] 提升所有自動武器的傷害。\n\n[e38d23]全套加成：[-] 傷害抗性並減少燃料消耗。"
+armorFemaleClaireOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThe Twins always get what they want.\nClaire by harsh Intimidation.\nBarbie by sweet Persuasion.\n\n[e38d23]Outfit Bonus:[-] Much better prices Buying and Selling.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use.","[e38d23]輕型護甲[-]\n\n這對雙胞胎總能得到她們想要的。\n克萊兒靠強硬威嚇。\n芭比靠甜美勸誘。\n\n[e38d23]服裝加成：[-] 買賣價格大幅優惠。\n\n[e38d23]全套加成：[-] 傷害抗性並減少燃料消耗。"
+armorFemaleClaireGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nThis bracelet brings Fortune and Glory to its owner.\nAnd it is quite Fancy, that too.\n\n[e38d23]Bracelet Bonus:[-] Increase Loot Stage & Many More Dukes in Loot.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use.","[e38d23]輕型護甲[-]\n\n這只手環為主人帶來財富與榮耀。\n而且還相當華麗。\n\n[e38d23]手環加成：[-] 提升戰利品等級並大幅增加戰利品中的金幣。\n\n[e38d23]全套加成：[-] 傷害抗性並減少燃料消耗。"
+armorFemaleClaireBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nDo not let their appearance fool you.\nThe Twins are the toughest mobsters in Navezgane and know how to take a beating.\nYou are just lucky they are on your side. For now.\n\n[e38d23]Boots Bonus:[-] Increase Max Health.\n\n[e38d23]Full Set Bonus:[-] Damage Resistance & Less Fuel use.","[e38d23]輕型護甲[-]\n\n別被她們的外表騙了。\n這對雙胞胎是 Navezgane 最強悍的黑幫，很能挨打。\n你只是幸運，她們現在站在你這邊。目前是。\n\n[e38d23]靴子加成：[-] 提升最大生命值。\n\n[e38d23]全套加成：[-] 傷害抗性並減少燃料消耗。"
 
-armorFemaleSnakeInFlowersHelmet_Hood,items,Clothes,,,"Snake Between Flowers Hood [e38d23](MS)"
-armorFemaleSnakeInFlowersHelmet_Necklace,items,Clothes,,,"Snake Between Flowers Necklace [e38d23](MS)"
-armorFemaleSnakeInFlowersOutfit,items,Clothes,,,"Snake Between Flowers Outfit [e38d23](MS)"
-armorFemaleSnakeInFlowersOutfit_NT,items,Clothes,,,"Snake Between Flowers 'No Tattoo' Outfit [e38d23](MS)"
-armorFemaleSnakeInFlowersGloves,items,Clothes,,,"Snake Between Flowers Gloves [e38d23](MS)"
-armorFemaleSnakeInFlowersBoots,items,Clothes,,,"Snake Between Flowers Boots [e38d23](MS)"
+armorFemaleSnakeInFlowersHelmet_Hood,items,Clothes,,,"Snake Between Flowers Hood [e38d23](MS)","花間蛇頭罩 [e38d23](MS)"
+armorFemaleSnakeInFlowersHelmet_Necklace,items,Clothes,,,"Snake Between Flowers Necklace [e38d23](MS)","花間蛇項鍊 [e38d23](MS)"
+armorFemaleSnakeInFlowersOutfit,items,Clothes,,,"Snake Between Flowers Outfit [e38d23](MS)","花間蛇服裝 [e38d23](MS)"
+armorFemaleSnakeInFlowersOutfit_NT,items,Clothes,,,"Snake Between Flowers 'No Tattoo' Outfit [e38d23](MS)","花間蛇「無刺青」服裝 [e38d23](MS)"
+armorFemaleSnakeInFlowersGloves,items,Clothes,,,"Snake Between Flowers Gloves [e38d23](MS)","花間蛇手套 [e38d23](MS)"
+armorFemaleSnakeInFlowersBoots,items,Clothes,,,"Snake Between Flowers Boots [e38d23](MS)","花間蛇靴子 [e38d23](MS)"
 
-armorFemaleSnakeInFlowersHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to be one with the shadows.\nAnd when to reveal yourself to strike your enemy.\n\n[e38d23]Helmet Bonus:[-] Increase Stealth effectiveness & Sneak DMG.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss."
-armorFemaleSnakeInFlowersOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nOnly peasants and fools need heavy clothes and armor.\nYou move like the wind and can vanish in an instant.\nThey will never catch you.\n\n[e38d23]Outfit Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss."
-armorFemaleSnakeInFlowersGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou have a talent for killing your objectives in a fast and quiet way, and you have mastered the Way of The Blade.\nBut a Silenced Gun will do if you do not have a knife at hand.\n\n[e38d23]Gloves Bonus:[-] Increase DMG with Blades & Supressed Weapons.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss."
-armorFemaleSnakeInFlowersBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are very well trained to land safe and unharmed when falling and you always know your exit.\nIf you cannot find the door then jump through the closest window.\n\n[e38d23]Boots Bonus:[-] Increase Safe Fall Distance.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss."
+armorFemaleSnakeInFlowersHelmetDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou know how to be one with the shadows.\nAnd when to reveal yourself to strike your enemy.\n\n[e38d23]Helmet Bonus:[-] Increase Stealth effectiveness & Sneak DMG.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss.","[e38d23]輕型護甲[-]\n\n你懂得與陰影融為一體。\n也知道何時現身給予敵人致命一擊。\n\n[e38d23]頭盔加成：[-] 提升潛行效果與偷襲傷害。\n\n[e38d23]全套加成：[-] 大幅減少食物與水分流失。"
+armorFemaleSnakeInFlowersOutfitDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nOnly peasants and fools need heavy clothes and armor.\nYou move like the wind and can vanish in an instant.\nThey will never catch you.\n\n[e38d23]Outfit Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss.","[e38d23]輕型護甲[-]\n\n只有平民和蠢蛋才需要厚重的衣物與護甲。\n你身形如風，能在瞬間消失無蹤。\n他們永遠抓不到你。\n\n[e38d23]服裝加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 大幅減少食物與水分流失。"
+armorFemaleSnakeInFlowersGlovesDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou have a talent for killing your objectives in a fast and quiet way, and you have mastered the Way of The Blade.\nBut a Silenced Gun will do if you do not have a knife at hand.\n\n[e38d23]Gloves Bonus:[-] Increase DMG with Blades & Supressed Weapons.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss.","[e38d23]輕型護甲[-]\n\n你天生擅長以迅速而無聲的方式解決目標，並已精通刀刃之道。\n但若手邊沒有刀，消音槍也行。\n\n[e38d23]手套加成：[-] 提升刀刃與消音武器的傷害。\n\n[e38d23]全套加成：[-] 大幅減少食物與水分流失。"
+armorFemaleSnakeInFlowersBootsDesc,items,Clothes,,,"[e38d23]Light Armor[-]\n\nYou are very well trained to land safe and unharmed when falling and you always know your exit.\nIf you cannot find the door then jump through the closest window.\n\n[e38d23]Boots Bonus:[-] Increase Safe Fall Distance.\n\n[e38d23]Full Set Bonus:[-] Much less Food & Water loss.","[e38d23]輕型護甲[-]\n\n你受過良好訓練，墜落時能安全著地、毫髮無傷，而且總能找到退路。\n要是找不到門，就從最近的窗戶跳出去。\n\n[e38d23]靴子加成：[-] 提升安全墜落距離。\n\n[e38d23]全套加成：[-] 大幅減少食物與水分流失。"
 
-armorFemaleJillHelmet,items,Clothes,,,"Demolition Jill Beret [e38d23](MS)"
-armorFemaleJillOutfit,items,Clothes,,,"Demolition Jill Outfit [e38d23](MS)"
-armorFemaleJillGloves,items,Clothes,,,"Demolition Jill Extra Gun [e38d23](MS)"
-armorFemaleJillBoots,items,Clothes,,,"Demolition Jill Boots [e38d23](MS)"
+armorFemaleJillHelmet,items,Clothes,,,"Demolition Jill Beret [e38d23](MS)","爆破吉兒貝雷帽 [e38d23](MS)"
+armorFemaleJillOutfit,items,Clothes,,,"Demolition Jill Outfit [e38d23](MS)","爆破吉兒服裝 [e38d23](MS)"
+armorFemaleJillGloves,items,Clothes,,,"Demolition Jill Extra Gun [e38d23](MS)","爆破吉兒備用槍 [e38d23](MS)"
+armorFemaleJillBoots,items,Clothes,,,"Demolition Jill Boots [e38d23](MS)","爆破吉兒靴子 [e38d23](MS)"
 
-armorFemaleJillHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nClaire might be the leader of the group, but You are the smartest girl in the room.\nAnd You learn fast.\n\n[e38d23]Beret Bonus:[-] Increase EXP Gain.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage."
-armorFemaleJillOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nWith so many pockets you will never run out of space for all the good stuff you find around.\nYou would not want to leave that half-eaten sham sandwitch behind, would you?\n\n[e38d23]Outfit Bonus:[-] Greatly Increased carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage."
-armorFemaleJillGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nOnly fools do not carry an extra gun with them.\nA nasty surprise for unaware enemies, and an excellent way to inflict more damage.\n\n[e38d23]Extra Gun Bonus:[-] Increase DMG with Pistols, Revolvers & Batons.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage."
-armorFemaleJillBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLong patrol routes in hostile territory teached you the importance of conserving fuel, and the spare money goes right into your pockets.\nEy! Keeping yourself that pretty is not cheap, ok?\n\n[e38d23]Boots Bonus:[-] Greatly Reduces Fuel use.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage."
+armorFemaleJillHelmetDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nClaire might be the leader of the group, but You are the smartest girl in the room.\nAnd You learn fast.\n\n[e38d23]Beret Bonus:[-] Increase EXP Gain.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage.","[e38d23]中型護甲[-]\n\n克萊兒或許是這群人的領袖，但你才是房裡最聰明的女孩。\n而且你學得很快。\n\n[e38d23]貝雷帽加成：[-] 提升經驗值獲得。\n\n[e38d23]全套加成：[-] 大幅提升戰利品等級。"
+armorFemaleJillOutfitDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nWith so many pockets you will never run out of space for all the good stuff you find around.\nYou would not want to leave that half-eaten sham sandwitch behind, would you?\n\n[e38d23]Outfit Bonus:[-] Greatly Increased carrying Capacity.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage.","[e38d23]中型護甲[-]\n\n口袋這麼多，你永遠不愁沒地方裝沿途找到的好東西。\n你總不會想把那塊吃了一半的午餐肉三明治丟下吧？\n\n[e38d23]服裝加成：[-] 大幅提升攜帶容量。\n\n[e38d23]全套加成：[-] 大幅提升戰利品等級。"
+armorFemaleJillGlovesDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nOnly fools do not carry an extra gun with them.\nA nasty surprise for unaware enemies, and an excellent way to inflict more damage.\n\n[e38d23]Extra Gun Bonus:[-] Increase DMG with Pistols, Revolvers & Batons.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage.","[e38d23]中型護甲[-]\n\n只有蠢蛋才不多帶一把備用槍。\n它能給毫無防備的敵人一個討厭的驚喜，也是造成更多傷害的絕佳手段。\n\n[e38d23]備用槍加成：[-] 提升手槍、左輪與警棍的傷害。\n\n[e38d23]全套加成：[-] 大幅提升戰利品等級。"
+armorFemaleJillBootsDesc,items,Clothes,,,"[e38d23]Medium Armor[-]\n\nLong patrol routes in hostile territory teached you the importance of conserving fuel, and the spare money goes right into your pockets.\nEy! Keeping yourself that pretty is not cheap, ok?\n\n[e38d23]Boots Bonus:[-] Greatly Reduces Fuel use.\n\n[e38d23]Full Set Bonus:[-] Greatly Increased Loot Stage.","[e38d23]中型護甲[-]\n\n在敵境長途巡邏讓你明白節省燃料的重要，省下的錢全進了你的口袋。\n喂！把自己打理得這麼漂亮可不便宜，懂嗎？\n\n[e38d23]靴子加成：[-] 大幅減少燃料消耗。\n\n[e38d23]全套加成：[-] 大幅提升戰利品等級。"
 
-armorFemaleBladeHelmet,items,Clothes,,,"Dredd Blade Helmet [e38d23](MS)"
-armorFemaleBladeOutfit,items,Clothes,,,"Dredd Blade Outfit [e38d23](MS)"
-armorFemaleBladeGloves,items,Clothes,,,"Dredd Blade Gloves [e38d23](MS)"
-armorFemaleBladeBoots,items,Clothes,,,"Dredd Blade Boots [e38d23](MS)"
+armorFemaleBladeHelmet,items,Clothes,,,"Dredd Blade Helmet [e38d23](MS)","德雷德刀鋒頭盔 [e38d23](MS)"
+armorFemaleBladeOutfit,items,Clothes,,,"Dredd Blade Outfit [e38d23](MS)","德雷德刀鋒服裝 [e38d23](MS)"
+armorFemaleBladeGloves,items,Clothes,,,"Dredd Blade Gloves [e38d23](MS)","德雷德刀鋒手套 [e38d23](MS)"
+armorFemaleBladeBoots,items,Clothes,,,"Dredd Blade Boots [e38d23](MS)","德雷德刀鋒靴子 [e38d23](MS)"
 
-armorFemaleBladeHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou know how to stay cool and focused in any combat situation.\nNever lose your Spine.\n\n[e38d23]Helmet Bonus:[-] Stun Resistance.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed."
-armorFemaleBladeOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou do not know what they did to you in the Army, but after all those experimental 'vitamins' and 'vaccines' you can recover from any injury incredibly fast.\nAnd at least you did not turn purple.\n\n[e38d23]Outfit Bonus:[-] Improved Critical Healing.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed."
-armorFemaleBladeGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYears of training teached you when, where and how to strike for maximum damage with any type of gun\nMelee is for peasants, Guns for the win!\n\n[e38d23]Gloves Bonus:[-] Increase DMG with any Gun.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed."
-armorFemaleBladeBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nUnlike the guards in Whiterun, You never took an arrow to the knee, so  you can move and run fast.\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed."
+armorFemaleBladeHelmetDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou know how to stay cool and focused in any combat situation.\nNever lose your Spine.\n\n[e38d23]Helmet Bonus:[-] Stun Resistance.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed.","[e38d23]重型護甲[-]\n\n你懂得在任何戰鬥情境中保持冷靜與專注。\n絕不喪失膽識。\n\n[e38d23]頭盔加成：[-] 暈眩抗性。\n\n[e38d23]全套加成：[-] 大幅加快裝填速度。"
+armorFemaleBladeOutfitDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYou do not know what they did to you in the Army, but after all those experimental 'vitamins' and 'vaccines' you can recover from any injury incredibly fast.\nAnd at least you did not turn purple.\n\n[e38d23]Outfit Bonus:[-] Improved Critical Healing.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed.","[e38d23]重型護甲[-]\n\n你不知道軍隊對你做了什麼，但在打了那些實驗性的「維他命」與「疫苗」之後，你能以驚人的速度從任何傷勢中復原。\n而且至少你沒變成紫色。\n\n[e38d23]服裝加成：[-] 提升重傷治療效果。\n\n[e38d23]全套加成：[-] 大幅加快裝填速度。"
+armorFemaleBladeGlovesDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nYears of training teached you when, where and how to strike for maximum damage with any type of gun\nMelee is for peasants, Guns for the win!\n\n[e38d23]Gloves Bonus:[-] Increase DMG with any Gun.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed.","[e38d23]重型護甲[-]\n\n多年訓練讓你掌握用任何槍械在何時、何處、如何出手才能造成最大傷害\n近戰是平民玩的，槍械才能致勝！\n\n[e38d23]手套加成：[-] 提升所有槍械的傷害。\n\n[e38d23]全套加成：[-] 大幅加快裝填速度。"
+armorFemaleBladeBootsDesc,items,Clothes,,,"[e38d23]Heavy Armor[-]\n\nUnlike the guards in Whiterun, You never took an arrow to the knee, so  you can move and run fast.\n\n[e38d23]Boots Bonus:[-] Increase Run Speed.\n\n[e38d23]Full Set Bonus:[-] Much Faster Reload Speed.","[e38d23]重型護甲[-]\n\n不像 Whiterun 的衛兵，你的膝蓋從沒中過箭，所以你能快速移動與奔跑。\n\n[e38d23]靴子加成：[-] 提升奔跑速度。\n\n[e38d23]全套加成：[-] 大幅加快裝填速度。"
 
-statClaireDamage,ui_display,Item stat,,,"Automatic Weapons DMG"
-statClaireLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot"
-statSnakeInFlowersDMG,ui_display,Item stat,,,"Blades & Suppressed Guns DMG"
-statSnakeInFlowersSneak,ui_display,Item stat,,,"Sneak Effectiveness & DMG"
-statJillDamage,ui_display,Item stat,,,"Baton, Pistol & Revolver DMG"
+statClaireDamage,ui_display,Item stat,,,"Automatic Weapons DMG","自動武器傷害"
+statClaireLootCash,ui_display,Item stat,,,"Loot Stage & Dukes in Loot","戰利品等級與戰利品金幣"
+statSnakeInFlowersDMG,ui_display,Item stat,,,"Blades & Suppressed Guns DMG","刀刃與消音槍械傷害"
+statSnakeInFlowersSneak,ui_display,Item stat,,,"Sneak Effectiveness & DMG","潛行效果與傷害"
+statJillDamage,ui_display,Item stat,,,"Baton, Pistol & Revolver DMG","警棍、手槍與左輪傷害"
 
-buffFemaleClaireSetBonusName,buffs,Buff,,,"Danger Claire Full Set Bonus"
-buffFemaleClaireSetBonusDesc,buffs,Buff,,,"Your have diamond for skin and gasoline for blood. Or that is what people say.\n\nArmor rating is increased by [e38d23]{cvar(.armorFemaleClaireFSBDisplay:0)}[-].\nVehicles use [e38d23]{cvar(.armorFemaleClaireFSBDisplay02:0)}%[-] less fuel."
-buffFemaleClaireSetBonusTooltip,buffs,Buff,,,"Danger Claire Full Set Bonus"
+buffFemaleClaireSetBonusName,buffs,Buff,,,"Danger Claire Full Set Bonus","危險克萊兒全套加成"
+buffFemaleClaireSetBonusDesc,buffs,Buff,,,"Your have diamond for skin and gasoline for blood. Or that is what people say.\n\nArmor rating is increased by [e38d23]{cvar(.armorFemaleClaireFSBDisplay:0)}[-].\nVehicles use [e38d23]{cvar(.armorFemaleClaireFSBDisplay02:0)}%[-] less fuel.","你的皮膚是鑽石，血液是汽油。至少人們是這麼說的。\n\n護甲值提升 [e38d23]{cvar(.armorFemaleClaireFSBDisplay:0)}[-]。\n載具燃料消耗減少 [e38d23]{cvar(.armorFemaleClaireFSBDisplay02:0)}%[-]。"
+buffFemaleClaireSetBonusTooltip,buffs,Buff,,,"Danger Claire Full Set Bonus","危險克萊兒全套加成"
 
-buffFemaleSnakeInFlowersSetBonusName,buffs,Buff,,,"Snake between Flowers Full Set Bonus"
-buffFemaleSnakeInFlowersSetBonusDesc,buffs,Buff,,,"Snakes between Flowers often need to survive without water or food for long periods of time when stalking their next objective.\n\nUse [e38d23]{cvar(.armorFemaleSnakeInFlowersFSBDisplay:0)}%[-] less food and water."
-buffFemaleSnakeInFlowersSetBonusTooltip,buffs,Buff,,,"Snake between Flowers Full Set Bonus"
+buffFemaleSnakeInFlowersSetBonusName,buffs,Buff,,,"Snake between Flowers Full Set Bonus","花間蛇全套加成"
+buffFemaleSnakeInFlowersSetBonusDesc,buffs,Buff,,,"Snakes between Flowers often need to survive without water or food for long periods of time when stalking their next objective.\n\nUse [e38d23]{cvar(.armorFemaleSnakeInFlowersFSBDisplay:0)}%[-] less food and water.","花間蛇在潛伏追蹤下一個目標時，往往得長時間不吃不喝地生存。\n\n食物與水分消耗減少 [e38d23]{cvar(.armorFemaleSnakeInFlowersFSBDisplay:0)}%[-]。"
+buffFemaleSnakeInFlowersSetBonusTooltip,buffs,Buff,,,"Snake between Flowers Full Set Bonus","花間蛇全套加成"
 
-buffFemaleJillSetBonusName,buffs,Buff,,,"Demolition Jill Full Set Bonus"
-buffFemaleJillSetBonusDesc,buffs,Buff,,,"You know how to find the good stuff. No criminal could ever hide their stash from you.\nNobody can. Not even the Dead.\n\nFind [e38d23]{cvar(.armorFemaleJillFSBDisplay:0)}%[-] better quality loot."
-buffFemaleJillSetBonusTooltip,buffs,Buff,,,"Demolition Jill Full Set Bonus"
+buffFemaleJillSetBonusName,buffs,Buff,,,"Demolition Jill Full Set Bonus","爆破吉兒全套加成"
+buffFemaleJillSetBonusDesc,buffs,Buff,,,"You know how to find the good stuff. No criminal could ever hide their stash from you.\nNobody can. Not even the Dead.\n\nFind [e38d23]{cvar(.armorFemaleJillFSBDisplay:0)}%[-] better quality loot.","你懂得如何找到好東西。沒有罪犯能把私藏瞞過你。\n沒人能。連死人都不行。\n\n找到的戰利品品質提升 [e38d23]{cvar(.armorFemaleJillFSBDisplay:0)}%[-]。"
+buffFemaleJillSetBonusTooltip,buffs,Buff,,,"Demolition Jill Full Set Bonus","爆破吉兒全套加成"
 
-buffFemaleBladeSetBonusName,buffs,Buff,,,"Dredd Blade Full Set Bonus"
-buffFemaleBladeSetBonusDesc,buffs,Buff,,,"'Fast' is the name of the game. You aim Fast, you shoot Fast, and you Reload even Faster\n\nReload [e38d23]{cvar(.armorFemaleBladeFSBDisplay:0)}%[-] faster with any gun."
-buffFemaleBladeSetBonusTooltip,buffs,Buff,,,"Dredd Blade Full Set Bonus"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+buffFemaleBladeSetBonusName,buffs,Buff,,,"Dredd Blade Full Set Bonus","德雷德刀鋒全套加成"
+buffFemaleBladeSetBonusDesc,buffs,Buff,,,"'Fast' is the name of the game. You aim Fast, you shoot Fast, and you Reload even Faster\n\nReload [e38d23]{cvar(.armorFemaleBladeFSBDisplay:0)}%[-] faster with any gun.","「快」就是一切。你瞄得快，射得快，裝填更快\n\n所有槍械的裝填速度加快 [e38d23]{cvar(.armorFemaleBladeFSBDisplay:0)}%[-]。"
+buffFemaleBladeSetBonusTooltip,buffs,Buff,,,"Dredd Blade Full Set Bonus","德雷德刀鋒全套加成"
