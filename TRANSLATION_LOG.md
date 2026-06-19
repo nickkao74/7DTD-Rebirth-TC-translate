@@ -7,9 +7,9 @@
 | 項目 | 數量 |
 |------|------|
 | 掃描檔案總數 | 48 |
-| 完成翻譯 | 13 |
+| 完成翻譯 | 18 |
 | 已有翻譯尚未檢查（標題欄含 `tchinese`） | 30 |
-| 尚未翻譯（標題欄無 `tchinese`） | 5 |
+| 尚未翻譯（標題欄無 `tchinese`） | 0 |
 | 最後盤查日期 | 2026-06-19 |
 
 ## 狀態說明
@@ -24,7 +24,7 @@
 
 ---
 
-## 完成翻譯（13）
+## 完成翻譯（18）
 
 | # | 模組資料夾 | 路徑 | 完成日期 |
 |---|-----------|------|----------|
@@ -41,6 +41,11 @@
 | 11 | zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack03_SomeTraders/Config/Localization.txt` | 2026-06-19 |
 | 12 | zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack04_GNSArmor/Config/Localization.txt` | 2026-06-19 |
 | 13 | zzzz-CannonFodders POIs and Things | `mods/zzzz-CannonFodders POIs and Things/Config/localization.txt` | 2026-06-19 |
+| 14 | zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls/Config/Localization.txt` | 2026-06-19 |
+| 15 | zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil/Config/Localization.txt` | 2026-06-19 |
+| 16 | zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD/Config/Localization.txt` | 2026-06-19 |
+| 17 | zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime/Config/Localization.txt` | 2026-06-19 |
+| 18 | zzzzz_LittleRedSonja Rebirth Addons | `mods/zzzzz_LittleRedSonja Rebirth Addons/Config/Localization.txt` | 2026-06-19 |
 
 ---
 
@@ -81,15 +86,9 @@
 
 ---
 
-## 尚未翻譯（5）
+## 尚未翻譯（0）
 
-| # | 模組資料夾 | 路徑 |
-|---|-----------|------|
-| 1 | zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls/Config/Localization.txt` |
-| 2 | zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil/Config/Localization.txt` |
-| 3 | zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD/Config/Localization.txt` |
-| 4 | zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack08_GoofyTime/Config/Localization.txt` |
-| 5 | zzzzz_LittleRedSonja Rebirth Addons | `mods/zzzzz_LittleRedSonja Rebirth Addons/Config/Localization.txt` |
+（無）目前所有「尚未翻譯」清單項目均已處理完畢。
 
 ---
 
@@ -105,3 +104,5 @@
 | 2026-06-19 | 完成翻譯 | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack01_DangerGirls`（56 列）、`ArmorPack02_VanillaReVamp`（53 列）、`ArmorPack03_SomeTraders`（42 列）、`ArmorPack04_GNSArmor`（39 列），共 190 列 |
 | 2026-06-19 | 暫緩 | `mods/zzzz-CannonFodders POIs and Things`：標題宣告 4 欄但資料列格式不一致（英文落在第 2 欄），待個別處理 |
 | 2026-06-19 | 完成翻譯 | `mods/zzzz-CannonFodders POIs and Things`（42 列）：補齊 `Source`/`Context` 空欄，將英文移至 `english` 欄並對齊為 5 欄，新增 `tchinese` 譯文 |
+| 2026-06-19 | 完成翻譯 | `mods/zzzz_LittleRedSonja_Mumpfy_ArmorPack05_TactiGirls`（58 列）、`ArmorPack06_ResidentEvil`（62 列）、`ArmorPack07_TWD`（57 列）、`ArmorPack08_GoofyTime`（92 列），共 269 列 |
+| 2026-06-19 | 完成翻譯 | `mods/zzzzz_LittleRedSonja Rebirth Addons`：僅有標題列、無資料列，補上 `tchinese` 欄位；「尚未翻譯」清單清空 |

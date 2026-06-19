@@ -1,0 +1,2539 @@
+Short empty: 2537, Unique: 2537
+
+   1  Club Expertise XP Boost - DEV
+   1  Use this to boost your Club Expertise XP.
+   1  Deployable Turret Expertise XP Boost - DEV
+   1  Use this to boost your Deployable Turret Expertise XP.
+   1  Heavy Handgun Expertise XP Boost - DEV
+   1  Use this to boost your Heavy Handgun Expertise XP.
+   1  Explosives Expertise XP Boost - DEV
+   1  Use this to boost your Explosives Expertise XP.
+   1  Hammer Expertise XP Boost - DEV
+   1  Use this to boost your Hammer Expertise XP.
+   1  Use this to boost your Hunter Class XP.
+   1  Knife Expertise XP Boost - DEV
+   1  Use this to boost your Knife Expertise XP.
+   1  Knuckles Expertise XP Boost - DEV
+   1  Use this to boost your Knuckles Expertise XP.
+   1  Machete Expertise XP Boost - DEV
+   1  Use this to boost your Machete Expertise XP.
+   1  Machine Gun Expertise XP Boost - DEV
+   1  Use this to boost your Machine Gun Expertise XP.
+   1  Use this to boost your Madman Class XP.
+   1  Revolver Expertise XP Boost - DEV
+   1  Use this to boost your Revolver Expertise XP.
+   1  Lever Action Rifle Expertise XP Boost - DEV
+   1  Use this to boost your Lever Action rifle Expertise XP.
+   1  Pistol Expertise XP Boost - DEV
+   1  Use this to boost your Pistol Expertise XP.
+   1  Scythe Expertise XP Boost - DEV
+   1  Use this to boost your Scythe Expertise XP.
+   1  Shotgun Expertise XP Boost - DEV
+   1  Use this to boost your Shotgun Expertise XP.
+   1  Long Range Rifle Expertise XP Boost - DEV
+   1  Use this to boost your Long Range Rifle Expertise XP.
+   1  Use this to boost your Soldier Class XP.
+   1  Spear Expertise XP Boost - DEV
+   1  Use this to boost your Spear Expertise XP.
+   1  Stun Baton Expertise XP Boost - DEV
+   1  Use this to boost your Stun Baton Expertise XP.
+   1  Submachine Gun Expertise XP Boost - DEV
+   1  Use this to boost your Submachine Gun Expertise XP.
+   1  Tactical Rifle Expertise XP Boost - DEV
+   1  Use this to boost your Tacical Rifle Expertise XP.
+   1  Use this to boost your Technogeek Class XP.
+   1  Use this to boost your Thug Class XP.
+   1  Use this to boost your Witch Doctor Class XP.
+   1  Cloaked Mechanical Entity
+   1  Cloaked Mechanical Rabbit
+   1  Cloaked Mechanical Snake
+   1  Cloaked Snake Alpha
+   1  Snake Alpha Loot
+   1  Cloaked Mechanical Vulture
+   1  College Jacket Mod
+   1  You must wait a few seconds before placing a new companion.
+   1  Companions Cooldown
+   1  Healing Factor ([7abd71]Constitution[-])
+   1  Pack Mule ([7abd71]Constitution[-])
+   1  Iron Gut ([7abd71]Constitution[-])
+   1  Corn Flour
+   1  [ff5b69]BUTCHER[-] - Assault Rifles
+   1  Use Axes to increase their quality and tiers
+   1  [76e381]SOLDIER[-] - Axes
+   1  Use Batons to increase their quality and tiers
+   1  [736fe3]TECHNOGEEK[-] - Batons
+   1  Unlock various Robotic items
+   1  [736fe3]TECHNOGEEK[-] - Robotics
+   1  [bab8b8]SOUS-CHEF[-] - Heavy Handguns
+   1  [736fe3]TECHNOGEEK[-] - Revolvers
+   1  Robotics Ammo
+   1  Use Scythes to increase their quality and tiers
+   1  [724c70]WITCH DOCTOR[-] - Scythes
+   1  [e8a276]MADMAN[-] - Submachine Guns
+   1  Use Swords to increase their quality and tiers
+   1  [ff5b69]BUTCHER[-] - Swords
+   1  [724c70]WITCH DOCTOR[-] - Tactical Rifles
+   1  Leviathus
+   1  Defense Pillar
+   1  Defense Pillar (Concrete)
+   1  Mine Shaft
+   1  Mine Shaft (Cobblestone)
+   1  Set this unit down to deploy a Mine Shaft
+   1  Mine Shaft Extension
+   1  Mine Shaft Extension (Cobblestone)
+   1  Set this unit down to deploy a Mine Shaft Extension
+   1  Temporary Shelter
+   1  Parkour ([bdbf71]Dexterity[-])
+   1  Use Digging Tools to increase their quality and tiers
+   1  Digging Tools
+   1  You have been granted the ability to dismember your targets
+   1  Rampage Cooldown
+   1  Dismemberment Ability
+   1  DNA Boost Injector
+   1  Injection (Charisma)
+   1  This injection will boost your Charisma
+   1  Injection (Charisma) - DEV
+   1  This injection will boost your Charisma by 10%
+   1  Injection (Constitution)
+   1  This injection will boost your Constitution
+   1  Injection (Constitution) - DEV
+   1  This injection will boost your Constitution by 10%
+   1  Use this device to inject yourself with any DNA Boost.
+   1  Injection (Dexterity)
+   1  This injection will boost your Dexterity
+   1  Injection (Dexterity) - DEV
+   1  This injection will boost your Dexterity by 10%
+   1  Injection (Intelligence)
+   1  This injection will boost your Intelligence
+   1  Injection (Intelligence) - DEV
+   1  This injection will boost your Intelligence by 10%
+   1  Injection (Strength)
+   1  This injection will boost your Strength
+   1  Injection (Strength) - DEV
+   1  This injection will boost your Strength by 10%
+   1  Prussian Blue Remedy
+   1  Prussian Blue Powder
+   1  This is it
+   1  You're Dying
+   1  Digging Boost (Yucca Juice)
+   1  Your damage to earth with tools has been boosted
+   1  Electrical Repair Kit
+   1  This kit will repair electronics, such as deployable turrets
+   1  Hitpoints
+   1  Mission Loot
+   1  [80cfc5]Tier 1[-] Expertise Book Fragment Bundle
+   1  [80cfc5]Tier 2[-] Expertise Book Fragment Bundle
+   1  [80cfc5]Tier 3[-] Expertise Book Fragment Bundle
+   1  [80cfc5]Tier 4[-] Expertise Book Fragment Bundle
+   1  [80cfc5]Tier 5[-] Expertise Book Fragment Bundle
+   1  [80cfc5]Tier 6[-] Expertise Book Fragment Bundle
+   1  Deployable Turrets Expertise Boost
+   1  Generic Expertise Boost
+   1  You can craft this book into any Expertise Book boost.
+   1  Hammers Expertise Boost
+   1  Heavy Handguns Expertise Boost
+   1  Knuckles Expertise Boost
+   1  Long Range Rifles Expertise Boost
+   1  Revolvers Expertise Boost
+   1  Scythes Expertise Boost
+   1  Submachine Guns Expertise Boost
+   1  Swords Expertise Boost
+   1  [80cfc5]Tier 1[-] Expertise Book Bundle
+   1  [80cfc5]Tier 2[-] Expertise Book Bundle
+   1  Tactical Rifles Expertise Boost
+   1  Cooking Fat
+   1  This fat can be used in various cooking recipes
+   1  Fire, Shock and Explosion Immune Zombie Bone Powder
+   1  Fire and Shock Immune Zombie Bone Powder
+   1  Fire Immune Zombie Bone Powder
+   1  Powder ground from the bones remains of fire immune zombies
+   1  Increased Loot Stage
+   1  Increased Loot Quantity
+   1  DURATION: BONUS:\n • Become immune to Fire
+   1  DURATION: BONUS:\n • Become immune to Radiation
+   1  Radiation Resistance
+   1  Melee Expertise XP
+   1  Increased Bartering
+   1  Increased Experience
+   1  Increased Resource Harvesting
+   1  DURATION: BONUS:\n • Become immune to Shock
+   1  Watch your Step
+   1  Increased Ranged Damage
+   1  Ranged Expertise XP
+   1  Food Waste
+   1  Forge Description
+   1  Generator Bank Description
+   1  [80cfc5]Tier 1[-] Genetic Fragments Bundle
+   1  [80cfc5]Tier 2[-] Genetic Fragments Bundle
+   1  [80cfc5]Tier 3[-] Genetic Fragments Bundle
+   1  [80cfc5]Tier 4[-] Genetic Fragments Bundle
+   1  [80cfc5]Tier 5[-] Genetic Fragments Bundle
+   1  Generic Perk Book
+   1  Receive 15
+   1  Ground Charcoal
+   1  I'll need to turn this into activated charcoal
+   1  Limestone fragments
+   1  I'll need this to make some calcium chloride
+   1  Firearm Repair Kit
+   1  This kit will repair firearms
+   1  Hammer and Pliers
+   1  Set of tools for crafting stations
+   1  Hazard Zone Marker
+   1  Hazmat Mask (Tier 1 Quest Item)
+   1  The mask of a Tier 1 Hazmat entity
+   1  Hazmat Mask (Tier 2 Quest Item)
+   1  The mask of a Tier 2 Hazmat entity
+   1  Hazmat Mask (Tier 3 Quest Item)
+   1  The mask of a Tier 3 Hazmat entity
+   1  Hazmat Mask (Tier 4 Quest Item)
+   1  The mask of a Tier 4 Hazmat entity
+   1  Hazmat Mask (Tier 5 Quest Item)
+   1  The mask of a Tier 5 Hazmat entity
+   1  Hydrochloric Acid
+   1  NPC Repairs
+   1  Stag Alpha
+   1  Rain of Arrows (Aura)
+   1  [ff5b69]Blood Drain[-] Aura
+   1  Burn Aura
+   1  Shock Aura
+   1  Chicken Coops
+   1  Important Components
+   1  Important Note ([bfb086]Intro[-])
+   1  Important Note ([bfb086]Threat Scanner[-])
+   1  Important Note ([bfb086]Supplies[-])
+   1  Important Note ([bfb086]Supplies Update[-])
+   1  Important Note ([bfb086]Discovery Intel[-])
+   1  Important Note ([bfb086]Burnt Forest Unlock[-])
+   1  Important Note ([bfb086]Desert Biome[-])
+   1  Important Note ([bfb086]Snow Biome[-])
+   1  Important Note ([bfb086]Wasteland Unlock[-])
+   1  Initial Class
+   1  Bottle of Ink
+   1  Empty Bottle of Ink
+   1  Looks like it might be missing some ink
+   1  Deep Cuts ([70a4ba]Intelligence[-])
+   1  Lucky Looter ([70a4ba]Intelligence[-])
+   1  Physician ([70a4ba]Intelligence[-])
+   1  Treasure Hunter ([70a4ba]Intelligence[-])
+   1  Sledge Turret
+   1  Kamikaze Zombie Alpha
+   1  Tainted Kamikaze Zombie
+   1  Military Kukri
+   1  Marine Force Sawback Bowie
+   1  Honshu Boshin Combat Kukri
+   1  Wraith Kunai Throwing Knife
+   1  The Jackal, Assassin Knife
+   1  You cannot be knocked down while this buff is active
+   1  Knockdown Cooldown
+   1  Grease Monkey (Training)
+   1  Large Rock
+   1  What? You can't recognize a large rock when you see one?
+   1  Limestone
+   1  I can break this down into fragments
+   1  Temporary Protection
+   1  Zed Corpse auto-loot Mod
+   1  Loot Gathering Unit
+   1  Cannot be Crafted
+   1  Tier 1 Exploding Decoy
+   1  Tier 2 Exploding Decoy
+   1  Tier 3 Exploding Decoy
+   1  Tier 4 Exploding Decoy
+   1  Tier 5 Exploding Decoy
+   1  Medical Droid Body
+   1  Medical Droid Head
+   1  Medical Droid Left Arm
+   1  Medical Droid Legs
+   1  Medical Droid (Unpowered)
+   1  Medical Droid Right Arm
+   1  Mercenary Guild Protection - Tier 1
+   1  You are protected by the Mercenary Guild (Tier 1)
+   1  Mercenary Guild Protection - Tier 2
+   1  You are protected by the Mercenary Guild (Tier 2)
+   1  Mercenary Guild Protection - Tier 3
+   1  You are protected by the Mercenary Guild (Tier 3)
+   1  Mercenary Guild Protection - Tier 4
+   1  You are protected by the Mercenary Guild (Tier 4)
+   1  Mercenary Guild Protection - Tier 5
+   1  You are protected by the Mercenary Guild (Tier 5)
+   1  Mercenary Protection - Tier 1
+   1  Mercenary Protection - Tier 2
+   1  Mercenary Protection - Tier 3
+   1  Mercenary Protection - Tier 4
+   1  Mercenary Protection - Tier 5
+   1  RaÃ«l
+   1  Mercenary Trader
+   1  Black Magic Arrow (Tier 2)
+   1  Black Magic Arrow Schematic (Tier 2)
+   1  Black Magic Arrow (Tier 3)
+   1  Black Magic Arrow Schematic (Tier 3)
+   1  Black Magic Arrow (Tier 1)
+   1  Black Magic Arrow Schematic (Tier 1)
+   1  Black Magic Bolt (Tier 2)
+   1  Black Magic Bolt Schematic (Tier 2)
+   1  Black Magic Bolt (Tier 3)
+   1  Black Magic Bolt Schematic (Tier 3)
+   1  Black Magic Bolt (Tier 1)
+   1  Black Magic Bolt Schematic (Tier 1)
+   1  Mind Control Potion
+   1  Use Mining Tools to increase their quality and tiers
+   1  Mining Tools
+   1  Walk/Run Boost (Red Tea)
+   1  Your Walk/Run speed and carrying capacity has been boosted
+   1  Fire Immunity Mod
+   1  Fire and Shock Immunity Mod
+   1  Fire, Shock and Explosion Immunity Mod
+   1  Shock Immunity Mod
+   1  Explosion Immunity Mod
+   1  Molten Steel
+   1  Small Motor
+   1  This motor could have a few uses
+   1  Mutant Animal
+   1  I shouldn't have to tell you what this is
+   1  Controlling your NPC Hires
+   1  Offensive Rage
+   1  Your Offensive Rage has been triggered
+   1  Physical Damage Resistance Boost (Beer)
+   1  Your Physical Damage Resistance has been boosted
+   1  Hazmat Leader (Boss)
+   1  Hazmat Leader Loot
+   1  Black Shield Trader
+   1  Green Thumbs
+   1  Agility Aura Blueprint
+   1  Agility Aura Mod
+   1  Armor Penetration Aura Blueprint
+   1  Armor Penetration Aura Mod
+   1  Ascension Level 10
+   1  Ascension Level 1
+   1  Ascension Level 2
+   1  Ascension Level 3
+   1  Ascension Level 4
+   1  Ascension Level 5
+   1  Ascension Level 6
+   1  Ascension Level 7
+   1  Ascension Level 8
+   1  Ascension Level 9
+   1  Specialize in Assault Rifles
+   1  Attack Speed Aura Blueprint
+   1  Attack Speed Aura Mod
+   1  Specialize in Axes
+   1  Specialize in Batons
+   1  [9d7bb3]Black Magic[-]
+   1  Block Damage Aura Blueprint
+   1  Block Damage Aura Mod
+   1  Specialize in Regular Bows and Crossbows
+   1  Aura ([e673d5]Dismemberment[-])
+   1  Aura ([e6777f][ff5b69]Blood Drain[-][-])
+   1  Aura ([787878]Thousand Cuts[-])
+   1  Quest: Locate Shelter
+   1  Get additional reward choices from the traders
+   1  [d681c8]The Choice is Mine[-]
+   1  The Choice is Mine Level 1
+   1  Specialize in Clubs
+   1  Specialize in Deployable Turrets
+   1  [c45858]Downfall[-]
+   1  Downfall Level 10
+   1  Downfall Level 1
+   1  Downfall Level 2
+   1  Downfall Level 3
+   1  Downfall Level 4
+   1  Downfall Level 5
+   1  Downfall Level 6
+   1  Downfall Level 7
+   1  Downfall Level 8
+   1  Downfall Level 9
+   1  Specialize in Electric Traps
+   1  Specialize in Explosives
+   1  Fire Rate Aura Blueprint
+   1  Fire Rate Aura Mod
+   1  Fortuity Aura Blueprint
+   1  Fortuity Aura Mod
+   1  Specialize in Hammers
+   1  Healing Aura Blueprint
+   1  Healing Aura Mod
+   1  Specialize in Heavy Handguns
+   1  Aura ([c28682]Rain of Arrows[-])
+   1  [c28682]Rain of Arrows[-]
+   1  Aura ([736fe3]Eye of Flames[-])
+   1  Specialize in Knives
+   1  Specialize in Knuckles
+   1  Specialize in Long Range Rifles
+   1  Specialize in Machine Guns
+   1  Aura ([76e381]Explosion[-])
+   1  Specialize in all Melee weapons
+   1  Mobility Aura Blueprint
+   1  Mobility Aura Mod
+   1  Natural Selection Level 10
+   1  Natural Selection Level 1
+   1  Natural Selection Level 2
+   1  Natural Selection Level 3
+   1  Natural Selection Level 4
+   1  Natural Selection Level 5
+   1  Natural Selection Level 6
+   1  Natural Selection Level 7
+   1  Natural Selection Level 8
+   1  Natural Selection Level 9
+   1  Pierce Aura Blueprint
+   1  Pierce Aura Mod
+   1  Specialize in Pistols
+   1  [f54c52]Rage[-]
+   1  [8369bf]The Rebirth[-]
+   1  Rebirth Level 10
+   1  Rebirth Level 1
+   1  Rebirth Level 2
+   1  Rebirth Level 3
+   1  Rebirth Level 4
+   1  Rebirth Level 5
+   1  Rebirth Level 6
+   1  Rebirth Level 7
+   1  Rebirth Level 8
+   1  Rebirth Level 9
+   1  Specialize in the Revolver
+   1  Specialize in Scythes
+   1  Shadow Aura Blueprint
+   1  Shadow Aura Mod
+   1  Specialize in Shotguns
+   1  Aura ([e8a276]Double Damage[-])
+   1  Specialize in Spears
+   1  Stability Aura Blueprint
+   1  Stability Aura Mod
+   1  Stamina Aura Blueprint
+   1  Stamina Aura Mod
+   1  Specialize in Submachine Guns
+   1  Specialize in Swords
+   1  Specialize in Tactical Rifles
+   1  Aura ([736fe3]Short Circuit[-])
+   1  Aura ([f6f792]Goon's Revenge[-])
+   1  Trade Aura Blueprint
+   1  Trade Aura Mod
+   1  Vitality Aura Blueprint
+   1  Vitality Aura Mod
+   1  Baby Mechanical Bear Pet
+   1  Baby Mechanical Boar Pet
+   1  Baby Mechanical Chicken Pet
+   1  Baby Mechanical Coyote Pet
+   1  Baby Mechanical Dog Pet
+   1  Baby Mechanical Lion Pet
+   1  Baby Mechanical Rabbit Pet
+   1  Baby Mechanical Wolf Pet
+   1  DNA Boost (Charisma)
+   1  DNA Boost (Constitution)
+   1  DNA Boost (Dexterity)
+   1  Generic DNA Boost
+   1  DNA Boost (Intelligence)
+   1  DNA Boost (Strength)
+   1  Plant Ash
+   1  Pliers
+   1  Leviathus Summoning Vial
+   1  Empty Potion Vial
+   1  Potion Vial (Murky Water)
+   1  Potion (Summon Skeleton Army)
+   1  Feel No Pain
+   1  Propane Tank
+   1  Your Protection Shield is now active
+   1  You just woke up and have to defend yourself.
+   1  You need to find a shelter to settle down.
+   1  Pick a class and start your training.
+   1  The Mercenary Trader
+   1  Black Gold Bonus Loot
+   1  Buried Supplies Bonus Loot
+   1  Decoys Bonus Loot
+   1  Faction Wars Bonus Loot
+   1  Ghosts Bonus Loot
+   1  Hazard Bonus Loot
+   1  The Hunt Bonus Loot
+   1  Kamikaze Bonus Loot
+   1  Mini Horde Bonus Loot
+   1  Mining Bonus Loot
+   1  Cybernetics Loot
+   1  The Skulls Bonus Loot
+   1  Genetics Bundle
+   1  Weapon Parts Bundle
+   1  Large Ammo Crafting Bundle
+   1  Your Rage cooldown is 2 minutes and 15 seconds
+   1  Your Rage cooldown is 2 minutes and 10 seconds
+   1  Your Rage cooldown is 2 minutes and 5 seconds
+   1  Your Rage cooldown is 1 minute and 55 seconds
+   1  Your Rage cooldown is 1 minute and 50 seconds
+   1  Your Rage cooldown is 3 minutes
+   1  Your Rage cooldown is 2 minutes and 55 seconds
+   1  Your Rage cooldown is 2 minutes and 50 seconds
+   1  Your Rage cooldown is 2 minutes and 45 seconds
+   1  Your Rage cooldown is 2 minutes and 40 seconds
+   1  Your Rage cooldown is 2 minutes and 35 seconds
+   1  Your Rage cooldown is 2 minutes and 30 seconds
+   1  Your Rage cooldown is 2 minutes and 25 seconds
+   1  Your Rage cooldown is 2 minutes and 20 seconds
+   1  Your Rage is on cooldown
+   1  You are Enraged
+   1  Defensive Rage
+   1  Your Defensive Rage has been triggered
+   1  Rampage
+   1  You're on a rampage
+   1  Double Damage Bonus
+   1  Low-grade Barrel Part
+   1  Medium-grade Barrel Part
+   1  High-grade Barrel Part
+   1  Ultimate-grade Barrel Part
+   1  Low-grade Bow Part
+   1  Medium-grade Bow Part
+   1  Medium-grade Explosives Part
+   1  High-grade Explosives Part
+   1  Low-grade Handle Part
+   1  Medium-grade Handle Part
+   1  High-grade Handle Part
+   1  Ultimate-grade Handle Part
+   1  Low-grade Magazine Part
+   1  Medium-grade Magazine Part
+   1  High-grade Magazine Part
+   1  Ultimate-grade Magazine Part
+   1  This kit will repair advanced melee weapons and tools
+   1  Repairs
+   1  Berserker Level 1
+   1  Berserker Level 2
+   1  Berserker Level 3
+   1  Berserker Level 4
+   1  Berserker Level 5
+   1  Berserker Level 6
+   1  Berserker Level 7
+   1  Berserker Level 8
+   1  Berserker Level 9
+   1  Berserker Level 10
+   1  Berserker Level 11
+   1  Berserker Level 12
+   1  Berserker Level 13
+   1  Berserker Level 14
+   1  Berserker Level 15
+   1  Builder Level 1
+   1  Builder Level 2
+   1  Builder Level 3
+   1  Builder Level 4
+   1  Builder Level 5
+   1  Builder Level 6
+   1  Builder Level 7
+   1  Builder Level 8
+   1  Builder Level 9
+   1  Builder Level 10
+   1  Butcher Level 1
+   1  Butcher Level 2
+   1  Butcher Level 3
+   1  Butcher Level 4
+   1  Butcher Level 5
+   1  Butcher Level 6
+   1  Butcher Level 7
+   1  Butcher Level 8
+   1  Butcher Level 9
+   1  Butcher Level 10
+   1  Charisma Level 1
+   1  Charisma Level 2
+   1  Charisma Level 3
+   1  Charisma Level 4
+   1  Charisma Level 5
+   1  Charisma Level 6
+   1  Charisma Level 7
+   1  Charisma Level 8
+   1  Charisma Level 9
+   1  Charisma Level 10
+   1  Sous-Chef Level 1
+   1  Sous-Chef Level 2
+   1  Sous-Chef Level 3
+   1  Sous-Chef Level 4
+   1  Sous-Chef Level 5
+   1  Sous-Chef Level 6
+   1  Sous-Chef Level 7
+   1  Sous-Chef Level 8
+   1  Sous-Chef Level 9
+   1  Sous-Chef Level 10
+   1  Class Level 6
+   1  Class Level 8
+   1  Class Level 10
+   1  Constitution Level 1
+   1  Constitution Level 2
+   1  Constitution Level 3
+   1  Constitution Level 4
+   1  Constitution Level 5
+   1  Constitution Level 6
+   1  Constitution Level 7
+   1  Constitution Level 8
+   1  Constitution Level 9
+   1  Constitution Level 10
+   1  Dexterity Level 1
+   1  Dexterity Level 2
+   1  Dexterity Level 3
+   1  Dexterity Level 4
+   1  Dexterity Level 5
+   1  Dexterity Level 6
+   1  Dexterity Level 7
+   1  Dexterity Level 8
+   1  Dexterity Level 9
+   1  Dexterity Level 10
+   1  Die!
+   1  Genetics Level 1
+   1  Genetics Level 2
+   1  Genetics Level 3
+   1  Genetics Level 4
+   1  Genetics Level 5
+   1  Genetics Level 6
+   1  Genetics Level 7
+   1  Genetics Level 8
+   1  Genetics Level 9
+   1  Genetics Level 10
+   1  Kill Shock Immune Zombies
+   1  Harvest Crops
+   1  Kill Explosion Immune Zombies
+   1  Kill Fire Immune Zombies
+   1  Hunter Level 1
+   1  Hunter Level 2
+   1  Hunter Level 3
+   1  Hunter Level 4
+   1  Hunter Level 5
+   1  Hunter Level 6
+   1  Hunter Level 7
+   1  Hunter Level 8
+   1  Hunter Level 9
+   1  Hunter Level 10
+   1  Intelligence Level 1
+   1  Intelligence Level 2
+   1  Intelligence Level 3
+   1  Intelligence Level 4
+   1  Intelligence Level 5
+   1  Intelligence Level 6
+   1  Intelligence Level 7
+   1  Intelligence Level 8
+   1  Intelligence Level 9
+   1  Intelligence Level 10
+   1  Kill Hostile Animals
+   1  Madman Level 1
+   1  Madman Level 2
+   1  Madman Level 3
+   1  Madman Level 4
+   1  Madman Level 5
+   1  Madman Level 6
+   1  Madman Level 7
+   1  Madman Level 8
+   1  Madman Level 9
+   1  Madman Level 10
+   1  Kill Stuff
+   1  Bows Level 4
+   1  Player Level 40
+   1  Player Level 15
+   1  Player Level 30
+   1  Player Level 45
+   1  Player Level 60
+   1  Player Level 75
+   1  Soldier Level 1
+   1  Soldier Level 2
+   1  Soldier Level 3
+   1  Soldier Level 4
+   1  Soldier Level 5
+   1  Soldier Level 6
+   1  Soldier Level 7
+   1  Soldier Level 8
+   1  Soldier Level 9
+   1  Soldier Level 10
+   1  Technogeek Level 1
+   1  Technogeek Level 2
+   1  Technogeek Level 3
+   1  Technogeek Level 4
+   1  Technogeek Level 5
+   1  Technogeek Level 6
+   1  Technogeek Level 7
+   1  Technogeek Level 8
+   1  Technogeek Level 9
+   1  Technogeek Level 10
+   1  Thug Level 1
+   1  Thug Level 2
+   1  Thug Level 3
+   1  Thug Level 4
+   1  Thug Level 5
+   1  Thug Level 6
+   1  Thug Level 7
+   1  Thug Level 8
+   1  Thug Level 9
+   1  Thug Level 10
+   1  Witch Doctor Level 1
+   1  Witch Doctor Level 2
+   1  Witch Doctor Level 3
+   1  Witch Doctor Level 4
+   1  Witch Doctor Level 5
+   1  Witch Doctor Level 6
+   1  Witch Doctor Level 7
+   1  Witch Doctor Level 8
+   1  Witch Doctor Level 9
+   1  Witch Doctor Level 10
+   1  You are immune to Fire
+   1  Fire Immunity
+   1  You are immune to Fire and Shock
+   1  Fire and Shock Immunity
+   1  You are immune to Fire, Shock and Explosions
+   1  Fire, Shock and Explosion Immunity
+   1  You are immune to Shock
+   1  Shock Immunity
+   1  You are immune to Explosions
+   1  Explosion Immunity
+   1  Rope
+   1  Primitive rope made from plant fibre.
+   1  High Performance Running Shoes Mod
+   1  Salt
+   1  Shredder Schematic
+   1  Solar Bank Schematic
+   1  Toolbox Schematic
+   1  Screamer Horde Signal
+   1  Tier 1 Screamer Horde Signal Schematic
+   1  Tier 1 Screamer Horde Signal Schematic Description
+   1  Screwdriver
+   1  Screws
+   1  Nothing better to keep things tightly bound
+   1  Vehicle Repair Kit (Sedan)
+   1  Kit used in repairing Sedans
+   1  Farming Seeds
+   1  You feel a connection with the undead
+   1  Shock Resistant Armor Repair Kit
+   1  Kit used in repairing Shock Resistant Armor
+   1  Shockwave Grenade
+   1  Shock Immune Zombie Bone Powder
+   1  Powder ground from the bones remains of shock immune zombies
+   1  [416eb8]ARMOR CRAFTING[-] Description
+   1  Armor Crafting
+   1  [416eb8]BOUNTY HUNTER[-]
+   1  [b36ba7]CHARISMA[-] Description
+   1  [7abd71]CONSTITUTION[-] Description
+   1  [416eb8]ROBOTICS CRAFTING[-] Description
+   1  Robotics Crafting
+   1  [bdbf71]DEXTERITY[-] Description
+   1  [416eb8]DISTURBANCE[-] Description
+   1  Disturbance
+   1  [416eb8]BLESS OUR NEST[-]
+   1  Bless our Nest
+   1  [416eb8]GENERAL CRAFTING[-] Description
+   1  General Crafting
+   1  [416eb8]GOOD VIBRATIONS[-]
+   1  Good Vibrations
+   1  [416eb8]THIN THE HERD[-]
+   1  Thin the Herd
+   1  [70a4ba]INTELLIGENCE[-] Description
+   1  [416eb8]MECHANICS CRAFTING[-] Description
+   1  Mechanics
+   1  [416eb8]MELEE WEAPON CRAFTING[-] Description
+   1  Melee Weapon Crafting
+   1  [416eb8]RANGED WEAPON CRAFTING[-] Description
+   1  Ranged Weapon Crafting
+   1  [c27272]STRENGTH[-] Description
+   1  Synthwave - Volume 1
+   1  Synthwave - Volume 2
+   1  Synthwave - Volume 3
+   1  [416eb8]TOOL CRAFTING[-] Description
+   1  Tool Crafting
+   1  [416eb8]TURRET CRAFTING[-] Description
+   1  Turret Crafting
+   1  Explosion Resistant Armor Repair Kit
+   1  Kit used in repairing Explosion Resistant Armor
+   1  Explosion Immune Zombie Bone Powder
+   1  Solar Bank Description
+   1  This Medical Droid will supply you will common medical items
+   1  Wandering Trader Location
+   1  This note provides the location of the Wandering Trader
+   1  Speed Modifier (Asphalt)
+   1  Speed Modifier (Dirt)
+   1  Speed Modifier (Forest ground)
+   1  Speed Modifier (Gravel)
+   1  Speed Modifier (Sand)
+   1  Speed Modifier (Snow)
+   1  Stamina Boost (Coffee)
+   1  Your Stamina has been boosted
+   1  Starter Pack (Generic)
+   1  Rusty Baseball Bat
+   1  Primitive Club
+   1  Rusty Iron Fireaxe
+   1  Rusty Iron Pickaxe
+   1  Rusty Machete
+   1  Rusty Pistol
+   1  Rusty Wrench
+   1  Rusty Steel Axe
+   1  Rusty Steel Club
+   1  Rusty Steel Pickaxe
+   1  Rusty Steel Sledgehammer
+   1  Aura Range (m)
+   1  Check Description for details
+   1  Chopping
+   1  Digging
+   1  Throw Damage
+   1  Lootstage Bonus
+   1  Control the Undead
+   1  Control Feral Undead
+   1  Control Normal Undead
+   1  Miner 69er
+   1  Cardio
+   1  Sexual T-Rex
+   1  Iron gut
+   1  Check Recipes for options
+   1  Miner 69er ([c27272]Strength[-])
+   1  Mother Lode ([c27272]Strength[-])
+   1  Sexual T-Rex ([c27272]Strength[-])
+   1  Mutilation Surge
+   1  Stopping Power
+   1  Starter Pack Stash
+   1  Medic Droid
+   1  Police Droid
+   1  Security Droid
+   1  Short Circuit (Aura)
+   1  Shockwave Cooldown
+   1  Temporary Explosion Resistance
+   1  Mercenary Trader Visit
+   1  You are temporarily immune to fire
+   1  You are temporarily immune to
+   1  Black Shield Explosive Barrel
+   1  Black Shield Explosive Charge
+   1  Guilty as Charged
+   1  Goon's Revenge (Aura)
+   1  Toxic Zombie Alpha Loot
+   1  Food Supplies
+   1  Tree Resin
+   1  Your Ranged Turret Support skill is on a cooldown
+   1  Ranged Turret Support Cooldown
+   1  Your Sledge Turret Support skill is on a cooldown
+   1  Sledge Turret Support Cooldown
+   1  Med Item Cooldown
+   1  Plastic Vane
+   1  Vinegar
+   1  Blurred Vision
+   1  Distorted Vision
+   1  Can't Focus
+   1  Color Blindness
+   1  Bloodshot Vision
+   1  Reduced Vision
+   1  Enhanced Vision
+   1  Mechanical Vulture
+   1  Mechanical Vulture (Fire)
+   1  Mechanical Vulture (Shock)
+   1  Mechanical Vulture (Explosive)
+   1  [80cfc5]Tier 1[-] Weapon Parts Bundle
+   1  [80cfc5]Tier 2[-] Weapon Parts Bundle
+   1  [80cfc5]Tier 3[-] Weapon Parts Bundle
+   1  [80cfc5]Tier 4[-] Weapon Parts Bundle
+   1  [80cfc5]Tier 5[-] Weapon Parts Bundle
+   1  Grrr... Diapers
+   1  Yup, you're wearing a diaper... Sigh..
+   1  Werewolf (Boss)
+   1  Werewolf Alpha Loot
+   1  Tornado
+   1  Ingredients: Skeleton Army
+   1  Ingredients: Skeleton Warrior - Tier 1
+   1  Ingredients: Skeleton Warrior - Tier 2
+   1  Ingredients: Skeleton Warrior - Tier 3
+   1  Ingredients: Skeleton Warrior - Tier 4
+   1  Ingredients: Skeleton Warrior - Tier 5
+   1  Workbench Description
+   1  Feral Zombie Old Crone
+   1  Radiated Zombie Old Crone
+   1  Tainted Zombie Old Crone
+   1  Feral Zombie Ava
+   1  Feral Zombie Sophia
+   1  Feral Zombie Jace
+   1  Zombie Wesley (Boss)
+   1  Feral Zombie Wesley
+   1  Feral Zombie Bennett
+   1  Zombie Bouncer
+   1  Feral Zombie Bouncer
+   1  Radiated Zombie Bouncer
+   1  Tainted Zombie Bouncer
+   1  Zombie Guardian
+   1  Feral Zombie Guardian
+   1  Radiated Zombie Guardian
+   1  Tainted Zombie Guardian
+   1  Zombie Doctor
+   1  Feral Zombie Doctor
+   1  Radiated Zombie Doctor
+   1  Tainted Zombie Doctor
+   1  Contaminated Zombie
+   1  Feral Contaminated Zombie
+   1  Radiated Contaminated Zombie
+   1  Tainted Contaminated Zombie
+   1  Zombie Earl
+   1  Feral Zombie Earl
+   1  Radiated Zombie Earl
+   1  Tainted Zombie Earl
+   1  Zombie Bones
+   1  Feral Zombie Bones
+   1  Radiated Zombie Bones
+   1  Tainted Zombie Bones
+   1  Zombie Paula
+   1  Feral Zombie Paula
+   1  Radiated Zombie Paula
+   1  Tainted Zombie Paula
+   1  Zombie Richard
+   1  Feral Zombie Richard
+   1  Radiated Zombie Richard
+   1  Tainted Zombie Richard
+   1  Zombie Ken
+   1  Feral Zombie Ken
+   1  Radiated Zombie Ken
+   1  Tainted Zombie Ken
+   1  Radiated Zombie Farmer
+   1  Tainted Zombie Farmer
+   1  Zombie Fireman
+   1  Feral Zombie Fireman
+   1  Radiated Zombie Fireman
+   1  Tainted Zombie Fireman
+   1  Zombie Constable
+   1  Feral Zombie Constable
+   1  Radiated Zombie Constable
+   1  Tainted Zombie Constable
+   1  Zombie Scrub
+   1  Feral Zombie Scrub
+   1  Radiated Zombie Scrub
+   1  Tainted Zombie Scrub
+   1  Zombie Military
+   1  Feral Zombie Military
+   1  Radiated Zombie Military
+   1  Tainted Zombie Military
+   1  Zombie SWAT
+   1  Feral Zombie SWAT
+   1  Radiated Zombie SWAT
+   1  Tainted Zombie SWAT
+   1  Feral Putrid Girl
+   1  Putrid Girl
+   1  Radiated Putrid Girl
+   1  Body Bag
+   1  Body Bags of fire immune zombies
+   1  Body Bags of shock immune zombies
+   1  Body Bags of fire and shock immune zombies
+   1  Body Bags of explosion immune zombies
+   1  Body Bags of fire, shock and explosion immune zombies
+   1  Feral Infected Survivor
+   1  Infected Survivor
+   1  Radiated Infected Survivor
+   1  Feral Zombie Businessman
+   1  Zombie Businessman
+   1  Feral Decayed Mother
+   1  Decayed Mother
+   1  Radiated Decayed Mother
+   1  Corpulent Zombie Alpha
+   1  Infected Policeman
+   1  Radiated Infected Policeman
+   1  Feral Disturbed Tourist
+   1  Disturbed Tourist
+   1  Feral Fat Momma Zombie
+   1  Fat Momma Zombie
+   1  Radiated Fat Momma Zombie
+   1  Zombie Grudge Alpha
+   1  Feral Zombie Grudge
+   1  Radiated Zombie Grudge
+   1  Zombie Grudge Minion
+   1  Feral Grudge Minion
+   1  Radiated Grudge Minion
+   1  Feral Janitor Zombie
+   1  Janitor Zombie
+   1  Radiated Janitor Zombie
+   1  Feral Festering Cadaver
+   1  Festering Cadaver
+   1  Radiated Festering Cadaver
+   1  Feral Lab Zombie
+   1  Lab Zombie
+   1  Hazardous Worker
+   1  Feral Departed Woman
+   1  Departed Woman
+   1  Radiated Departed Woman
+   1  Feral Bloated Walker
+   1  Bloated Walker
+   1  Radiated Bloated Walker
+   1  Mutated Zombie Minion
+   1  Feral Plagued Nurse
+   1  Plagued Nurse
+   1  Sample Remains of fire immune zombies
+   1  Sample Remains of fire and shock immune zombies
+   1  Sample Remains of fire, shock and explosive immune zombies
+   1  Sample Remains of shock immune zombies
+   1  Sample Remains of explosive immune zombies
+   1  Feral Skater Punk Zombie
+   1  Skater Punk Zombie
+   1  Radiated Skater Punk Zombie
+   1  Feral Fallen Soldier
+   1  Fallen Soldier
+   1  Radiated Fallen Soldier
+   1  Feral Reanimated Corpse
+   1  Reanimated Corpse
+   1  Radiated Reanimated Corpse
+   1  Zombie (Tier 1 Quest)
+   1  Zombie (Tier 2 Quest)
+   1  Feral Zombie (Tier 3 Quest)
+   1  Radiated Zombie (Tier 4 Quest)
+   1  Radiated Zombie (Tier 5 Quest)
+   1  Feral Utility Worker Zombie
+   1  Utility Worker Zombie
+   1  Feral Rotting Carcass
+   1  Rotting Carcass
+   1  Radiated Rotting Carcass
+   1  Feral Infected Policeman
+   1  Blueprint (Charisma)
+   1  Blueprint (Constitution)
+   1  Blueprint (Dexterity)
+   1  Blueprint (Intelligence)
+   1  Blueprint (Strength)
+   1  Claim Count
+   1  Set the maximum number of land claim blocks
+   1  Achievement: [9eff3d]Level {0}[-] in [3cf7fa]Green Thumbs[-]
+   1  LDT MGL Schematic
+   1  Mechanical Allies
+   1  Mechanical Pets
+   1  A compound crossbow does more damage than a compound bow.
+   1  Fire Extinguisher
+   1  STI 2011
+   1  STI 2011 Schematic
+   1  Desert Eagle PeaceMaker
+   1  Tier 3 Heavy Pistol
+   1  Desert Eagle PeaceMaker Schematic
+   1  Titanium Tactical Axe
+   1  [49de9b]ONE-HANDED[-]\nTitanium Tactical Axe
+   1  Titanium Bearded Battle Axe
+   1  [49de9b]TWO-HANDED[-]\nTitanium Bearded Battle Axe
+   1  Titanium War Axe
+   1  [49de9b]TWO-HANDED[-]\nTitanium War Axe
+   1  Stormbreaker
+   1  Viking Axe
+   1  Combat Stone Axe
+   1  [49de9b]ONE-HANDED[-]\nPlasma Baton
+   1  The Shocker
+   1  Bone Baton
+   1  Cleaver
+   1  Samurai Club
+   1  [49de9b]ONE-HANDED[-]\nSamurai Club
+   1  Heavy Morningstar Mace
+   1  [49de9b]TWO-HANDED[-]\nHeavy Morningstar
+   1  The Savage
+   1  Titanium Spike Mace
+   1  [49de9b]ONE-HANDED[-]\nTitanium Spike Mace
+   1  Heavy Iron Flanged Mace
+   1  Goth Titanium Mace
+   1  [49de9b]ONE-HANDED[-]\nGoth Titanium Mace
+   1  Heavy Titanium Flanged Mace
+   1  [49de9b]TWO-HANDED[-]\nHeavy Titanium Flanged Mace
+   1  Steel Spike Mace
+   1  Steel Flanged Mace
+   1  Crowbar
+   1  [49de9b]ONE-HANDED[-]\nCrowbar
+   1  Titanium Combat Hammer
+   1  The Two-Headed Eagle
+   1  Spike Hammer
+   1  Blade Baton
+   1  [49de9b]ONE-HANDED[-]\nBlade Baton
+   1  Shinji Katana
+   1  Modern Wakisashi
+   1  [49de9b]ONE-HANDED[-]\nModern Wakisashi
+   1  Powered Modern Wakisashi
+   1  Blade Knuckles
+   1  The Smasher
+   1  Titanium Long Dark Blade
+   1  [49de9b]TWO-HANDED[-]\nTitanium Long Dark Blade
+   1  Titanium Frost Blade
+   1  [49de9b]ONE-HANDED[-]\nTitanium Frost Blade
+   1  The Reaper
+   1  Darkine Scythe
+   1  Titanium Scythe
+   1  Rusty Sickle
+   1  Bone Scythe
+   1  Crippling Sledgehammer
+   1  Battle Sledgehammer
+   1  Doomsday
+   1  Tai Chi Spear
+   1  Roman Spear
+   1  Yanyue Dao Spear
+   1  Alliance Spear
+   1  Dragon Spear
+   1  Leonidas' Spear
+   1  Bone Blade
+   1  Missions
+   1  Tier 0s include Remnants
+   1  Small Engine
+   1  Mercenaries
+   1  Forest Biome
+   1  Desert Biome
+   1  Snow Biome
+   1  Wasteland Biome
+   1  Wraiths
+   1  Boss Events
+   1  Custom Traders
+   1  Survivors
+   1  NPC Commands
+   1  Class Auras
+   1  Respawn Protection
+   1  DNA Boosts
+   1  Cooked Food
+   1  Drinks
+   1  Bandits
+   1  Repair Kits
+   1  Picking Up Blocks
+   1  Radiation Poisoning
+   1  Learn By Doing
+   1  Vehicle Protection
+   1  XM214 Microgun
+   1  XM214 Microgun Schematic
+   1  G36 (C-MAG)
+   1  Tier 4 Machine Gun
+   1  G36 (C-MAG) Schematic
+   1  Explosion-resistant Concrete
+   1  What about Bob
+   1  Meet Elias
+   1  Meet Helen
+   1  What about Hugh
+   1  Meet Isaac
+   1  What About Jen
+   1  What about Joel
+   1  Meet Liam
+   1  What About Rekt
+   1  Meet Scarlett
+   1  Melee Expertise Boost Book Fragments
+   1  [e6ab4e]Beware. Your demise will make them stronger[-]
+   1  Your enemies have [bec257]ascended[-] and thirst for blood
+   1  Your enemies increase their chance to [8369bf]live again[-]
+   1  Class Aura (Defense - Tier 1)
+   1  Class Aura (Defense - Tier 2)
+   1  Class Aura (Defense - Tier 3)
+   1  Class Aura (Defense - Tier 4)
+   1  Class Aura (Defense - Tier 5)
+   1  Class Aura (Offense - Tier 1)
+   1  Class Aura (Offense - Tier 2)
+   1  Class Aura (Offense - Tier 3)
+   1  Class Aura (Offense - Tier 4)
+   1  Class Aura (Offense - Tier 5)
+   1  Stabilizer Device: Burnt Forest
+   1  Stabilizer Device: Desert
+   1  Stabilizer Device: Snow
+   1  Stabilizer Device: Wasteland
+   1  Block Damage (Tier 1)
+   1  Block Damage (Tier 2)
+   1  Block Damage (Tier 3)
+   1  Block Damage (Tier 4)
+   1  Block Damage (Tier 5)
+   1  Carry Capacity (Tier 1)
+   1  Carry Capacity (Tier 2)
+   1  Carry Capacity (Tier 3)
+   1  Carry Capacity (Tier 4)
+   1  Carry Capacity (Tier 5)
+   1  Mod (Charisma)
+   1  Mod (Better Barter)
+   1  Mod (Charismatic Nature)
+   1  Mod (Daring Adventurer)
+   1  Class Experience (Tier 1)
+   1  Class Experience (Tier 2)
+   1  Class Experience (Tier 3)
+   1  Class Experience (Tier 4)
+   1  Class Experience (Tier 5)
+   1  Mod (Constitution)
+   1  Mod (Healing Factor)
+   1  Mod (Pack Mule)
+   1  Mod (Iron Gut)
+   1  Running Stamina Regen (Tier 1)
+   1  Running Stamina Regen (Tier 2)
+   1  Running Stamina Regen (Tier 3)
+   1  Running Stamina Regen (Tier 4)
+   1  Running Stamina Regen (Tier 5)
+   1  Health Assessment (Tier 1)
+   1  Health Assessment (Tier 2)
+   1  Health Assessment (Tier 3)
+   1  Health Assessment (Tier 4)
+   1  Health Assessment (Tier 5)
+   1  Mod (Dexterity)
+   1  Mod (Parkour)
+   1  Mod (Cardio)
+   1  Dismember (Tier 1)
+   1  Dismember (Tier 2)
+   1  Dismember (Tier 3)
+   1  Dismember (Tier 4)
+   1  Dismember (Tier 5)
+   1  Melee Damage (Tier 1)
+   1  Melee Damage (Tier 2)
+   1  Melee Damage (Tier 3)
+   1  Melee Damage (Tier 4)
+   1  Melee Damage (Tier 5)
+   1  Ranged Damage (Tier 1)
+   1  Ranged Damage (Tier 2)
+   1  Ranged Damage (Tier 3)
+   1  Ranged Damage (Tier 4)
+   1  Ranged Damage (Tier 5)
+   1  Gamestage (Tier 1)
+   1  Gamestage (Tier 2)
+   1  Gamestage (Tier 3)
+   1  Gamestage (Tier 4)
+   1  Gamestage (Tier 5)
+   1  Mod (Genetics)
+   1  Genetics Experience (Tier 1)
+   1  Genetics Experience (Tier 2)
+   1  Genetics Experience (Tier 3)
+   1  Genetics Experience (Tier 4)
+   1  Genetics Experience (Tier 5)
+   1  Heat Detection
+   1  Hunger and Thirst (Tier 1)
+   1  Hunger and Thirst (Tier 2)
+   1  Hunger and Thirst (Tier 3)
+   1  Hunger and Thirst (Tier 4)
+   1  Hunger and Thirst (Tier 5)
+   1  Mod (Intelligence)
+   1  Mod (Deep Cuts)
+   1  Mod (Lucky Looter)
+   1  Mod (Physician)
+   1  Mod (Treasure Hunter)
+   1  Knockdown Resistance (Tier 1)
+   1  Knockdown Resistance (Tier 2)
+   1  Knockdown Resistance (Tier 3)
+   1  Knockdown Resistance (Tier 4)
+   1  Knockdown Resistance (Tier 5)
+   1  Loot Stage (Tier 1)
+   1  Loot Stage (Tier 2)
+   1  Loot Stage (Tier 3)
+   1  Loot Stage (Tier 4)
+   1  Loot Stage (Tier 5)
+   1  Loot Time (Tier 1)
+   1  Loot Time (Tier 2)
+   1  Loot Time (Tier 3)
+   1  Loot Time (Tier 4)
+   1  Loot Time (Tier 5)
+   1  Purge (Tier 1)
+   1  Purge (Tier 2)
+   1  Purge (Tier 3)
+   1  Purge (Tier 4)
+   1  Purge (Tier 5)
+   1  Radiation Poisoning (Tier 1)
+   1  Radiation Poisoning (Tier 2)
+   1  Radiation Poisoning (Tier 3)
+   1  Radiation Poisoning (Tier 4)
+   1  Radiation Poisoning (Tier 5)
+   1  Rampage (Tier 1)
+   1  Rampage (Tier 2)
+   1  Rampage (Tier 3)
+   1  Rampage (Tier 4)
+   1  Rampage (Tier 5)
+   1  Rebirth (Tier 1)
+   1  Rebirth (Tier 2)
+   1  Rebirth (Tier 3)
+   1  Rebirth (Tier 4)
+   1  Rebirth (Tier 5)
+   1  Running Speed (Tier 1)
+   1  Running Speed (Tier 2)
+   1  Running Speed (Tier 3)
+   1  Running Speed (Tier 4)
+   1  Running Speed (Tier 5)
+   1  Sneak Effectiveness (Tier 1)
+   1  Sneak Effectiveness (Tier 2)
+   1  Sneak Effectiveness (Tier 3)
+   1  Sneak Effectiveness (Tier 4)
+   1  Sneak Effectiveness (Tier 5)
+   1  Stamina Loss (Tier 1)
+   1  Stamina Loss (Tier 2)
+   1  Stamina Loss (Tier 3)
+   1  Stamina Loss (Tier 4)
+   1  Stamina Loss (Tier 5)
+   1  Mod (Strength)
+   1  Mod (Miner 69er)
+   1  Mod (Mother Lode)
+   1  Mod (Sexual T-Rex)
+   1  Structural Integrity Mod
+   1  Stun Resistance (Tier 1)
+   1  Stun Resistance (Tier 2)
+   1  Stun Resistance (Tier 3)
+   1  Stun Resistance (Tier 4)
+   1  Stun Resistance (Tier 5)
+   1  Explosion-resistant Concrete Upgrade Mod
+   1  Junior Cybernetic Prototype
+   1  Female Cybernetic Prototype
+   1  Male Cybernetic Prototype
+   1  Fire Cybernetic Prototype
+   1  Shock Cybernetic Prototype
+   1  Shock Cybernetic (Boss)
+   1  Shock Cybernetic Alpha
+   1  NATURAL SELECTION
+   1  Talk to a [81d696]Vanilla Trader[-]
+   1  Talk to a [81d696]Trainer[-]
+   1  Damaged Pickup
+   1  Crop Cycle Time ([72cf8a]minutes[-])
+   1  Advanced Farming
+   1  Trigger Aura When Hit
+   1  Aura Sharing
+   1  Bandit Spawn Multiplier
+   1  Adjust how many bandits you wish to see in biomes
+   1  Initial Biome
+   1  Determines the biome you initially spawn into
+   1  Class XP Multiplier
+   1  Companion Inventory
+   1  Crosshair HUD
+   1  Pitch Black
+   1  [a480b0]REBIRTH[-] [dcde78]Feral Sense[-]
+   1  Zombie Spawn Frequency
+   1  Gore
+   1  Zombie [dcde78]Headshots[-]
+   1  Bandit Spawns
+   1  Adjust the number of bandit spawns in the biomes
+   1  Animal Spawns
+   1  Adjust the number of hostile animal spawns in the biomes
+   1  Survivor Spawns
+   1  Adjust the number of survivor spawns in the biomes
+   1  Adjust the number of outdoor zombie spawns in the biomes
+   1  Adjust the number of zombie spawns in the biomes
+   1  Path Smoothing
+   1  POI Risk
+   1  [dcde78]Sleeper[-] Sense
+   1  Quality of Life
+   1  Custom Quests
+   1  [a480b0]REBIRTH[-] Weather
+   1  Respawn Penalty
+   1  No more free deaths...
+   1  Restrict NPC Hires
+   1  Restrictive Healing
+   1  Screen Shake
+   1  Health Bar Visibility
+   1  Toggles the visibility of entity health bars
+   1  [ae85c7]Outbreak[-] after Horde Night
+   1  Fog Density
+   1  Sets the density of the fog for when the weather gets foggy.
+   1  X-Ray Detection
+   1  Zombie Particles
+   1  Turn hand particles off on zombies to help with performance
+   1  Delay NPC Spawns
+   1  Set the conditions for NPCs to spawn in the world.
+   1  Demolition Zombies
+   1  Choose whether or not to encounter Demolition zombies
+   1  Full Control Distance
+   1  Hunting Distance
+   1  Entity Event Spawns
+   1  [a2baba]EVENT[-] Restrictions
+   1  Set restrictions on when [a2baba]EVENTS[-] can occur
+   1  Bandit [a2baba]EVENTS[-]
+   1  Toggle bandit events [9fd6ad]On[-] or [d69f9f]Off[-].
+   1  [a2baba]EVENT[-] Difficulty
+   1  [a2baba]EVENT[-] Frequency
+   1  [a2baba]EVENTS[-] While Inside
+   1  [a2baba]EVENT[-] Loot
+   1  [a2baba]EVENTS[-] At Night
+   1  Have [a2baba]EVENTS[-] occur between 22 PM and 4 AM
+   1  [a2baba]EVENT[-] Notification
+   1  Zombie Animal [a2baba]EVENTS[-]
+   1  Feeling Lucky?
+   1  Blocks Catch Fire
+   1  Gamestage Biome Spawns
+   1  Gamestage Multiplier
+   1  Genetics XP Multiplier
+   1  Horde Night Plus ([c25757]HNP[-])
+   1  Turn on an alternate [c25757]Horde Night[-] experience
+   1  [c25757]HNP[-] [dcde78]Turbo[-]
+   1  HN XP Multiplier
+   1  Infested Jobs
+   1  Insta Loot
+   1  No timed delay to open loot containers.
+   1  Jobs to Next Tier
+   1  Jumpstart
+   1  Lockpick Minigame
+   1  Loot Traders
+   1  Toggle the ability to loot trader containers.
+   1  Max Jobs
+   1  POI Job limit
+   1  Mutated Zombie Spawns
+   1  Override Opacity
+   1  Party XP Multiplier
+   1  Protect Supply Drops
+   1  Protect Traders
+   1  The [8369bf]Rebirth[-]
+   1  Repeat POI Jobs
+   1  Auto-replant Trees
+   1  Automatically replants trees that have been cut down.
+   1  Scenario
+   1  Pick a scenario that will dictate how you will play the game
+   1  Max Screamer Spawns
+   1  [9b74c4]Screamer[-] Nights
+   1  Signal XP Multiplier
+   1  Share Job Progression
+   1  Spawn Confirmation
+   1  Survivor Spawn Multiplier
+   1  Adjust how many survivors you wish to see in biomes
+   1  Tornado Multiplier
+   1  Tornados
+   1  Tree Density Multiplier
+   1  Vehicle Density Multiplier
+   1  Pick Up Vehicles
+   1  Vehicle Respawn ([72cf8a]days[-])
+   1  Secure Vehicles
+   1  Wandering Horde Frequency
+   1  Adjusts the frequency of Wandering Hordes
+   1  [ae85c7]The Outbreak[-] Duration
+   1  [ae85c7]The Outbreak[-] Chance
+   1  [ae85c7]The Outbreak[-] Restriction
+   1  Wandering Horde Size
+   1  Adjusts the size of Wandering Hordes
+   1  Flurry of Blows Level 10
+   1  Flurry of Blows Level 4
+   1  Flurry of Blows Level 5
+   1  Flurry of Blows Level 6
+   1  Flurry of Blows Level 7
+   1  Flurry of Blows Level 8
+   1  Flurry of Blows Level 9
+   1  Miner 69er Level 10
+   1  Miner 69er Level 6
+   1  Miner 69er Level 7
+   1  Miner 69er Level 8
+   1  Miner 69er Level 9
+   1  Mother Lode Level 10
+   1  Mother Lode Level 6
+   1  Mother Lode Level 7
+   1  Mother Lode Level 8
+   1  Mother Lode Level 9
+   1  Pack Mule Level 10
+   1  Pack Mule Level 6
+   1  Pack Mule Level 7
+   1  Pack Mule Level 8
+   1  Pack Mule Level 9
+   1  Pain Tolerance Level 10
+   1  Pain Tolerance Level 6
+   1  Pain Tolerance Level 7
+   1  Pain Tolerance Level 8
+   1  Pain Tolerance Level 9
+   1  Yamakasi
+   1  Freerunner
+   1  Sunny Jo
+   1  Human Fly
+   1  Son of Jackie Chan
+   1  The Penetrator Level 10
+   1  The Penetrator Level 6
+   1  The Penetrator Level 7
+   1  The Penetrator Level 8
+   1  The Penetrator Level 9
+   1  Level 10 - Ironman Athelete
+   1  Level 1 - Stationary Bike Rider
+   1  Cardio Level 2
+   1  Cardio Level 3
+   1  Cardio Level 4
+   1  Level 5 - Burpee Master
+   1  Cardio Level 6
+   1  Cardio Level 7
+   1  Cardio Level 8
+   1  Cardio Level 9
+   1  Run and Gun Level 10
+   1  Run and Gun Level 6
+   1  Run and Gun Level 7
+   1  Run and Gun Level 8
+   1  Run and Gun Level 9
+   1  Salvage Operations Level 6
+   1  Salvage Operations Level 7
+   1  Salvage Operations Level 8
+   1  Salvage Operations Level 9
+   1  Tyrannosaurus
+   1  Vorpal Rabbit
+   1  Rottweiler
+   1  Aahnold
+   1  Randy Savage
+   1  King Kong
+   1  M1911 Schematic
+   1  M92
+   1  M92 Schematic
+   1  Damaged Police Car
+   1  NUM PURGED
+   1  Berserker Training Instructions ([e0a8a8]MELEE[-])
+   1  Builder Training Instructions
+   1  Butcher Training Instructions
+   1  A Challenge from the Trader's Network
+   1  Sous-Chef Training Instructions
+   1  Faction Wars (Tier 1)
+   1  Faction Wars (Tier 2)
+   1  Faction Wars (Tier 3)
+   1  Faction Wars (Tier 4)
+   1  Faction Wars (Tier 5)
+   1  Trader Network Flyer
+   1  This Flyer has an address to a Trader Network location.
+   1  Ghosts (Tier 1)
+   1  Ghosts (Tier 2)
+   1  Ghosts (Tier 3)
+   1  Ghosts (Tier 4)
+   1  Ghosts (Tier 5)
+   1  Horde Training (Tier 1)
+   1  Horde Training (Tier 2)
+   1  Horde Training (Tier 3)
+   1  Horde Training (Tier 4)
+   1  Horde Training (Tier 5)
+   1  Hunter Training Instructions
+   1  The Hunt (Tier 1)
+   1  The Hunt (Tier 2)
+   1  The Hunt (Tier 3)
+   1  The Hunt (Tier 4)
+   1  The Hunt (Tier 5)
+   1  Kamikaze Challenge (Tier 1)
+   1  Kamikaze Challenge (Tier 2)
+   1  Kamikaze Challenge (Tier 3)
+   1  Kamikaze Challenge (Tier 4)
+   1  Kamikaze Challenge (Tier 5)
+   1  POI Marker (Berserker)
+   1  POI Marker (Builder)
+   1  POI Marker (Butcher)
+   1  POI Marker (Sous-Chef)
+   1  POI Marker (Hunter)
+   1  POI Marker (Madman)
+   1  POI Marker (Soldier)
+   1  POI Marker (Technogeek)
+   1  POI Marker (Thug)
+   1  POI Marker (Witch Doctor)
+   1  Madman Training Instructions
+   1  Soldier Training Instructions
+   1  Mechanical Bear Dispatcher
+   1  Mechanical Dog Dispatcher
+   1  Mechanical Lion Dispatcher
+   1  Android Dispatcher
+   1  Mechanical Wolf Dispatcher
+   1  Alchemy
+   1  Faction War
+   1  Ghosts
+   1  The Skulls
+   1  Black Gold
+   1  Technogeek Training Instructions
+   1  Thug Training Instructions
+   1  Hold and Fetch (Tier 1)
+   1  Decoys (Tier 1)
+   1  Protect (Tier 1)
+   1  Mini Horde (Tier 1)
+   1  Hold and Fetch (Tier 2)
+   1  Decoys (Tier 2)
+   1  Protect (Tier 2)
+   1  Mini Horde (Tier 2)
+   1  Hold and Fetch (Tier 3)
+   1  Decoys (Tier 3)
+   1  Protect (Tier 3)
+   1  Mini Horde (Tier 3)
+   1  Hold and Fetch (Tier 4)
+   1  Decoys (Tier 4)
+   1  Protect (Tier 4)
+   1  Mini Horde (Tier 4)
+   1  Hold and Fetch (Tier 5)
+   1  Decoys (Tier 5)
+   1  Protect (Tier 5)
+   1  Mini Horde (Tier 5)
+   1  Witch Doctor Quest
+   1  Witch Doctor Training Instructions
+   1  Steal Tech Challenge (Tier 1)
+   1  Steal Tech Challenge (Tier 2)
+   1  Steal Tech Challenge (Tier 3)
+   1  Steal Tech Challenge (Tier 4)
+   1  Steal Tech Challenge (Tier 5)
+   1  Buried Tech Map (Tier 1)
+   1  Buried Tech Map (Tier 2)
+   1  Buried Tech Map (Tier 3)
+   1  Buried Tech Map (Tier 4)
+   1  Buried Tech Map (Tier 5)
+   1  Cooking Food
+   1  Start down the path of the Berserker
+   1  The Trader wants me to hunt down a Black Shield Titan.
+   1  Hunt down a Black Shield Titan.
+   1  Start down the path of the Builder
+   1  Start down the path of the Butcher
+   1  Start down the path of the Sous-Chef
+   1  Class Benefits
+   1  Class Information
+   1  Crafting on the Go
+   1  Hold and Fetch ([DECEA3]{poi.distance} {poi.direction}[-])
+   1  Bring back the shipment
+   1  Briston gave you some ingredients to cook some food.
+   1  Boiling Water
+   1  Test the Decoys
+   1  The Trader wants me to defend some of their citizens.
+   1  Defend Trader Network property
+   1  [76c4c3]Visit New Trader Location[-]
+   1  Visit New Trader Location
+   1  Water Sources
+   1  DNA Benefits
+   1  Hunt down cloaked mechanical rabbit prototypes.
+   1  Hunt down cloaked mechanical snake prototypes.
+   1  Hunt down cloaked mechanical vulture prototypes.
+   1  Eliminate Debbie's latest cloaked models.
+   1  Crafting Tools
+   1  That was quite the show.\n\nHere's your reward, well earned.
+   1  Train to defeat a Horde.
+   1  Train to defeat a horde.
+   1  Horde Training Tier1
+   1  Horde Training Tier2
+   1  Horde Training Tier3
+   1  Horde Training Tier4
+   1  Horde Training Tier5
+   1  Horde Training (Wave 1/10)
+   1  Horde Training (Final Wave)
+   1  Horde Training (Wave 2/10)
+   1  Horde Training (Wave 3/10)
+   1  Horde Training (Wave 4/10)
+   1  Horde Training (Wave 5/10)
+   1  Horde Training (Wave 6/10)
+   1  Horde Training (Wave 7/10)
+   1  Horde Training (Wave 8/10)
+   1  Horde Training (Wave 9/10)
+   1  The Trader wants me to get rid of some mutated animals.
+   1  Hunt down some mutated animals.
+   1  Start down the path of the Hunter
+   1  The Trader wants me to retrieve some Black Shield supplies.
+   1  Kamikaze ([DECEA3]{poi.distance} {poi.direction}[-])
+   1  Retrieve Black Shield Supplies
+   1  Clear this place
+   1  Start down the path of the Madman
+   1  The Trader wants me to get rid of a large number of zombies.
+   1  Defeat the horde
+   1  Mission Pack
+   1  Important Items and Blueprints
+   1  Starter Packs
+   1  Briston gave you instructions on how to boil some water.
+   1  Reset the POI closest to you.
+   1  Salvaging Crafting Stations
+   1  Spend Skill Points
+   1  New Skills
+   1  Locate Starter Pack (Charisma)
+   1  Locate Starter Pack (Constitution)
+   1  Locate Starter Pack (Dexterity)
+   1  Locate Starter Pack (Intelligence)
+   1  Locate Starter Pack (Strength)
+   1  Steal Tech ([DECEA3]{poi.distance} {poi.direction}[-])
+   1  Bring back a clue to finding some Black Shield technology
+   1  Surprise! ([DECEA3]{poi.distance} {poi.direction}[-])
+   1  Damage to the the Trader Network's property
+   1  Technology Blueprint Map (Sub 1)
+   1  Technology Blueprint Map (Sub 2)
+   1  The Toolbox
+   1  The Trader wants me to protect surrounding water sources.
+   1  Protect surrounding water sources.
+   1  Start down the path of the Witch Doctor
+   1  Welcome to the Purge!
+   1  Black Shield Book
+   1  A backpack the Black Shield wanted you to retrieve for them.
+   1  A book you found in one of the Black Shield's stash.
+   1  Shotgun Messiah Supplies
+   1  Ranged Expertise Boost Book Fragments
+   1  Give a Silencer
+   1  ([c7a881]Can't gather resources during the Blood Moon[-])
+   1  Change your Name
+   1  Would you please help me gather resources?
+   1  [7accc4]Mining[-] Resources
+   1  Wood Logs
+   1  Nails and Screws
+   1  Could you please focus on the following resource?
+   1  Please go to your Respawn point
+   1  Scrap Iron
+   1  Scrap Lead
+   1  Shale
+   1  Could you please focus on the following mining resource?
+   1  Could you please help repair blocks in the area?
+   1  Start Repairing
+   1  Report on Missing Resources
+   1  Let's get this area fixed up
+   1  Stay where I am standing
+   1  I am interested in hiring you
+   1  I'd like to take care of you
+   1  Useful Information
+   1  Useful Information - Part 1
+   1  Useful Information - Part 2
+   1  Experience using Pipe Weapons
+   1  You might be interested in this stuff
+   1  Help me Locate Briston
+   1  Sorry, I can't help you any more than I already have
+   1  Loot around here
+   1  Pause Attacks
+   1  Come with me
+   1  Remove Me (Admin)
+   1  Remove Silencer
+   1  Report for Duty
+   1  Resume Attacks
+   1  [cc8b8b]Return[-]
+   1  I can offer you training for the following class categories.
+   1  [cd9fe0]Learn a Second Class[-]
+   1  Aura-based Classes
+   1  Non Aura-based Classes
+   1  Regroup here if anything happens ([db7272]respawn[-])
+   1  Show Me your inventory
+   1  [d47d7d]Special Missions[-]
+   1  You might be interested in more missions
+   1  Show me your [db7272]Qualifications[-]
+   1  Stay where you are standing
+   1  Show me your toolbelt
+   1  Patrol around here
+   1  What can you tell me about this place?
+   1  Repairable 4x4
+   1  Repairable Bicycle
+   1  Repairable Armored Buggy
+   1  Repairable Gyrocopter
+   1  Repairable Minibike
+   1  Repairable Motorcycle
+   1  Repairable Motocross Bike
+   1  Explorer 4x4
+   1  Find the Cassette
+   1  Explosion-resistant Concrete Shapes
+   1  Explosion-resistant Concrete Mix
+   1  Use this mix to make Explosion-resistant Concrete blocks
+   1  Yeast
+   1  Colt Anaconda
+   1  Tier 3 Revolver
+   1  Colt Anaconda Schematic
+   1  R8 Magnum
+   1  R8 Magnum Schematic
+   1  590A1
+   1  Sleek and deadly - for the [e0e036]THUG[-] who has arrived.
+   1  590A1 Schematic
+   1  Mark XIIJ Raptr
+   1  Mark XIIJ Raptr Schematic
+   1  L115A3
+   1  Tier 3 Sniper Rifle
+   1  L115A3 Schematic
+   1  MK14
+   1  MK14 Schematic
+   1  Find your way to the Survival Specialist's current location
+   1  Survival Specialist
+   1  Call on the Survival Specialist
+   1  Path to the Berserker Class Book
+   1  Path to the Builder Class Book
+   1  Path to the Butcher Class Book
+   1  Path to the Sous-Chef Class Book
+   1  Hunter Starter Weapons
+   1  Path to the Hunter Class Book
+   1  Path to the Madman Class Book
+   1  Path to the Soldier Class Book
+   1  Path to the Technogeek Class Book
+   1  Path to the Thug Class Book
+   1  Path to the Witch Doctor Class Book
+   1  Cure Radiation
+   1  Blunt Weapons
+   1  Piercing Weapons
+   1  Slashing Weapons
+   1  Mod Slots
+   1  Additional Armor Rating
+   1  MP5A2
+   1  Tier 3 Submachine Gun
+   1  MP5A2 Schematic
+   1  Scorpion Evo 10
+   1  Scorpion Evo 10 Schematic
+   1  Basic Boeuf Bourguignon
+   1  Rad-atouille
+   1  Frickin' Chicken Fricassee
+   1  Quicka Chicka Chowdah
+   1  Pass da Fazool
+   1  Purrina's Tamale Hash
+   1  Furious' Famous Fabada
+   1  Ramsay's Chili Surprise
+   1  Chunkin Punkin
+   1  Fruity Surf-N-Turf
+   1  HK 416
+   1  Tier 3 Tactical Rifle
+   1  HK 416 Schematic
+   1  SCAR-L MK2
+   1  SCAR-L MK2 Schematic
+   1  Intelligence Acquired
+   1  Final Push: Preparing for the Burnt Forest Biome
+   1  Final Push: Preparing for the Desert Biome
+   1  Final Push: Preparing for the Snow Biome
+   1  Final Push: Preparing for the Wasteland Biome
+   1  More Supplies
+   1  Threat Scanner Module
+   1  Tire
+   1  Who is Bob?
+   1  Who is Hugh?
+   1  Who is Jen?
+   1  Who is Joel?
+   1  Who is Rekt?
+   1  Trainer Missions
+   1  Brutus
+   1  1x
+   1  2x
+   1  3x
+   1  4x
+   1  5x
+   1  6x
+   1  7x
+   1  8x
+   1  Added a waypoint to:
+   1  After Day 7
+   1  After Day 14
+   1  After Day 21
+   1  Must wait to give more painkillers
+   1  You already have this as an active quest
+   1  You are already at max [cf807a]health[-]
+   1  You must use your bare hands
+   1  Leave that alone you thief!
+   1  Biomes Only
+   1  Black Magic
+   1  Blood Splatter
+   1  Trader (Burnt)
+   1  [93dbd9]Calculating[-]
+   1  This vehicle is too heavy to be picked up
+   1  You cannot upgrade in here!
+   1  Can't use your skill in this area
+   1  What would you like to change [79b4b5]{0}[-]'s name to?
+   1  AMMUNITION:
+   1  ARMOR CLASS:
+   1  CARRYING CAPACITY:
+   1  FACTION:
+   1  HEALTH:
+   1  HIRE COST:
+   1  KILLS:
+   1  LEVEL:
+   1  MAGAZINE SIZE:
+   1  LEVEL (MINING):
+   1  NAME:
+   1  REQUIRED PLAYER LEVEL:
+   1  RESPAWN COST:
+   1  SHOTS PER ROUND:
+   1  Character Sheet
+   1  WEAPON:
+   1  CHA
+   1  Your Charisma Level is too low
+   1  Book/Weapon
+   1  Book/Essentials
+   1  You must first reach [db8a8a]Level 6[-] in your class
+   1  CLASS NOT ACTIVE
+   1  CON
+   1  Your Constitution Level is too low
+   1  Use Cooldown
+   1  [-], currently
+   1  Needs [6bafb0]
+   1  CRUISE (FAST)
+   1  CRUISE (NORMAL)
+   1  Day Only
+   1  Trader (Desert)
+   1  DEX
+   1  Your Dexterity Level is too low
+   1  You must empty the vehicle's container before removing it.
+   1  You must gather the vehicle's parts before picking it up.
+   1  You must gather the vehicle's parts before removing it.
+   1  Fastest
+   1  Fire
+   1  Fire and Shock
+   1  Fire, Shock and Explosion
+   1  Trader (Forest)
+   1  [c95959]Nothing to Gather[-]
+   1  Get closer to the ground!
+   1  Give {0} one of your Silencers?
+   1  Would you like {0} to stay at its respawn position?
+   1  Gradual
+   1  Gradual (Faster)
+   1  Gradual (Slower)
+   1  Gamestage 10
+   1  Gamestage 20
+   1  You must have reached player level 15
+   1  You must have reached player level 30
+   1  You must have reached player level 55
+   1  You must have reached player level 60
+   1  You must have reached player level 75
+   1  Junk Turret Skill Cooldown still active
+   1  Sledge Turret Skill Cooldown still active
+   1  Rage Cooldown still active
+   1  Hide
+   1  Hide/Surprise
+   1  Higher
+   1  Hire [72c4c2]{0}[-] for [7bd185]{1}[-]
+   1  was dimissed
+   1  Horde Night Only
+   1  Immunity Armor Mods
+   1  You have already chosen your initial class
+   1  Off Inside
+   1  INT
+   1  Your Intelligence Level is too low
+   1  job(s) until Tier
+   1  Less
+   1  LVL
+   1  Lower
+   1  Machineguns
+   1  {perkName} maximum level reached
+   1  You cannot learn more than [db8a8a]two classes[-]
+   1  You have already read this contact
+   1  You must first purchase a [8cd4d2]Tier {0}[-] contract
+   1  No Mercenary Contracts available
+   1  No Mind Control Brew available
+   1  You cannot afford me. I want [e88079]{0}[-] Old Cash
+   1  {0}? (Duration: [cdd179]{1}[-] minutes)
+   1  You don't have [e88079]{0}[-] Raw Meat
+   1  minute
+   1  minutes
+   1  You do not have the required cash
+   1  Missing or damaged parts!
+   1  Missing Repair Kit!
+   1  You do not have the required resources
+   1  More
+   1  [d1cf6b]Growth halted[-]. [d47474]Light required[-].
+   1  You need [cf7878]200[-] water units to fill this bucket
+   1  [d1cf6b]Growth halted[-]. [d47474]Water source required[-].
+   1  Never Spawn
+   1  Next cycle in:
+   1  Night Only
+   1  No Auto-Loot
+   1  No Delay
+   1  No Followers
+   1  [d47474]Crops do not grow in this biome[-].
+   1  You must invest in Healing Factor
+   1  Off on Horde Night
+   1  No HN Progression
+   1  No plumbing... no water.
+   1  Quick Heal is disabled
+   1  [c95959]No Rain Water[-]
+   1  No Restriction
+   1  This item belongs to another player.
+   1  This item does not belong to you.
+   1  You are not done healing
+   1  You will not get it back.
+   1  Yeah that's not gonna work...
+   1  Not on Horde Night
+   1  Not on Horde Night/in POIs
+   1  Cannot be used during Horde Night
+   1  Not in POIs
+   1  Off Questing
+   1  Off Questing/Inside
+   1  Occupant
+   1  Only while Questing
+   1  is out of [946d6d]ammo[-]!
+   1  Owner
+   1  Party Range
+   1  Asking {0} to come with you will cost you 250 bucks.
+   1  You do not meet the [db8a8a]Player Level[-] requirement
+   1  Power:
+   1  Speak with your trainer to choose your initial class
+   1  You do not meet the requirements to choose your class
+   1  No Protection Shields available
+   1  Your Protection Shield is Already Active
+   1  Quick Stack Only
+   1  Bloodmoon Rage is still active
+   1  No Rage Capsules available
+   1  Rage Cooldown is still active
+   1  Defensive Rage is still active
+   1  Offensive Rage is still active
+   1  Rage is still active
+   1  Biome (Random)
+   1  Trader (Random)
+   1  Relentless
+   1  Send [72c4c2]{0}[-] to repair surrounding blocks?
+   1  Would you like {0} to Report for Duty?
+   1  is now reporting for duty
+   1  Retrieve your Silencer from {0}?
+   1  Revolvers
+   1  second
+   1  seconds
+   1  A [db8a8a]Seeker[-] has pinpointed your location
+   1  Set gathering point for
+   1  Your [6db3b3]Shockwave[-] cooldown is still active
+   1  No [6db3b3]Shockwave[-] Grenades available
+   1  Class level too low to use the [6db3b3]Shockwave[-] ability
+   1  Slowest
+   1  Trader (Snow)
+   1  STR
+   1  Your Strength Level is too low
+   1  Take care of [72c4c2]{0}[-] for [7bd185]{1}[-]
+   1  Try taking your Shades off first
+   1  [c95959]Tank is Empty[-]\nUse a bucket to fill the tank
+   1  Target is not done healing
+   1  Target must [db8a8a]wait before using those again[-]
+   1  degrees
+   1  Trade Ammo
+   1  Trade Genetics Blueprints
+   1  Trade for DNA Boosts
+   1  ([d47474]Water consumption doubled[-])
+   1  You must [db8a8a]wait before using those again[-]
+   1  Trader (Wasteland)
+   1  Rain Water:
+   1  [d19292]Fire[-] Immune Zombie
+   1  [d19292]Fire[-]/[5fb3ac]Shock[-] Immune Zombie
+   1  [a36fd1]Power[-]/[d19292]Fire[-] Immune Zombie
+   1  [a36fd1]Power[-]/[5fb3ac]Shock[-] Immune Zombie
+   1  [a36fd1]Power[-]/[74b562]Toxic[-] Zombie
+   1  [5fb3ac]Shock[-] Immune Zombie
+   1  [c4b164]Explosion[-] Immune Zombie
+   1  [74b562]Toxic[-] Zombie
+   1  Toxic/[d19292]Fire[-] Immune Zombie
+   1  [74b562]Toxic[-]/[5fb3ac]Shock[-] Immune Zombie
+   1  4x4 Truck Accessories Schematic
+   1  4x4 Truck Chassis Schematic
+   1  4x4 Truck Schematic
+   1  Bicycle Schematic
+   1  Gyrocopter Schematic
+   1  Minibike Schematic
+   1  Motorcycle Schematic
+   1  A custom Farming Rig Vehicle
+   1  A Custom VW Beetle
+   1  A custom Red BMW
+   1  A custom White BMW
+   1  An old Box Truck
+   1  A Red Box Truck
+   1  4x4 Small Buggy
+   1  Small Buggy
+   1  A Custom Small Buggy
+   1  A custom Buggy
+   1  A Custom Charger Style Vehicle to craft
+   1  Another Custom VW Combi Van
+   1  A Custom VW Combi Van
+   1  A custom Crusader Vehicle
+   1  Purple EVO
+   1  EVO City Car
+   1  A custom EVO City Car
+   1  A custom FireTruck
+   1  A old custom FireTruck
+   1  A vehicle to recover wrecks
+   1  ForkLift
+   1  ForkLift Truck
+   1  A custom ForkLift Truck
+   1  HotRod
+   1  Hotrod
+   1  A custom Hot Rod
+   1  A custom apocalyptic car to craft.
+   1  Interceptor
+   1  Interceptor Car
+   1  Max's Interceptor Vehicle to craft
+   1  A Custom 4x4 Jeep
+   1  A small military vehicle
+   1  Marauder Car
+   1  A Military Car
+   1  A Military Truck
+   1  A Big Pickup
+   1  A Big Big Van to craft
+   1  MotoGuppy
+   1  MotoGuppy Minibike
+   1  A Custom minibike you can ride!
+   1  A Custom Car
+   1  A custom Pickup
+   1  A custom Police Car
+   1  A custom Quad Bike
+   1  A custom Red Quad Bike
+   1  A custom Recreational Vehicle
+   1  A custom Sedan
+   1  A custom green Taxi
+   1  A Rusty Taxi
+   1  A custom Tractor
+   1  The Vanilla Ambulance
+   1  Mo Power Van
+   1  A Custom Military Transporter
+   1  A custom Turbo Style Vehicle to craft
+   1  A custom Van
+   1  A custom Old Van
+   1  A Custom Lamborgini
+   1  Red Vespa
+   1  Red Vespa Minibike
+   1  A Vespa you can ride!
+   1  A Warthog
+   1  A Rusted White Sedan
+   1  Working Stiffs Van
+   1  Auto WorkBench
+   1  Car Lift
+   1  Car Lift used to craft the Auto WorkBench
+   1  Compressor Tool
+   1  Compressor Tool used to craft the Auto WorkBench
+   1  Ratchet Set
+   1  Ratchet Set used to craft the Auto WorkBench
+   1  Damaged Big Rig
+   1  Fire Truck
+   1  Gas Tank
+   1  Gas Truck
+   1  Damaged Gas Truck
+   1  Damaged Military Car
+   1  Damaged Military Truck
+   1  Old Pickup Truck
+   1  Damaged Old Pickup Truck
+   1  A custom Ambulance
+   1  Basic Chest
+   1  Finally, I can make myself some wood planks
+   1  Distiller
+   1  Hell yeah, now I'm a blacksmith!
+   1  Gas Stovetop
+   1  Screw you campfire, now we're cooking with gas!
+   1  Generator
+   1  Power Baby!
+   1  Iron Oven
+   1  Move over Martha Stewart, I'm the chef now...
+   1  Mortar and Pestle
+   1  Let's grind some shit!
+   1  Research Table
+   1  Shredder
+   1  Yeah baby... I bet I can finally scrap some shit in here!
+   1  This toolbox will surely help me craft some basic items
+   1  Auto-Loot
+   1  Body Durability
+   1  Encumbrance: Current unlocked backpack slots
+   1  Select a class from the options above.
+   1  [FF0000]Berserker[-]
+   1  [c256fc]Builder[-]
+   1  [ff5b69]Butcher[-]
+   1  [bab8b8]Sous-Chef[-]
+   1  [53adbd]Hunter[-]
+   1  [e8a276]Madman[-]
+   1  [FFFFFF]Select a Class[-]
+   1  [76e381]Soldier[-]
+   1  [736fe3]Technogeek[-]
+   1  [e0e036]Thug[-]
+   1  [724c70]Witch Doctor[-]
+   1  Compass Window
+   1  Heat Cooldown
+   1  Player Temperature
+   1  Current Magazine Size
+   1  Have a nice day!
+   1  We hope you are having the time of your life!
+   1  [a480b0]REBIRTH[-]
+   1  This feature has been turned off
+   1  Generated Heat
+   1  Hotwire
+   1  Hunger
+   1  : {0}
+   1  Lootstage: The higher the stage the better the loot
+   1  Ambient Temperature
+   1  [a0cc9b]What type of immunity are you looking for?[-]:
+   1  Broadcast
+   1  : {0} [858483]([-][e89595]{1}[-][858483])[-]
+   1  Quest Tracker
+   1  [a480b0]REBIRTH on Discord[-]
+   1  [c79595]Which class would you like to work towards?[-]:
+   1  Choose Your Path
+   1  Siphon
+   1  Thirst
+   1  Top Up Oil
+   1  Total Ammunition Stock
+   1  [c79595]What type of ammo do you want in return?[-]:
+   1  [c79595]What type of DNA Boost do you want in return?[-]:
+   1  [c79595]What type of blueprint do you want in return?[-]:
+   1  Unload
+   1  You have unspent skillpoints!
+   1  Fuel Level
+   1  Mechanical State
+   1  Tell me more about this trader
+   1  Tainted Arlene
+   1  Tainted Boe
+   1  Tainted Bowler
+   1  Tainted Burnt
+   1  Tainted Business Man
+   1  Tainted Darlene
+   1  Tainted Fat Cop
+   1  Tainted Tourist
+   1  Tainted Big Mama
+   1  Tainted Inmate
+   1  Tainted Janitor
+   1  Tainted Joe
+   1  Tainted Lab Worker
+   1  Tainted Hazmat
+   1  Tainted Marlene
+   1  Tainted Moe
+   1  Tainted Mutated
+   1  Tainted Party Girl
+   1  Tainted Screamer
+   1  Tainted Skateboarder
+   1  Tainted Spider
+   1  Tainted Steve
+   1  Tainted Tom Clark
+   1  Tainted Utility Worker
+   1  Tainted Wight
+   1  Tainted Yo
+   1  Use this kit on a repairable vehicle to become its owner
+   1  Toolbelt SHIFT
+   1  Horde Night Loot
+   1  Set the amount of loot bag drops on Horde Night
+   1  Console Pop-up
+   1  Let me see [db7272]what you’re made of[-]
+   1  Death Rage
+   1  Your Death Rage has been triggered
+   1  Ranged NPC Accuracy
+   1  Warrior's Edge ([c27272]Strength[-])
+   1  [c27272]Warrior's Edge[-]
+   1  Apex Warrior
+   1  Novice
+   1  Fighter
+   1  Master of arms
+   1  Duelist
+   1  Champion
+   1  Warlord
+   1  Legendary
+   1  Mod (Warrior's Edge)
+   1  Teleport NPCs
+   1  Manage NPCs
+   1  Cannot be found
+   1  Stay
+   1  Distance
+   1  Order
+   1  Teleport to you
+   1  Move to Bedroll
+   1  Teleport to them
+   1  Inactive
+   1  Do you wish to dismiss [d9c09c]{0}[-]?
+   1  You do not have an active bedroll
+   1  Sprint Toggle
+   1  Voidstep ([b8ba63]Dexterity[-])
+   1  [9a9c5c]Voidstep[-]
+   1  Voidstep Level 10
+   1  Voidstep Level 1
+   1  Voidstep Level 2
+   1  Voidstep Level 3
+   1  Voidstep Level 4
+   1  Voidstep Level 5
+   1  Voidstep Level 6
+   1  Voidstep Level 7
+   1  Voidstep Level 8
+   1  Voidstep Level 9
+   1  Mod (Voidstep)
+   1  Death Rage (Cooldown)
+   1  Create a Waypoint
+   1  This waypoint already exists
+   1  Stun Skill Cooldown
+   1  Explosion Skill Cooldown
+   1  Choose whether or not to encounter Seekers.
+   1  Moonlock Protocol
+   1  Repairing
+   1  Player Knockdowns
+   1  Titanium Plating Mod
+   1  This ranged weapon modification lowers degradation by 30%.
+   1  A Compact version of the MP5.\nUses 9mm.
+   1  An AR-15 Style submachinegun.\nUses 9mm.
+   1  A Famous Italian made handgun.\nUses 9mm.
+   1  A light weight handgun.\nUses 9mm.
+   1  An old 1800s pistol
+   1  An Army Revolver used in WW1-2.\nUses 9mm.
+   1  A German made Tactical Pistol.\nUses 9mm.
+   1  A Special Enhanced Pistol.\nUses 9mm.
+   1  A famous American WW2 sub-machinegun.\nUses 9mm.
+   1  A compact version of a M-16 rifle.\nUses 7.62.
+   1  A medium length AR-15 Rifle.\nUses 7.62.
+   1  A Legendary U.S. Service Rifle.\nUses 7.62.
+   1  A German made Sniper - Marksman Rifle.\nUses 7.62.
+   1  A mysterious prototype Russian Rifle.\nUses 7.62.
+   1  A german WW2 first Assault Rifle.\nUses 7.62.
+   1  A Heavy Assault Rifle.\nUses 7.62.
+   1  A British Made Sniper Rifle.\nUses 7.62.
+   1  A Special Purpose Automatic Shotgun.\nMade in Italy.
+   1  Support Zombies
+   1  Location
+   1  Slot
+   1  Please repair one of my items
+   1  [b3b174]Reparing this item would cost you[-]:
+   1  Pipe Sub-Machinegun
+   1  UZI Sub-Machinegun
+   1  MP5K
+   1  Kolt 9mm Submachinegun
+   1  Dual-Kolt Navy
+   1  Dual-M9
+   1  Dual-G18C
+   1  Dual-C96A
+   1  USP-45
+   1  STI Eagle 6
+   1  M1 Thompson
+   1  M1928 Thompson
+   1  CAR-15
+   1  M4 Carbine
+   1  M249
+   1  M16A2 DMR
+   1  Hellion VHS-2
+   1  Mosin Nagant
+   1  Enfield Rifle
+   1  M1N Reserve Rifle
+   1  PSG-1
+   1  Prototype SVU
+   1  Sturm Rifle
+   1  SCAR-H
+   1  L96 Rifle
+   1  Chinalake Grenade Launcher
+   1  XM-25
+   1  RPG-7
+   1  Model 1887
+   1  SPAS-12
+   1  M1014 Combat Shotgun
+   1  [b3b174]Nothing to repair[-].
+   1  Durability (%)
+   1  [88bbbd]Here is what you have to repair[-]:
+   1  Let me see your weapons for sale
+   1  Purchase
+   1  [b3b174]Nothing to purchase[-].
+   1  [88bbbd]Here is what I currently have for trade[-]:
+   1  Come back once in a while to check out the new deals.
+   1  [b3b174]Here is what I want for this item[-]:
+   1  Expires in
+   1  Melee Weapon Degradation (Tier 1)
+   1  Melee Weapon Degradation (Tier 2)
+   1  Melee Weapon Degradation (Tier 3)
+   1  Melee Weapon Degradation (Tier 4)
+   1  Melee Weapon Degradation (Tier 5)
+   1  Melee Weapon Degradation (Tier 6)
+   1  Ranged Weapon Degradation (Tier 1)
+   1  Ranged Weapon Degradation (Tier 2)
+   1  Ranged Weapon Degradation (Tier 3)
+   1  Ranged Weapon Degradation (Tier 4)
+   1  Ranged Weapon Degradation (Tier 5)
+   1  Ranged Weapon Degradation (Tier 6)
+   1  Ranged Weapon Damage (Tier 1)
+   1  Ranged Weapon Damage (Tier 2)
+   1  Ranged Weapon Damage (Tier 3)
+   1  Ranged Weapon Damage (Tier 4)
+   1  Ranged Weapon Damage (Tier 5)
+   1  Ranged Weapon Damage (Tier 6)
+   1  Melee Weapon Damage (Tier 1)
+   1  Melee Weapon Damage (Tier 2)
+   1  Melee Weapon Damage (Tier 3)
+   1  Melee Weapon Damage (Tier 4)
+   1  Melee Weapon Damage (Tier 5)
+   1  Melee Weapon Damage (Tier 6)
+   1  Reload Speed (Tier 1)
+   1  Reload Speed (Tier 2)
+   1  Reload Speed (Tier 3)
+   1  Reload Speed (Tier 4)
+   1  Reload Speed (Tier 5)
+   1  Reload Speed (Tier 6)
+   1  Magazine Size (Tier 1)
+   1  Magazine Size (Tier 2)
+   1  Magazine Size (Tier 3)
+   1  Magazine Size (Tier 4)
+   1  Magazine Size (Tier 5)
+   1  Magazine Size (Tier 6)
+   1  Fire Rate (Tier 6)
+   1  Attack Speed (Tier 6)
+   1  Electric Wire Relay Schematic
+   1  [a8d9a0]Bonus[-]
+   1  Rain of Arrows
+   1  Blood Drain
+   1  Double Damage
+   1  Short Circuit
+   1  Dismember
+   1  Thousand Cuts
+   1  Specials
+   1  [a8d9a0]Chance to Trigger[-]
+   1  .44 Ammo (65)
+   1  .44 Ammo (85)
+   1  .44 Ammo (105)
+   1  .44 Ammo (125)
+   1  .44 Ammo (145)
+   1  762 Ammo (50)
+   1  762 Ammo (70)
+   1  762 Ammo (90)
+   1  762 Ammo (110)
+   1  762 Ammo (130)
+   1  9mm Ammo (90)
+   1  9mm Ammo (110)
+   1  9mm Ammo (130)
+   1  9mm Ammo (150)
+   1  9mm Ammo (170)
+   1  Iron Arrow/Bolt (100)
+   1  Iron Arrow/Bolt (120)
+   1  Steel Arrow/Bolt (100)
+   1  Steel Arrow/Bolt (120)
+   1  Steel Arrow/Bolt (140)
+   1  Ammo Bundle (Tier 1)
+   1  Ammo Bundle (Tier 2)
+   1  Ammo Bundle (Tier 3)
+   1  Ammo Bundle (Tier 4)
+   1  Ammo Bundle (Tier 5)
+   1  Shotgun Shell Ammo (50)
+   1  Shotgun Shell Ammo (70)
+   1  Shotgun Shell Ammo (90)
+   1  Shotgun Shell Ammo (110)
+   1  Shotgun Shell Ammo (130)
+   1  Robotic Turret Ammo (200)
+   1  Robotic Turret Ammo (250)
+   1  Robotic Turret Ammo (300)
+   1  Robotic Turret Ammo (350)
+   1  Robotic Turret Ammo (400)
+   1  Blessed Metal
+   1  Welcome to the Moonlock Protocol!
+   1  Insta Pick Up
+   1  Bypass the radial menu for picking up blocks
+   1  Burnt Mandibles
+   1  Charred Hand
+   1  Feral Eyeball
+   1  Frozen Heart
+   1  Frozen Mandibles
+   1  Mossy Femur
+   1  Glass Mandibles
+   1  Glass Spine
+   1  Radiated Blood
+   1  Hollowed Abdomen
+   1  Frozen Eyeball
+   1  Frozen Femur
+   1  Mossy Mandibles
+   1  Eyeball
+   1  Tainted Blood
+   1  Infected Blood
+   1  Toxic Mandibles
+   1  Toxic Foot
+   1  Brain (Dry Fungi)
+   1  Brain (Earthy Fungi)
+   1  Brain (Icy Fungi)
+   1  Brain (Tainted Fungi)
+   1  Brain (Radiated Fungi)
+   1  Brown Fungal Slime
+   1  Green Fungal Slime
+   1  Purple Fungal Slime
+   1  White Fungal Slime
+   1  Yellow Fungal Slime
+   1  Days:
+   1  Turn this into the dog of your choice.
+   1  Tainted Heart
+   1  Toxic Heart
+   1  Queen Hive (Forest)
+   1  Queen Hive (Desert)
+   1  Queen Hive (Snow)
+   1  Queen Hive (Wasteland)
+   1  Queen Hive (Burnt Forest)
+   1  Benelli Super Nova Pump
+   1  Benelli M4
+   1  Kolt King Cobra
+   1  HK UMP 9mm
+   1  Armalite AR-15
+   1  Armalite AT-15 SBR
+   1  Kill [DECEA3]Cave Zombies[-] [9c9c9c]([-]Forest[9c9c9c])[-]
+   1  Kill [DECEA3]Cave Zombies[-] [9c9c9c]([-]Desert[9c9c9c])[-]
+   1  Kill [DECEA3]Cave Zombies[-] [9c9c9c]([-]Snow[9c9c9c])[-]
+   1  Return Daylight (Saturdays)
+   1  Return Daylight (Sundays)
+   1  Cave Zombies (Part 1)
+   1  Cave Zombies (Part 2)
+   1  Kill Forest Cave Zombies
+   1  Kill Desert Cave Zombies
+   1  Kill Snow Cave Zombies
+   1  Kill Wasteland Cave Zombies
+   1  Kill Burnt Forest Cave Zombies
+   1  Help locate a Queen Hive
+   1  Locate a Queen Hive
+   1  [b3b174]This is what I require[-]:
+   1  Locate
+   1  Light Flicker
+   1  Revenant Surgeon
+   1  Tunnel’s Throat
+   1  Tonio's Bar
+   1  Burrower’s Rest
+   1  The Flooded Hollow
+   1  Taylor Manor
+   1  The Goldsmith Residence
+   1  The Silent Hold
+   1  Flesh Ripper
+   1  Bunker
+   1  Eclipse Bunker
+   1  Repair an Item
+   1  Remove Bonus
+   1  [88bbbd]Here is what you can remove bonuses from[-]:
+   1  [b3b174]Nothing to remove a bonus from[-].
+   1  Remove a bonus from one of my weapons
+   1  Add a bonus to one of my weapons
+   1  [88bbbd]I can apply the bonus to the following weapons[-]:
+   1  Add Bonus
+   1  Refreshes in
+   1  Edge Detection
+   1  Visual Style
+   1  Select your preferred visual style
+   1  [b3b174]I would need the following crystals[-]:
+   1  [b3b174]Where can I get Crystals from[-]?
+   1  Cave Tunnels
+   1  Sinew Severer
+   1  Sam's Hideout
+   1  [88bbbd]Interested in some of my beverages[-]?
+   1  Buy Drinks
+   1  [88bbbd]Here is my selection of drinks[-]:
+   1  [b3b174]Nothing to trade[-].
+   1  [b3b174]Your selection would cost you[-]:
+   1  Water +[a1cfd1]24[-]\nStamina Regen +[d6c69a]100[-]%
+   1  Plague Abomination
+   1  Dual Kolt King Cobras
+   1  Center Burnt Forest
+   1  Infested Hives
+   1  FOREST
+   1  DESERT
+   1  SNOW
+   1  WASTELAND
+   1  BURNT FOREST
+   1  Deployable Tunnel Exit
+   1  Tunnel Spawns
+   1  Better Biomes
+   1  Help locate Caves
+   1  Locate Caves
+   1  Add a perk to a piece of armor
+   1  Add Perk
+   1  [88bbbd]I can apply the perk to the following armor[-]:
+   1  This perk can only be applied to [bd7b7b]HEAD[-] armor.
+   1  This perk can only be applied to [bd7b7b]CHEST[-] armor.
+   1  This perk can only be applied to [bd7b7b]HAND[-] armor.
+   1  This perk can only be applied to [bd7b7b]FOOT[-] armor.
+   1  Remove a perk from my armor
+   1  [b3b174]Removing the perk from this armor would cost you[-]:
+   1  [b3b174]Nothing to remove a perk from[-].
+   1  [88bbbd]Here is what you can remove perks from[-]:
+   1  challengeRewardPistols
+   1  challengekillPistols1
+   1  challengekillPistolsShort
+   1  challengekillPistolsDesc
+   1  challenge_killpistols_1
+   1  CZ 75 SP-01
+   1  AKM
+   1  G3 Battle Rifle
+   1  G36
+   1  FN FAL
+   1  Glock 17
+   1  Dual Desert Eagles
+   1  Super Luger .44
+   1  Feral Demolition
+   1  Radiated Demolition
+   1  Tainted Demolition
+   1  Radiated Zombie Ava
+   1  Tainted Zombie Ava
+   1  Motorcycle Bundle
+   1  [ab8282]Empty my inventory to gather resources[-]
+   1  You are in a severe Root Storm!\n\nSeek shelter immediately.
+   1  Root Storm
+   1  Zombie Storm Speed
+   1  Cooling Mesh
+   1  Insulated Liner
+   1  Cooling Shirt
+   1  Cooling Shorts
+   1  Insulated Beanie
+   1  Insulated Sweater
+   1  Insulated Pants
+   1  Hazmat Helmet
+   1  Hazmat Suit
+   1  Woodle Potty
+   1  Charred Filter Mask
+   1  Dustwalker's Shroud
+   1  Subzero Survivalwear
+   1  Irradiator Mk-0
+   1  Woodland Smoothie
+   1  Woodland Smoothie Run Boost
+   1  You can run a little faster in the Forest.
+   1  Charcoal Breather Rag
+   1  Cooling Gel Packs
+   1  Chemical Heat Packs
+   1  Rad Purge Injector
+   1  Charcoal Breather Rag Protection
+   1  Cooling Gel Pack Protection
+   1  Chemical Heat Pack Protection
+   1  Rad Purge Injector Protection
+   1  Empty Syringe
+   1  Scrap (Input)
+   1  Place an item here or SHIFT-Click one in your inventory
+   1  Scrap (Preview)
+   1  Recipe and cosmetic for '{0}' is now unlocked
+   1  Cosmetic for '{0}' is now unlocked
+   1  This item cannot be scrapped here
+   1  No scrap outputs are defined for this item
+   1  Queue is full: needs {0} free slot(s), only {1} available
+   1  Queue is full: needs {0} free slot(s)
+   1  Scrap already partially completed — cannot cancel
+   1  Returned {0}x [c5c791]{1}[-]
+   1  Stitch and Salvage Bench
+   1  Repairable Stitch and Salvage Bench
+   1  Queue
+   1  Requires: [c5c791]{0}[-]
+   1  Required tool has no durability
+   1  Scraps to Steel: The Survivalist’s Armor Codex
+   1  Recycling Station
+   1  Munitions Workbench
+   1  Collapsed Munitions Workbench
+   1  All required tools are present
+   1  Propane
+   1  Stop
+   1  Refill
+   1  Units
+   1  Capacity
+   1  SIG Sauer P350
+   1  Remington 700
+   1  This map is missing one or more [ba8282]Trader[-] POIs.
+   1  Red
+   1  Green
+   1  Blue
+   1  Yellow
+   1  Purple
+   1  Gray
+   1  Transparent
+   1  T-Frame
+   1  Open Arc
+   1  Dot
+   1  Ring Cross
+   1  Clean Cross
+   1  Full Halo
+   1  Precision Core
+   1  Diamond Line
+   1  TriSight
+   1  Crosshair Shape
+   1  Crosshair color
+   1  The Breeding Pit by FNS
+   1  Ammunition Loot Multiplier
+   1  Scales the amount of the player's looted ammunition.
+   1  Damage Numbers
+   1  Toggles entity floating damage numbers
